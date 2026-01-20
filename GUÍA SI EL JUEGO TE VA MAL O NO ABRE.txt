@@ -1,0 +1,6 @@
+Si el juego te da lag o directamente no te abre porque te sale un error de cannot create GL context o no sé qué,
+prueba lo siguiente:
+1. Borra el archivo Game.exe (el icono de la pokéball) dentro de la carpeta del juego
+2. Métete en la carpeta GameOld dentro de la carpeta del juego
+3. Renombra el archivo GameOld.exe (un icono naranja) a Game.exe
+4. Mete ese nuevo Game.exe en la carpeta del juego donde estaba el antiguo Game.exe que borraste en el paso 1

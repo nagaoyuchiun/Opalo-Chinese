@@ -1,0 +1,189 @@
+﻿# Consulta la documentación de la wiki para aprender a modificar este archivo.
+0,POKEMONTRAINER_HombreMulato,Entrenador,60,BatallaAstrem.ogg,,,Male,,
+1,POKEMONTRAINER_MujerMulata,Entrenador,60,BatallaAstrem.ogg,,,Female,,
+2,POKEMONTRAINER_HombreArio,Prota Hombre,60,BatallaAstrem.ogg,,,Male,,
+3,POKEMONTRAINER_MujerAria,Prota Mujer,60,BatallaAstrem.ogg,,,Female,,
+4,POKEMONTRAINER_HombreNegro,Prota Hombre,60,BatallaAstrem.ogg,,,Male,,
+5,POKEMONTRAINER_MujerNegra,Prota Mujer,60,BatallaAstrem.ogg,,,Female,,
+6,Criadora,Criadora,60,,,Encuentro Femenino,Female,80,
+7,Enfermero,Enfermero,70,,,Encuentro Normal,Male,80,
+8,Enfermera,Enfermera,70,,,Encuentro Normal,Female,80,
+9,ReclutaGatling,Recluta Gatling,40,Team Gatling.ogg,Malvado.ogg,Encuentro Malvado,Male,
+10,ReclutaGatlinga,Recluta Gatling,40,Team Gatling.ogg,Malvado.ogg,Encuentro Malvado,Female,
+11,Operario,Operario,90,,,Encuentro tipo Duro,Male,70,
+12,Terrateniente,Terrateniente,90,,,Encuentro Tipo Duro,Male,100
+13,Forajido,Forajido,32,Entrenador.ogg,,Encuentro Tipo Duro.ogg,Male,60
+14,Colt1,Comandante Gatling,52,BatallaJefe.ogg,,,Male,150
+15,Lider1,Líder,90,Lider Gimnasio.ogg,Victoria Importante.ogg,,Male,200
+16,Cazarrecompensas,Cazarrecompensas,32,Entrenador.ogg,,Encuentro Tipo Duro.ogg,Male,80
+17,Mochilera,Mochilera,60,,,Encuentro Femenino,Female,90,
+18,Buscador,Buscafortuna,60,,,Encuentro Normal,Male,80
+19,Pescador,Pescador,70,,,Encuentro Normal,Male,80,
+20,ParejaTerrateniente,Pareja Terrateniente,60,,,Encuentro Normal,Female,100,
+21,Damisela,Damisela,70,,,Encuentro Femenino,Female,70,
+22,Pescadora,Pescadora,94,,,Encuentro Femenino.ogg,Female,80,
+23,Viajeros,Pareja Viajera,94,,,Encuentro Normal.ogg,Female,100,
+24,Lider2,Líder,90,Lider Gimnasio.ogg,Victoria Importante.ogg,,Female,200
+25,Mochilero,Mochilero,60,,,Encuentro Normal,Male,90,
+26,Mundanez2,Entrenador,62,Rival.ogg,,,Male,150
+27,Rangera,Vaquera,70,,,Encuentro Normal,Female,100,
+28,Ingeniera,Ingeniera,90,,,Encuentro Femenino,Female,120,
+29,Carabina,Teniente Gatling,80,BatallaJefe.ogg,,Encuentro Femenino,Female,150,
+30,Lider3,Líder,90,Lider Gimnasio.ogg,Victoria Importante.ogg,,Female,200
+31,Gala2,Entrenadora,80,Rival.ogg,,,Female,150
+32,Chaman,Chamán,95,,,Encuentro Mistico,Female,120,
+33,Oficinista,Oficinista,60,,,Encuentro Normal,Male,100,
+34,Oficinistaa,Oficinista,60,,,Encuentro Femenino,Female,100,
+35,Lider4,Líder,90,Lider Gimnasio.ogg,Victoria Importante.ogg,Encuentro Normal,Male,200,
+36,Fotografa,Fotógrafa,60,,,Encuentro Femenino,Female,90,
+37,Mundanez3,Entrenador,72,Rival.ogg,,,Male,150
+38,Bermellon,Entrenador,72,Rival.ogg,,,Male,150
+39,Sheriff,Sheriff,72,Entrenador.ogg,,Encuentro Tipo Duro.ogg,Male,120
+40,Lenador,Leñador,60,,,Encuentro Tipo Duro.ogg,Male,90,
+41,Ranger,Vaquero,60,,,Encuentro Normal,Male,100,
+42,Ariados,Pokémon Salvaje,90,Jefe Pokemon.ogg,Victoria Salvaje.ogg,Encuentro Normal,Female,,
+43,Lider5,Líder,90,Lider Gimnasio.ogg,Victoria Importante.ogg,Encuentro Normal,Female,200,
+44,Preso,Preso,60,,,Encuentro Tipo Duro.ogg,Male,90,
+45,Colt2,Comandante Gatling,72,BatallaJefe.ogg,,,Male,150
+46,Gala3,Entrenadora,80,Rival.ogg,,,Female,150
+47,Nativo,Nativo,60,,,Encuentro Normal,Male,100,
+48,Nativa,Nativa,60,,,Encuentro Femenino,Female,100,
+49,Gala1,Entrenadora,80,Rival.ogg,,,Female,150
+50,Criador,Criador,60,,,Encuentro Normal,Male,80,
+51,Conquistador,Conquistador,60,,,Encuentro Tipo Duro.ogg,Male,100,
+52,Wailord,Wailord,80,Jefe Pokemon.ogg,,Encuentro Tipo Duro.ogg,Male,,
+53,Ingeniero,Ingeniero,90,,,Encuentro Normal,Male,120,
+54,Lider6,Líder,90,Lider Gimnasio.ogg,Victoria Importante.ogg,Encuentro Normal,Male,200,
+55,DuoGatling,Reclutas Gatling,60,Team Gatling.ogg,Malvado.ogg,Encuentro Malvado,Male,
+56,Apolo1,Entrenador,95,BatallaApolo.ogg,,Encuentro Tipo Duro.ogg,Male,200,
+57,Payaso,Payaso,60,,,Encuentro Tipo Duro.ogg,Male,90,
+58,Mundanez4,Entrenador,72,Rival.ogg,,,Male,150
+59,Winchester,Comandante Gatling,72,BatallaJefe.ogg,,,Male,150
+60,Derringer1,Líder Gatling,72,BatallaDerringer.ogg,Victoria Importante.ogg,,Male,250
+61,Lider7,Líder,90,Lider Gimnasio.ogg,Victoria Importante.ogg,Encuentro Normal,Male,200,
+62,Cientifico,Científico,95,,,Encuentro Mistico,Female,120,
+63,Cientifica,Científica,95,,,Encuentro Mistico,Female,120,
+64,Artificiero,Artificiero Gatling,40,Team Gatling.ogg,Malvado.ogg,Encuentro Malvado,Male,
+65,Alguacil,Alguacil,72,Entrenador.ogg,,Encuentro Tipo Duro.ogg,Female,120
+66,Capitan,Capitán,72,Entrenador.ogg,,Encuentro Tipo Duro.ogg,Male,120
+67,Hombrenegro,Hombre de negro,72,Entrenador.ogg,,Encuentro Tipo Duro.ogg,Male,120
+68,Mustang,Presidente,52,BatallaPresidente.ogg,,,Male,150
+69,Explorador,Explorador,72,Entrenador.ogg,,Encuentro Tipo Duro.ogg,Male,120
+70,ApoloAliado,Entrenador,72,Entrenador.ogg,,Encuentro Tipo Duro.ogg,Male,200
+71,Tahur,Tahur,60,,,Encuentro Femenino,Female,150,
+72,Gala4,Entrenadora,80,Rival.ogg,,,Female,150
+73,Bebedor,Bebedor,72,Entrenador.ogg,,Encuentro Tipo Duro.ogg,Male,120
+74,Derringer2,Entrenador,72,BatallaDerringer.ogg,Victoria Importante.ogg,,Male,250
+75,Astrem,Pokémon,72,BatallaAstrem.ogg,,,Male,250
+76,Lider8,Líder,90,Lider Gimnasio.ogg,Victoria Importante.ogg,Encuentro Normal,Male,200,
+77,Remington1,Tipo misterioso,0,,,Encuentro Normal,Male,250,
+78,Remington2,Tipo misterioso,0,,,Encuentro Normal,Male,250,
+79,Remington3,Cofundador Gatling,0,BatallaJefe.ogg,,Encuentro Delibird,Male,250,
+80,Veterano,Veterano,72,Entrenador.ogg,,Encuentro Tipo Duro.ogg,Male,220
+81,Veterana,Veterana,72,Entrenador.ogg,,Encuentro Tipo Duro.ogg,Male,220
+82,GalaLiga,Aspirante,80,CombateLiga.ogg,,,Female,250
+83,MundanezLiga,Aspirante,72,CombateLiga.ogg,,,Male,250
+84,BermellonLiga,Aspirante,72,CombateLiga.ogg,,,Male,250
+85,Lider1Liga,Líder,72,CombateLiga.ogg,,,Male,250
+86,Lider2Liga,Líder,72,CombateLiga.ogg,,,Female,250
+87,Lider3Liga,Líder,72,CombateLiga.ogg,,,Female,250
+88,Lider4Liga,Líder,72,CombateLiga.ogg,,,Male,250
+89,Lider5Liga,Líder,72,CombateLiga.ogg,,,Female,250
+90,Lider6Liga,Líder,72,CombateLiga.ogg,,,Male,250
+91,Lider7Liga,Líder,72,CombateLiga.ogg,,,Female,250
+92,Lider8Liga,Líder,72,CombateLiga.ogg,,,Male,250
+93,Siseante,Clan Siseante,40,BatallaSiseante.ogg,Malvado.ogg,Encuentro Malvado.ogg,Male,
+94,Siseanta,Clan Siseante,40,BatallaSiseante.ogg,Malvado.ogg,Encuentro Malvado.ogg,Female,
+95,Ebano,Campeón,72,CombateLiga.ogg,,,Male,250
+96,EbanoFinal,Campeón,72,CombateCampeon.ogg,VictoriaLiga.ogg,,Male,250
+97,Vera,Periodista,72,Rival.ogg,,Encuentro Tipo Duro.ogg,Female,220
+98,Alma,Alma en pena,72,Entrenador.ogg,,Encuentro Tipo Duro.ogg,Male,220
+99,Brujita,Brujita,95,,,Encuentro Mistico,Female,120,
+100,Amish,Amish,72,Entrenador.ogg,,Encuentro Tipo Duro.ogg,Male,220
+101,Adian1,Entrenador,72,BatallaAdian.ogg,Victoria Importante.ogg,,Male,250
+102,ParejaAmish,Pareja Amish,60,,,Encuentro Normal,Female,100,
+103,IxiaAliada,Entrenadora,60,,,Encuentro Normal,Female,250,
+104,Lider9,Líder,90,Lider Gimnasio.ogg,Victoria Importante.ogg,Encuentro Normal,Female,200,
+105,Esclavo,Esclavo Mental,72,Entrenador.ogg,,Encuentro Tipo Duro.ogg,Male,120
+106,Esclava,Esclava Mental,72,Entrenador.ogg,,Encuentro Tipo Duro.ogg,Female,120
+107,Lider10,Líder,90,Lider Gimnasio.ogg,Victoria Importante.ogg,Encuentro Normal,Female,200,
+108,DuoEsclavo,Esclavos Mentales,72,Entrenador.ogg,,Encuentro Tipo Duro.ogg,Female,120
+109,Loto,Papa,90,BatallaLoto.ogg,Victoria Importante.ogg,Encuentro Normal,Male,200,
+110,Minera,Minera,72,Entrenador.ogg,,Encuentro Tipo Duro.ogg,Female,120
+111,Minero,Minero,72,Entrenador.ogg,,Encuentro Tipo Duro.ogg,Male,120
+112,Adian2,Entrenador,72,BatallaAdian.ogg,Victoria Importante.ogg,,Male,250
+113,Lider11,Líder,90,Lider Gimnasio.ogg,Victoria Importante.ogg,Encuentro Normal,Female,200,
+114,NinoMalvado,Niño Escalofriante,72,Entrenador.ogg,,Encuentro Tipo Duro.ogg,Male,120
+115,NinaMalvada,Niña Escalofriante,72,Entrenador.ogg,,Encuentro Tipo Duro.ogg,Female,120
+116,BrujaSuprema,Bruja Suprema,72,Entrenador.ogg,,Encuentro Tipo Duro.ogg,Female,120
+117,DuoCazarrecompensas,Duo Cazarrecompensas,32,Entrenador.ogg,,Encuentro Tipo Duro.ogg,Male,80
+118,DuoForajido,Duo Criminal,94,,,Encuentro Normal.ogg,Female,100,
+119,GalaAliada,Entrenadora,80,Rival.ogg,,,Female,150
+120,Amaranta,Matriarca,90,CombateLiga.ogg,,Encuentro Normal,Female,200,
+121,Lider12,Líder,90,Lider Gimnasio.ogg,Victoria Importante.ogg,Encuentro Normal,Male,200,
+122,Motorista,Motorista,32,Entrenador.ogg,,Encuentro Tipo Duro.ogg,Male,50
+123,Reptador,Clan Reptador,32,Entrenador.ogg,,Encuentro Tipo Duro.ogg,Male,120
+124,Reptadora,Clan Reptador,32,Entrenador.ogg,,Encuentro Tipo Duro.ogg,Female,120
+125,Lider13,Líder,90,Lider Gimnasio.ogg,Victoria Importante.ogg,Encuentro Normal,Male,200,
+126,Militara,Militara,32,,,Encuentro Malvado.ogg,Female,100
+127,Militar,Militar,32,,,Encuentro Malvado.ogg,Male,100
+128,Actriz,Actriz,60,,,Encuentro Femenino,Female,90,
+129,Pacificador,Pacificador,32,BatallaPacificadores.ogg,,Encuentro Malvado.ogg,Male,250
+130,DuoMotorista,Dúo Motorista,32,Entrenador.ogg,,Encuentro Tipo Duro.ogg,Male,50
+131,GalaAliada2,Entrenadora,100,Rival.ogg,,,Female,150
+132,ApoloAliado2,Entrenador,95,BatallaApolo2.ogg,,Encuentro Tipo Duro.ogg,Male,250,
+133,Sacerdote,Sacerdote Siseante,95,BatallaSiseante.ogg,Malvado.ogg,Encuentro Malvado.ogg,Male,250,
+134,Sacerdota,Sacerdotisa Siseante,95,BatallaSiseante.ogg,Malvado.ogg,Encuentro Malvado.ogg,Male,250,
+135,Avatar,Avatar,95,BatallaGuardian.ogg,Malvado.ogg,Encuentro Malvado.ogg,Male,250
+136,Leopold,Padre,32,Entrenador.ogg,,Encuentro Normal.ogg,Male,100
+137,Giovanni,Líder Criminal,52,BatallaPresidente.ogg,,,Male,150
+138,Doppelganger,Ego,52,,,,Male,150
+139,Trotador,Clan Trotador,32,Entrenador.ogg,,Encuentro Mistico.ogg,Male,100
+140,Trotadora,Clan Trotador,32,Entrenador.ogg,,Encuentro Mistico.ogg,Female,100
+141,Curcu,Líder Dojo,72,CombateLiga.ogg,,,Male,250
+142,ReclutaVolcanic,Recluta Volcanic,40,Team Gatling.ogg,Malvado.ogg,Encuentro Malvado,Male,
+143,Cayena,Líder Volcanic,72,BatallaDerringer.ogg,Victoria Importante.ogg,,Male,250
+144,ApoloUnktena,Visión de,95,BatallaApolo2.ogg,,Encuentro Tipo Duro.ogg,Male,250,
+145,Lider14,Líder,90,Lider Gimnasio.ogg,Victoria Importante.ogg,Encuentro Normal,Male,200,
+146,DuoSacerdote,Sacerdotes Siseante,95,BatallaSiseante.ogg,Malvado.ogg,Encuentro Malvado.ogg,Male,250,
+147,Lider15,Líder Siseante,95,BatallaZalea.ogg,Victoria Importante.ogg,Encuentro Malvado.ogg,Male,250,
+148,Lider16,Entrenador,72,BatallaAdian2.ogg,Victoria Importante.ogg,,Male,250
+149,DuoPacificador,Pacificadores,32,BatallaPacificadores.ogg,,Encuentro Pacificador.ogg,Male,250
+150,AdianAliado,Entrenador,72,BatallaAdian.ogg,Victoria Importante.ogg,,Male,250
+151,Loto2,Custodio Eterno,95,CombateLiga2.ogg,,Encuentro Malvado.ogg,Male,250,
+152,Amaranta2,Custodio Eterno,95,CombateLiga2.ogg,,Encuentro Malvado.ogg,Male,250,
+153,Cayena2,Custodio Eterno,95,CombateLiga2.ogg,,Encuentro Malvado.ogg,Male,250,
+154,Platero,Custodio Eterno,95,CombateLiga2.ogg,,Encuentro Malvado.ogg,Male,250,
+155,GranEspiritu,Gran,95,BatallaGuardian.ogg,Victoria Importante.ogg,Encuentro Malvado.ogg,Male,250,
+156,Militares,Militares,32,,,Encuentro Normal.ogg,Male,100
+157,Genista,Capitana,95,CombateLiga2.ogg,,Encuentro Malvado.ogg,Female,250,
+158,ApoloFinal,Presidente,95,BatallaApolo3.ogg,Victoria Apolo.ogg,Encuentro Malvado.ogg,Male,250,
+159,Unktena,Devoramundos,95,,Victoria Apolo.ogg,Encuentro Malvado.ogg,Female,250,
+160,Lider1Revancha,Líder,95,CombateLiga.ogg,Victoria Importante.ogg,Encuentro Malvado.ogg,Male,250,
+161,Lider2Revancha,Líder,95,CombateLiga.ogg,Victoria Importante.ogg,Encuentro Malvado.ogg,Female,250,
+162,Lider3Revancha,Líder,95,CombateLiga.ogg,Victoria Importante.ogg,Encuentro Malvado.ogg,Female,250,
+163,Lider4Revancha,Líder,95,CombateLiga.ogg,Victoria Importante.ogg,Encuentro Malvado.ogg,Male,250,
+164,Lider5Revancha,Líder,95,CombateLiga.ogg,Victoria Importante.ogg,Encuentro Malvado.ogg,Female,250,
+165,Lider6Revancha,Líder,95,CombateLiga.ogg,Victoria Importante.ogg,Encuentro Malvado.ogg,Male,250,
+166,Lider7Revancha,Líder,95,CombateLiga.ogg,Victoria Importante.ogg,Encuentro Malvado.ogg,Female,250,
+167,Lider8Revancha,Líder,95,CombateLiga.ogg,Victoria Importante.ogg,Encuentro Malvado.ogg,Male,250,
+168,Lider9Revancha,Líder,95,CombateLiga.ogg,Victoria Importante.ogg,Encuentro Malvado.ogg,Female,250,
+169,Lider10Revancha,Líder,95,CombateLiga.ogg,Victoria Importante.ogg,Encuentro Malvado.ogg,Female,250,
+170,Lider11Revancha,Líder,95,CombateLiga.ogg,Victoria Importante.ogg,Encuentro Malvado.ogg,Female,250,
+171,Lider12Revancha,Líder,95,CombateLiga.ogg,Victoria Importante.ogg,Encuentro Malvado.ogg,Male,250,
+172,Lider13Revancha,Líder,95,CombateLiga.ogg,Victoria Importante.ogg,Encuentro Malvado.ogg,Male,250,
+173,Lider14Revancha,Líder,95,CombateLiga.ogg,Victoria Importante.ogg,Encuentro Malvado.ogg,Male,250,
+174,Lider15Revancha,Líder,95,BatallaZalea.ogg,Victoria Importante.ogg,Encuentro Malvado.ogg,Female,250,
+175,Lider16Revancha,Líder,95,BatallaAdian2.ogg,Victoria Importante.ogg,Encuentro Malvado.ogg,Male,250,
+176,GalaRevancha,Entrenadora,95,CombateLiga.ogg,Victoria Importante.ogg,Encuentro Malvado.ogg,Female,250,
+177,MundanezRevancha,Entrenador,95,CombateLiga.ogg,Victoria Importante.ogg,Encuentro Malvado.ogg,Male,250,
+178,BermellonRevancha,Entrenador,95,CombateLiga.ogg,Victoria Importante.ogg,Encuentro Malvado.ogg,Male,250,
+179,EbanoRevancha,Entrenador,95,CombateCampeon.ogg,Victoria Importante.ogg,Encuentro Malvado.ogg,Male,250,
+180,ColtMeson,As del Mesón,95,BatallaDerringer.ogg,Victoria Importante.ogg,Encuentro Malvado.ogg,Male,250,
+181,CarabinaMeson,As del Mesón,95,BatallaDerringer.ogg,Victoria Importante.ogg,Encuentro Malvado.ogg,Male,250,
+182,Rojo,Viejo,95,CombateRojo.ogg,Victoria Importante.ogg,Encuentro Malvado.ogg,Male,250,
+183,GalaAliada3,Entrenadora,100,Rival.ogg,,,Female,150
+184,GalaAliada4,Entrenadora,100,Rival.ogg,,,Female,150
+185,GalaAliada5,Entrenadora,100,Rival.ogg,,,Female,150
+186,Eric,Creador,72,BatallaDerringer.ogg,Victoria Importante.ogg,,Male,250
+187,Princesa,Dama Mesón,70,,,Encuentro Normal,Female,100,

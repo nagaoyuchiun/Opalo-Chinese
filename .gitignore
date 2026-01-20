@@ -1,0 +1,53 @@
+# ============================================
+# Pokémon Opalo 中文化專案 - Git 忽略規則
+# ============================================
+
+# ----- 大型遊戲資源 (不需要版控) -----
+Audio/
+Graphics/
+
+# ----- 原始遊戲二進制檔案 -----
+Data/*.rxdata
+Data/*.dat
+!Data/.gitkeep
+
+# ----- 遊戲執行檔和 DLL -----
+*.exe
+*.dll
+
+# ----- Python 暫存 -----
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+
+# ----- 編輯器暫存 -----
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# ----- 系統檔案 -----
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ----- 日誌檔案 -----
+*.log
+debuglog.txt
+
+# ----- 備份檔案 -----
+*.bak
+*.backup
+*.orig
+
+# ----- 暫存的翻譯進度 (可選) -----
+# localization/translations/*.tmp
+
+# ----- PDF 說明文件 (可選擇保留或忽略) -----
+*.pdf
