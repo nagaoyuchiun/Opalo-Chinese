@@ -1,0 +1,100 @@
+{
+    "active": false,
+    "mode": "normal",
+    "startedAt": null,
+    "currentPhase": null,
+    "currentTask": null,
+    "currentIteration": 0,
+    "maxIterations": 100,
+    "completionPromise": "ALL_DONE",
+    "completedTasks": [],
+    "pendingTasks": [
+        {
+            "id": "phase1-task1",
+            "name": "建立文字提取工具",
+            "status": "pending"
+        },
+        {
+            "id": "phase1-task2",
+            "name": "建立重新打包工具",
+            "status": "pending"
+        },
+        {
+            "id": "phase1-task3",
+            "name": "建立部署工具",
+            "status": "pending"
+        },
+        {
+            "id": "phase2-task1",
+            "name": "提取 messages.dat",
+            "status": "pending"
+        },
+        {
+            "id": "phase2-task2",
+            "name": "提取 trainers.dat",
+            "status": "pending"
+        },
+        {
+            "id": "phase2-task3",
+            "name": "處理 PBS 檔案",
+            "status": "pending"
+        },
+        {
+            "id": "phase3-task1",
+            "name": "建立術語對照表",
+            "status": "pending"
+        },
+        {
+            "id": "phase3-task2",
+            "name": "翻譯 messages.json",
+            "status": "pending"
+        },
+        {
+            "id": "phase3-task3",
+            "name": "翻譯 PBS 檔案",
+            "status": "pending"
+        },
+        {
+            "id": "phase3-task4",
+            "name": "人工校對",
+            "status": "pending"
+        },
+        {
+            "id": "phase4-task1",
+            "name": "取得中文字型",
+            "status": "pending"
+        },
+        {
+            "id": "phase4-task2",
+            "name": "替換遊戲字型",
+            "status": "pending"
+        },
+        {
+            "id": "phase4-task3",
+            "name": "測試字型顯示",
+            "status": "pending"
+        },
+        {
+            "id": "phase5-task1",
+            "name": "建立打包工具",
+            "status": "pending"
+        },
+        {
+            "id": "phase5-task2",
+            "name": "建立安裝器",
+            "status": "pending"
+        },
+        {
+            "id": "phase5-task3",
+            "name": "打包 EXE",
+            "status": "pending"
+        },
+        {
+            "id": "phase5-task4",
+            "name": "測試完整流程",
+            "status": "pending"
+        }
+    ],
+    "lastError": null,
+    "lastCheckpoint": "2026-01-21T01:53:00Z"
+}
