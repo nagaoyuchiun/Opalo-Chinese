@@ -1,0 +1,5060 @@
+{
+  "metadata": {
+    "source_file": "PBS/moves.txt",
+    "file_type": "moves",
+    "total_entries": 631,
+    "source_language": "es",
+    "target_language": "zh-TW",
+    "extraction_version": "2.0"
+  },
+  "entries": [
+    {
+      "line_number": 1,
+      "internal_name": "MEGAHORN",
+      "fields": {
+        "display_name": "Megacuerno",
+        "description": "Violenta embestida con cuernos imponentes."
+      }
+    },
+    {
+      "line_number": 2,
+      "internal_name": "ATTACKORDER",
+      "fields": {
+        "display_name": "Al Ataque",
+        "description": "El usuario llama a sus amigos para que ataquen al rival. Suele ser crítico."
+      }
+    },
+    {
+      "line_number": 3,
+      "internal_name": "BUGBUZZ",
+      "fields": {
+        "display_name": "Zumbido",
+        "description": "El movimiento de las alas crea una onda sónica dañina. También puede disminuir la Defensa Especial del objetivo."
+      }
+    },
+    {
+      "line_number": 4,
+      "internal_name": "XSCISSOR",
+      "fields": {
+        "display_name": "Tijera X",
+        "description": "Cruza las guadañas o las garras para atacar al rival como si fueran unas tijeras."
+      }
+    },
+    {
+      "line_number": 5,
+      "internal_name": "SIGNALBEAM",
+      "fields": {
+        "display_name": "Doble Rayo",
+        "description": "Ataca con un rayo de luz siniestro. Puede confundir al objetivo."
+      }
+    },
+    {
+      "line_number": 6,
+      "internal_name": "UTURN",
+      "fields": {
+        "display_name": "Ida y Vuelta",
+        "description": "Tras atacar, vuelve a toda prisa para dar paso a otro Pokémon del equipo."
+      }
+    },
+    {
+      "line_number": 7,
+      "internal_name": "STEAMROLLER",
+      "fields": {
+        "display_name": "Rodillo Púas",
+        "description": "El usuario se hace una bola y arrolla al objetivo con su cuerpo. Puede hacerlo retroceder."
+      }
+    },
+    {
+      "line_number": 8,
+      "internal_name": "BUGBITE",
+      "fields": {
+        "display_name": "Picadura",
+        "description": "Pica al rival. Si el adversario lleva una Baya, el agresor se la come y se beneficia de su efecto."
+      }
+    },
+    {
+      "line_number": 9,
+      "internal_name": "SILVERWIND",
+      "fields": {
+        "display_name": "Viento Plata",
+        "description": "Fuerte viento con polvo de escamas. Puede subir todas las características de quien lo usa."
+      }
+    },
+    {
+      "line_number": 10,
+      "internal_name": "STRUGGLEBUG",
+      "fields": {
+        "display_name": "Estoicismo",
+        "description": "El usuario contraataca. Además baja el Ataque Especial de los oponentes."
+      }
+    },
+    {
+      "line_number": 11,
+      "internal_name": "TWINEEDLE",
+      "fields": {
+        "display_name": "Dobleataque",
+        "description": "Clava aguijones al rival dos veces. Puede envenenar."
+      }
+    },
+    {
+      "line_number": 12,
+      "internal_name": "FURYCUTTER",
+      "fields": {
+        "display_name": "Cortefuria",
+        "description": "Ataque con garras o guadaña que crece en intensidad si se usa repetidas veces."
+      }
+    },
+    {
+      "line_number": 13,
+      "internal_name": "LEECHLIFE",
+      "fields": {
+        "display_name": "Chupavidas",
+        "description": "Restaura al usuario la mitad del daño causado al objetivo."
+      }
+    },
+    {
+      "line_number": 14,
+      "internal_name": "PINMISSILE",
+      "fields": {
+        "display_name": "Pin Misil",
+        "description": "Lanza finas púas que hieren de dos a cinco veces."
+      }
+    },
+    {
+      "line_number": 15,
+      "internal_name": "DEFENDORDER",
+      "fields": {
+        "display_name": "A Defender",
+        "description": "Smart"
+      }
+    },
+    {
+      "line_number": 16,
+      "internal_name": "HEALORDER",
+      "fields": {
+        "display_name": "Auxilio",
+        "description": "Smart"
+      }
+    },
+    {
+      "line_number": 17,
+      "internal_name": "QUIVERDANCE",
+      "fields": {
+        "display_name": "Danza Aleteo",
+        "description": "Danza mística que sube el Ataque Especial, la Defensa Especial y la Velocidad."
+      }
+    },
+    {
+      "line_number": 18,
+      "internal_name": "RAGEPOWDER",
+      "fields": {
+        "display_name": "Polvo Ira",
+        "description": "Beauty"
+      }
+    },
+    {
+      "line_number": 19,
+      "internal_name": "SPIDERWEB",
+      "fields": {
+        "display_name": "Telaraña",
+        "description": "Enreda al objetivo para evitar que abandone la batalla."
+      }
+    },
+    {
+      "line_number": 20,
+      "internal_name": "STRINGSHOT",
+      "fields": {
+        "display_name": "Disp. Demora",
+        "description": "Lanza seda al objetivo y reduce su Velocidad."
+      }
+    },
+    {
+      "line_number": 21,
+      "internal_name": "TAILGLOW",
+      "fields": {
+        "display_name": "Ráfaga",
+        "description": "Se concentra en una ráfaga de luz que sube muchísimo el Ataque Especial."
+      }
+    },
+    {
+      "line_number": 22,
+      "internal_name": "FOULPLAY",
+      "fields": {
+        "display_name": "Juego Sucio",
+        "description": "El usuario emplea la fuerza del objetivo para atacarlo. Cuanto mayor es el atq. del objetivo, más daño provoca."
+      }
+    },
+    {
+      "line_number": 23,
+      "internal_name": "NIGHTDAZE",
+      "fields": {
+        "display_name": "Pulso Noche",
+        "description": "Ataca al objetivo con una onda siniestra. Puede bajar su Precisión."
+      }
+    },
+    {
+      "line_number": 24,
+      "internal_name": "CRUNCH",
+      "fields": {
+        "display_name": "Triturar",
+        "description": "Tritura con afilados colmillos y puede bajar la Defensa del objetivo."
+      }
+    },
+    {
+      "line_number": 25,
+      "internal_name": "DARKPULSE",
+      "fields": {
+        "display_name": "Pulso Umbrío",
+        "description": "Libera una horrible aura llena de malos pensamientos y puede hacer retroceder al objetivo."
+      }
+    },
+    {
+      "line_number": 26,
+      "internal_name": "SUCKERPUNCH",
+      "fields": {
+        "display_name": "Golpe Bajo",
+        "description": "Permite atacar primero. Falla si el objetivo no está preparando ningún ataque."
+      }
+    },
+    {
+      "line_number": 27,
+      "internal_name": "NIGHTSLASH",
+      "fields": {
+        "display_name": "Tajo Umbrio",
+        "description": "Ataca al objetivo a la primera oportunidad. Suele ser crítico."
+      }
+    },
+    {
+      "line_number": 28,
+      "internal_name": "BITE",
+      "fields": {
+        "display_name": "Mordisco",
+        "description": "Un voraz bocado que puede hacer retroceder al objetivo."
+      }
+    },
+    {
+      "line_number": 29,
+      "internal_name": "FAINTATTACK",
+      "fields": {
+        "display_name": "Finta",
+        "description": "Engaña al objetivo para acercarse y dar un puñetazo que no falla."
+      }
+    },
+    {
+      "line_number": 30,
+      "internal_name": "SNARL",
+      "fields": {
+        "display_name": "Alarido",
+        "description": "Ataca lanzando un chillido insoportable que baja el Ataque Especial de los objetivos."
+      }
+    },
+    {
+      "line_number": 31,
+      "internal_name": "ASSURANCE",
+      "fields": {
+        "display_name": "Buena Baza",
+        "description": "Si el objetivo ya ha sufrido daño en ese turno, la fuerza del ataque se duplica."
+      }
+    },
+    {
+      "line_number": 32,
+      "internal_name": "PAYBACK",
+      "fields": {
+        "display_name": "Vendetta",
+        "description": "El usuario contraataca con el doble de fuerza si el objetivo usa un movimiento antes."
+      }
+    },
+    {
+      "line_number": 33,
+      "internal_name": "PURSUIT",
+      "fields": {
+        "display_name": "Persecución",
+        "description": "Hace el doble de daño al objetivo que pide el relevo."
+      }
+    },
+    {
+      "line_number": 34,
+      "internal_name": "THIEF",
+      "fields": {
+        "display_name": "Ladrón",
+        "description": "Ataca y le quita al objetivo el objeto que lleve. Si el agresor lleva un objeto"
+      }
+    },
+    {
+      "line_number": 35,
+      "internal_name": "KNOCKOFF",
+      "fields": {
+        "display_name": "Desarme",
+        "description": "Impide al objetivo usar el objeto que lleva durante el combate."
+      }
+    },
+    {
+      "line_number": 36,
+      "internal_name": "BEATUP",
+      "fields": {
+        "display_name": "Paliza",
+        "description": "Ataque de todo el equipo Pokémon. Cuantos más haya, más veces ataca."
+      }
+    },
+    {
+      "line_number": 37,
+      "internal_name": "FLING",
+      "fields": {
+        "display_name": "Lanzamiento",
+        "description": "Lanza contra el objetivo el objeto que lleva. La fuerza del ataque y su efecto varían según el objeto."
+      }
+    },
+    {
+      "line_number": 38,
+      "internal_name": "PUNISHMENT",
+      "fields": {
+        "display_name": "Castigo",
+        "description": "La fuerza del ataque aumenta cuanto más se ha fortalecido el rival con cambios de características."
+      }
+    },
+    {
+      "line_number": 39,
+      "internal_name": "DARKVOID",
+      "fields": {
+        "display_name": "Brecha Negra",
+        "description": "El objetivo es enviado a un mundo de tinieblas que lo hace dormir."
+      }
+    },
+    {
+      "line_number": 40,
+      "internal_name": "EMBARGO",
+      "fields": {
+        "display_name": "Embargo",
+        "description": "Impide al objetivo usar el objeto que lleva. Su Entrenador tampoco puede usar objetos sobre él."
+      }
+    },
+    {
+      "line_number": 41,
+      "internal_name": "FAKETEARS",
+      "fields": {
+        "display_name": "Llanto Falso",
+        "description": "Lágrimas de cocodrilo que bajan mucho la Defensa Especial del objetivo."
+      }
+    },
+    {
+      "line_number": 42,
+      "internal_name": "FLATTER",
+      "fields": {
+        "display_name": "Camelo",
+        "description": "Halaga al objetivo y lo confunde, pero también sube su Ataque Especial.."
+      }
+    },
+    {
+      "line_number": 43,
+      "internal_name": "HONECLAWS",
+      "fields": {
+        "display_name": "Afilagarras",
+        "description": "El usuario se afila las garras para aumentar su Ataque y Precisión."
+      }
+    },
+    {
+      "line_number": 44,
+      "internal_name": "MEMENTO",
+      "fields": {
+        "display_name": "Legado",
+        "description": "El usuario se debilita, pero baja mucho tanto el Ataque como el Ataque Especial del objetivo."
+      }
+    },
+    {
+      "line_number": 45,
+      "internal_name": "NASTYPLOT",
+      "fields": {
+        "display_name": "Maquinación",
+        "description": "Estimula su cerebro pensando en cosas malas. Aumenta considerablemente el Ataque Especial."
+      }
+    },
+    {
+      "line_number": 46,
+      "internal_name": "QUASH",
+      "fields": {
+        "display_name": "Último Lugar",
+        "description": "El usuario intimida a su objetivo logrando que su movimiento sea el último del turno."
+      }
+    },
+    {
+      "line_number": 47,
+      "internal_name": "SNATCH",
+      "fields": {
+        "display_name": "Robo",
+        "description": "Roba el efecto de movimientos de curación o de cambio de características que intente usar un combatiente."
+      }
+    },
+    {
+      "line_number": 48,
+      "internal_name": "SWITCHEROO",
+      "fields": {
+        "display_name": "Trapicheo",
+        "description": "Intercambia con el objetivo los objetos que llevan tan rápido que es imposible verlo a simple vista."
+      }
+    },
+    {
+      "line_number": 49,
+      "internal_name": "TAUNT",
+      "fields": {
+        "display_name": "Mofa",
+        "description": "Enfurece al objetivo para que solo use movimientos de ataque durante tres turnos."
+      }
+    },
+    {
+      "line_number": 50,
+      "internal_name": "TORMENT",
+      "fields": {
+        "display_name": "Tormento",
+        "description": "Atormenta y enfurece al objetivo, que no puede usar dos veces seguidas el mismo movimiento."
+      }
+    },
+    {
+      "line_number": 51,
+      "internal_name": "ROAROFTIME",
+      "fields": {
+        "display_name": "Distorción",
+        "description": "Ataca al objetivo usando tal energía que el tiempo se distorsiona. El usuario descansa el siguiente turno."
+      }
+    },
+    {
+      "line_number": 52,
+      "internal_name": "DRACOMETEOR",
+      "fields": {
+        "display_name": "Cometa Draco",
+        "description": "Hace que grandes cometas caigan del cielo. Baja mucho el Ataque Especial de quien lo usa"
+      }
+    },
+    {
+      "line_number": 53,
+      "internal_name": "OUTRAGE",
+      "fields": {
+        "display_name": "Enfado",
+        "description": "Ataca de dos a tres turnos y acaba confundiendo al agresor."
+      }
+    },
+    {
+      "line_number": 54,
+      "internal_name": "DRAGONRUSH",
+      "fields": {
+        "display_name": "Carga Dragón",
+        "description": "Ataca de forma brutal mientras intimida al objetivo. También puede hacerlo retroceder."
+      }
+    },
+    {
+      "line_number": 55,
+      "internal_name": "SPACIALREND",
+      "fields": {
+        "display_name": "Corte Vacío",
+        "description": "Desgarra al objetivo y el espacio a su alrededor. Suele ser crítico."
+      }
+    },
+    {
+      "line_number": 56,
+      "internal_name": "DRAGONPULSE",
+      "fields": {
+        "display_name": "Pulso Dragón",
+        "description": "Abre mucho la boca y libera una onda de choque que ataca al objetivo."
+      }
+    },
+    {
+      "line_number": 57,
+      "internal_name": "DRAGONCLAW",
+      "fields": {
+        "display_name": "Garra Dragón",
+        "description": "Araña al objetivo con garras afiladas."
+      }
+    },
+    {
+      "line_number": 58,
+      "internal_name": "DRAGONTAIL",
+      "fields": {
+        "display_name": "Cola Dragón",
+        "description": "Ataca al objetivo y lo obliga a cambiarse por otro Pokémon. Si es uno salvaje, acaba el combate."
+      }
+    },
+    {
+      "line_number": 59,
+      "internal_name": "DRAGONBREATH",
+      "fields": {
+        "display_name": "Dragoaliento",
+        "description": "Poderosa ráfaga de aliento que golpea al objetivo y puede paralizarlo."
+      }
+    },
+    {
+      "line_number": 60,
+      "internal_name": "DUALCHOP",
+      "fields": {
+        "display_name": "Golpe Bis",
+        "description": "Golpea dos veces seguidas con la cola u otras partes de su cuerpo."
+      }
+    },
+    {
+      "line_number": 61,
+      "internal_name": "TWISTER",
+      "fields": {
+        "display_name": "Ciclón",
+        "description": "Crea un violento tornado para hacer trizas al rival. Puede hacerle retroceder."
+      }
+    },
+    {
+      "line_number": 62,
+      "internal_name": "DRAGONRAGE",
+      "fields": {
+        "display_name": "Furia Dragón",
+        "description": "Ráfaga de furiosas ondas de choque que quitan 40 PS."
+      }
+    },
+    {
+      "line_number": 63,
+      "internal_name": "DRAGONDANCE",
+      "fields": {
+        "display_name": "Danza Dragón",
+        "description": "Danza mística que sube el Ataque y la Velocidad."
+      }
+    },
+    {
+      "line_number": 64,
+      "internal_name": "BOLTSTRIKE",
+      "fields": {
+        "display_name": "At. Fulgor",
+        "description": "Ataca envolviéndose de una gran carga eléctrica y embistiendo al objetivo con ella. Puede paralizar."
+      }
+    },
+    {
+      "line_number": 65,
+      "internal_name": "THUNDER",
+      "fields": {
+        "display_name": "Trueno",
+        "description": "Un poderoso rayo que daña al objetivo y puede paralizarlo."
+      }
+    },
+    {
+      "line_number": 66,
+      "internal_name": "VOLTTACKLE",
+      "fields": {
+        "display_name": "Placaje Eléc.",
+        "description": "Placaje de alto riesgo que hiere también al atacante."
+      }
+    },
+    {
+      "line_number": 67,
+      "internal_name": "ZAPCANNON",
+      "fields": {
+        "display_name": "Electrocañón",
+        "description": "Dispara una descarga eléctrica que causa daño y parálisis."
+      }
+    },
+    {
+      "line_number": 68,
+      "internal_name": "FUSIONBOLT",
+      "fields": {
+        "display_name": "Rayo Fusión",
+        "description": "Ataca con una enorme descarga eléctrica. Aumenta su potencia si es influenciada por una gigantesca llamarada."
+      }
+    },
+    {
+      "line_number": 69,
+      "internal_name": "THUNDERBOLT",
+      "fields": {
+        "display_name": "Rayo",
+        "description": "Potente ataque eléctrico que puede paralizar al objetivo."
+      }
+    },
+    {
+      "line_number": 70,
+      "internal_name": "WILDCHARGE",
+      "fields": {
+        "display_name": "Voltio Cruel",
+        "description": "Carga eléctrica muy potente que también hiere ligeramente a quien la usa."
+      }
+    },
+    {
+      "line_number": 71,
+      "internal_name": "DISCHARGE",
+      "fields": {
+        "display_name": "Chispazo",
+        "description": "Una deslumbradora onda eléctrica afecta a los demás Pokémon del combate. Puede paralizar."
+      }
+    },
+    {
+      "line_number": 72,
+      "internal_name": "THUNDERPUNCH",
+      "fields": {
+        "display_name": "Puño Trueno",
+        "description": "Puñetazo eléctrico. Puede paralizar."
+      }
+    },
+    {
+      "line_number": 73,
+      "internal_name": "VOLTSWITCH",
+      "fields": {
+        "display_name": "Voltiocambio",
+        "description": "Tras atacar, vuelve a toda prisa para dar paso a otro Pokémon del equipo."
+      }
+    },
+    {
+      "line_number": 74,
+      "internal_name": "SPARK",
+      "fields": {
+        "display_name": "Chispa",
+        "description": "Ataque eléctrico que puede llegar a paralizar."
+      }
+    },
+    {
+      "line_number": 75,
+      "internal_name": "THUNDERFANG",
+      "fields": {
+        "display_name": "Colm. Rayo",
+        "description": "Usa colmillos electrificados para morder. Puede hacer que el rival retroceda o se paralice."
+      }
+    },
+    {
+      "line_number": 76,
+      "internal_name": "SHOCKWAVE",
+      "fields": {
+        "display_name": "Onda Voltio",
+        "description": "Ataque eléctrico muy rápido e ineludible."
+      }
+    },
+    {
+      "line_number": 77,
+      "internal_name": "ELECTROWEB",
+      "fields": {
+        "display_name": "Electrotela",
+        "description": "Atrapa y ataca a los objetivos con una telaraña eléctrica. También reduce su Velocidad."
+      }
+    },
+    {
+      "line_number": 78,
+      "internal_name": "CHARGEBEAM",
+      "fields": {
+        "display_name": "Rayo Carga",
+        "description": "Lanza un rayo eléctrico contra el rival. Puede subir el Ataque Especial de quien lo usa."
+      }
+    },
+    {
+      "line_number": 79,
+      "internal_name": "THUNDERSHOCK",
+      "fields": {
+        "display_name": "Impactrueno",
+        "description": "Ataque eléctrico que puede paralizar al objetivo."
+      }
+    },
+    {
+      "line_number": 80,
+      "internal_name": "ELECTROBALL",
+      "fields": {
+        "display_name": "Bola Voltio",
+        "description": "Lanza una bola eléctrica. Cuanto mayor Velocidad del usuario, mayor será el daño causado."
+      }
+    },
+    {
+      "line_number": 81,
+      "internal_name": "CHARGE",
+      "fields": {
+        "display_name": "Carga",
+        "description": "Recarga energía para potenciar el siguiente movimiento Eléctrico. También sube la Def. Esp."
+      }
+    },
+    {
+      "line_number": 82,
+      "internal_name": "MAGNETRISE",
+      "fields": {
+        "display_name": "Levitón",
+        "description": "Levita gracias a un campo magnético generado por electricidad durante cinco turnos."
+      }
+    },
+    {
+      "line_number": 83,
+      "internal_name": "THUNDERWAVE",
+      "fields": {
+        "display_name": "Onda Trueno",
+        "description": "Una ligera descarga que paraliza al objetivo si lo alcanza."
+      }
+    },
+    {
+      "line_number": 84,
+      "internal_name": "FOCUSPUNCH",
+      "fields": {
+        "display_name": "Puño Certero",
+        "description": "Se concentra para dar un puñetazo. Falla si se sufre un golpe antes de su uso."
+      }
+    },
+    {
+      "line_number": 85,
+      "internal_name": "HIJUMPKICK",
+      "fields": {
+        "display_name": "Pat. S. Alta",
+        "description": "Salta muy alto y lanza una patada. Si falla, dañará al usuario."
+      }
+    },
+    {
+      "line_number": 86,
+      "internal_name": "CLOSECOMBAT",
+      "fields": {
+        "display_name": "A Bocajarro",
+        "description": "Lucha abiertamente contra el rival sin defenderse. También reduce la Defensa y la Def. Esp. del usuario."
+      }
+    },
+    {
+      "line_number": 87,
+      "internal_name": "FOCUSBLAST",
+      "fields": {
+        "display_name": "Onda Certera",
+        "description": "Agudiza la concentración mental y libera su poder. Puede disminuir la Def. Esp. del rival."
+      }
+    },
+    {
+      "line_number": 88,
+      "internal_name": "SUPERPOWER",
+      "fields": {
+        "display_name": "Fuerza Bruta",
+        "description": "Ataque de gran potencia, pero que reduce el Ataque y la Defensa del agresor."
+      }
+    },
+    {
+      "line_number": 89,
+      "internal_name": "CROSSCHOP",
+      "fields": {
+        "display_name": "Tajo Cruzado",
+        "description": "Corte doble que suele propinar un golpe crítico."
+      }
+    },
+    {
+      "line_number": 90,
+      "internal_name": "DYNAMICPUNCH",
+      "fields": {
+        "display_name": "Puñodinámico",
+        "description": "Puñetazo con toda la fuerza concentrada. Causa confusión si atina."
+      }
+    },
+    {
+      "line_number": 91,
+      "internal_name": "HAMMERARM",
+      "fields": {
+        "display_name": "Machada",
+        "description": "Gira con fuerza el puño y da un gran golpe. No obstante, baja la Velocidad."
+      }
+    },
+    {
+      "line_number": 92,
+      "internal_name": "JUMPKICK",
+      "fields": {
+        "display_name": "Patada Salto",
+        "description": "Da un salto y pega una patada. Si falla, se lesiona."
+      }
+    },
+    {
+      "line_number": 93,
+      "internal_name": "AURASPHERE",
+      "fields": {
+        "display_name": "Esfera Aural",
+        "description": "Libera una descarga de la fuerza del aura desde su interior. Es infalible."
+      }
+    },
+    {
+      "line_number": 94,
+      "internal_name": "SACREDSWORD",
+      "fields": {
+        "display_name": "Espadasanta",
+        "description": "El usuario ataca con una espada"
+      }
+    },
+    {
+      "line_number": 95,
+      "internal_name": "SECRETSWORD",
+      "fields": {
+        "display_name": "Sablemístico",
+        "description": "Ensarta al objetivo con un sable"
+      }
+    },
+    {
+      "line_number": 96,
+      "internal_name": "SKYUPPERCUT",
+      "fields": {
+        "display_name": "Gancho Alto",
+        "description": "Gancho ascendente de gran ímpetu."
+      }
+    },
+    {
+      "line_number": 97,
+      "internal_name": "SUBMISSION",
+      "fields": {
+        "display_name": "Sumisión",
+        "description": "Tira al objetivo al suelo. También hiere al agresor."
+      }
+    },
+    {
+      "line_number": 98,
+      "internal_name": "BRICKBREAK",
+      "fields": {
+        "display_name": "Demolición",
+        "description": "Potente ataque que también es capaz de destruir barreras como Pantalla de Luz y Reflejo."
+      }
+    },
+    {
+      "line_number": 99,
+      "internal_name": "DRAINPUNCH",
+      "fields": {
+        "display_name": "Puño Drenaje",
+        "description": "Un golpe que drena energía. El Pokémon recupera la mitad de los PS arrebatados al objetivo."
+      }
+    },
+    {
+      "line_number": 100,
+      "internal_name": "VITALTHROW",
+      "fields": {
+        "display_name": "Tiro Vital",
+        "description": "El usuario ataca el último, pero no falla."
+      }
+    },
+    {
+      "line_number": 101,
+      "internal_name": "CIRCLETHROW",
+      "fields": {
+        "display_name": "Llave Giro",
+        "description": "Lanza por los aires al objetivo y hace que salga otro Pokémon. Si es uno salvaje, acaba el combate."
+      }
+    },
+    {
+      "line_number": 102,
+      "internal_name": "FORCEPALM",
+      "fields": {
+        "display_name": "Palmeo",
+        "description": "Ataca al objetivo con una onda de choque y puede llegar a paralizarlo."
+      }
+    },
+    {
+      "line_number": 103,
+      "internal_name": "LOWSWEEP",
+      "fields": {
+        "display_name": "Puntapié",
+        "description": "Un veloz ataque a los pies que reduce la Velocidad del objetivo."
+      }
+    },
+    {
+      "line_number": 104,
+      "internal_name": "REVENGE",
+      "fields": {
+        "display_name": "Desquite",
+        "description": "Ataque que produce el doble de daño si el usuario es herido en el mismo turno."
+      }
+    },
+    {
+      "line_number": 105,
+      "internal_name": "ROLLINGKICK",
+      "fields": {
+        "display_name": "Patada Giro",
+        "description": "Una patada rápida y circular. También puede hacer retroceder al objetivo."
+      }
+    },
+    {
+      "line_number": 106,
+      "internal_name": "WAKEUPSLAP",
+      "fields": {
+        "display_name": "Espabila",
+        "description": "Inflige gran daño a objetivos dormidos. Sin embargo, los bofetones también los despiertan."
+      }
+    },
+    {
+      "line_number": 107,
+      "internal_name": "KARATECHOP",
+      "fields": {
+        "display_name": "Golpe Karate",
+        "description": "Da un golpe cortante. Suele ser crítico."
+      }
+    },
+    {
+      "line_number": 108,
+      "internal_name": "MACHPUNCH",
+      "fields": {
+        "display_name": "Ultrapuño",
+        "description": "Puñetazo que se da rápido para golpear primero."
+      }
+    },
+    {
+      "line_number": 109,
+      "internal_name": "ROCKSMASH",
+      "fields": {
+        "display_name": "Golpe Roca",
+        "description": "Ataca con puñetazos que pueden romper rocas. Puede bajar la Defensa del objetivo."
+      }
+    },
+    {
+      "line_number": 110,
+      "internal_name": "STORMTHROW",
+      "fields": {
+        "display_name": "Llave Corsé",
+        "description": "Lanza un golpe fulminante. Siempre resulta en un golpe crítico."
+      }
+    },
+    {
+      "line_number": 111,
+      "internal_name": "VACUUMWAVE",
+      "fields": {
+        "display_name": "Onda Vacío",
+        "description": "Gira los puños y libera una onda de vacío contra el objetivo. Este movimiento siempre va primero."
+      }
+    },
+    {
+      "line_number": 112,
+      "internal_name": "DOUBLEKICK",
+      "fields": {
+        "display_name": "Doble Patada",
+        "description": "Una patada doble. Golpea dos veces."
+      }
+    },
+    {
+      "line_number": 113,
+      "internal_name": "ARMTHRUST",
+      "fields": {
+        "display_name": "Empujón",
+        "description": "Empujones directos que golpean de dos a cinco veces seguidas."
+      }
+    },
+    {
+      "line_number": 114,
+      "internal_name": "TRIPLEKICK",
+      "fields": {
+        "display_name": "Triplepatada",
+        "description": "Patea hasta tres veces seguidas y cada vez más fuerte."
+      }
+    },
+    {
+      "line_number": 115,
+      "internal_name": "COUNTER",
+      "fields": {
+        "display_name": "Contrataque",
+        "description": "Devuelve un golpe físico por duplicado."
+      }
+    },
+    {
+      "line_number": 116,
+      "internal_name": "FINALGAMBIT",
+      "fields": {
+        "display_name": "Sacrificio",
+        "description": "El usuario se sacrifica causándole un daño al objetivo equivalente a sus propios PS perdidos."
+      }
+    },
+    {
+      "line_number": 117,
+      "internal_name": "LOWKICK",
+      "fields": {
+        "display_name": "Patada Baja",
+        "description": "Patada baja. Cuanto más pesa el objetivo"
+      }
+    },
+    {
+      "line_number": 118,
+      "internal_name": "REVERSAL",
+      "fields": {
+        "display_name": "Inversión",
+        "description": "Ataque desesperado que causa más daño cuantos menos PS tenga el usuario."
+      }
+    },
+    {
+      "line_number": 119,
+      "internal_name": "SEISMICTOSS",
+      "fields": {
+        "display_name": "Mov. Sísmico",
+        "description": "La gravedad derriba al objetivo. Se restarán tantos PS como nivel tenga el agresor."
+      }
+    },
+    {
+      "line_number": 120,
+      "internal_name": "BULKUP",
+      "fields": {
+        "display_name": "Corpulencia",
+        "description": "Robustece el cuerpo para subir el Ataque y la Defensa.."
+      }
+    },
+    {
+      "line_number": 121,
+      "internal_name": "DETECT",
+      "fields": {
+        "display_name": "Detección",
+        "description": "Frena todos los ataques"
+      }
+    },
+    {
+      "line_number": 122,
+      "internal_name": "QUICKGUARD",
+      "fields": {
+        "display_name": "Anticipo",
+        "description": "Protege a todo el equipo de ataques que se adelantan. Puede fallar si se utiliza repetidamente."
+      }
+    },
+    {
+      "line_number": 123,
+      "internal_name": "VCREATE",
+      "fields": {
+        "display_name": "V de Fuego",
+        "description": "Golpea con una V de llamas al objetivo. Baja la Defensa, la Defensa Especial y la Velocidad de quien lo usa."
+      }
+    },
+    {
+      "line_number": 124,
+      "internal_name": "BLASTBURN",
+      "fields": {
+        "display_name": "Anillo Ígneo",
+        "description": "Explosión de fuego. El atacante debe descansar el siguiente turno."
+      }
+    },
+    {
+      "line_number": 125,
+      "internal_name": "ERUPTION",
+      "fields": {
+        "display_name": "Estallido",
+        "description": "Furia explosiva. Cuanto menor sea el número de PS del usuario, menos daño hará el ataque."
+      }
+    },
+    {
+      "line_number": 126,
+      "internal_name": "OVERHEAT",
+      "fields": {
+        "display_name": "Sofoco",
+        "description": "Ataque en toda regla que baja mucho el Ataque Especial de quien lo usa."
+      }
+    },
+    {
+      "line_number": 127,
+      "internal_name": "BLUEFLARE",
+      "fields": {
+        "display_name": "Llama Azul",
+        "description": "Ataca con una bella pero potente llama azul que rodea al objetivo. Puede quemarlo."
+      }
+    },
+    {
+      "line_number": 128,
+      "internal_name": "FIREBLAST",
+      "fields": {
+        "display_name": "Llamarada",
+        "description": "Llama intensa que lo chamusca todo y puede causar quemaduras."
+      }
+    },
+    {
+      "line_number": 129,
+      "internal_name": "FLAREBLITZ",
+      "fields": {
+        "display_name": "Envite Ígneo",
+        "description": "El Pokémon se cubre de llamas y carga contra el objetivo"
+      }
+    },
+    {
+      "line_number": 130,
+      "internal_name": "MAGMASTORM",
+      "fields": {
+        "display_name": "Lluvia Ígnea",
+        "description": "El rival queda atrapado en una tormenta de fuego que dura de dos a cinco turnos."
+      }
+    },
+    {
+      "line_number": 131,
+      "internal_name": "FUSIONFLARE",
+      "fields": {
+        "display_name": "Llama Fusión",
+        "description": "Ataca con una llamarada gigantesca. Aumenta su potencia si es influenciada por una gran energía eléctrica."
+      }
+    },
+    {
+      "line_number": 132,
+      "internal_name": "HEATWAVE",
+      "fields": {
+        "display_name": "Onda Ígnea",
+        "description": "Provoca un viento abrasador que puede quemar al objetivo."
+      }
+    },
+    {
+      "line_number": 133,
+      "internal_name": "INFERNO",
+      "fields": {
+        "display_name": "Infierno",
+        "description": "Ataca con una gran ráfaga de fuego que causa quemaduras."
+      }
+    },
+    {
+      "line_number": 134,
+      "internal_name": "SACREDFIRE",
+      "fields": {
+        "display_name": "Fuegosagrado",
+        "description": "Fuego místico de gran intensidad que puede causar quemaduras."
+      }
+    },
+    {
+      "line_number": 135,
+      "internal_name": "SEARINGSHOT",
+      "fields": {
+        "display_name": "Bomba Ígnea",
+        "description": "Un infierno de llamas daña a los Pokémon de alrededor en combate. Puede quemar."
+      }
+    },
+    {
+      "line_number": 136,
+      "internal_name": "FLAMETHROWER",
+      "fields": {
+        "display_name": "Lanzallamas",
+        "description": "Ataca con una gran ráfaga de fuego que puede causar quemaduras."
+      }
+    },
+    {
+      "line_number": 137,
+      "internal_name": "BLAZEKICK",
+      "fields": {
+        "display_name": "Patada Ígnea",
+        "description": "Patada que suele ser un golpe crítico y puede causar quemaduras."
+      }
+    },
+    {
+      "line_number": 138,
+      "internal_name": "FIERYDANCE",
+      "fields": {
+        "display_name": "Danza Llama",
+        "description": "El Pokémon golpea envuelto en llamas. Puede aumentar el Ataque Especial de quien lo usa."
+      }
+    },
+    {
+      "line_number": 139,
+      "internal_name": "LAVAPLUME",
+      "fields": {
+        "display_name": "Humareda",
+        "description": "Un infierno de llamas daña a los Pokémon adyacentes en combate. Puede quemar."
+      }
+    },
+    {
+      "line_number": 140,
+      "internal_name": "FIREPUNCH",
+      "fields": {
+        "display_name": "Puño Fuego",
+        "description": "Puñetazo ardiente. Puede quemar."
+      }
+    },
+    {
+      "line_number": 141,
+      "internal_name": "FLAMEBURST",
+      "fields": {
+        "display_name": "Pirotecnia",
+        "description": "Golpea al objetivo con una llamarada que afecta a sus Pokémon adyacentes."
+      }
+    },
+    {
+      "line_number": 142,
+      "internal_name": "FIREFANG",
+      "fields": {
+        "display_name": "Colm. Ígneo",
+        "description": "Usa colmillos en llamas para morder. Puede hacer que el objetivo retroceda o reciba quemaduras."
+      }
+    },
+    {
+      "line_number": 143,
+      "internal_name": "FLAMEWHEEL",
+      "fields": {
+        "display_name": "Rueda Fuego",
+        "description": "Ataca envuelto en fuego. Puede causar quemaduras."
+      }
+    },
+    {
+      "line_number": 144,
+      "internal_name": "FIREPLEDGE",
+      "fields": {
+        "display_name": "Voto Fuego",
+        "description": "Ataca con columnas de fuego. Combinado con un ataque tipo planta crea un mar de llamas y aumenta su potencia."
+      }
+    },
+    {
+      "line_number": 145,
+      "internal_name": "FLAMECHARGE",
+      "fields": {
+        "display_name": "Nitrocarga",
+        "description": "Llamas que golpean al objetivo y aumentan la Velocidad del atacante."
+      }
+    },
+    {
+      "line_number": 146,
+      "internal_name": "EMBER",
+      "fields": {
+        "display_name": "Ascuas",
+        "description": "Ataca con llamas pequeñas que pueden causar quemaduras."
+      }
+    },
+    {
+      "line_number": 147,
+      "internal_name": "FIRESPIN",
+      "fields": {
+        "display_name": "Giro Fuego",
+        "description": "Un aro de fuego que atrapa al objetivo de cuatro a cinco turnos."
+      }
+    },
+    {
+      "line_number": 148,
+      "internal_name": "INCINERATE",
+      "fields": {
+        "display_name": "Calcinación",
+        "description": "Llamas que golpean a los objetivos adyacentes. Si estos llevan Bayas, estas se quemarán y ya no se podrán usar."
+      }
+    },
+    {
+      "line_number": 149,
+      "internal_name": "HEATCRASH",
+      "fields": {
+        "display_name": "Golpe Calor",
+        "description": "El usuario ataca con su cuerpo ardiente. Cuanto mayor sea su peso comparado con el del objetivo, más daño causará."
+      }
+    },
+    {
+      "line_number": 150,
+      "internal_name": "SUNNYDAY",
+      "fields": {
+        "display_name": "Día Soleado",
+        "description": "Quien lo usa intensifica el sol durante cinco turnos, lo que potencia los movimientos de tipo Fuego."
+      }
+    },
+    {
+      "line_number": 151,
+      "internal_name": "WILLOWISP",
+      "fields": {
+        "display_name": "Fuego Fatuo",
+        "description": "Siniestra llama morada que produce quemaduras."
+      }
+    },
+    {
+      "line_number": 152,
+      "internal_name": "SKYATTACK",
+      "fields": {
+        "display_name": "Ataque Aéreo",
+        "description": "Ataque en dos turnos que suele ser crítico. Puede hacer retroceder al objetivo."
+      }
+    },
+    {
+      "line_number": 153,
+      "internal_name": "BRAVEBIRD",
+      "fields": {
+        "display_name": "Pájaro Osado",
+        "description": "Pliega sus alas y ataca con un vuelo rasante. El Pokémon que lo usa también resulta dañado."
+      }
+    },
+    {
+      "line_number": 154,
+      "internal_name": "HURRICANE",
+      "fields": {
+        "display_name": "Vendaval",
+        "description": "Golpea al objetivo con un fuerte torbellino que envuelve al rival y puede confundirl."
+      }
+    },
+    {
+      "line_number": 155,
+      "internal_name": "AEROBLAST",
+      "fields": {
+        "display_name": "Aerochorro",
+        "description": "Lanza un chorro de aire que suele dar un golpe crítico."
+      }
+    },
+    {
+      "line_number": 156,
+      "internal_name": "FLY",
+      "fields": {
+        "display_name": "Vuelo",
+        "description": "Primer turno: vuela.    Segundo turno: ataca. Fuera de combate, permite ir a sitios ya conocidos."
+      }
+    },
+    {
+      "line_number": 157,
+      "internal_name": "BOUNCE",
+      "fields": {
+        "display_name": "Bote",
+        "description": "Primer turno: bota.    Segundo turno: golpea. Puede paralizar."
+      }
+    },
+    {
+      "line_number": 158,
+      "internal_name": "DRILLPECK",
+      "fields": {
+        "display_name": "Pico Taladro",
+        "description": "Picotazo giratorio y perforador muy potente."
+      }
+    },
+    {
+      "line_number": 159,
+      "internal_name": "AIRSLASH",
+      "fields": {
+        "display_name": "Tajo Aéreo",
+        "description": "Ataca con una hoja de aire que incluso corta el cielo. También puede hacer retroceder al objetivo."
+      }
+    },
+    {
+      "line_number": 160,
+      "internal_name": "AERIALACE",
+      "fields": {
+        "display_name": "Golpe Aéreo",
+        "description": "El usuario lanza un ataque muy rápido e ineludible."
+      }
+    },
+    {
+      "line_number": 161,
+      "internal_name": "CHATTER",
+      "fields": {
+        "display_name": "Cháchara",
+        "description": "Ataca con una onda sónica compuesta por palabras que ha aprendido. Puede confundir al objetivo."
+      }
+    },
+    {
+      "line_number": 162,
+      "internal_name": "PLUCK",
+      "fields": {
+        "display_name": "Picoteo",
+        "description": "Picotea al objetivo. Si este sostiene una Baya, la picotea también y obtiene sus efectos."
+      }
+    },
+    {
+      "line_number": 163,
+      "internal_name": "ALABIS",
+      "fields": {
+        "display_name": "Ala Bis",
+        "description": "Golpea dos veces con las dos alas."
+      }
+    },
+    {
+      "line_number": 164,
+      "internal_name": "WINGATTACK",
+      "fields": {
+        "display_name": "Ataque Ala",
+        "description": "Golpea al objetivo con unas grandes alas."
+      }
+    },
+    {
+      "line_number": 165,
+      "internal_name": "ACROBATICS",
+      "fields": {
+        "display_name": "Acróbata",
+        "description": "Golpea ágilmente. Si el usuario no porta ningún objeto, hace el doble de daño."
+      }
+    },
+    {
+      "line_number": 166,
+      "internal_name": "AIRCUTTER",
+      "fields": {
+        "display_name": "Aire Afilado",
+        "description": "Viento cortante que azota. Suele ser un golpe crítico."
+      }
+    },
+    {
+      "line_number": 167,
+      "internal_name": "GUST",
+      "fields": {
+        "display_name": "Tornado",
+        "description": "Crea un tornado con las alas y lo lanza contra el objetivo.."
+      }
+    },
+    {
+      "line_number": 168,
+      "internal_name": "PECK",
+      "fields": {
+        "display_name": "Picotazo",
+        "description": "Ensarta al objetivo con un cuerno o pico punzante."
+      }
+    },
+    {
+      "line_number": 169,
+      "internal_name": "DEFOG",
+      "fields": {
+        "display_name": "Despejar",
+        "description": "Potente viento que barre el Reflejo o Pantalla de Luz del objetivo y puede reducir su Evasión."
+      }
+    },
+    {
+      "line_number": 170,
+      "internal_name": "FEATHERDANCE",
+      "fields": {
+        "display_name": "Danza Pluma",
+        "description": "Envuelve al objetivo con un manto de plumas para reducir mucho su Ataque."
+      }
+    },
+    {
+      "line_number": 171,
+      "internal_name": "MIRRORMOVE",
+      "fields": {
+        "display_name": "Mov. Espejo",
+        "description": "Contraataca con el mismo movimiento empleado por el objetivo."
+      }
+    },
+    {
+      "line_number": 172,
+      "internal_name": "ROOST",
+      "fields": {
+        "display_name": "Respiro",
+        "description": "Aterriza sobre la superficie para descansar. Recupera hasta la mitad del total de sus PS."
+      }
+    },
+    {
+      "line_number": 173,
+      "internal_name": "TAILWIND",
+      "fields": {
+        "display_name": "Viento Afín",
+        "description": "Crea un fuerte remolino que aumenta la Velocidad de los Pokémon de tu equipo durante cuatro turnos."
+      }
+    },
+    {
+      "line_number": 174,
+      "internal_name": "SHADOWFORCE",
+      "fields": {
+        "display_name": "Golpe Umbrío",
+        "description": "En el primer turno, desaparece. En el segundo, golpea al objetivo aunque se esté protegiendo."
+      }
+    },
+    {
+      "line_number": 175,
+      "internal_name": "SHADOWBALL",
+      "fields": {
+        "display_name": "Bola Sombra",
+        "description": "Lanza una bola oscura que puede bajar la Defensa Especial del objetivo."
+      }
+    },
+    {
+      "line_number": 176,
+      "internal_name": "SHADOWCLAW",
+      "fields": {
+        "display_name": "Garra Umbría",
+        "description": "Ataca con una garra afilada hecha de sombras. Suele ser crítico."
+      }
+    },
+    {
+      "line_number": 177,
+      "internal_name": "OMINOUSWIND",
+      "fields": {
+        "display_name": "Vien. Aciago",
+        "description": "Produce un viento horripilante. Puede subir de golpe todas las características del usuario."
+      }
+    },
+    {
+      "line_number": 178,
+      "internal_name": "SHADOWPUNCH",
+      "fields": {
+        "display_name": "Puño Sombra",
+        "description": "Puñetazo ineludible procedente de las sombras."
+      }
+    },
+    {
+      "line_number": 179,
+      "internal_name": "HEX",
+      "fields": {
+        "display_name": "Infortunio",
+        "description": "Ataque que causa un gran daño a los objetivos que sufren problemas de estado."
+      }
+    },
+    {
+      "line_number": 180,
+      "internal_name": "SHADOWSNEAK",
+      "fields": {
+        "display_name": "Sombra Vil",
+        "description": "Extiende su sombra y ataca al objetivo por la espalda. Este movimiento siempre va primero."
+      }
+    },
+    {
+      "line_number": 181,
+      "internal_name": "ASTONISH",
+      "fields": {
+        "display_name": "Impresionar",
+        "description": "Impresiona tanto que puede hacer retroceder al objetivo."
+      }
+    },
+    {
+      "line_number": 182,
+      "internal_name": "LICK",
+      "fields": {
+        "display_name": "Lengüetazo",
+        "description": "Una lengua ataca al objetivo. Puede causar parálisis."
+      }
+    },
+    {
+      "line_number": 183,
+      "internal_name": "NIGHTSHADE",
+      "fields": {
+        "display_name": "Tinieblas",
+        "description": "Produce un espejismo ante el objetivo"
+      }
+    },
+    {
+      "line_number": 184,
+      "internal_name": "CONFUSERAY",
+      "fields": {
+        "display_name": "Rayo Confuso",
+        "description": "Rayo siniestro que confunde al objetivo."
+      }
+    },
+    {
+      "line_number": 185,
+      "internal_name": "CURSE",
+      "fields": {
+        "display_name": "Maldición",
+        "description": "Un movimiento que tiene efectos distintos si el usuario es de tipo Fantasma o no."
+      }
+    },
+    {
+      "line_number": 186,
+      "internal_name": "DESTINYBOND",
+      "fields": {
+        "display_name": "Mismodestino",
+        "description": "Si el usuario se debilita, el enemigo se debilita también."
+      }
+    },
+    {
+      "line_number": 187,
+      "internal_name": "GRUDGE",
+      "fields": {
+        "display_name": "Rabia",
+        "description": "Si el usuario se debilita al recibir un ataque, todos los PP de este último ataque serán eliminados."
+      }
+    },
+    {
+      "line_number": 188,
+      "internal_name": "NIGHTMARE",
+      "fields": {
+        "display_name": "Pesadilla",
+        "description": "El objetivo dormido sufre una pesadilla que le hace perder PS en cada turno."
+      }
+    },
+    {
+      "line_number": 189,
+      "internal_name": "SPITE",
+      "fields": {
+        "display_name": "Rencor",
+        "description": "Da rienda suelta a su rencor para reducir cuatro PP del último movimiento usado por el rival."
+      }
+    },
+    {
+      "line_number": 190,
+      "internal_name": "FRENZYPLANT",
+      "fields": {
+        "display_name": "Planta Feroz",
+        "description": "Golpea con una enorme planta. El atacante no puede moverse en el siguiente turno."
+      }
+    },
+    {
+      "line_number": 191,
+      "internal_name": "LEAFSTORM",
+      "fields": {
+        "display_name": "Lluevehojas",
+        "description": "Cae una lluvia de hojas afiladas. Baja mucho el Ataque Especial de quien lo usa."
+      }
+    },
+    {
+      "line_number": 192,
+      "internal_name": "PETALDANCE",
+      "fields": {
+        "display_name": "Danza Pétalo",
+        "description": "Lanza pétalos de dos a tres turnos y acaba confundiendo al atacante."
+      }
+    },
+    {
+      "line_number": 193,
+      "internal_name": "POWERWHIP",
+      "fields": {
+        "display_name": "Latigazo",
+        "description": "El usuario agita violentamente sus lianas o tentáculos para golpear al objetivo."
+      }
+    },
+    {
+      "line_number": 194,
+      "internal_name": "SEEDFLARE",
+      "fields": {
+        "display_name": "Fogonazo",
+        "description": "Una onda de choque se libera del cuerpo. Puede bajar la Defensa Especial del objetivo."
+      }
+    },
+    {
+      "line_number": 195,
+      "internal_name": "SOLARBEAM",
+      "fields": {
+        "display_name": "Rayo Solar",
+        "description": "Primer turno: absorbe luz. Segundo turno: ataca."
+      }
+    },
+    {
+      "line_number": 196,
+      "internal_name": "WOODHAMMER",
+      "fields": {
+        "display_name": "Mazazo",
+        "description": "Arremete contra el rival con su robusto cuerpo. El agresor también sufre bastante daño."
+      }
+    },
+    {
+      "line_number": 197,
+      "internal_name": "LEAFBLADE",
+      "fields": {
+        "display_name": "Hoja Aguda",
+        "description": "Acuchilla con una hoja fina. Suele dar un golpe crítico."
+      }
+    },
+    {
+      "line_number": 198,
+      "internal_name": "ENERGYBALL",
+      "fields": {
+        "display_name": "Energibola",
+        "description": "Aúna fuerzas de la naturaleza y libera su ataque. Puede disminuir la Def. Esp. del objetivo."
+      }
+    },
+    {
+      "line_number": 199,
+      "internal_name": "SEEDBOMB",
+      "fields": {
+        "display_name": "Bomba Germen",
+        "description": "Lanza al objetivo una descarga de semillas explosivas desde arriba."
+      }
+    },
+    {
+      "line_number": 200,
+      "internal_name": "GIGADRAIN",
+      "fields": {
+        "display_name": "Gigadrenado",
+        "description": "Absorbe la mitad del daño producido."
+      }
+    },
+    {
+      "line_number": 201,
+      "internal_name": "HORNLEECH",
+      "fields": {
+        "display_name": "Astadrenaje",
+        "description": "Un golpe que drena energía. El Pokémon recupera la mitad de los PS arrebatados al objetivo."
+      }
+    },
+    {
+      "line_number": 202,
+      "internal_name": "LEAFTORNADO",
+      "fields": {
+        "display_name": "Ciclón Hojas",
+        "description": "Tritura con afiladas hojas y puede bajar la Precisión del objetivo."
+      }
+    },
+    {
+      "line_number": 203,
+      "internal_name": "MAGICALLEAF",
+      "fields": {
+        "display_name": "Hoja Mágica",
+        "description": "Esparce extrañas hojas que persiguen al objetivo. No se puede esquivar."
+      }
+    },
+    {
+      "line_number": 204,
+      "internal_name": "NEEDLEARM",
+      "fields": {
+        "display_name": "Brazo Pincho",
+        "description": "Pega con brazos de pinchos y puede hacer retroceder al objetivo."
+      }
+    },
+    {
+      "line_number": 205,
+      "internal_name": "RAZORLEAF",
+      "fields": {
+        "display_name": "Hoja Afilada",
+        "description": "Corta con hojas afiladas. Suele ser crítico."
+      }
+    },
+    {
+      "line_number": 206,
+      "internal_name": "GRASSPLEDGE",
+      "fields": {
+        "display_name": "Voto Planta",
+        "description": "Ataca con columnas de hojas. Combinado con un ataque de agua crea un pantano y aumenta su potencia."
+      }
+    },
+    {
+      "line_number": 207,
+      "internal_name": "MEGADRAIN",
+      "fields": {
+        "display_name": "Megaagotar",
+        "description": "Absorbe la mitad del daño producido."
+      }
+    },
+    {
+      "line_number": 208,
+      "internal_name": "VINEWHIP",
+      "fields": {
+        "display_name": "Látigo Cepa",
+        "description": "Azota al objetivo con ramas finas."
+      }
+    },
+    {
+      "line_number": 209,
+      "internal_name": "BULLETSEED",
+      "fields": {
+        "display_name": "Semilladora",
+        "description": "Dispara rápido de dos a cinco ráfagas de semillas de manera consecutiva."
+      }
+    },
+    {
+      "line_number": 210,
+      "internal_name": "ABSORB",
+      "fields": {
+        "display_name": "Absorber",
+        "description": "Absorbe la mitad del daño producido ."
+      }
+    },
+    {
+      "line_number": 211,
+      "internal_name": "GRASSKNOT",
+      "fields": {
+        "display_name": "Hierba Lazo",
+        "description": "Enreda al objetivo con hierba y lo derriba. Cuanto más pesado es el objetivo, más daño inflige."
+      }
+    },
+    {
+      "line_number": 212,
+      "internal_name": "AROMATHERAPY",
+      "fields": {
+        "display_name": "Aromaterapia",
+        "description": "Cura todos los problemas de estado del equipo con un suave aroma."
+      }
+    },
+    {
+      "line_number": 213,
+      "internal_name": "COTTONGUARD",
+      "fields": {
+        "display_name": "Rizo Algodón",
+        "description": "Cubre al Pokémon con una madeja protectora. Aumenta muchísimo la Defensa."
+      }
+    },
+    {
+      "line_number": 214,
+      "internal_name": "COTTONSPORE",
+      "fields": {
+        "display_name": "Esporagodón",
+        "description": "Adhiere esporas al objetivo para reducir mucho su Velocidad."
+      }
+    },
+    {
+      "line_number": 215,
+      "internal_name": "GRASSWHISTLE",
+      "fields": {
+        "display_name": "Silbato",
+        "description": "Agradable melodía que adormece al objetivo."
+      }
+    },
+    {
+      "line_number": 216,
+      "internal_name": "INGRAIN",
+      "fields": {
+        "display_name": "Arraigo",
+        "description": "Echa raíces para recuperar PS en cada turno, pero impide el relevo."
+      }
+    },
+    {
+      "line_number": 217,
+      "internal_name": "LEECHSEED",
+      "fields": {
+        "display_name": "Drenadoras",
+        "description": "Planta semillas que absorben PS para recuperar la salud del usuario en cada turno."
+      }
+    },
+    {
+      "line_number": 218,
+      "internal_name": "SLEEPPOWDER",
+      "fields": {
+        "display_name": "Somnífero",
+        "description": "Esparce polvo que duerme al objetivo."
+      }
+    },
+    {
+      "line_number": 219,
+      "internal_name": "SPORE",
+      "fields": {
+        "display_name": "Espora",
+        "description": "Esparce esporas que inducen al sueño."
+      }
+    },
+    {
+      "line_number": 220,
+      "internal_name": "STUNSPORE",
+      "fields": {
+        "display_name": "Paralizador",
+        "description": "Esparce polvo que paraliza al objetivo."
+      }
+    },
+    {
+      "line_number": 221,
+      "internal_name": "SYNTHESIS",
+      "fields": {
+        "display_name": "Síntesis",
+        "description": "Restaura PS del usuario. La cantidad varía según el clima."
+      }
+    },
+    {
+      "line_number": 222,
+      "internal_name": "WORRYSEED",
+      "fields": {
+        "display_name": "Abatidoras",
+        "description": "Se planta una semilla en el objetivo que le causa pesar."
+      }
+    },
+    {
+      "line_number": 223,
+      "internal_name": "EARTHQUAKE",
+      "fields": {
+        "display_name": "Terremoto",
+        "description": "Un terremoto que afecta a los Pokémon de alrededor en combate."
+      }
+    },
+    {
+      "line_number": 224,
+      "internal_name": "EARTHPOWER",
+      "fields": {
+        "display_name": "Tierra Viva",
+        "description": "La tierra a los pies del rival erupciona violentamente. Puede disminuir la Defensa Especial del rival."
+      }
+    },
+    {
+      "line_number": 225,
+      "internal_name": "DIG",
+      "fields": {
+        "display_name": "Excavar",
+        "description": "Primer turno: cava. Segundo turno: ataca. También sirve para salir de ciertas zonas."
+      }
+    },
+    {
+      "line_number": 226,
+      "internal_name": "DRILLRUN",
+      "fields": {
+        "display_name": "Taladradora",
+        "description": "El usuario golpea usando su cuerpo como un taladro. Suele ser crítico."
+      }
+    },
+    {
+      "line_number": 227,
+      "internal_name": "BONECLUB",
+      "fields": {
+        "display_name": "Hueso Palo",
+        "description": "Aporrea con un hueso. Puede hacer retroceder al objetivo."
+      }
+    },
+    {
+      "line_number": 228,
+      "internal_name": "MUDBOMB",
+      "fields": {
+        "display_name": "Bomba Fango",
+        "description": "Ataca lanzando una compacta bola de fango. Puede bajar la Precisión del objetivo."
+      }
+    },
+    {
+      "line_number": 229,
+      "internal_name": "BULLDOZE",
+      "fields": {
+        "display_name": "Terratemblor",
+        "description": "Ataca con una sacudida sísmica que afecta a los Pokémon adyacentes en combate y baja su Velocidad."
+      }
+    },
+    {
+      "line_number": 230,
+      "internal_name": "MUDSHOT",
+      "fields": {
+        "display_name": "Disp. Lodo",
+        "description": "El usuario lanza lodo al objetivo y reduce su Velocidad."
+      }
+    },
+    {
+      "line_number": 231,
+      "internal_name": "BONEMERANG",
+      "fields": {
+        "display_name": "Huesomerang",
+        "description": "Lanza un hueso a modo de bumerán que golpea dos veces."
+      }
+    },
+    {
+      "line_number": 232,
+      "internal_name": "SANDTOMB",
+      "fields": {
+        "display_name": "Bucle Arena",
+        "description": "Enreda al objetivo en un remolino de arena de cuatro a cinco turnos."
+      }
+    },
+    {
+      "line_number": 233,
+      "internal_name": "BONERUSH",
+      "fields": {
+        "display_name": "Ataque Óseo",
+        "description": "Hueso en ristre"
+      }
+    },
+    {
+      "line_number": 234,
+      "internal_name": "MUDSLAP",
+      "fields": {
+        "display_name": "Bofetón Lodo",
+        "description": "Echa lodo en la cara para bajar la Precisión."
+      }
+    },
+    {
+      "line_number": 235,
+      "internal_name": "FISSURE",
+      "fields": {
+        "display_name": "Fisura",
+        "description": "Abre una grieta en el suelo y mete al objetivo en ella. Fulmina en un golpe."
+      }
+    },
+    {
+      "line_number": 236,
+      "internal_name": "MAGNITUDE",
+      "fields": {
+        "display_name": "Magnitud",
+        "description": "Sacudida sísmica de intensidad variable que afecta a los Pokémon adyacentes en combate."
+      }
+    },
+    {
+      "line_number": 237,
+      "internal_name": "MUDSPORT",
+      "fields": {
+        "display_name": "Chapoteolodo",
+        "description": "El usuario se cubre de lodo y debilita los movimientos de tipo Eléctrico mientras está en combate."
+      }
+    },
+    {
+      "line_number": 238,
+      "internal_name": "SANDATTACK",
+      "fields": {
+        "display_name": "Ataque Arena",
+        "description": "Arroja arena a la cara y baja la Precisión."
+      }
+    },
+    {
+      "line_number": 239,
+      "internal_name": "SPIKES",
+      "fields": {
+        "display_name": "Púas",
+        "description": "Esparce púas en el equipo rival. Las púas hieren a los Pokémon rivales que entran en combate."
+      }
+    },
+    {
+      "line_number": 240,
+      "internal_name": "FREEZESHOCK",
+      "fields": {
+        "display_name": "Rayo Gélido",
+        "description": "El usuario carga un bloque de hielo con electricidad en el primer turno y ataca con él en el segundo. Puede paralizar."
+      }
+    },
+    {
+      "line_number": 241,
+      "internal_name": "ICEBURN",
+      "fields": {
+        "display_name": "Llama Gélida",
+        "description": "Ataca al objetivo en el segundo turno rodeándolo de un aire gélido. Puede causar quemaduras."
+      }
+    },
+    {
+      "line_number": 242,
+      "internal_name": "BLIZZARD",
+      "fields": {
+        "display_name": "Ventisca",
+        "description": "Tormenta de hielo que puede llegar a congelar."
+      }
+    },
+    {
+      "line_number": 243,
+      "internal_name": "ICEBEAM",
+      "fields": {
+        "display_name": "Rayo Hielo",
+        "description": "Rayo de hielo que puede llegar a congelar."
+      }
+    },
+    {
+      "line_number": 244,
+      "internal_name": "ICICLECRASH",
+      "fields": {
+        "display_name": "Chuzos",
+        "description": "Lanza grandes carámbanos. Puede hacer retroceder al objetivo."
+      }
+    },
+    {
+      "line_number": 245,
+      "internal_name": "ICEPUNCH",
+      "fields": {
+        "display_name": "Puño Hielo",
+        "description": "Puñetazo helado. Puede congelar."
+      }
+    },
+    {
+      "line_number": 246,
+      "internal_name": "AURORABEAM",
+      "fields": {
+        "display_name": "Rayo Aurora",
+        "description": "Rayo multicolor que puede reducir el Ataque."
+      }
+    },
+    {
+      "line_number": 247,
+      "internal_name": "GLACIATE",
+      "fields": {
+        "display_name": "Mundo Gélido",
+        "description": "Ataque con aire helado que puede bajar la Velocidad del objetivo."
+      }
+    },
+    {
+      "line_number": 248,
+      "internal_name": "ICEFANG",
+      "fields": {
+        "display_name": "Colm. Hielo",
+        "description": "Usa colmillos helados para morder. Puede hacer que el objetivo retroceda o congelarlo."
+      }
+    },
+    {
+      "line_number": 249,
+      "internal_name": "AVALANCHE",
+      "fields": {
+        "display_name": "Alud",
+        "description": "Este ataque inflige el doble de daño a un objetivo que haya golpeado al usuario en ese mismo turno."
+      }
+    },
+    {
+      "line_number": 250,
+      "internal_name": "ICYWIND",
+      "fields": {
+        "display_name": "Viento Hielo",
+        "description": "Ataque con aire helado que baja la Velocidad del objetivo."
+      }
+    },
+    {
+      "line_number": 251,
+      "internal_name": "FROSTBREATH",
+      "fields": {
+        "display_name": "Vaho Gélido",
+        "description": "Ataque con aire helado. Siempre resulta en un golpe crítico."
+      }
+    },
+    {
+      "line_number": 252,
+      "internal_name": "ICESHARD",
+      "fields": {
+        "display_name": "Canto Helado",
+        "description": "Crea bolas de hielo y las lanza a gran velocidad. Este movimiento siempre va primero."
+      }
+    },
+    {
+      "line_number": 253,
+      "internal_name": "POWDERSNOW",
+      "fields": {
+        "display_name": "Nieve Polvo",
+        "description": "Lanza nieve que puede llegar a congelar."
+      }
+    },
+    {
+      "line_number": 254,
+      "internal_name": "ICEBALL",
+      "fields": {
+        "display_name": "Bola Hielo",
+        "description": "El atacante rueda contra el objetivo durante cinco turnos"
+      }
+    },
+    {
+      "line_number": 255,
+      "internal_name": "ICICLESPEAR",
+      "fields": {
+        "display_name": "Carámbano",
+        "description": "Ataca lanzando de dos a cinco ráfagas consecutivas de carámbanos."
+      }
+    },
+    {
+      "line_number": 256,
+      "internal_name": "SHEERCOLD",
+      "fields": {
+        "display_name": "Frío Polar",
+        "description": "Ataque de frío polar que debilita al objetivo si le alcanza."
+      }
+    },
+    {
+      "line_number": 257,
+      "internal_name": "HAIL",
+      "fields": {
+        "display_name": "Granizo",
+        "description": "Tormenta de granizo que dura cinco turnos. Hiere a todos"
+      }
+    },
+    {
+      "line_number": 258,
+      "internal_name": "HAZE",
+      "fields": {
+        "display_name": "Niebla",
+        "description": "Neblina que elimina los cambios de características de todos los Pokémon en combate."
+      }
+    },
+    {
+      "line_number": 259,
+      "internal_name": "MIST",
+      "fields": {
+        "display_name": "Neblina",
+        "description": "Rodea de fina niebla al usuario y protege las características de su equipo durante cinco turnos."
+      }
+    },
+    {
+      "line_number": 260,
+      "internal_name": "EXPLOSION",
+      "fields": {
+        "display_name": "Explosión",
+        "description": "El atacante explota y hiere a todos a su alrededor. El usuario se debilita de inmediato."
+      }
+    },
+    {
+      "line_number": 261,
+      "internal_name": "SELFDESTRUCT",
+      "fields": {
+        "display_name": "Autodestru.",
+        "description": "El atacante explota y hiere a todos a su alrededor. El usuario se debilita de inmediato."
+      }
+    },
+    {
+      "line_number": 262,
+      "internal_name": "GIGAIMPACT",
+      "fields": {
+        "display_name": "Giga Impacto",
+        "description": "Carga contra el rival usando toda la fuerza que tiene. El Pokémon descansa el turno siguiente."
+      }
+    },
+    {
+      "line_number": 263,
+      "internal_name": "HYPERBEAM",
+      "fields": {
+        "display_name": "Hiperrayo",
+        "description": "Es eficaz"
+      }
+    },
+    {
+      "line_number": 264,
+      "internal_name": "LASTRESORT",
+      "fields": {
+        "display_name": "Última Baza",
+        "description": "Este movimiento solo puede usarse tras haber usado todos los demás conocidos por el Pokémon."
+      }
+    },
+    {
+      "line_number": 265,
+      "internal_name": "DOUBLEEDGE",
+      "fields": {
+        "display_name": "Doble Filo",
+        "description": "Ataque arriesgado que también hiere al agresor."
+      }
+    },
+    {
+      "line_number": 266,
+      "internal_name": "HEADCHARGE",
+      "fields": {
+        "display_name": "Ariete",
+        "description": "Propina un tremendo cabezazo. También daña al usuario un poco."
+      }
+    },
+    {
+      "line_number": 267,
+      "internal_name": "MEGAKICK",
+      "fields": {
+        "display_name": "Megapatada",
+        "description": "Patada de extrema fuerza."
+      }
+    },
+    {
+      "line_number": 268,
+      "internal_name": "THRASH",
+      "fields": {
+        "display_name": "Golpe",
+        "description": "Ataca de dos a tres turnos y acaba confundiendo al agresor."
+      }
+    },
+    {
+      "line_number": 269,
+      "internal_name": "EGGBOMB",
+      "fields": {
+        "display_name": "Bomba Huevo",
+        "description": "Arroja un huevo al objetivo con gran fuerza."
+      }
+    },
+    {
+      "line_number": 270,
+      "internal_name": "JUDGMENT",
+      "fields": {
+        "display_name": "Sentencia",
+        "description": "Emite incontables haces de luz. Varía según el tipo de Tabla que lleve el usuario."
+      }
+    },
+    {
+      "line_number": 271,
+      "internal_name": "SKULLBASH",
+      "fields": {
+        "display_name": "Cabezazo",
+        "description": "Primer turno: se prepara y sube la Defensa. Segundo turno: da el cabezazo."
+      }
+    },
+    {
+      "line_number": 272,
+      "internal_name": "HYPERVOICE",
+      "fields": {
+        "display_name": "Vozarrón",
+        "description": "Grito desgarrador que inflige daño al objetivo."
+      }
+    },
+    {
+      "line_number": 273,
+      "internal_name": "ROCKCLIMB",
+      "fields": {
+        "display_name": "Treparrocas",
+        "description": "Ataca con una gran embestida. Puede confundir al objetivo."
+      }
+    },
+    {
+      "line_number": 274,
+      "internal_name": "TAKEDOWN",
+      "fields": {
+        "display_name": "Derribo",
+        "description": "Carga desmedida que también hiere al agresor."
+      }
+    },
+    {
+      "line_number": 275,
+      "internal_name": "UPROAR",
+      "fields": {
+        "display_name": "Alboroto",
+        "description": "Ataca de forma alborotada durante tres turnos. Mantiene despiertos a todos."
+      }
+    },
+    {
+      "line_number": 276,
+      "internal_name": "BODYSLAM",
+      "fields": {
+        "display_name": "Golpe Cuerpo",
+        "description": "Salta sobre el objetivo con todo su peso. Puede paralizar."
+      }
+    },
+    {
+      "line_number": 277,
+      "internal_name": "TECHNOBLAST",
+      "fields": {
+        "display_name": "Tecno Shock",
+        "description": "Ataca al objetivo con un gran laser. El tipo del ataque lo determina el cartucho que porta el usuario."
+      }
+    },
+    {
+      "line_number": 278,
+      "internal_name": "EXTREMESPEED",
+      "fields": {
+        "display_name": "Vel. Extrema",
+        "description": "Ataque muy rápido que siempre se realiza el primero."
+      }
+    },
+    {
+      "line_number": 279,
+      "internal_name": "HYPERFANG",
+      "fields": {
+        "display_name": "Hip.Colmillo",
+        "description": "Ataque con finos colmillos. Puede causar retroceso."
+      }
+    },
+    {
+      "line_number": 280,
+      "internal_name": "MEGAPUNCH",
+      "fields": {
+        "display_name": "Megapuño",
+        "description": "Un puñetazo de gran potencia."
+      }
+    },
+    {
+      "line_number": 281,
+      "internal_name": "RAZORWIND",
+      "fields": {
+        "display_name": "V. Cortante",
+        "description": "Primer turno: prepara. Segundo turno: ataca. Suele ser crítico."
+      }
+    },
+    {
+      "line_number": 282,
+      "internal_name": "SLAM",
+      "fields": {
+        "display_name": "Atizar",
+        "description": "Golpea con las extremidades."
+      }
+    },
+    {
+      "line_number": 283,
+      "internal_name": "STRENGTH",
+      "fields": {
+        "display_name": "Fuerza",
+        "description": "Potente puñetazo. Fuera de combate sirve para mover piedras."
+      }
+    },
+    {
+      "line_number": 284,
+      "internal_name": "TRIATTACK",
+      "fields": {
+        "display_name": "Triataque",
+        "description": "Ataque triple que puede paralizar, quemar o congelar al objetivo."
+      }
+    },
+    {
+      "line_number": 285,
+      "internal_name": "CRUSHCLAW",
+      "fields": {
+        "display_name": "Garra Brutal",
+        "description": "Hace trizas al objetivo con garras afiladas y puede bajar su Defensa."
+      }
+    },
+    {
+      "line_number": 286,
+      "internal_name": "RELICSONG",
+      "fields": {
+        "display_name": "Cantoarcaico",
+        "description": "Ataca conmoviendo a los rivales de alrededor con un antiguo canto. Puede dormirlos."
+      }
+    },
+    {
+      "line_number": 287,
+      "internal_name": "CHIPAWAY",
+      "fields": {
+        "display_name": "Guardia Baja",
+        "description": "Un ataque que busca los puntos débiles del objetivo y puede causarle daño aunque cambien sus características."
+      }
+    },
+    {
+      "line_number": 288,
+      "internal_name": "DIZZYPUNCH",
+      "fields": {
+        "display_name": "Puño Mareo",
+        "description": "Rítmicos puñetazos que pueden causar confusión."
+      }
+    },
+    {
+      "line_number": 289,
+      "internal_name": "FACADE",
+      "fields": {
+        "display_name": "Imagen",
+        "description": "Ataca con el doble de potencia si el usuario está quemado, paralizado o envenenado."
+      }
+    },
+    {
+      "line_number": 290,
+      "internal_name": "HEADBUTT",
+      "fields": {
+        "display_name": "Golpe Cabeza",
+        "description": "Lanza un potente cabezazo que puede hacer retroceder al objetivo."
+      }
+    },
+    {
+      "line_number": 291,
+      "internal_name": "RETALIATE",
+      "fields": {
+        "display_name": "Represalia",
+        "description": "Venga a los amigos derrotados. Si en el turno anterior han derrotado a uno, la potencia del ataque aumentará."
+      }
+    },
+    {
+      "line_number": 292,
+      "internal_name": "SECRETPOWER",
+      "fields": {
+        "display_name": "Daño Secreto",
+        "description": "Ataque con poder secreto cuyos efectos secundarios varían según el entorno de combate."
+      }
+    },
+    {
+      "line_number": 293,
+      "internal_name": "SLASH",
+      "fields": {
+        "display_name": "Cuchillada",
+        "description": "Ataca con cuchillas o con pinzas. Suele dar un golpe crítico."
+      }
+    },
+    {
+      "line_number": 294,
+      "internal_name": "HORNATTACK",
+      "fields": {
+        "display_name": "Cornada",
+        "description": "Ataca al objetivo con una cornada."
+      }
+    },
+    {
+      "line_number": 295,
+      "internal_name": "STOMP",
+      "fields": {
+        "display_name": "Pisotón",
+        "description": "Tremendo pisotón que puede hacer retroceder al objetivo."
+      }
+    },
+    {
+      "line_number": 296,
+      "internal_name": "COVET",
+      "fields": {
+        "display_name": "Antojo",
+        "description": "Se acerca con ternura al objetivo, pero le ataca pudiendo robar el objeto que lleve."
+      }
+    },
+    {
+      "line_number": 297,
+      "internal_name": "ROUND",
+      "fields": {
+        "display_name": "Canon",
+        "description": "Un canto que ataca al objetivo. Cuantos más Pokémon lo usan"
+      }
+    },
+    {
+      "line_number": 298,
+      "internal_name": "SMELLINGSALT",
+      "fields": {
+        "display_name": "Estímulo",
+        "description": "Hace el doble de daño a objetivos paralizados, pero también cura la parálisis."
+      }
+    },
+    {
+      "line_number": 299,
+      "internal_name": "SWIFT",
+      "fields": {
+        "display_name": "Rapidez",
+        "description": "Lanza rayos en forma de estrella que no fallan nunca."
+      }
+    },
+    {
+      "line_number": 300,
+      "internal_name": "VICEGRIP",
+      "fields": {
+        "display_name": "Agarre",
+        "description": "Atrapa con potentes pinzas."
+      }
+    },
+    {
+      "line_number": 301,
+      "internal_name": "CUT",
+      "fields": {
+        "display_name": "Corte",
+        "description": "Corta con garras"
+      }
+    },
+    {
+      "line_number": 302,
+      "internal_name": "STRUGGLE",
+      "fields": {
+        "display_name": "Combate",
+        "description": "Solo se usa como último recurso al acabarse los PP. Hiere un poco al agresor."
+      }
+    },
+    {
+      "line_number": 303,
+      "internal_name": "TACKLE",
+      "fields": {
+        "display_name": "Placaje",
+        "description": "Embiste con todo el cuerpo."
+      }
+    },
+    {
+      "line_number": 304,
+      "internal_name": "WEATHERBALL",
+      "fields": {
+        "display_name": "Meteorobola",
+        "description": "El tipo y fuerza del ataque varían según el clima."
+      }
+    },
+    {
+      "line_number": 305,
+      "internal_name": "ECHOEDVOICE",
+      "fields": {
+        "display_name": "Eco Voz",
+        "description": "Un susurro que aumenta de potencia conforme el usuario y otros Pokémon lo van utilizando."
+      }
+    },
+    {
+      "line_number": 306,
+      "internal_name": "FAKEOUT",
+      "fields": {
+        "display_name": "Sorpresa",
+        "description": "Ataca primero y"
+      }
+    },
+    {
+      "line_number": 307,
+      "internal_name": "FALSESWIPE",
+      "fields": {
+        "display_name": "Falsotortazo",
+        "description": "Ataque moderado que no debilita al objetivo y le deja al menos un PS."
+      }
+    },
+    {
+      "line_number": 308,
+      "internal_name": "PAYDAY",
+      "fields": {
+        "display_name": "Día de Pago",
+        "description": "Arroja monedas al objetivo. Las recupera al final del combate."
+      }
+    },
+    {
+      "line_number": 309,
+      "internal_name": "POUND",
+      "fields": {
+        "display_name": "Destructor",
+        "description": "Golpea con las patas o la cola."
+      }
+    },
+    {
+      "line_number": 310,
+      "internal_name": "QUICKATTACK",
+      "fields": {
+        "display_name": "At. Rápido",
+        "description": "Ataque rápido que permite golpear en primer lugar."
+      }
+    },
+    {
+      "line_number": 311,
+      "internal_name": "SCRATCH",
+      "fields": {
+        "display_name": "Arañazo",
+        "description": "Araña con afiladas garras."
+      }
+    },
+    {
+      "line_number": 312,
+      "internal_name": "SNORE",
+      "fields": {
+        "display_name": "Ronquido",
+        "description": "Fuerte ronquido que debe usarse dormido. Puede hacer retroceder al objetivo."
+      }
+    },
+    {
+      "line_number": 313,
+      "internal_name": "DOUBLEHIT",
+      "fields": {
+        "display_name": "Doble Golpe",
+        "description": "Golpea al objetivo dos veces seguidas con la cola u otras partes de su cuerpo."
+      }
+    },
+    {
+      "line_number": 314,
+      "internal_name": "FEINT",
+      "fields": {
+        "display_name": "Amago",
+        "description": "Permite golpear a objetivos que usan Protección o Detección y anula dichos movimientos."
+      }
+    },
+    {
+      "line_number": 315,
+      "internal_name": "TAILSLAP",
+      "fields": {
+        "display_name": "Plumerazo",
+        "description": "Golpea con la cola u otras partes de su cuerpo de dos a cinco veces seguidas."
+      }
+    },
+    {
+      "line_number": 316,
+      "internal_name": "RAGE",
+      "fields": {
+        "display_name": "Furia",
+        "description": "Al usarse, aumenta el Ataque del usuario cada vez que es golpeado."
+      }
+    },
+    {
+      "line_number": 317,
+      "internal_name": "RAPIDSPIN",
+      "fields": {
+        "display_name": "Giro Rápido",
+        "description": "Ataque giratorio que puede eliminar movimientos como Atadura, Repetición, Drenadoras y Púas."
+      }
+    },
+    {
+      "line_number": 318,
+      "internal_name": "SPIKECANNON",
+      "fields": {
+        "display_name": "Clavo Cañón",
+        "description": "Lanza finas púas que hieren de dos a cinco veces."
+      }
+    },
+    {
+      "line_number": 319,
+      "internal_name": "COMETPUNCH",
+      "fields": {
+        "display_name": "Puño Cometa",
+        "description": "Pega de dos a cinco veces seguidas."
+      }
+    },
+    {
+      "line_number": 320,
+      "internal_name": "FURYSWIPES",
+      "fields": {
+        "display_name": "Golpes Furia",
+        "description": "Araña rápidamente de dos a cinco veces."
+      }
+    },
+    {
+      "line_number": 321,
+      "internal_name": "BARRAGE",
+      "fields": {
+        "display_name": "Presa",
+        "description": "Arroja esferas al objetivo entre dos y cinco veces seguidas."
+      }
+    },
+    {
+      "line_number": 322,
+      "internal_name": "BIND",
+      "fields": {
+        "display_name": "Atadura",
+        "description": "Ata y oprime de cuatro a cinco turnos."
+      }
+    },
+    {
+      "line_number": 323,
+      "internal_name": "DOUBLESLAP",
+      "fields": {
+        "display_name": "Doblebofetón",
+        "description": "Abofetea de dos a cinco veces seguidas."
+      }
+    },
+    {
+      "line_number": 324,
+      "internal_name": "FURYATTACK",
+      "fields": {
+        "display_name": "Ataque Furia",
+        "description": "Cornea al objetivo de dos a cinco veces."
+      }
+    },
+    {
+      "line_number": 325,
+      "internal_name": "WRAP",
+      "fields": {
+        "display_name": "Repetición",
+        "description": "Oprime al objetivo de cuatro a cinco turnos con ramas o con su cuerpo."
+      }
+    },
+    {
+      "line_number": 326,
+      "internal_name": "CONSTRICT",
+      "fields": {
+        "display_name": "Restricción",
+        "description": "Constriñe para herir y puede bajar la Velocidad."
+      }
+    },
+    {
+      "line_number": 327,
+      "internal_name": "BIDE",
+      "fields": {
+        "display_name": "Venganza",
+        "description": "Resiste 2 golpes para liberar la energia acumulada."
+      }
+    },
+    {
+      "line_number": 328,
+      "internal_name": "CRUSHGRIP",
+      "fields": {
+        "display_name": "Agarrón",
+        "description": "Estruja al objetivo con gran fuerza. Cuantos más PS le queden al objetivo"
+      }
+    },
+    {
+      "line_number": 329,
+      "internal_name": "ENDEAVOR",
+      "fields": {
+        "display_name": "Esfuerzo",
+        "description": "Reduce los PS del objetivo para que igualen a los del atacante."
+      }
+    },
+    {
+      "line_number": 330,
+      "internal_name": "FLAIL",
+      "fields": {
+        "display_name": "Azote",
+        "description": "Ataque frenético. Cuantos menos PS tenga el usuario"
+      }
+    },
+    {
+      "line_number": 331,
+      "internal_name": "FRUSTRATION",
+      "fields": {
+        "display_name": "Frustración",
+        "description": "Cuanto menor sea la amistad con el Entrenador"
+      }
+    },
+    {
+      "line_number": 332,
+      "internal_name": "GUILLOTINE",
+      "fields": {
+        "display_name": "Guillotina",
+        "description": "Ataque con pinzas que debilita al oponente de un golpe si acierta."
+      }
+    },
+    {
+      "line_number": 333,
+      "internal_name": "HIDDENPOWER",
+      "fields": {
+        "display_name": "Poder Oculto",
+        "description": "Ataque único cuyo tipo y potencia varían según el agresor."
+      }
+    },
+    {
+      "line_number": 334,
+      "internal_name": "HORNDRILL",
+      "fields": {
+        "display_name": "Perforador",
+        "description": "Ataque con taladro que fulmina en un golpe al objetivo si le toca."
+      }
+    },
+    {
+      "line_number": 335,
+      "internal_name": "NATURALGIFT",
+      "fields": {
+        "display_name": "Don Natural",
+        "description": "La Baya que lleva presta su fuerza para atacar. El tipo de ataque y su fuerza dependen de la Baya."
+      }
+    },
+    {
+      "line_number": 336,
+      "internal_name": "PRESENT",
+      "fields": {
+        "display_name": "Presente",
+        "description": "Regalo con bomba trampa. A veces restaura los PS."
+      }
+    },
+    {
+      "line_number": 337,
+      "internal_name": "RETURN",
+      "fields": {
+        "display_name": "Retribución",
+        "description": "Cuanto mayor sea la amistad con el Entrenador"
+      }
+    },
+    {
+      "line_number": 338,
+      "internal_name": "SONICBOOM",
+      "fields": {
+        "display_name": "Bomba Sónica",
+        "description": "Lanza ondas de choque que restan 20 PS al objetivo."
+      }
+    },
+    {
+      "line_number": 339,
+      "internal_name": "SPITUP",
+      "fields": {
+        "display_name": "Escupir",
+        "description": "Libera de una vez la energía acumulada con Reserva."
+      }
+    },
+    {
+      "line_number": 340,
+      "internal_name": "SUPERFANG",
+      "fields": {
+        "display_name": "Superdiente",
+        "description": "Finos colmillos que reducen a la mitad los PS del objetivo."
+      }
+    },
+    {
+      "line_number": 341,
+      "internal_name": "TRUMPCARD",
+      "fields": {
+        "display_name": "As Oculto",
+        "description": "Cuantos menos PP tenga el movimiento, mayor será la fuerza para atacar."
+      }
+    },
+    {
+      "line_number": 342,
+      "internal_name": "WRINGOUT",
+      "fields": {
+        "display_name": "Estrujón",
+        "description": "Estruja con fuerza al objetivo. Cuantos más PS tenga el objetivo, más fuerza tendrá el ataque."
+      }
+    },
+    {
+      "line_number": 343,
+      "internal_name": "ACUPRESSURE",
+      "fields": {
+        "display_name": "Acupresión",
+        "description": "La presión en puntos clave del cuerpo potencia una de sus características."
+      }
+    },
+    {
+      "line_number": 344,
+      "internal_name": "AFTERYOU",
+      "fields": {
+        "display_name": "Cede Paso",
+        "description": "Si el usuario es el más rápido"
+      }
+    },
+    {
+      "line_number": 345,
+      "internal_name": "ASSIST",
+      "fields": {
+        "display_name": "Ayuda",
+        "description": "Usa un movimiento de un miembro del equipo elegido al azar."
+      }
+    },
+    {
+      "line_number": 346,
+      "internal_name": "ATTRACT",
+      "fields": {
+        "display_name": "Atracción",
+        "description": "Si el objetivo es del sexo opuesto, se enamorará y bajará la posibilidad de que ataque."
+      }
+    },
+    {
+      "line_number": 347,
+      "internal_name": "BATONPASS",
+      "fields": {
+        "display_name": "Relevo",
+        "description": "Cambia el puesto con un compañero y le pasa los cambios de características."
+      }
+    },
+    {
+      "line_number": 348,
+      "internal_name": "BELLYDRUM",
+      "fields": {
+        "display_name": "Tambor",
+        "description": "Reduce la mitad de los PS máximos para mejorar al máximo el Ataque."
+      }
+    },
+    {
+      "line_number": 349,
+      "internal_name": "BESTOW",
+      "fields": {
+        "display_name": "Ofrenda",
+        "description": "Entrega el objeto que lleva al objetivo en caso de que este no tenga ninguno."
+      }
+    },
+    {
+      "line_number": 350,
+      "internal_name": "BLOCK",
+      "fields": {
+        "display_name": "Bloqueo",
+        "description": "Le corta el paso al objetivo para que no pueda escapar."
+      }
+    },
+    {
+      "line_number": 351,
+      "internal_name": "CAMOUFLAGE",
+      "fields": {
+        "display_name": "Camuflaje",
+        "description": "Modifica el tipo del Pokémon según el terreno de combate donde esté."
+      }
+    },
+    {
+      "line_number": 352,
+      "internal_name": "CAPTIVATE",
+      "fields": {
+        "display_name": "Seducción",
+        "description": "Si el objetivo es del sexo opuesto, queda embelesado y baja mucho su Ataque Especial."
+      }
+    },
+    {
+      "line_number": 353,
+      "internal_name": "CHARM",
+      "fields": {
+        "display_name": "Encanto",
+        "description": "Engatusa al objetivo y reduce bastante su Ataque."
+      }
+    },
+    {
+      "line_number": 354,
+      "internal_name": "CONVERSION",
+      "fields": {
+        "display_name": "Conversión",
+        "description": "Cambia el tipo del usuario por el de uno de sus movimientos."
+      }
+    },
+    {
+      "line_number": 355,
+      "internal_name": "CONVERSION2",
+      "fields": {
+        "display_name": "Conversión2",
+        "description": "El usuario cambia de tipo para hacerse resistente al último tipo de movimiento usado por el objetivo."
+      }
+    },
+    {
+      "line_number": 356,
+      "internal_name": "COPYCAT",
+      "fields": {
+        "display_name": "Copión",
+        "description": "Imita el movimiento usado justo antes. El movimiento falla si no se ha usado aún ninguno."
+      }
+    },
+    {
+      "line_number": 357,
+      "internal_name": "DEFENSECURL",
+      "fields": {
+        "display_name": "Rizo Defensa",
+        "description": "Se enrosca para ocultar su punto débil. Sube la Defensa."
+      }
+    },
+    {
+      "line_number": 358,
+      "internal_name": "DISABLE",
+      "fields": {
+        "display_name": "Anulación",
+        "description": "Desactiva el último movimiento del objetivo durante cuatro turnos."
+      }
+    },
+    {
+      "line_number": 359,
+      "internal_name": "DOUBLETEAM",
+      "fields": {
+        "display_name": "Doble Equipo",
+        "description": "Crea copias de sí mismo para mejorar la Evasión."
+      }
+    },
+    {
+      "line_number": 360,
+      "internal_name": "ENCORE",
+      "fields": {
+        "display_name": "Otra Vez",
+        "description": "El objetivo repite su último movimiento durante tres turnos."
+      }
+    },
+    {
+      "line_number": 361,
+      "internal_name": "ENDURE",
+      "fields": {
+        "display_name": "Aguante",
+        "description": "Resiste cualquier ataque y deja al menos un PS. Puede fallar si se usa repetidamente."
+      }
+    },
+    {
+      "line_number": 362,
+      "internal_name": "ENTRAINMENT",
+      "fields": {
+        "display_name": "Danza Amiga",
+        "description": "Una extraña danza que hace que el usuario y el objetivo tengan la misma habilidad."
+      }
+    },
+    {
+      "line_number": 363,
+      "internal_name": "FLASH",
+      "fields": {
+        "display_name": "Destello",
+        "description": "Luz cegadora que baja la Precisión del objetivo. Fuera de combate sirve para iluminar."
+      }
+    },
+    {
+      "line_number": 364,
+      "internal_name": "FOCUSENERGY",
+      "fields": {
+        "display_name": "Foco Energía",
+        "description": "Concentra energía para aumentar las posibilidades de un golpe crítico."
+      }
+    },
+    {
+      "line_number": 365,
+      "internal_name": "FOLLOWME",
+      "fields": {
+        "display_name": "Señuelo",
+        "description": "Llama la atención para concentrar todos los ataques de todos los del equipo rival hacia sí mismo."
+      }
+    },
+    {
+      "line_number": 366,
+      "internal_name": "FORESIGHT",
+      "fields": {
+        "display_name": "Profecía",
+        "description": "Permite atacar con cualquier movimiento a objetivos de tipo Fantasma y golpear a Pokémon evasivos."
+      }
+    },
+    {
+      "line_number": 367,
+      "internal_name": "GLARE",
+      "fields": {
+        "display_name": "Deslumbrar",
+        "description": "Intimida y asusta al objetivo con la mirada para dejarlo paralizado."
+      }
+    },
+    {
+      "line_number": 368,
+      "internal_name": "GROWL",
+      "fields": {
+        "display_name": "Gruñido",
+        "description": "Dulce gruñido que reduce el Ataque del contrincante."
+      }
+    },
+    {
+      "line_number": 369,
+      "internal_name": "GROWTH",
+      "fields": {
+        "display_name": "Desarrollo",
+        "description": "El cuerpo del usuario crece a marchas forzadas y aumenta el Ataque y el Ataque Especi."
+      }
+    },
+    {
+      "line_number": 370,
+      "internal_name": "HARDEN",
+      "fields": {
+        "display_name": "Fortaleza",
+        "description": "Tensa la musculatura del usuario para aumentar la Defensa."
+      }
+    },
+    {
+      "line_number": 371,
+      "internal_name": "HEALBELL",
+      "fields": {
+        "display_name": "Campana Cura",
+        "description": "Tañido que cura los problemas de estado de todos los Pokémon del equipo."
+      }
+    },
+    {
+      "line_number": 372,
+      "internal_name": "HELPINGHAND",
+      "fields": {
+        "display_name": "Refuerzo",
+        "description": "El usuario ayuda a un aliado reforzando la potencia de su ataque."
+      }
+    },
+    {
+      "line_number": 373,
+      "internal_name": "HOWL",
+      "fields": {
+        "display_name": "Aullido",
+        "description": "Aullido que sube el ánimo y aumenta el Ataque."
+      }
+    },
+    {
+      "line_number": 374,
+      "internal_name": "LEER",
+      "fields": {
+        "display_name": "Malicioso",
+        "description": "Intimida al objetivo para bajar su Defensa."
+      }
+    },
+    {
+      "line_number": 375,
+      "internal_name": "LOCKON",
+      "fields": {
+        "display_name": "Fijar Blanco",
+        "description": "Fija el blanco para que el siguiente ataque no falle."
+      }
+    },
+    {
+      "line_number": 376,
+      "internal_name": "LOVELYKISS",
+      "fields": {
+        "display_name": "Beso Amoroso",
+        "description": "Con una cara que asusta, da un beso al objetivo y lo adormece."
+      }
+    },
+    {
+      "line_number": 377,
+      "internal_name": "LUCKYCHANT",
+      "fields": {
+        "display_name": "Conjuro",
+        "description": "Lanza al cielo un conjuro que impide al objetivo asestar golpes críticos."
+      }
+    },
+    {
+      "line_number": 378,
+      "internal_name": "MEFIRST",
+      "fields": {
+        "display_name": "Yo Primero",
+        "description": "Se adelanta al movimiento que pretende usar el objetivo y lo lanza antes con más fuerza. Si el usuario es más lento"
+      }
+    },
+    {
+      "line_number": 379,
+      "internal_name": "MEANLOOK",
+      "fields": {
+        "display_name": "Mal de Ojo",
+        "description": "Impide al objetivo huir de la batalla."
+      }
+    },
+    {
+      "line_number": 380,
+      "internal_name": "METRONOME",
+      "fields": {
+        "display_name": "Metrónomo",
+        "description": "El usuario mueve un dedo y estimula su cerebro para usar al azar casi cualquier movimiento."
+      }
+    },
+    {
+      "line_number": 381,
+      "internal_name": "MILKDRINK",
+      "fields": {
+        "display_name": "Batido",
+        "description": "Restaura la mitad de los PS máximos del usuario. Fuera de combate se usa para transferir parte de sus PS a un aliado."
+      }
+    },
+    {
+      "line_number": 382,
+      "internal_name": "MIMIC",
+      "fields": {
+        "display_name": "Mimético",
+        "description": "Copia el último movimiento usado por el objetivo. Dicho movimiento se podrá usar mientras el Pokémon no sea cambiado."
+      }
+    },
+    {
+      "line_number": 383,
+      "internal_name": "MINDREADER",
+      "fields": {
+        "display_name": "Telépata",
+        "description": "El usuario adivina los movimientos del objetivo para hacer que su siguiente ataque no falle."
+      }
+    },
+    {
+      "line_number": 384,
+      "internal_name": "MINIMIZE",
+      "fields": {
+        "display_name": "Reducción",
+        "description": "El usuario mengua para aumentar mucho la Evasión."
+      }
+    },
+    {
+      "line_number": 385,
+      "internal_name": "MOONLIGHT",
+      "fields": {
+        "display_name": "Luz Lunar",
+        "description": "Restaura PS del usuario. La cantidad varía según el tiempo que haga."
+      }
+    },
+    {
+      "line_number": 386,
+      "internal_name": "MORNINGSUN",
+      "fields": {
+        "display_name": "Sol Matinal",
+        "description": "Restaura PS del usuario. La cantidad varía según el tiempo que haga."
+      }
+    },
+    {
+      "line_number": 387,
+      "internal_name": "NATUREPOWER",
+      "fields": {
+        "display_name": "Adaptación",
+        "description": "Usa el poder de la naturaleza. Su efecto varía según el entorno de combate."
+      }
+    },
+    {
+      "line_number": 388,
+      "internal_name": "ODORSLEUTH",
+      "fields": {
+        "display_name": "Rastreo",
+        "description": "Permite atacar con cualquier movimiento a objetivos de tipo Fantasma y golpear a Pokémon evasivos."
+      }
+    },
+    {
+      "line_number": 389,
+      "internal_name": "PAINSPLIT",
+      "fields": {
+        "display_name": "Divide Dolor",
+        "description": "Suma los PS del usuario a los del objetivo y los reparte a partes iguales."
+      }
+    },
+    {
+      "line_number": 390,
+      "internal_name": "PERISHSONG",
+      "fields": {
+        "display_name": "Canto Mortal",
+        "description": "Si un Pokémon escucha este canto y no es cambiado por otro en tres turnos, acaba debilitándose."
+      }
+    },
+    {
+      "line_number": 391,
+      "internal_name": "PROTECT",
+      "fields": {
+        "display_name": "Protección",
+        "description": "Frena todos los ataques"
+      }
+    },
+    {
+      "line_number": 392,
+      "internal_name": "PSYCHUP",
+      "fields": {
+        "display_name": "Más Psique",
+        "description": "Quien lo usa se hipnotiza y copia cualquier cambio que haya en las características de su objetivo."
+      }
+    },
+    {
+      "line_number": 393,
+      "internal_name": "RECOVER",
+      "fields": {
+        "display_name": "Recuperación",
+        "description": "Restaura hasta la mitad de los PS máximos."
+      }
+    },
+    {
+      "line_number": 394,
+      "internal_name": "RECYCLE",
+      "fields": {
+        "display_name": "Reciclaje",
+        "description": "Recicla y así recupera el objeto equipado de un solo uso que ya ha sido empleado en el combate."
+      }
+    },
+    {
+      "line_number": 395,
+      "internal_name": "REFLECTTYPE",
+      "fields": {
+        "display_name": "Clonatipo",
+        "description": "Cambia el tipo del Pokémon al mismo tipo que el del objetivo."
+      }
+    },
+    {
+      "line_number": 396,
+      "internal_name": "REFRESH",
+      "fields": {
+        "display_name": "Alivio",
+        "description": "Descansa para curar parálisis, envenenamiento o quemaduras.."
+      }
+    },
+    {
+      "line_number": 397,
+      "internal_name": "ROAR",
+      "fields": {
+        "display_name": "Rugido",
+        "description": "Se lleva al objetivo, que es cambiado por otro Pokémon. Si es un Pokémon salvaje, acaba el combate."
+      }
+    },
+    {
+      "line_number": 398,
+      "internal_name": "SAFEGUARD",
+      "fields": {
+        "display_name": "Velo Sagrado",
+        "description": "Crea un campo protector que evita problemas de estado durante cinco turnos."
+      }
+    },
+    {
+      "line_number": 399,
+      "internal_name": "SCARYFACE",
+      "fields": {
+        "display_name": "Cara Susto",
+        "description": "Asusta al objetivo para reducir mucho su Velocidad."
+      }
+    },
+    {
+      "line_number": 400,
+      "internal_name": "SCREECH",
+      "fields": {
+        "display_name": "Chirrido",
+        "description": "Alarido agudo que reduce mucho la Defensa del objetivo."
+      }
+    },
+    {
+      "line_number": 401,
+      "internal_name": "SHARPEN",
+      "fields": {
+        "display_name": "Afilar",
+        "description": "El perfil del usuario se hace más afilado y su Ataque mejora."
+      }
+    },
+    {
+      "line_number": 402,
+      "internal_name": "SHELLSMASH",
+      "fields": {
+        "display_name": "Rompecoraza",
+        "description": "El usuario rompe su coraza y baja su Defensa y Def. Esp., pero aumenta mucho su Ataque, Ataque Especial y Velocidad."
+      }
+    },
+    {
+      "line_number": 403,
+      "internal_name": "SIMPLEBEAM",
+      "fields": {
+        "display_name": "Onda Simple",
+        "description": "Cambia la habilidad del objetivo a Simple."
+      }
+    },
+    {
+      "line_number": 404,
+      "internal_name": "SING",
+      "fields": {
+        "display_name": "Canto",
+        "description": "Cancioncilla que hace dormir profundamente al objetivo."
+      }
+    },
+    {
+      "line_number": 405,
+      "internal_name": "SKETCH",
+      "fields": {
+        "display_name": "Esquema",
+        "description": "Aprende de forma permanente el último movimiento del objetivo. Es de un solo uso."
+      }
+    },
+    {
+      "line_number": 406,
+      "internal_name": "SLACKOFF",
+      "fields": {
+        "display_name": "Relajo",
+        "description": "El usuario se relaja y restaura la mitad de sus PS máximos."
+      }
+    },
+    {
+      "line_number": 407,
+      "internal_name": "SLEEPTALK",
+      "fields": {
+        "display_name": "Sonámbulo",
+        "description": "Mientras duerme, usa uno de sus movimientos elegido al azar."
+      }
+    },
+    {
+      "line_number": 408,
+      "internal_name": "SMOKESCREEN",
+      "fields": {
+        "display_name": "Pantallahumo",
+        "description": "Baja la Precisión del objetivo con una nube de humo o tinta."
+      }
+    },
+    {
+      "line_number": 409,
+      "internal_name": "SOFTBOILED",
+      "fields": {
+        "display_name": "Amortiguador",
+        "description": "Restaura la mitad de los PS máximos del usuario. Fuera de combate se usa para transferir parte de sus PS a un aliado."
+      }
+    },
+    {
+      "line_number": 410,
+      "internal_name": "SPLASH",
+      "fields": {
+        "display_name": "Salpicadura",
+        "description": "No tiene ningún efecto. Solo salpica."
+      }
+    },
+    {
+      "line_number": 411,
+      "internal_name": "STOCKPILE",
+      "fields": {
+        "display_name": "Reserva",
+        "description": "Acumula energía y sube la Defensa y la Defensa Especial. Puede utilizarse hasta tres veces."
+      }
+    },
+    {
+      "line_number": 412,
+      "internal_name": "SUBSTITUTE",
+      "fields": {
+        "display_name": "Sustituto",
+        "description": "Utiliza parte de los PS propios para crear un sustituto que actúa como señuelo."
+      }
+    },
+    {
+      "line_number": 413,
+      "internal_name": "SUPERSONIC",
+      "fields": {
+        "display_name": "Supersónico",
+        "description": "Raras ondas sónicas que pueden confundir al objetivo."
+      }
+    },
+    {
+      "line_number": 414,
+      "internal_name": "SWAGGER",
+      "fields": {
+        "display_name": "Contoneo",
+        "description": "Provoca confusión en el objetivo, pero también sube mucho su Ataque."
+      }
+    },
+    {
+      "line_number": 415,
+      "internal_name": "SWALLOW",
+      "fields": {
+        "display_name": "Tragar",
+        "description": "Absorbe la energía acumulada con Reserva y restaura PS."
+      }
+    },
+    {
+      "line_number": 416,
+      "internal_name": "SWEETKISS",
+      "fields": {
+        "display_name": "Beso Dulce",
+        "description": "Da un beso con tal dulzura que causa confusión."
+      }
+    },
+    {
+      "line_number": 417,
+      "internal_name": "SWEETSCENT",
+      "fields": {
+        "display_name": "Dulce Aroma",
+        "description": "Engatusa al rival para reducir su evasión. También atrae Pokémon salvajes."
+      }
+    },
+    {
+      "line_number": 418,
+      "internal_name": "SWORDSDANCE",
+      "fields": {
+        "display_name": "Danza Espada",
+        "description": "Baile frenético que aumenta mucho el Ataque."
+      }
+    },
+    {
+      "line_number": 419,
+      "internal_name": "TAILWHIP",
+      "fields": {
+        "display_name": "Látigo",
+        "description": "Agita la cola para bajar la Defensa del contrincante."
+      }
+    },
+    {
+      "line_number": 420,
+      "internal_name": "TEETERDANCE",
+      "fields": {
+        "display_name": "Danza Caos",
+        "description": "Danza histérica que confunde a los Pokémon que están alrededor del usuario."
+      }
+    },
+    {
+      "line_number": 421,
+      "internal_name": "TICKLE",
+      "fields": {
+        "display_name": "Cosquillas",
+        "description": "Hace reír al objetivo para bajar el Ataque y la Defensa."
+      }
+    },
+    {
+      "line_number": 422,
+      "internal_name": "TRANSFORM",
+      "fields": {
+        "display_name": "Transform.",
+        "description": "El usuario se transforma en una copia del objetivo"
+      }
+    },
+    {
+      "line_number": 423,
+      "internal_name": "WHIRLWIND",
+      "fields": {
+        "display_name": "Remolino",
+        "description": "Se lleva al rival, que es cambiado por otro Pokémon. Si es un Pokémon salvaje, acaba el combate."
+      }
+    },
+    {
+      "line_number": 424,
+      "internal_name": "WISH",
+      "fields": {
+        "display_name": "Deseo",
+        "description": "Cumple el deseo de restaurar la mitad de los PS máximos en el siguiente turno."
+      }
+    },
+    {
+      "line_number": 425,
+      "internal_name": "WORKUP",
+      "fields": {
+        "display_name": "Avivar",
+        "description": "Movimiento que aumenta el Ataque y el Ataque Especial de quien lo usa."
+      }
+    },
+    {
+      "line_number": 426,
+      "internal_name": "YAWN",
+      "fields": {
+        "display_name": "Bostezo",
+        "description": "Gran bostezo que induce al sueño al objetivo en el siguiente turno."
+      }
+    },
+    {
+      "line_number": 427,
+      "internal_name": "GUNKSHOT",
+      "fields": {
+        "display_name": "Lanza Mugre",
+        "description": "Lanza contra el objetivo asquerosa basura. Puede envenenar al objetivo."
+      }
+    },
+    {
+      "line_number": 428,
+      "internal_name": "SLUDGEWAVE",
+      "fields": {
+        "display_name": "Onda Tóxica",
+        "description": "Una onda tóxica que daña a los Pokémon de alrededor. Puede envenenar."
+      }
+    },
+    {
+      "line_number": 429,
+      "internal_name": "SLUDGEBOMB",
+      "fields": {
+        "display_name": "Bomba Lodo",
+        "description": "Arroja residuos al objetivo. Puede llegar a envenenar."
+      }
+    },
+    {
+      "line_number": 430,
+      "internal_name": "POISONJAB",
+      "fields": {
+        "display_name": "Puya Nociva",
+        "description": "Pincha al rival con un tentáculo o brazo envenenado. Puede llegar a envenenar al rival."
+      }
+    },
+    {
+      "line_number": 431,
+      "internal_name": "CROSSPOISON",
+      "fields": {
+        "display_name": "Veneno X",
+        "description": "Tajo que puede envenenar al objetivo. Suele ser crítico."
+      }
+    },
+    {
+      "line_number": 432,
+      "internal_name": "SLUDGE",
+      "fields": {
+        "display_name": "Residuos",
+        "description": "Arroja residuos al objetivo. Puede llegar a envenenar."
+      }
+    },
+    {
+      "line_number": 433,
+      "internal_name": "VENOSHOCK",
+      "fields": {
+        "display_name": "Cargatóxica",
+        "description": "Ataca cubriendo al objetivo con un líquido venenoso. El daño será doble si este ya está envenenado."
+      }
+    },
+    {
+      "line_number": 434,
+      "internal_name": "CLEARSMOG",
+      "fields": {
+        "display_name": "Nieblaclara",
+        "description": "Ataca al objetivo con una extraña niebla que elimina sus cambios de características."
+      }
+    },
+    {
+      "line_number": 435,
+      "internal_name": "POISONFANG",
+      "fields": {
+        "display_name": "Colmillo Ven",
+        "description": "Colmillos tóxicos que pueden envenenar gravemente al objetivo."
+      }
+    },
+    {
+      "line_number": 436,
+      "internal_name": "POISONTAIL",
+      "fields": {
+        "display_name": "Cola Veneno",
+        "description": "Puede envenenar y dar un golpe crítico."
+      }
+    },
+    {
+      "line_number": 437,
+      "internal_name": "ACID",
+      "fields": {
+        "display_name": "Ácido",
+        "description": "Rocía con un ácido corrosivo. Puede bajar la Defensa Especial."
+      }
+    },
+    {
+      "line_number": 438,
+      "internal_name": "ACIDSPRAY",
+      "fields": {
+        "display_name": "Bomba Ácida",
+        "description": "Ataca con un líquido corrosivo"
+      }
+    },
+    {
+      "line_number": 439,
+      "internal_name": "SMOG",
+      "fields": {
+        "display_name": "Polución",
+        "description": "El objetivo es atacado con gases tóxicos que pueden llegar a envenenar."
+      }
+    },
+    {
+      "line_number": 440,
+      "internal_name": "POISONSTING",
+      "fields": {
+        "display_name": "Picotazo Ven",
+        "description": "Lanza un aguijón tóxico que puede envenenar al objetivo."
+      }
+    },
+    {
+      "line_number": 441,
+      "internal_name": "ACIDARMOR",
+      "fields": {
+        "display_name": "Armad. Ácida",
+        "description": "Transforma la estructura celular para hacerse líquido y aumenta mucho la Defensa."
+      }
+    },
+    {
+      "line_number": 442,
+      "internal_name": "COIL",
+      "fields": {
+        "display_name": "Enrosque",
+        "description": "El usuario se concentra"
+      }
+    },
+    {
+      "line_number": 443,
+      "internal_name": "GASTROACID",
+      "fields": {
+        "display_name": "Bilis",
+        "description": "El usuario arroja sus jugos biliares al objetivo"
+      }
+    },
+    {
+      "line_number": 444,
+      "internal_name": "POISONGAS",
+      "fields": {
+        "display_name": "Gas Venenoso",
+        "description": "Lanza una nube de gas tóxico al objetivo. Produce envenenamiento."
+      }
+    },
+    {
+      "line_number": 445,
+      "internal_name": "POISONPOWDER",
+      "fields": {
+        "display_name": "Polvo Veneno",
+        "description": "Polvo tóxico que envenena al objetivo."
+      }
+    },
+    {
+      "line_number": 446,
+      "internal_name": "TOXIC",
+      "fields": {
+        "display_name": "Tóxico",
+        "description": "Envenena gravemente al objetivo y causa un daño mayor en cada turno."
+      }
+    },
+    {
+      "line_number": 447,
+      "internal_name": "TOXICSPIKES",
+      "fields": {
+        "display_name": "Púas Tóxicas",
+        "description": "Lanza una trampa de púas tóxicas a los pies del objetivo. El veneno afecta a los Pokémon que entran."
+      }
+    },
+    {
+      "line_number": 448,
+      "internal_name": "PSYCHOBOOST",
+      "fields": {
+        "display_name": "Psicoataque",
+        "description": "Ataque en toda regla que baja mucho el Ataque Especial de quien lo usa."
+      }
+    },
+    {
+      "line_number": 449,
+      "internal_name": "DREAMEATER",
+      "fields": {
+        "display_name": "Come Sueños",
+        "description": "Restaura al usuario la mitad del daño causado a un objetivo dormido."
+      }
+    },
+    {
+      "line_number": 450,
+      "internal_name": "FUTURESIGHT",
+      "fields": {
+        "display_name": "Premonición",
+        "description": "Concentra energía psíquica para golpear al objetivo dos turnos después."
+      }
+    },
+    {
+      "line_number": 451,
+      "internal_name": "PSYSTRIKE",
+      "fields": {
+        "display_name": "Onda Mental",
+        "description": "Crea una onda psíquica que golpea al objetivo provocándole un daño físico."
+      }
+    },
+    {
+      "line_number": 452,
+      "internal_name": "PSYCHIC",
+      "fields": {
+        "display_name": "Psíquico",
+        "description": "Fuerte ataque telequinético que puede bajar la Defensa Especial del objetivo."
+      }
+    },
+    {
+      "line_number": 453,
+      "internal_name": "EXTRASENSORY",
+      "fields": {
+        "display_name": "Paranormal",
+        "description": "Energía muy extraña que puede hacer retroceder al objetivo."
+      }
+    },
+    {
+      "line_number": 454,
+      "internal_name": "PSYSHOCK",
+      "fields": {
+        "display_name": "Psicocarga",
+        "description": "Crea una onda psíquica que golpea al objetivo y provoca un gran daño."
+      }
+    },
+    {
+      "line_number": 455,
+      "internal_name": "ZENHEADBUTT",
+      "fields": {
+        "display_name": "Cabezazo Zen",
+        "description": "Concentra su energía psíquica en la cabeza para golpear. Puede hacer que el objetivo retroceda."
+      }
+    },
+    {
+      "line_number": 456,
+      "internal_name": "LUSTERPURGE",
+      "fields": {
+        "display_name": "Resplandor",
+        "description": "Fogonazo de luz que puede bajar la Defensa Especial del objetivo."
+      }
+    },
+    {
+      "line_number": 457,
+      "internal_name": "MISTBALL",
+      "fields": {
+        "display_name": "Bola Neblina",
+        "description": "Banco de niebla que puede bajar el Ataque Especial del objetivo."
+      }
+    },
+    {
+      "line_number": 458,
+      "internal_name": "PSYCHOCUT",
+      "fields": {
+        "display_name": "Psico-corte",
+        "description": "Ataca al objetivo con cuchillas formadas por energía psíquica. Suele ser crítico."
+      }
+    },
+    {
+      "line_number": 459,
+      "internal_name": "SYNCHRONOISE",
+      "fields": {
+        "display_name": "Sincrorruido",
+        "description": "Una extraña onda que daña a todos los Pokémon adyacentes del mismo tipo que el que la ejecuta."
+      }
+    },
+    {
+      "line_number": 460,
+      "internal_name": "PSYBEAM",
+      "fields": {
+        "display_name": "Psicorrayo",
+        "description": "Extraño rayo que puede causar confusión."
+      }
+    },
+    {
+      "line_number": 461,
+      "internal_name": "HEARTSTAMP",
+      "fields": {
+        "display_name": "Arrumaco",
+        "description": "Grácil gesto que asesta un golpe tremendo al objetivo y puede hacerlo retroceder."
+      }
+    },
+    {
+      "line_number": 462,
+      "internal_name": "CONFUSION",
+      "fields": {
+        "display_name": "Confusión",
+        "description": "Débil ataque telequinético que puede causar confusión."
+      }
+    },
+    {
+      "line_number": 463,
+      "internal_name": "MIRRORCOAT",
+      "fields": {
+        "display_name": "Manto Espejo",
+        "description": "Responde a un ataque especial ocasionando el doble del daño recibido."
+      }
+    },
+    {
+      "line_number": 464,
+      "internal_name": "PSYWAVE",
+      "fields": {
+        "display_name": "Psicoonda",
+        "description": "Ataque con una onda de energía de intensidad variable."
+      }
+    },
+    {
+      "line_number": 465,
+      "internal_name": "STOREDPOWER",
+      "fields": {
+        "display_name": "Poderreserva",
+        "description": "Acumula poder para golpear. Cuanto más suban las características del usuario, mayor será el daño."
+      }
+    },
+    {
+      "line_number": 466,
+      "internal_name": "AGILITY",
+      "fields": {
+        "display_name": "Agilidad",
+        "description": "Relaja el cuerpo para ganar mucha Velocidad."
+      }
+    },
+    {
+      "line_number": 467,
+      "internal_name": "ALLYSWITCH",
+      "fields": {
+        "display_name": "Cambio Banda",
+        "description": "Un extraño poder que intercambia las posiciones del usuario y un aliado sobre el terreno de combate."
+      }
+    },
+    {
+      "line_number": 468,
+      "internal_name": "AMNESIA",
+      "fields": {
+        "display_name": "Amnesia",
+        "description": "El usuario olvida sus preocupaciones y aumenta mucho la Defensa Especial."
+      }
+    },
+    {
+      "line_number": 469,
+      "internal_name": "BARRIER",
+      "fields": {
+        "display_name": "Barrera",
+        "description": "Crea una barrera para aumentar mucho la Defensa."
+      }
+    },
+    {
+      "line_number": 470,
+      "internal_name": "CALMMIND",
+      "fields": {
+        "display_name": "Paz Mental",
+        "description": "Aumenta la concentración y calma el espíritu para subir el Ataque Especial y la Defensa Especial."
+      }
+    },
+    {
+      "line_number": 471,
+      "internal_name": "COSMICPOWER",
+      "fields": {
+        "display_name": "Masa Cósmica",
+        "description": "Sube la Defensa y la Defensa Especial propias con energía mística."
+      }
+    },
+    {
+      "line_number": 472,
+      "internal_name": "GRAVITY",
+      "fields": {
+        "display_name": "Gravedad",
+        "description": "La gravedad aumenta durante cinco turnos, lo que impide acciones que impliquen volar o levitar."
+      }
+    },
+    {
+      "line_number": 473,
+      "internal_name": "GUARDSPLIT",
+      "fields": {
+        "display_name": "Isoguardia",
+        "description": "El usuario emplea sus poderes para hacer la media de su Defensa y Defensa Especial con las de su objetivo y compartirlas."
+      }
+    },
+    {
+      "line_number": 474,
+      "internal_name": "GUARDSWAP",
+      "fields": {
+        "display_name": "Cambia Def.",
+        "description": "El usuario emplea su poder mental para intercambiar los cambios en Defensa y Defensa Especial con el objetivo."
+      }
+    },
+    {
+      "line_number": 475,
+      "internal_name": "HEALBLOCK",
+      "fields": {
+        "display_name": "Anticura",
+        "description": "Impide al objetivo usar movimientos, habilidades y objetos equipados que recuperan PS durante cinco turnos."
+      }
+    },
+    {
+      "line_number": 476,
+      "internal_name": "HEALPULSE",
+      "fields": {
+        "display_name": "Pulso Cura",
+        "description": "Una onda curativa restaura los PS del objetivo a la mitad de su máximo."
+      }
+    },
+    {
+      "line_number": 477,
+      "internal_name": "HEALINGWISH",
+      "fields": {
+        "display_name": "Deseo Cura",
+        "description": "El Pokémon cae debilitado, pero su sustituto recupera su estado y los PS."
+      }
+    },
+    {
+      "line_number": 478,
+      "internal_name": "HEARTSWAP",
+      "fields": {
+        "display_name": "Cambia Almas",
+        "description": "Usa la fuerza mental para intercambiar con el objetivo los cambios en las características."
+      }
+    },
+    {
+      "line_number": 479,
+      "internal_name": "HYPNOSIS",
+      "fields": {
+        "display_name": "Hipnosis",
+        "description": "Ataque hipnótico que hace dormir profundamente al objetivo."
+      }
+    },
+    {
+      "line_number": 480,
+      "internal_name": "IMPRISON",
+      "fields": {
+        "display_name": "Sellar",
+        "description": "Impide a los contrincantes usar ataques conocidos por el usuario durante el combate."
+      }
+    },
+    {
+      "line_number": 481,
+      "internal_name": "KINESIS",
+      "fields": {
+        "display_name": "Kinético",
+        "description": "Dobla una cuchara para distraer al objetivo y bajar su nivel de Precisión."
+      }
+    },
+    {
+      "line_number": 482,
+      "internal_name": "LIGHTSCREEN",
+      "fields": {
+        "display_name": "Pantalla Luz",
+        "description": "Pared de luz que reduce durante cinco turnos el daño producido por los ataques especiales."
+      }
+    },
+    {
+      "line_number": 483,
+      "internal_name": "LUNARDANCE",
+      "fields": {
+        "display_name": "Danza Lunar",
+        "description": "El usuario se debilita, pero el Pokémon que lo sustituye recupera su estado, los PS y los PP."
+      }
+    },
+    {
+      "line_number": 484,
+      "internal_name": "MAGICCOAT",
+      "fields": {
+        "display_name": "Capa Mágica",
+        "description": "Barrera capaz de devolver al agresor movimientos como Drenadoras y que alteran el estado."
+      }
+    },
+    {
+      "line_number": 485,
+      "internal_name": "MAGICROOM",
+      "fields": {
+        "display_name": "Zona Mágica",
+        "description": "Crea un espacio misterioso que inutiliza todos los objetos de los Pokémon durante cinco turnos."
+      }
+    },
+    {
+      "line_number": 486,
+      "internal_name": "MEDITATE",
+      "fields": {
+        "display_name": "Meditación",
+        "description": "El usuario reposa y medita para potenciar el Ataque."
+      }
+    },
+    {
+      "line_number": 487,
+      "internal_name": "MIRACLEEYE",
+      "fields": {
+        "display_name": "Gran Ojo",
+        "description": "Permite atacar con cualquier movimiento a objetivos de tipo Siniestro y golpear a Pokémon evasivos."
+      }
+    },
+    {
+      "line_number": 488,
+      "internal_name": "POWERSPLIT",
+      "fields": {
+        "display_name": "Isofuerza",
+        "description": "El usuario emplea sus poderes para hacer la media de su Ataque y Ataque Especial con los de su objetivo y compartirlos."
+      }
+    },
+    {
+      "line_number": 489,
+      "internal_name": "POWERSWAP",
+      "fields": {
+        "display_name": "Cambia Fue.",
+        "description": "El usuario emplea su poder mental para intercambiar los cambios en Ataque y Ataque Especial con el objetivo."
+      }
+    },
+    {
+      "line_number": 490,
+      "internal_name": "POWERTRICK",
+      "fields": {
+        "display_name": "Truco Fuerza",
+        "description": "Usa sus poderes mentales para intercambiar su característica de Ataque por Defensa."
+      }
+    },
+    {
+      "line_number": 491,
+      "internal_name": "PSYCHOSHIFT",
+      "fields": {
+        "display_name": "Psico-cambio",
+        "description": "Usa su poder mental para transferir al objetivo sus problemas de estado."
+      }
+    },
+    {
+      "line_number": 492,
+      "internal_name": "REFLECT",
+      "fields": {
+        "display_name": "Reflejo",
+        "description": "Pared de luz que reduce durante cinco turnos el daño producido por los ataques físicos."
+      }
+    },
+    {
+      "line_number": 493,
+      "internal_name": "REST",
+      "fields": {
+        "display_name": "Descanso",
+        "description": "Restaura todos los PS y cura todos los problemas de estado del usuario. Duerme los dos próximos turnos."
+      }
+    },
+    {
+      "line_number": 494,
+      "internal_name": "ROLEPLAY",
+      "fields": {
+        "display_name": "Imitación",
+        "description": "Imita al objetivo por completo y copia su habilidad."
+      }
+    },
+    {
+      "line_number": 495,
+      "internal_name": "SKILLSWAP",
+      "fields": {
+        "display_name": "Intercambio",
+        "description": "Usa el poder psíquico para intercambiar habilidades con el objetivo."
+      }
+    },
+    {
+      "line_number": 496,
+      "internal_name": "TELEKINESIS",
+      "fields": {
+        "display_name": "Telequinesis",
+        "description": "El usuario emplea su poder mental para hacer flotar al objetivo"
+      }
+    },
+    {
+      "line_number": 497,
+      "internal_name": "TELEPORT",
+      "fields": {
+        "display_name": "Teletransp.",
+        "description": "Permite huir al instante o viajar al último Centro Pokémon visitado."
+      }
+    },
+    {
+      "line_number": 498,
+      "internal_name": "TRICK",
+      "fields": {
+        "display_name": "Truco",
+        "description": "Engaña al objetivo desprevenido e intercambia objetos."
+      }
+    },
+    {
+      "line_number": 499,
+      "internal_name": "TRICKROOM",
+      "fields": {
+        "display_name": "Espacio Raro",
+        "description": "Se crea un espacio extraño en el que los Pokémon lentos se mueven primero durante cinco turnos."
+      }
+    },
+    {
+      "line_number": 500,
+      "internal_name": "WONDERROOM",
+      "fields": {
+        "display_name": "Zona Extraña",
+        "description": "Crea una zona misteriosa donde se intercambian la Defensa y Def. Especial en todos los Pokémon por cinco turnos."
+      }
+    },
+    {
+      "line_number": 501,
+      "internal_name": "HEADSMASH",
+      "fields": {
+        "display_name": "Testarazo",
+        "description": "El usuario arriesga su vida y lanza un cabezazo con toda su fuerza. El agresor resulta seriamente dañado."
+      }
+    },
+    {
+      "line_number": 502,
+      "internal_name": "ROCKWRECKER",
+      "fields": {
+        "display_name": "Romperrocas",
+        "description": "Lanza una piedra enorme contra el objetivo, pero tiene que descansar el siguiente turno."
+      }
+    },
+    {
+      "line_number": 503,
+      "internal_name": "STONEEDGE",
+      "fields": {
+        "display_name": "Roca Afilada",
+        "description": "Clava piedras muy afiladas al objetivo. Suele ser crítico."
+      }
+    },
+    {
+      "line_number": 504,
+      "internal_name": "ROCKSLIDE",
+      "fields": {
+        "display_name": "Avalancha",
+        "description": "Lanza grandes pedruscos. Puede hacer retroceder al objetivo."
+      }
+    },
+    {
+      "line_number": 505,
+      "internal_name": "POWERGEM",
+      "fields": {
+        "display_name": "Joya de Luz",
+        "description": "Ataca con un rayo de luz que centellea como si lo formaran miles de joyas."
+      }
+    },
+    {
+      "line_number": 506,
+      "internal_name": "ANCIENTPOWER",
+      "fields": {
+        "display_name": "Poder Pasado",
+        "description": "Ataque prehistórico que puede subir todas las características."
+      }
+    },
+    {
+      "line_number": 507,
+      "internal_name": "ROCKTHROW",
+      "fields": {
+        "display_name": "Lanzarrocas",
+        "description": "Tira una pequeña roca al objetivo."
+      }
+    },
+    {
+      "line_number": 508,
+      "internal_name": "ROCKTOMB",
+      "fields": {
+        "display_name": "Tumba Rocas",
+        "description": "Tira rocas que detienen al objetivo y bajan su Velocidad."
+      }
+    },
+    {
+      "line_number": 509,
+      "internal_name": "SMACKDOWN",
+      "fields": {
+        "display_name": "Antiaéreo",
+        "description": "El usuario ataca lanzando una piedra o un proyectil. Puede estrellar contra el suelo al objetivo si vuela."
+      }
+    },
+    {
+      "line_number": 510,
+      "internal_name": "ROLLOUT",
+      "fields": {
+        "display_name": "Desenrollar",
+        "description": "Rueda por el campo de batalla. Causa más daño si se utiliza varias veces seguidas."
+      }
+    },
+    {
+      "line_number": 511,
+      "internal_name": "ROCKBLAST",
+      "fields": {
+        "display_name": "Pedrada",
+        "description": "Lanza pedruscos al objetivo de dos a cinco veces consecutivas."
+      }
+    },
+    {
+      "line_number": 512,
+      "internal_name": "ROCKPOLISH",
+      "fields": {
+        "display_name": "Pulimento",
+        "description": "Reduce la resistencia puliendo su cuerpo. Aumenta la Velocidad considerablemente."
+      }
+    },
+    {
+      "line_number": 513,
+      "internal_name": "SANDSTORM",
+      "fields": {
+        "display_name": "Torm. Arena",
+        "description": "Tormenta de arena que dura cinco turnos y hiere a todos, excepto a los de tipo Roca, Tierra y Acero."
+      }
+    },
+    {
+      "line_number": 514,
+      "internal_name": "STEALTHROCK",
+      "fields": {
+        "display_name": "Trampa Rocas",
+        "description": "TUna trampa de rocas que flota en el aire y daña a los objetivos que entran en combate."
+      }
+    },
+    {
+      "line_number": 515,
+      "internal_name": "WIDEGUARD",
+      "fields": {
+        "display_name": "Vastaguardia",
+        "description": "Bloquea los ataques lanzados contra todo tu equipo durante un turno. Su eficacia merma si se usa repetidas veces."
+      }
+    },
+    {
+      "line_number": 516,
+      "internal_name": "DOOMDESIRE",
+      "fields": {
+        "display_name": "Deseo Oculto",
+        "description": "Concentra un haz de luz y ataca dos turnos después."
+      }
+    },
+    {
+      "line_number": 517,
+      "internal_name": "IRONTAIL",
+      "fields": {
+        "display_name": "Cola Férrea",
+        "description": "Ataca con una cola férrea y puede bajar la Defensa del objetivo."
+      }
+    },
+    {
+      "line_number": 518,
+      "internal_name": "METEORMASH",
+      "fields": {
+        "display_name": "Puño Meteoro",
+        "description": "Puñetazo que impacta como un meteorito y puede subir el Ataque del agresor."
+      }
+    },
+    {
+      "line_number": 519,
+      "internal_name": "FLASHCANNON",
+      "fields": {
+        "display_name": "Foco Respl.",
+        "description": "El usuario concentra toda la luz del cuerpo y la libera. Puede bajar la Defensa Especial del objetivo."
+      }
+    },
+    {
+      "line_number": 520,
+      "internal_name": "IRONHEAD",
+      "fields": {
+        "display_name": "Cabezahierro",
+        "description": "Ataca con su dura cabeza de hierro. Puede hacer que el objetivo retroceda."
+      }
+    },
+    {
+      "line_number": 521,
+      "internal_name": "STEELWING",
+      "fields": {
+        "display_name": "Ala de Acero",
+        "description": "Alas macizas que golpean al objetivo y pueden subir la Defensa del usuario."
+      }
+    },
+    {
+      "line_number": 522,
+      "internal_name": "MIRRORSHOT",
+      "fields": {
+        "display_name": "Disp. Espejo",
+        "description": "El usuario libera un haz de energía desde su pulido cuerpo. Puede bajar la Precisión."
+      }
+    },
+    {
+      "line_number": 523,
+      "internal_name": "MAGNETBOMB",
+      "fields": {
+        "display_name": "Bomba Imán",
+        "description": "Lanza unas bombas de hierro que se pegan al adversario. No se puede esquivar."
+      }
+    },
+    {
+      "line_number": 524,
+      "internal_name": "GEARGRIND",
+      "fields": {
+        "display_name": "Rueda Doble",
+        "description": "Rota dos engranajes de hierro sobre el objetivo. Golpea dos veces."
+      }
+    },
+    {
+      "line_number": 525,
+      "internal_name": "METALCLAW",
+      "fields": {
+        "display_name": "Garra Metal",
+        "description": "Ataque con garras de acero que puede aumentar el Ataque del usuario."
+      }
+    },
+    {
+      "line_number": 526,
+      "internal_name": "BULLETPUNCH",
+      "fields": {
+        "display_name": "Puño Bala",
+        "description": "Ataca con fuertes puñetazos tan rápidos como proyectiles. Este movimiento siempre va primero."
+      }
+    },
+    {
+      "line_number": 527,
+      "internal_name": "GYROBALL",
+      "fields": {
+        "display_name": "Giro Bola",
+        "description": "Embiste al objetivo con un potente ataque giratorio. Cuanto más lento es el usuario, más daño causa."
+      }
+    },
+    {
+      "line_number": 528,
+      "internal_name": "HEAVYSLAM",
+      "fields": {
+        "display_name": "Cuerpopesado",
+        "description": "El usuario golpea con todo su cuerpo. Cuanto mayor sea su peso comparado con el del objetivo, más daño causará."
+      }
+    },
+    {
+      "line_number": 529,
+      "internal_name": "METALBURST",
+      "fields": {
+        "display_name": "Repr. Metal",
+        "description": "Devuelve al objetivo el último ataque recibido"
+      }
+    },
+    {
+      "line_number": 530,
+      "internal_name": "AUTOTOMIZE",
+      "fields": {
+        "display_name": "Aligerar",
+        "description": "El usuario se sacude para hacerse más ligero y aumentar mucho su Velocidad."
+      }
+    },
+    {
+      "line_number": 531,
+      "internal_name": "IRONDEFENSE",
+      "fields": {
+        "display_name": "Def. Férrea",
+        "description": "Fortalece el cuerpo como si fuera hierro y sube mucho la Defensa."
+      }
+    },
+    {
+      "line_number": 532,
+      "internal_name": "METALSOUND",
+      "fields": {
+        "display_name": "Eco Metálico",
+        "description": "Horrible chirrido metálico que baja mucho la Defensa Especial del objetivo."
+      }
+    },
+    {
+      "line_number": 533,
+      "internal_name": "SHIFTGEAR",
+      "fields": {
+        "display_name": "Cambiomarcha",
+        "description": "Al hacer girar los engranajes, el usuario mejora su Ataque y aumenta su Velocidad espectacularmente."
+      }
+    },
+    {
+      "line_number": 534,
+      "internal_name": "HYDROCANNON",
+      "fields": {
+        "display_name": "Hidrocañón",
+        "description": "Disparo de agua. El atacante debe descansar el siguiente turno."
+      }
+    },
+    {
+      "line_number": 535,
+      "internal_name": "WATERSPOUT",
+      "fields": {
+        "display_name": "Salpicar",
+        "description": "Chorro de agua. Cuantos menos PS tenga el usuario, menos dañino será."
+      }
+    },
+    {
+      "line_number": 536,
+      "internal_name": "HYDROPUMP",
+      "fields": {
+        "display_name": "Hidrobomba",
+        "description": "Lanza una gran masa de agua a presión para atacar."
+      }
+    },
+    {
+      "line_number": 537,
+      "internal_name": "MUDDYWATER",
+      "fields": {
+        "display_name": "Agua Lodosa",
+        "description": "Ataque con agua lodosa que puede bajar la Precisión."
+      }
+    },
+    {
+      "line_number": 538,
+      "internal_name": "SURF",
+      "fields": {
+        "display_name": "Surf",
+        "description": "Inunda el campo de batalla con una ola gigante. Fuera de batalla sirve para moverse sobre el agua."
+      }
+    },
+    {
+      "line_number": 539,
+      "internal_name": "AQUATAIL",
+      "fields": {
+        "display_name": "Acua Cola",
+        "description": "Ataca agitando la cola como si fuera una ola rabiosa en una tormenta devastadora."
+      }
+    },
+    {
+      "line_number": 540,
+      "internal_name": "CRABHAMMER",
+      "fields": {
+        "display_name": "Martillazo",
+        "description": "Golpea con fuerza con unas pinzas. Suele ser crítico."
+      }
+    },
+    {
+      "line_number": 541,
+      "internal_name": "DIVE",
+      "fields": {
+        "display_name": "Buceo",
+        "description": "Primer turno: se sumerge en el mar. Segundo turno: emerge y ataca."
+      }
+    },
+    {
+      "line_number": 542,
+      "internal_name": "SCALD",
+      "fields": {
+        "display_name": "Escaldar",
+        "description": "Ataca arrojando agua hirviendo al objetivo. Puede causar quemaduras."
+      }
+    },
+    {
+      "line_number": 543,
+      "internal_name": "WATERFALL",
+      "fields": {
+        "display_name": "Cascada",
+        "description": "Embiste con un gran impulso que puede hacer retroceder. También sirve para remontar cascadas."
+      }
+    },
+    {
+      "line_number": 544,
+      "internal_name": "RAZORSHELL",
+      "fields": {
+        "display_name": "Concha Filo",
+        "description": "Una afilada vieira ataca al objetivo. También puede hacer disminuir su Defensa."
+      }
+    },
+    {
+      "line_number": 545,
+      "internal_name": "BRINE",
+      "fields": {
+        "display_name": "Salmuera",
+        "description": "Si al objetivo le queda la mitad o menos de sus PS, el ataque será el doble de fuerte."
+      }
+    },
+    {
+      "line_number": 546,
+      "internal_name": "BUBBLEBEAM",
+      "fields": {
+        "display_name": "Rayo Burbuja",
+        "description": "Diluvio de burbujas que puede bajar la Velocidad."
+      }
+    },
+    {
+      "line_number": 547,
+      "internal_name": "OCTAZOOKA",
+      "fields": {
+        "display_name": "Pulpocañón",
+        "description": "Dispara tinta a la cara. Puede bajar la Precisión."
+      }
+    },
+    {
+      "line_number": 548,
+      "internal_name": "WATERPULSE",
+      "fields": {
+        "display_name": "Hidropulso",
+        "description": "Ataca con un potente chorro de agua. Puede confundir al objetivo."
+      }
+    },
+    {
+      "line_number": 549,
+      "internal_name": "WATERPLEDGE",
+      "fields": {
+        "display_name": "Voto Agua",
+        "description": "Ataca con columnas de agua. Si se combina con un ataque de fuego, crea un arcoíris y aumenta su potencia."
+      }
+    },
+    {
+      "line_number": 550,
+      "internal_name": "AQUAJET",
+      "fields": {
+        "display_name": "Aqua Jet",
+        "description": "Ataque rápido que permite golpear en primer lugar."
+      }
+    },
+    {
+      "line_number": 551,
+      "internal_name": "WATERGUN",
+      "fields": {
+        "display_name": "Pistola Agua",
+        "description": "Ataca disparando agua con gran potencia."
+      }
+    },
+    {
+      "line_number": 552,
+      "internal_name": "CLAMP",
+      "fields": {
+        "display_name": "Tenaza",
+        "description": "Atrapa y atenaza con fuerza durante cuatro o cinco turnos."
+      }
+    },
+    {
+      "line_number": 553,
+      "internal_name": "WHIRLPOOL",
+      "fields": {
+        "display_name": "Torbellino",
+        "description": "Una tromba de agua atrapa al objetivo durante cuatro o cinco turnos."
+      }
+    },
+    {
+      "line_number": 554,
+      "internal_name": "BUBBLE",
+      "fields": {
+        "display_name": "Burbuja",
+        "description": "Lanza burbujas al contrincante y puede reducir su Velocidad."
+      }
+    },
+    {
+      "line_number": 555,
+      "internal_name": "AQUARING",
+      "fields": {
+        "display_name": "Acua Aro",
+        "description": "Un manto de agua cubre al Pokémon que lo usa. Recupera algunos PS en cada turno."
+      }
+    },
+    {
+      "line_number": 556,
+      "internal_name": "RAINDANCE",
+      "fields": {
+        "display_name": "Danza Lluvia",
+        "description": "Genera una fuerte lluvia que refuerza los movimientos de tipo Agua durante cinco turnos."
+      }
+    },
+    {
+      "line_number": 557,
+      "internal_name": "SOAK",
+      "fields": {
+        "display_name": "Anegar",
+        "description": "Potente lluvia que transforma al objetivo en un Pokémon de tipo Agua."
+      }
+    },
+    {
+      "line_number": 558,
+      "internal_name": "WATERSPORT",
+      "fields": {
+        "display_name": "Hidrochorro",
+        "description": "El usuario se moja y"
+      }
+    },
+    {
+      "line_number": 559,
+      "internal_name": "WITHDRAW",
+      "fields": {
+        "display_name": "Refugio",
+        "description": "El usuario se protege en su coraza y sube la Defensa."
+      }
+    },
+    {
+      "line_number": 560,
+      "internal_name": "BELCH",
+      "fields": {
+        "display_name": "Eructo",
+        "description": "Lanza un eructo tremendamente poderoso. Solo funciona si el usuario ha comido una baya"
+      }
+    },
+    {
+      "line_number": 561,
+      "internal_name": "BOOMBURST",
+      "fields": {
+        "display_name": "Estruendo",
+        "description": "El usuario ataca con una destructiva onda de sonido."
+      }
+    },
+    {
+      "line_number": 562,
+      "internal_name": "DAZZLINGGLEAM",
+      "fields": {
+        "display_name": "Brillo Mágico",
+        "description": "El usuario daña al oponente con un brillo cegador."
+      }
+    },
+    {
+      "line_number": 563,
+      "internal_name": "DISARMINGVOICE",
+      "fields": {
+        "display_name": "Voz Cautivadora",
+        "description": "Daña al oponente con un grito encantador que no falla nunca."
+      }
+    },
+    {
+      "line_number": 564,
+      "internal_name": "DRAININGKISS",
+      "fields": {
+        "display_name": "Beso Drenaje",
+        "description": "Drena la energía del enemigo con un beso, restaurando la mitad del daño producido."
+      }
+    },
+    {
+      "line_number": 565,
+      "internal_name": "FAIRYWIND",
+      "fields": {
+        "display_name": "Viento Feérico",
+        "description": "Un misterioso viento mágico que daña al oponente."
+      }
+    },
+    {
+      "line_number": 566,
+      "internal_name": "FELLSTINGER",
+      "fields": {
+        "display_name": "Aguijón Letal",
+        "description": "Lanza un poderoso aguijón tóxico que puede envenenar al objetivo."
+      }
+    },
+    {
+      "line_number": 567,
+      "internal_name": "FLYINGPRESS",
+      "fields": {
+        "display_name": "Plancha Voladora",
+        "description": "The user dives down onto the target from the sky. This move is Fighting and Flying type simultaneously."
+      }
+    },
+    {
+      "line_number": 568,
+      "internal_name": "FREEZEDRY",
+      "fields": {
+        "display_name": "Liofilización",
+        "description": "El usuario lanza una descarga congeladora al oponente."
+      }
+    },
+    {
+      "line_number": 569,
+      "internal_name": "GEOMANCY",
+      "fields": {
+        "display_name": "Geocontrol",
+        "description": "Aumenta mucho las estadísticas en el siguiente turno."
+      }
+    },
+    {
+      "line_number": 570,
+      "internal_name": "MOONBLAST",
+      "fields": {
+        "display_name": "Fuerza Lunar",
+        "description": "Borrowing the power of the moon, the user attacks the target. This may also lower the target's Sp. Atk stat."
+      }
+    },
+    {
+      "line_number": 571,
+      "internal_name": "MYSTICALFIRE",
+      "fields": {
+        "display_name": "Fuego Embrujado",
+        "description": "The user attacks by breathing a special, hot fire. This also lowers the target's Sp. Atk stat."
+      }
+    },
+    {
+      "line_number": 572,
+      "internal_name": "NUZZLE",
+      "fields": {
+        "display_name": "Moflete Estático",
+        "description": "The user attacks by nuzzling its electrified cheeks against the target. This also leaves the target with paralysis."
+      }
+    },
+    {
+      "line_number": 573,
+      "internal_name": "OBLIVIONWING",
+      "fields": {
+        "display_name": "Ala Mortal",
+        "description": "Absorbe la mitad del daño producido."
+      }
+    },
+    {
+      "line_number": 574,
+      "internal_name": "PARABOLICCHARGE",
+      "fields": {
+        "display_name": "Carga Parábola",
+        "description": "Ataca con una onda eléctrica que restaura la mitad del daño producido."
+      }
+    },
+    {
+      "line_number": 575,
+      "internal_name": "PETALBLIZZARD",
+      "fields": {
+        "display_name": "Tormenta Floral",
+        "description": "The user stirs up a violent petal blizzard and attacks everything around it."
+      }
+    },
+    {
+      "line_number": 576,
+      "internal_name": "PHANTOMFORCE",
+      "fields": {
+        "display_name": "Fuerza Fantasma",
+        "description": "The user vanishes somewhere, then strikes the target on the next turn. This move hits even if the target protects itself."
+      }
+    },
+    {
+      "line_number": 577,
+      "internal_name": "PLAYROUGH",
+      "fields": {
+        "display_name": "Carantoña",
+        "description": "El usuario se lanza amorosamente hacia el oponente, pudiendo reducir su Ataque."
+      }
+    },
+    {
+      "line_number": 578,
+      "internal_name": "POWERUPPUNCH",
+      "fields": {
+        "display_name": "Puño Incremento",
+        "description": "Un puñetazo que aumenta el Ataque gradualmente."
+      }
+    },
+    {
+      "line_number": 579,
+      "internal_name": "WATERSHURIKEN",
+      "fields": {
+        "display_name": "Shuriken de Agua",
+        "description": "Ataca siempre primero. Lanza de 2 a 5 estrellas de agua."
+      }
+    },
+    {
+      "line_number": 580,
+      "internal_name": "DIAMONDSTORM",
+      "fields": {
+        "display_name": "Tormenta de Diamantes",
+        "description": "El usuario despliega una tormenta de diamantes para atacar. Puede aumentar la Defensa."
+      }
+    },
+    {
+      "line_number": 581,
+      "internal_name": "STEAMERUPTION",
+      "fields": {
+        "display_name": "Chorro Vapor",
+        "description": "Un inmenso chorro de vapor ardiendo que puede quemar al enemigo."
+      }
+    },
+    {
+      "line_number": 582,
+      "internal_name": "THOUSANDWAVES",
+      "fields": {
+        "display_name": "Mil Temblores",
+        "description": "Ataca con unas ondas sísmicas que retumban por todo el suelo."
+      }
+    },
+    {
+      "line_number": 583,
+      "internal_name": "LIGHTOFRUIN",
+      "fields": {
+        "display_name": "Luz de Ruina",
+        "description": "Utiliza el poder de la flor eterna para crear un rayo de luz. También daña al usuario."
+      }
+    },
+    {
+      "line_number": 584,
+      "internal_name": "DRAGONASCENT",
+      "fields": {
+        "display_name": "Ascenso Draco",
+        "description": "Desciende de los cielos con gran velocidad como un meteorito. Baja la Defensa y la Defensa Especial del usuario."
+      }
+    },
+    {
+      "line_number": 585,
+      "internal_name": "ORIGINPULSE",
+      "fields": {
+        "display_name": "Pulso Origen",
+        "description": "El atacante utiliza el poder del mar primigenio para atacar con gran intensidad."
+      }
+    },
+    {
+      "line_number": 586,
+      "internal_name": "TIROTEO",
+      "fields": {
+        "display_name": "Tiroteo",
+        "description": "Dispara una salva de proyectiles de 2 a 5 veces."
+      }
+    },
+    {
+      "line_number": 587,
+      "internal_name": "ELECTROBABA",
+      "fields": {
+        "display_name": "Electrobaba",
+        "description": "Lanza una baba electrizante que también reduce la Velocidad."
+      }
+    },
+    {
+      "line_number": 588,
+      "internal_name": "FUEGOLUNAR",
+      "fields": {
+        "display_name": "Fuego Lunar",
+        "description": "Una descarga de fuego mágico que puede bajar la Defensa Especial del objetivo."
+      }
+    },
+    {
+      "line_number": 589,
+      "internal_name": "ROMPEHIELOS",
+      "fields": {
+        "display_name": "Rompehielos",
+        "description": "Ataca rodeado de hielo y esquirlas en una potente embestida que también daña al usuario."
+      }
+    },
+    {
+      "line_number": 590,
+      "internal_name": "TRINCHAR",
+      "fields": {
+        "display_name": "Trinchar",
+        "description": "Una triple estocada al rival que golpea 3 veces con potencia ascendente."
+      }
+    },
+    {
+      "line_number": 591,
+      "internal_name": "DESBANDADA",
+      "fields": {
+        "display_name": "Desbandada",
+        "description": "Golpea al enemigo y se retira."
+      }
+    },
+    {
+      "line_number": 592,
+      "internal_name": "FIEBREORO",
+      "fields": {
+        "display_name": "Fiebre del Oro",
+        "description": "El usuario entra en un estado de euforia, mejorando su Ataque y su Velocidad espectacularmente."
+      }
+    },
+    {
+      "line_number": 593,
+      "internal_name": "MALDIGNICION",
+      "fields": {
+        "display_name": "Maldignición",
+        "description": "Lanza una maldición vengativa al objetivo. Puede causar quemaduras."
+      }
+    },
+    {
+      "line_number": 594,
+      "internal_name": "LIMPIASUENOS",
+      "fields": {
+        "display_name": "Limpia Sueños",
+        "description": "Restaura al usuario la mitad del daño causado a un objetivo dormido."
+      }
+    },
+    {
+      "line_number": 595,
+      "internal_name": "ALAFUNESTA",
+      "fields": {
+        "display_name": "Ala Funesta",
+        "description": "Absorbe la mitad del daño producido."
+      }
+    },
+    {
+      "line_number": 596,
+      "internal_name": "FURIATOTEMICA",
+      "fields": {
+        "display_name": "Furia Totémica",
+        "description": "Invoca la furia de los ancestros para atacar al oponente. Puede quemar, paralizar o congelar."
+      }
+    },
+    {
+      "line_number": 597,
+      "internal_name": "ZARZAS",
+      "fields": {
+        "display_name": "Zarzas",
+        "description": "Ataca al oponente con unas zarzas que le van haciendo daño al final de cada turno."
+      }
+    },
+    {
+      "line_number": 598,
+      "internal_name": "SOMBRATELA",
+      "fields": {
+        "display_name": "Sombratela",
+        "description": "Lanza un hilo de seda sombrío al objetivo, dañándole y reduciendo su velocidad."
+      }
+    },
+    {
+      "line_number": 599,
+      "internal_name": "ABRAZOFEROZ",
+      "fields": {
+        "display_name": "Abrazo Feroz",
+        "description": "Un abrazo brutal que puede paralizar al oponente y hacerle retroceder."
+      }
+    },
+    {
+      "line_number": 600,
+      "internal_name": "GEOIMPACTO",
+      "fields": {
+        "display_name": "Geoimpacto",
+        "description": "Ataca con toda la furia del planeta. Reduce mucho el Ataque Especial del usuario."
+      }
+    },
+    {
+      "line_number": 601,
+      "internal_name": "PIPADELAPAZ",
+      "fields": {
+        "display_name": "Pipa de la Paz",
+        "description": "Golpea al objetivo con un humo onírico y lo amansa, pudiendo reducir su Ataque."
+      }
+    },
+    {
+      "line_number": 602,
+      "internal_name": "BORRASCA",
+      "fields": {
+        "display_name": "Borrasca",
+        "description": "Desata una tormenta de lluvia y relámpagos que puede confundir al oponente."
+      }
+    },
+    {
+      "line_number": 603,
+      "internal_name": "OJOSTERRIBLES",
+      "fields": {
+        "display_name": "Ojos Terribles",
+        "description": "Lanza una mirada terrórifica al oponente, dañando su mente y pudiendo paralizarle."
+      }
+    },
+    {
+      "line_number": 604,
+      "internal_name": "DRENANIMA",
+      "fields": {
+        "display_name": "Drenánima",
+        "description": "Absorbe la salud del oponente usando una energía fantasmagórica."
+      }
+    },
+    {
+      "line_number": 605,
+      "internal_name": "DANZAVUDU",
+      "fields": {
+        "display_name": "Danza Vudú",
+        "description": "Una danza macabara que roba la fuerza del oponente. Puede aumentar el At.Especial del usuario."
+      }
+    },
+    {
+      "line_number": 606,
+      "internal_name": "CHOQUEVAPOR",
+      "fields": {
+        "display_name": "Choque Vapor",
+        "description": "Golpea al objetivo con un puñetazo que libera vapor. Reduce la velocidad del usuario."
+      }
+    },
+    {
+      "line_number": 607,
+      "internal_name": "PATADAGELIDA",
+      "fields": {
+        "display_name": "Patada Gélida",
+        "description": "Una patada gélida que puede congelar al objetivo."
+      }
+    },
+    {
+      "line_number": 608,
+      "internal_name": "COLMILLOSALVAJE",
+      "fields": {
+        "display_name": "Colm. Salvaje",
+        "description": "Un potente colmillo de fuerza elemental. Puede quemar, paralizar o congelar."
+      }
+    },
+    {
+      "line_number": 609,
+      "internal_name": "BRAZOMUSGO",
+      "fields": {
+        "display_name": "Brazo Musgo",
+        "description": "Ataca con un puño con raíces y hiedras que dañan al objetivo, también puede envenenar."
+      }
+    },
+    {
+      "line_number": 610,
+      "internal_name": "LASERESENCIA",
+      "fields": {
+        "display_name": "Láser Esencia",
+        "description": "Un poderoso láser que utiliza Pokésencia como fuente de energía."
+      }
+    },
+    {
+      "line_number": 611,
+      "internal_name": "CARICATURA",
+      "fields": {
+        "display_name": "Caricatura",
+        "description": "Transforma al oponente en una caricatura de sí mismo, haciéndole daño emocional y causándole confusión."
+      }
+    },
+    {
+      "line_number": 612,
+      "internal_name": "HIDROARIETE",
+      "fields": {
+        "display_name": "Hidroariete",
+        "description": "Enviste al enemigo con fuerza acuática, puede reducir su Defensa."
+      }
+    },
+    {
+      "line_number": 613,
+      "internal_name": "VIRAJE",
+      "fields": {
+        "display_name": "Viraje",
+        "description": "Se lanza al enemigo para después retirarse por otro Pokémon del equipo."
+      }
+    },
+    {
+      "line_number": 614,
+      "internal_name": "ESCARAMUZA",
+      "fields": {
+        "display_name": "Escaramuza",
+        "description": "Solo funciona el primer turno, ataca siempre primero."
+      }
+    },
+    {
+      "line_number": 615,
+      "internal_name": "CUERNOCERTERO",
+      "fields": {
+        "display_name": "Cuerno Certero",
+        "description": "Causa daño y nunca falla."
+      }
+    },
+    {
+      "line_number": 616,
+      "internal_name": "ARENASARDIENTES",
+      "fields": {
+        "display_name": "Arenas Ardientes",
+        "description": "Lanza unas arenas ardientes al objetivo que pueden causarle quemaduras."
+      }
+    },
+    {
+      "line_number": 617,
+      "internal_name": "FUERZAEQUINA",
+      "fields": {
+        "display_name": "Fuerza Equina",
+        "description": "Ataca con una poderosa coz al oponente."
+      }
+    },
+    {
+      "line_number": 618,
+      "internal_name": "BOLADEPOLEN",
+      "fields": {
+        "display_name": "Bola de Polen",
+        "description": "Ataca lanzando una bola de polen que impacta en el objetivo."
+      }
+    },
+    {
+      "line_number": 619,
+      "internal_name": "PSICOCOLMILLO",
+      "fields": {
+        "display_name": "Psicocolmillo",
+        "description": "Causa daño y elimina los efectos de pantallas protectoras."
+      }
+    },
+    {
+      "line_number": 620,
+      "internal_name": "TRIPLEAXEL",
+      "fields": {
+        "display_name": "Triple Áxel",
+        "description": "Ataca con un movimiento de patinaje sobre hielo que golpea 3 veces cada vez con mayor fuerza."
+      }
+    },
+    {
+      "line_number": 621,
+      "internal_name": "LARIATOSCURO",
+      "fields": {
+        "display_name": "Lariat Oscuro",
+        "description": "Ataca al oponente ignorando los cambios de defensa."
+      }
+    },
+    {
+      "line_number": 622,
+      "internal_name": "ROCAVELOZ",
+      "fields": {
+        "display_name": "Roca Veloz",
+        "description": "Ataca con una roca que siempre va primero."
+      }
+    },
+    {
+      "line_number": 623,
+      "internal_name": "PLANCHA",
+      "fields": {
+        "display_name": "Plancha",
+        "description": "Salta contra el objetivo, causando daño y reduciendo su Ataque."
+      }
+    },
+    {
+      "line_number": 624,
+      "internal_name": "FLECHASTRAL",
+      "fields": {
+        "display_name": "Flecha Astral",
+        "description": "Dispara de 2 a 5 flechas mágicas al oponente."
+      }
+    },
+    {
+      "line_number": 625,
+      "internal_name": "LATIGOIGNEO",
+      "fields": {
+        "display_name": "Látigo Ígneo",
+        "description": "Azota con un látigo de fuego al oponente, siempre reduce la Defensa."
+      }
+    },
+    {
+      "line_number": 626,
+      "internal_name": "ALABIS",
+      "fields": {
+        "display_name": "Ala Bis",
+        "description": "Golpea al objetivo dos veces seguidas con las alas."
+      }
+    },
+    {
+      "line_number": 627,
+      "internal_name": "LINGOTAZO",
+      "fields": {
+        "display_name": "Lingotazo",
+        "description": "Aplasta al objetivo con un lingote de oro gigante. Puede paralizar."
+      }
+    },
+    {
+      "line_number": 628,
+      "internal_name": "ABSORBESENCIA",
+      "fields": {
+        "display_name": "Absorbesencia",
+        "description": "Drena la energía vital del enemigo."
+      }
+    },
+    {
+      "line_number": 629,
+      "internal_name": "FUERZAESENCIA",
+      "fields": {
+        "display_name": "Fuerzaesencia",
+        "description": "Concentra el poder de Pokémon ancestrales en un rayo de luz."
+      }
+    },
+    {
+      "line_number": 630,
+      "internal_name": "FERROIMPACTO",
+      "fields": {
+        "display_name": "Ferroimpacto",
+        "description": "Ataca con una maza férrea y puede bajar la Defensa del objetivo."
+      }
+    },
+    {
+      "line_number": 631,
+      "internal_name": "CORTEPETREO",
+      "fields": {
+        "display_name": "Corte Pétreo",
+        "description": "Ataca al objetivo con un filo de roca. Suele ser crítico."
+      }
+    }
+  ]
+}

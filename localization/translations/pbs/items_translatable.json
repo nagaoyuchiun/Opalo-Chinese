@@ -1,0 +1,5934 @@
+{
+  "metadata": {
+    "source_file": "PBS/items.txt",
+    "file_type": "items",
+    "total_entries": 658,
+    "source_language": "es",
+    "target_language": "zh-TW",
+    "extraction_version": "2.0"
+  },
+  "entries": [
+    {
+      "line_number": 1,
+      "internal_name": "REPEL",
+      "fields": {
+        "name": "Repelente",
+        "plural_name": "Repelentes",
+        "description": "Repele Pokémon salvajes débiles en un recorrido de 150 pasos."
+      }
+    },
+    {
+      "line_number": 2,
+      "internal_name": "SUPERREPEL",
+      "fields": {
+        "name": "Superrepelente",
+        "plural_name": "Superrepelentes",
+        "description": "Repele Pokémon salvajes débiles en un recorrido de 250 pasos."
+      }
+    },
+    {
+      "line_number": 3,
+      "internal_name": "MAXREPEL",
+      "fields": {
+        "name": "Repelente Máximo",
+        "plural_name": "Repelentes Máximos",
+        "description": "Repele Pokémon salvajes débiles en un recorrido de 400 pasos."
+      }
+    },
+    {
+      "line_number": 4,
+      "internal_name": "BLACKFLUTE",
+      "fields": {
+        "name": "Flauta Negra",
+        "plural_name": "Flautas Negras",
+        "description": "Flauta de cristal negro cuya melodía ayuda a reducir las probabilidades de encontrarse con Pokémon salvajes."
+      }
+    },
+    {
+      "line_number": 5,
+      "internal_name": "WHITEFLUTE",
+      "fields": {
+        "name": "Flauta Blanca",
+        "plural_name": "Flautas Blancas",
+        "description": "Flauta de cristal blanco cuya melodía ayuda a aumentar las probabilidades de encontrarse con Pokémon salvajes."
+      }
+    },
+    {
+      "line_number": 6,
+      "internal_name": "HONEY",
+      "fields": {
+        "name": "Miel",
+        "plural_name": "Mieles",
+        "description": "Su delicioso aroma atrae a Pokémon salvajes si se usa en zonas de hierba alta, cuevas o árboles especiales."
+      }
+    },
+    {
+      "line_number": 7,
+      "internal_name": "ESCAPEROPE",
+      "fields": {
+        "name": "Cuerda Huida",
+        "plural_name": "Cuerdas Huida",
+        "description": "Cuerda larga y resistente que sirve para huir de cuevas y sitios cerrados en general."
+      }
+    },
+    {
+      "line_number": 8,
+      "internal_name": "REDSHARD",
+      "fields": {
+        "name": "Parte Roja",
+        "plural_name": "Partes Rojas",
+        "description": "Un pequeño fragmento rojo. Parece formar parte de algún tipo de herramienta antigua."
+      }
+    },
+    {
+      "line_number": 9,
+      "internal_name": "YELLOWSHARD",
+      "fields": {
+        "name": "Parte Amarilla",
+        "plural_name": "Partes Amarillas",
+        "description": "Un pequeño fragmento amarillo. Parece formar parte de algún tipo de herramienta antigua."
+      }
+    },
+    {
+      "line_number": 10,
+      "internal_name": "BLUESHARD",
+      "fields": {
+        "name": "Parte Azul",
+        "plural_name": "Partes Azules",
+        "description": "Un pequeño fragmento azul. Parece formar parte de algún tipo de herramienta antigua."
+      }
+    },
+    {
+      "line_number": 11,
+      "internal_name": "GREENSHARD",
+      "fields": {
+        "name": "Parte Verde",
+        "plural_name": "Partes Verdes",
+        "description": "Un pequeño fragmento verde. Parece formar parte de algún tipo de herramienta antigua."
+      }
+    },
+    {
+      "line_number": 12,
+      "internal_name": "FIRESTONE",
+      "fields": {
+        "name": "Piedra Fuego",
+        "plural_name": "Piedras Fuego",
+        "description": "Curiosa piedra que hace evolucionar a determinadas especies de Pokémon. Es amarilla con una marca naranja."
+      }
+    },
+    {
+      "line_number": 13,
+      "internal_name": "THUNDERSTONE",
+      "fields": {
+        "name": "Piedra Trueno",
+        "plural_name": "Piedras Trueno",
+        "description": "Curiosa piedra que hace evolucionar a determinadas especies de Pokémon. Tiene dibujado un rayo."
+      }
+    },
+    {
+      "line_number": 14,
+      "internal_name": "WATERSTONE",
+      "fields": {
+        "name": "Piedra Agua",
+        "plural_name": "Piedras Agua",
+        "description": "Curiosa piedra que hace evolucionar a determinadas especies de Pokémon. Es de color azul, como el agua."
+      }
+    },
+    {
+      "line_number": 15,
+      "internal_name": "LEAFSTONE",
+      "fields": {
+        "name": "Piedra Hoja",
+        "plural_name": "Piedras Hoja",
+        "description": "Curiosa piedra que hace evolucionar a determinadas especies de Pokémon. Tiene dibujada una hoja."
+      }
+    },
+    {
+      "line_number": 16,
+      "internal_name": "MOONSTONE",
+      "fields": {
+        "name": "Piedra Lunar",
+        "plural_name": "Piedras Lunar",
+        "description": "Curiosa piedra que hace evolucionar a determinadas especies de Pokémon. Es negra como el azabache."
+      }
+    },
+    {
+      "line_number": 17,
+      "internal_name": "SUNSTONE",
+      "fields": {
+        "name": "Piedra Solar",
+        "plural_name": "Piedras Solar",
+        "description": "Curiosa piedra que hace evolucionar a determinadas especies de Pokémon. Es roja como el núcleo del sol."
+      }
+    },
+    {
+      "line_number": 18,
+      "internal_name": "DUSKSTONE",
+      "fields": {
+        "name": "Piedra Noche",
+        "plural_name": "Piedras Noche",
+        "description": "Una piedra peculiar que hace evolucionar a algunos Pokémon. Es oscura como la noche."
+      }
+    },
+    {
+      "line_number": 19,
+      "internal_name": "DAWNSTONE",
+      "fields": {
+        "name": "Piedra Alba",
+        "plural_name": "Piedras Alba",
+        "description": "Una piedra peculiar que hace evolucionar a algunos Pokémon. Brilla como un lucero."
+      }
+    },
+    {
+      "line_number": 20,
+      "internal_name": "SHINYSTONE",
+      "fields": {
+        "name": "Piedra Día",
+        "plural_name": "Piedras Día",
+        "description": "Una piedra peculiar que hace evolucionar a algunos Pokémon. Tiene un brillo espectacular."
+      }
+    },
+    {
+      "line_number": 21,
+      "internal_name": "REDAPRICORN",
+      "fields": {
+        "name": "Bonguri Roja",
+        "plural_name": "Bonguris Roja",
+        "description": "Bonguri de color rojo y aroma muy penetrante."
+      }
+    },
+    {
+      "line_number": 22,
+      "internal_name": "YLWAPRICORN",
+      "fields": {
+        "name": "Bonguri Amarilla",
+        "plural_name": "Bonguris Amarilla",
+        "description": "Bonguri de color amarillo y aroma refrescante."
+      }
+    },
+    {
+      "line_number": 23,
+      "internal_name": "BLUAPRICORN",
+      "fields": {
+        "name": "Bonguri Azul",
+        "plural_name": "Bonguris Azul",
+        "description": "Bonguri de color azul y aroma tierno."
+      }
+    },
+    {
+      "line_number": 24,
+      "internal_name": "GRNAPRICORN",
+      "fields": {
+        "name": "Bonguri Verde",
+        "plural_name": "Bonguris Verde",
+        "description": "Bonguri de color verde y aroma peculiar que recuerda al café tostado."
+      }
+    },
+    {
+      "line_number": 25,
+      "internal_name": "PNKAPRICORN",
+      "fields": {
+        "name": "Bonguri Rosa",
+        "plural_name": "Bonguris Rosa",
+        "description": "Bonguri de color rosa y aroma dulce."
+      }
+    },
+    {
+      "line_number": 26,
+      "internal_name": "WHTAPRICORN",
+      "fields": {
+        "name": "Bonguri Blanca",
+        "plural_name": "Bonguris Blanca",
+        "description": "Bonguri de color blanco que no desprende aroma alguno."
+      }
+    },
+    {
+      "line_number": 27,
+      "internal_name": "BLKAPRICORN",
+      "fields": {
+        "name": "Bonguri Negra",
+        "plural_name": "Bonguris Negra",
+        "description": "Bonguri de color negro y aroma indescriptible."
+      }
+    },
+    {
+      "line_number": 28,
+      "internal_name": "HELIXFOSSIL",
+      "fields": {
+        "name": "Fósil Helix",
+        "plural_name": "Fósiles Helix",
+        "description": "Fósil de un Pokémon ancestral que vivió en el fondo del mar. Parece ser un fragmento de concha marina."
+      }
+    },
+    {
+      "line_number": 29,
+      "internal_name": "DOMEFOSSIL",
+      "fields": {
+        "name": "Fósil Domo",
+        "plural_name": "Fósiles Domo",
+        "description": "Fósil de un Pokémon ancestral que vivió en el fondo del mar. Parece ser un fragmento de concha."
+      }
+    },
+    {
+      "line_number": 30,
+      "internal_name": "OLDAMBER",
+      "fields": {
+        "name": "Ámbar Viejo",
+        "plural_name": "Ámbares Viejos",
+        "description": "Fragmento de ámbar que contiene información genética de un Pokémon ancestral. Es de color amarillo."
+      }
+    },
+    {
+      "line_number": 31,
+      "internal_name": "ROOTFOSSIL",
+      "fields": {
+        "name": "Fósil Raíz",
+        "plural_name": "Fósiles Raíz",
+        "description": "Fósil de un Pokémon ancestral que vivió en el fondo del mar. Parece ser parte de una raíz."
+      }
+    },
+    {
+      "line_number": 32,
+      "internal_name": "CLAWFOSSIL",
+      "fields": {
+        "name": "Fósil Garra",
+        "plural_name": "Fósiles Garra",
+        "description": "Fósil de un Pokémon ancestral que vivió en el fondo del mar. Parece ser parte de una garra."
+      }
+    },
+    {
+      "line_number": 33,
+      "internal_name": "SKULLFOSSIL",
+      "fields": {
+        "name": "Fósil Cráneo",
+        "plural_name": "Fósiles Cráneo",
+        "description": "Fósil de un Pokémon prehistórico terrestre. Parece ser parte de una cabeza."
+      }
+    },
+    {
+      "line_number": 34,
+      "internal_name": "ARMORFOSSIL",
+      "fields": {
+        "name": "Fósil Coraza",
+        "plural_name": "Fósiles Coraza",
+        "description": "Fósil de un Pokémon prehistórico terrestre. Parece ser un fragmento del cuello."
+      }
+    },
+    {
+      "line_number": 35,
+      "internal_name": "COVERFOSSIL",
+      "fields": {
+        "name": "Fósil Tapa",
+        "plural_name": "Fósiles Tapa",
+        "description": "Fósil de un Pokémon ancestral que vivió en el fondo del mar. Parece ser un fragmento de concha marina."
+      }
+    },
+    {
+      "line_number": 36,
+      "internal_name": "PLUMEFOSSIL",
+      "fields": {
+        "name": "Fósil Pluma",
+        "plural_name": "Fósiles Pluma",
+        "description": "Fósil de un Pokémon ancestral que surcó los cielos. Parece ser parte de un ala suya."
+      }
+    },
+    {
+      "line_number": 37,
+      "internal_name": "PRETTYWING",
+      "fields": {
+        "name": "Pluma Bella",
+        "plural_name": "Plumas Bellas",
+        "description": "Pluma normal y corriente. Muy bonita, pero no sirve para nada."
+      }
+    },
+    {
+      "line_number": 38,
+      "internal_name": "TINYMUSHROOM",
+      "fields": {
+        "name": "Mini Seta",
+        "plural_name": "Mini Setas",
+        "description": "Seta pequeña y poco común bastante popular entre determinados grupos de gourmets."
+      }
+    },
+    {
+      "line_number": 39,
+      "internal_name": "BIGMUSHROOM",
+      "fields": {
+        "name": "Seta Grande",
+        "plural_name": "Setas Grandes",
+        "description": "Seta grande y poco común muy popular entre determinados grupos de gourmets."
+      }
+    },
+    {
+      "line_number": 40,
+      "internal_name": "BALMMUSHROOM",
+      "fields": {
+        "name": "Seta Aroma",
+        "plural_name": "Setas Aroma",
+        "description": "Extraña seta que desprende un agradable aroma. Muy apreciada por los gourmets."
+      }
+    },
+    {
+      "line_number": 41,
+      "internal_name": "PEARL",
+      "fields": {
+        "name": "Perla",
+        "plural_name": "Perlas",
+        "description": "Brillante perla plateada de tamaño más bien pequeño que no alcanza mucho precio en las tiendas."
+      }
+    },
+    {
+      "line_number": 42,
+      "internal_name": "BIGPEARL",
+      "fields": {
+        "name": "Perla Grande",
+        "plural_name": "Perlas Grandes",
+        "description": "Brillante perla plateada de gran tamaño que puede venderse a buen precio en las tiendas."
+      }
+    },
+    {
+      "line_number": 43,
+      "internal_name": "PEARLSTRING",
+      "fields": {
+        "name": "Sarta Perlas",
+        "plural_name": "Sartas Perlas",
+        "description": "Brillantes perlas plateadas de gran tamaño. Muy valoradas por los coleccionistas."
+      }
+    },
+    {
+      "line_number": 44,
+      "internal_name": "STARDUST",
+      "fields": {
+        "name": "Polvoestelar",
+        "plural_name": "Polvoestelares",
+        "description": "Bonita arena roja de tacto sedoso que alcanza un alto precio en las tiendas."
+      }
+    },
+    {
+      "line_number": 45,
+      "internal_name": "STARPIECE",
+      "fields": {
+        "name": "Trozo Estrella",
+        "plural_name": "Trozos Estrella",
+        "description": "Fragmento de una bonita gema roja que puede venderse muy caro en las tiendas."
+      }
+    },
+    {
+      "line_number": 46,
+      "internal_name": "COMETSHARD",
+      "fields": {
+        "name": "Fragmento Cometa",
+        "plural_name": "Fragmentos Cometa",
+        "description": "Fragmento de un cometa caído al suelo al atravesar la atmósfera. Muy valorado por los coleccionistas."
+      }
+    },
+    {
+      "line_number": 47,
+      "internal_name": "NUGGET",
+      "fields": {
+        "name": "Pepita",
+        "plural_name": "Pepitas",
+        "description": "Pepita de oro puro que desprende un brillo espectacular. Puede venderse muy cara en las tiendas."
+      }
+    },
+    {
+      "line_number": 48,
+      "internal_name": "BIGNUGGET",
+      "fields": {
+        "name": "Maxipepita",
+        "plural_name": "Maxipepitas",
+        "description": "Pepita grande de oro puro que desprende un brillo espectacular. Muy valorada por los coleccionistas."
+      }
+    },
+    {
+      "line_number": 49,
+      "internal_name": "HEARTSCALE",
+      "fields": {
+        "name": "Escama Corazón",
+        "plural_name": "Escamas Corazón",
+        "description": "Bella escama con forma de corazón que brilla con los colores del arco iris. Es muy poco común."
+      }
+    },
+    {
+      "line_number": 50,
+      "internal_name": "SLOWPOKETAIL",
+      "fields": {
+        "name": "Cola Slowpoke",
+        "plural_name": "Colas Slowpoke",
+        "description": "Cola de origen desconocido y muy sabrosa. Se vende muy cara."
+      }
+    },
+    {
+      "line_number": 51,
+      "internal_name": "RAREBONE",
+      "fields": {
+        "name": "Hueso Raro",
+        "plural_name": "Huesos Raros",
+        "description": "Un hueso de gran valor arqueológico que puede alcanzar un alto precio en las tiendas."
+      }
+    },
+    {
+      "line_number": 52,
+      "internal_name": "RELICCOPPER",
+      "fields": {
+        "name": "Real Cobre",
+        "plural_name": "Reales Cobre",
+        "description": "Moneda de cobre de más de tres mil años de antigüedad. Muy valorada por los coleccionistas."
+      }
+    },
+    {
+      "line_number": 53,
+      "internal_name": "RELICSILVER",
+      "fields": {
+        "name": "Real Plata",
+        "plural_name": "Reales Plata",
+        "description": "Moneda de plata de más de tres mil años de antigüedad. Muy valorada por los coleccionistas."
+      }
+    },
+    {
+      "line_number": 54,
+      "internal_name": "RELICGOLD",
+      "fields": {
+        "name": "Real Oro",
+        "plural_name": "Reales Oro",
+        "description": "Moneda de oro de más de tres mil años de antigüedad. Muy valorada por los coleccionistas."
+      }
+    },
+    {
+      "line_number": 55,
+      "internal_name": "RELICVASE",
+      "fields": {
+        "name": "Ánfora",
+        "plural_name": "Ánforas",
+        "description": "Jarrón de más de tres mil años de antigüedad. Muy valorado por los coleccionistas."
+      }
+    },
+    {
+      "line_number": 56,
+      "internal_name": "RELICBAND",
+      "fields": {
+        "name": "Brazal",
+        "plural_name": "Brazales",
+        "description": "Brazalete de más de tres mil años de antigüedad. Muy valorado por los coleccionistas."
+      }
+    },
+    {
+      "line_number": 57,
+      "internal_name": "RELICSTATUE",
+      "fields": {
+        "name": "Efigie Antigua",
+        "plural_name": "Efigies Antiguas",
+        "description": "Efigie de piedra de más de tres mil años de antigüedad. Muy valorado por los coleccionistas."
+      }
+    },
+    {
+      "line_number": 58,
+      "internal_name": "RELICCROWN",
+      "fields": {
+        "name": "Corona Antigua",
+        "plural_name": "Coronas Antiguas",
+        "description": "Corona de más de tres mil años de antigüedad. Muy valorada por los coleccionistas."
+      }
+    },
+    {
+      "line_number": 59,
+      "internal_name": "GROWTHMULCH",
+      "fields": {
+        "name": "Abono Rápido",
+        "plural_name": "Abonos Rápidos",
+        "description": "Un fertilizante que se usa en tierra suelta. Acelera el crecimiento de las bayas, pero también seca el suelo."
+      }
+    },
+    {
+      "line_number": 60,
+      "internal_name": "DAMPMULCH",
+      "fields": {
+        "name": "Abono Lento",
+        "plural_name": "Abonos Lentos",
+        "description": "Fertilizante para tierra suelta que ralentiza el crecimiento de las bayas y seca el suelo lentamente."
+      }
+    },
+    {
+      "line_number": 61,
+      "internal_name": "STABLEMULCH",
+      "fields": {
+        "name": "Abono Fijador",
+        "plural_name": "Abonos Fijadores",
+        "description": "Fertilizante para tierra suelta que retrasa la caída de las bayas maduras."
+      }
+    },
+    {
+      "line_number": 62,
+      "internal_name": "GOOEYMULCH",
+      "fields": {
+        "name": "Abono Brote",
+        "plural_name": "Abonos Brotes",
+        "description": "Fertilizante para tierra suelta que hace que broten más plantas nuevas de las plantas marchitas."
+      }
+    },
+    {
+      "line_number": 63,
+      "internal_name": "SHOALSALT",
+      "fields": {
+        "name": "Sal Cardumen",
+        "plural_name": "Sales Cardumen",
+        "description": "Sal pura y de sabor intenso procedente de las profundidades de la Cueva Cardumen."
+      }
+    },
+    {
+      "line_number": 64,
+      "internal_name": "SHOALSHELL",
+      "fields": {
+        "name": "Concha Cardumen",
+        "plural_name": "Conchas Cardumen",
+        "description": "Hermosa concha marina hallada en lo más profundo de la Cueva Cardumen. Tiene rayas azules y blancas."
+      }
+    },
+    {
+      "line_number": 65,
+      "internal_name": "ODDKEYSTONE",
+      "fields": {
+        "name": "Piedra Espíritu",
+        "plural_name": "Piedras Espíritu",
+        "description": "A veces se oyen voces en su interior."
+      }
+    },
+    {
+      "line_number": 66,
+      "internal_name": "AIRBALLOON",
+      "fields": {
+        "name": "Globo Helio",
+        "plural_name": "Globos Helio",
+        "description": "El Pokémon que lo lleve flotará en el aire. Si recibe un golpe, estallará."
+      }
+    },
+    {
+      "line_number": 67,
+      "internal_name": "BRIGHTPOWDER",
+      "fields": {
+        "name": "Polvo Brillo",
+        "plural_name": "Polvos Brillo",
+        "description": "Lanza un destello que baja la precisión del enemigo. Debe llevarlo un Pokémon."
+      }
+    },
+    {
+      "line_number": 68,
+      "internal_name": "EVIOLITE",
+      "fields": {
+        "name": "Mineral Evolutivo",
+        "plural_name": "Minerales Evolutivos",
+        "description": "Piedra evolutiva. El Pokémon portador aumentará su Defensa y su Defensa Especial si aún puede evolucionar."
+      }
+    },
+    {
+      "line_number": 69,
+      "internal_name": "FLOATSTONE",
+      "fields": {
+        "name": "Piedra Pómez",
+        "plural_name": "Piedras Pómez",
+        "description": "Piedra muy ligera que reduce el peso del Pokémon que la lleve."
+      }
+    },
+    {
+      "line_number": 70,
+      "internal_name": "DESTINYKNOT",
+      "fields": {
+        "name": "Lazo Destino",
+        "plural_name": "Lazos Destino",
+        "description": "Un hilo largo y delgado de color rojo que transmite el enamoramiento del Pokémon que lo lleva a su rival."
+      }
+    },
+    {
+      "line_number": 71,
+      "internal_name": "ROCKYHELMET",
+      "fields": {
+        "name": "Casco Dentado",
+        "plural_name": "Cascos Dentados",
+        "description": "Si el portador es alcanzado por un ataque físico, el agresor también recibe daño."
+      }
+    },
+    {
+      "line_number": 72,
+      "internal_name": "EJECTBUTTON",
+      "fields": {
+        "name": "Botón Escape",
+        "plural_name": "Botones Escape",
+        "description": "Si el portador es alcanzado por un ataque, saldrá del combate y será sustituido por otro Pokémon del equipo."
+      }
+    },
+    {
+      "line_number": 73,
+      "internal_name": "REDCARD",
+      "fields": {
+        "name": "Tarjeta Roja",
+        "plural_name": "Tarjetas Rojas",
+        "description": "Misteriosa tarjeta que permite al Pokémon que la lleve expulsar al agresor cuando este le cause daño."
+      }
+    },
+    {
+      "line_number": 74,
+      "internal_name": "SHEDSHELL",
+      "fields": {
+        "name": "Muda Concha",
+        "plural_name": "Muda Conchas",
+        "description": "En combate, esta concha desechada sirve para que un Pokémon se cambie por otro que no esté combatiendo."
+      }
+    },
+    {
+      "line_number": 75,
+      "internal_name": "SMOKEBALL",
+      "fields": {
+        "name": "Bola Humo",
+        "plural_name": "Bolas Humo",
+        "description": "Debe llevarla un Pokémon. Permite huir de combates contra Pokémon salvajes."
+      }
+    },
+    {
+      "line_number": 76,
+      "internal_name": "LUCKYEGG",
+      "fields": {
+        "name": "Huevo Suerte",
+        "plural_name": "Huevos Suerte",
+        "description": "Es un huevo lleno de felicidad que te hará ganar Puntos de Exp. extra en combate. Debe llevarlo un Pokémon."
+      }
+    },
+    {
+      "line_number": 77,
+      "internal_name": "EXPSHARE",
+      "fields": {
+        "name": "Repartir Exp",
+        "plural_name": "Repartir Exp",
+        "description": "El Pokémon que lo lleva obtiene parte de los Puntos de Exp. conseguidos en el combate sin participar en él."
+      }
+    },
+    {
+      "line_number": 78,
+      "internal_name": "AMULETCOIN",
+      "fields": {
+        "name": "Moneda Amuleto",
+        "plural_name": "Monedas Amuleto",
+        "description": "Si el Pokémon que la lleva lucha en un combate, duplica las ganancias."
+      }
+    },
+    {
+      "line_number": 79,
+      "internal_name": "SOOTHEBELL",
+      "fields": {
+        "name": "Cascabel Alivio",
+        "plural_name": "Cascabeles Alivio",
+        "description": "Una campana con un tañido calmante que reconforta al Pokémon que la lleva y lo vuelve más amistoso."
+      }
+    },
+    {
+      "line_number": 80,
+      "internal_name": "CLEANSETAG",
+      "fields": {
+        "name": "Amuleto",
+        "plural_name": "Amuletos",
+        "description": "Si lo lleva el primer Pokémon del equipo, se reduce la probabilidad de que se acerquen Pokémon salvajes."
+      }
+    },
+    {
+      "line_number": 81,
+      "internal_name": "CHOICEBAND",
+      "fields": {
+        "name": "Cinta Elección",
+        "plural_name": "Cintas Elección",
+        "description": "Aumenta el Ataque pero solo permite usar un tipo de movimiento. Debe llevarla un Pokémon."
+      }
+    },
+    {
+      "line_number": 82,
+      "internal_name": "CHOICESPECS",
+      "fields": {
+        "name": "Gafas Elección",
+        "plural_name": "Gafas Elección",
+        "description": "Potencian el At. Esp. pero solo permiten usar un tipo de movimiento. Debe llevarlas un Pokémon."
+      }
+    },
+    {
+      "line_number": 83,
+      "internal_name": "CHOICESCARF",
+      "fields": {
+        "name": "Pañuelo Elección",
+        "plural_name": "Pañuelos Elección",
+        "description": "Debe llevarlo un Pokémon. Potencia la Velocidad, pero solo permite usar un tipo de movimiento."
+      }
+    },
+    {
+      "line_number": 84,
+      "internal_name": "HEATROCK",
+      "fields": {
+        "name": "Roca Calor",
+        "plural_name": "Rocas Calor",
+        "description": "Prolonga la duración del movimiento Día Soleado que use el Pokémon que la lleva."
+      }
+    },
+    {
+      "line_number": 85,
+      "internal_name": "DAMPROCK",
+      "fields": {
+        "name": "Roca Lluvia",
+        "plural_name": "Rocas Lluvia",
+        "description": "Prolonga la duración del movimiento Danza Lluvia que use el Pokémon que la lleva."
+      }
+    },
+    {
+      "line_number": 86,
+      "internal_name": "SMOOTHROCK",
+      "fields": {
+        "name": "Roca Suave",
+        "plural_name": "Rocas Suave",
+        "description": "Prolonga la duración del movimiento Torm. Arena que use el Pokémon que la lleva."
+      }
+    },
+    {
+      "line_number": 87,
+      "internal_name": "ICYROCK",
+      "fields": {
+        "name": "Roca Helada",
+        "plural_name": "Rocas Helada",
+        "description": "Prolonga la duración del movimiento Granizo del Pokémon que la lleva."
+      }
+    },
+    {
+      "line_number": 88,
+      "internal_name": "LIGHTCLAY",
+      "fields": {
+        "name": "Refleluz",
+        "plural_name": "Refleluces",
+        "description": "Prolonga la duración de barreras como Reflejo y Pantalla de Luz. Debe llevarla un Pokémon."
+      }
+    },
+    {
+      "line_number": 89,
+      "internal_name": "GRIPCLAW",
+      "fields": {
+        "name": "Garra Garfio",
+        "plural_name": "Garras Garfio",
+        "description": "Prolonga la duración de ataques multiturno como Atadura y Repetición. Debe llevarla un Pokémon."
+      }
+    },
+    {
+      "line_number": 90,
+      "internal_name": "BINDINGBAND",
+      "fields": {
+        "name": "Banda Atadura",
+        "plural_name": "Bandas Atadura",
+        "description": "Banda que potencia los movimientos que estrujan al rival."
+      }
+    },
+    {
+      "line_number": 91,
+      "internal_name": "BIGROOT",
+      "fields": {
+        "name": "Raíz Grande",
+        "plural_name": "Raíces Grandes",
+        "description": "Potencia los movimientos que roban PS. Debe llevarla un Pokémon."
+      }
+    },
+    {
+      "line_number": 92,
+      "internal_name": "BLACKSLUDGE",
+      "fields": {
+        "name": "Lodo Negro",
+        "plural_name": "Lodos Negros",
+        "description": "Restaura gradualmente los PS de los Pokémon de tipo Veneno y daña a todos los demás."
+      }
+    },
+    {
+      "line_number": 93,
+      "internal_name": "LEFTOVERS",
+      "fields": {
+        "name": "Restos",
+        "plural_name": "Restos",
+        "description": "Restauran gradualmente los PS del Pokémon que los lleva durante el combate."
+      }
+    },
+    {
+      "line_number": 94,
+      "internal_name": "SHELLBELL",
+      "fields": {
+        "name": "Cascabel Concha",
+        "plural_name": "Cascabeles Concha",
+        "description": "Debe llevarla un Pokémon. Cada vez que este inflija daño, recuperará algunos PS."
+      }
+    },
+    {
+      "line_number": 95,
+      "internal_name": "MENTALHERB",
+      "fields": {
+        "name": "Hierba Mental",
+        "plural_name": "Hierbas Mentales",
+        "description": "El Pokémon que la lleve se libera del enamoramiento. Solo puede usarse una vez."
+      }
+    },
+    {
+      "line_number": 96,
+      "internal_name": "WHITEHERB",
+      "fields": {
+        "name": "Hierba Blanca",
+        "plural_name": "Hierbas Blancas",
+        "description": "Restaura cualquier característica debilitada en combate. Solo se puede usar una vez. Debe llevarla un Pokémon."
+      }
+    },
+    {
+      "line_number": 97,
+      "internal_name": "POWERHERB",
+      "fields": {
+        "name": "Hierba Única",
+        "plural_name": "Hierbas Únicas",
+        "description": "Permite el uso inmediato de cualquier movimiento en el primer turno. Es de un solo uso y debe llevarla un Pokémon."
+      }
+    },
+    {
+      "line_number": 98,
+      "internal_name": "ABSORBBULB",
+      "fields": {
+        "name": "Tubérculo",
+        "plural_name": "Tubérculos",
+        "description": "Raíz de usar y tirar que sube el Ataque Especial cuando se recibe un ataque de tipo Agua."
+      }
+    },
+    {
+      "line_number": 99,
+      "internal_name": "CELLBATTERY",
+      "fields": {
+        "name": "Pila",
+        "plural_name": "Pilas",
+        "description": "Batería de usar y tirar que sube el Ataque de quien la lleva cuando recibe un golpe de tipo Eléctrico."
+      }
+    },
+    {
+      "line_number": 100,
+      "internal_name": "LIFEORB",
+      "fields": {
+        "name": "Vidasfera",
+        "plural_name": "Vidasfera",
+        "description": "Potencia los movimientos, pero consume PS con cada ataque. Debe llevarla un Pokémon."
+      }
+    },
+    {
+      "line_number": 101,
+      "internal_name": "EXPERTBELT",
+      "fields": {
+        "name": "Cinta Experto",
+        "plural_name": "Cintas Experto",
+        "description": "Potencia ligeramente los movimientos supereficaces. Debe llevarla un Pokémon."
+      }
+    },
+    {
+      "line_number": 102,
+      "internal_name": "METRONOME",
+      "fields": {
+        "name": "Metrónomo",
+        "plural_name": "Metrónomos",
+        "description": "Potencia un movimiento que se use de forma consecutiva. Pero el efecto se pierde si se emplea otro movimiento."
+      }
+    },
+    {
+      "line_number": 103,
+      "internal_name": "MUSCLEBAND",
+      "fields": {
+        "name": "Cinta Fuerte",
+        "plural_name": "Cintas Fuertes",
+        "description": "Cinta de pelo que aumenta ligeramente la potencia de los movimientos físicos. Debe llevarla un Pokémon."
+      }
+    },
+    {
+      "line_number": 104,
+      "internal_name": "WISEGLASSES",
+      "fields": {
+        "name": "Gafas Especiales",
+        "plural_name": "Gafas Especiales",
+        "description": "Potencian ligeramente los movimientos especiales. Debe llevarlas un Pokémon."
+      }
+    },
+    {
+      "line_number": 105,
+      "internal_name": "RAZORCLAW",
+      "fields": {
+        "name": "Garra Afilada",
+        "plural_name": "Garras Afiladas",
+        "description": "Aumenta a la probabilidad de que el Pokémon que la lleva consiga un golpe crítico."
+      }
+    },
+    {
+      "line_number": 106,
+      "internal_name": "SCOPELENS",
+      "fields": {
+        "name": "Periscopio",
+        "plural_name": "Periscopios",
+        "description": "Su lente aumenta la posibilidad que tiene el Pokémon que lo lleva de conseguir un golpe crítico."
+      }
+    },
+    {
+      "line_number": 107,
+      "internal_name": "WIDELENS",
+      "fields": {
+        "name": "Lupa",
+        "plural_name": "Lupas",
+        "description": "Debe llevarla un Pokémon. Aumenta ligeramente la precisión de los movimientos."
+      }
+    },
+    {
+      "line_number": 108,
+      "internal_name": "ZOOMLENS",
+      "fields": {
+        "name": "Telescopio",
+        "plural_name": "Telescopios",
+        "description": "Debe llevarlo un Pokémon. Si se mueve después del enemigo, aumenta el índice de precisión del Pokémon."
+      }
+    },
+    {
+      "line_number": 109,
+      "internal_name": "KINGSROCK",
+      "fields": {
+        "name": "Roca del Rey",
+        "plural_name": "Rocas del Rey",
+        "description": "Puede hacer retroceder al enemigo cuando el Pokémon que la lleva le hiera."
+      }
+    },
+    {
+      "line_number": 110,
+      "internal_name": "RAZORFANG",
+      "fields": {
+        "name": "Colmillo Agudo",
+        "plural_name": "Colmillos Agudos",
+        "description": "Si lo lleva un Pokémon cuando hiere a un rival, puede hacerle retroceder."
+      }
+    },
+    {
+      "line_number": 111,
+      "internal_name": "LAGGINGTAIL",
+      "fields": {
+        "name": "Cola Plúmbea",
+        "plural_name": "Colas Plúmbea",
+        "description": "Es muy pesada y hace que el Pokémon que la lleva se mueva más lento de lo normal."
+      }
+    },
+    {
+      "line_number": 112,
+      "internal_name": "QUICKCLAW",
+      "fields": {
+        "name": "Garra Rápida",
+        "plural_name": "Garras Rápidas",
+        "description": "Garra ligera y afilada que permite que el Pokémon que la lleve ataque el primero ocasionalmente."
+      }
+    },
+    {
+      "line_number": 113,
+      "internal_name": "FOCUSBAND",
+      "fields": {
+        "name": "Cinta Focus",
+        "plural_name": "Cintas Focus",
+        "description": "El Pokémon que la lleve puede resistir un golpe potencialmente crítico y quedarse con 1 PS."
+      }
+    },
+    {
+      "line_number": 114,
+      "internal_name": "FOCUSSASH",
+      "fields": {
+        "name": "Banda Focus",
+        "plural_name": "Bandas Focus",
+        "description": "Si el Pokémon que la lleva tiene los PS al máximo, resistirá un golpe que potencialmente lo deja KO con 1 PS."
+      }
+    },
+    {
+      "line_number": 115,
+      "internal_name": "FLAMEORB",
+      "fields": {
+        "name": "Llamasfera",
+        "plural_name": "Llamasferas",
+        "description": "Extraña esfera que causa quemaduras a quien la usa en combate. Debe llevarla un Pokémon."
+      }
+    },
+    {
+      "line_number": 116,
+      "internal_name": "TOXICORB",
+      "fields": {
+        "name": "Toxisfera",
+        "plural_name": "Toxisferas",
+        "description": "Extraña esfera que envenena gravemente a quien la usa en combate. Debe llevarla un Pokémon."
+      }
+    },
+    {
+      "line_number": 117,
+      "internal_name": "STICKYBARB",
+      "fields": {
+        "name": "Toxiestrella",
+        "plural_name": "Toxiestrellas",
+        "description": "Daña en cada turno al Pokémon que la lleva y también puede dañar a los enemigos que toquen al Pokémon."
+      }
+    },
+    {
+      "line_number": 118,
+      "internal_name": "IRONBALL",
+      "fields": {
+        "name": "Bola Férrea",
+        "plural_name": "Bolas Férreas",
+        "description": "Reduce la Velocidad. Los Pokémon que levitan y los de tipo Volador se tornan sensibles a movimientos de Tierra."
+      }
+    },
+    {
+      "line_number": 119,
+      "internal_name": "RINGTARGET",
+      "fields": {
+        "name": "Blanco",
+        "plural_name": "Blancos",
+        "description": "El Pokémon que lo lleva es vulnerable frente a movimientos que normalmente no afectan a su tipo."
+      }
+    },
+    {
+      "line_number": 120,
+      "internal_name": "MACHOBRACE",
+      "fields": {
+        "name": "Brazal Firme",
+        "plural_name": "Brazales Firmes",
+        "description": "Sólido y pesado brazal que fomenta el crecimiento pero reduce la Velocidad. Debe llevarlo un Pokémon."
+      }
+    },
+    {
+      "line_number": 121,
+      "internal_name": "POWERWEIGHT",
+      "fields": {
+        "name": "Pesa Recia",
+        "plural_name": "Pesas Recias",
+        "description": "Ayuda a conseguir más PS al subir de nivel, pero reduce la Velocidad. Debe llevarla un Pokémon."
+      }
+    },
+    {
+      "line_number": 122,
+      "internal_name": "POWERBRACER",
+      "fields": {
+        "name": "Brazal Recio",
+        "plural_name": "Brazales Recios",
+        "description": "Ayuda a ganar Ataque al subir de nivel, pero reduce la Velocidad. Debe llevarlo un Pokémon."
+      }
+    },
+    {
+      "line_number": 123,
+      "internal_name": "POWERBELT",
+      "fields": {
+        "name": "Cinto Recio",
+        "plural_name": "Cintos Recios",
+        "description": "Ayuda a ganar Defensa al subir de nivel, pero reduce la Velocidad. Debe llevarlo un Pokémon."
+      }
+    },
+    {
+      "line_number": 124,
+      "internal_name": "POWERLENS",
+      "fields": {
+        "name": "Lente Recia",
+        "plural_name": "Lentes Recias",
+        "description": "Ayuda a ganar At. Esp. al subir de nivel, pero reduce la Velocidad. Debe llevarla un Pokémon."
+      }
+    },
+    {
+      "line_number": 125,
+      "internal_name": "POWERBAND",
+      "fields": {
+        "name": "Banda Recia",
+        "plural_name": "Bandas Recias",
+        "description": "Ayuda a ganar Def. Esp. al subir de nivel, pero reduce la Velocidad. Debe llevarla un Pokémon."
+      }
+    },
+    {
+      "line_number": 126,
+      "internal_name": "POWERANKLET",
+      "fields": {
+        "name": "Franja Recia",
+        "plural_name": "Franjas Recias",
+        "description": "Ayuda a ganar Velocidad al subir de nivel, pero reduce la Velocidad en combate. Debe llevarla un Pokémon."
+      }
+    },
+    {
+      "line_number": 127,
+      "internal_name": "LAXINCENSE",
+      "fields": {
+        "name": "Incienso Suave",
+        "plural_name": "Inciensos Suaves",
+        "description": "Debe llevarlo un Pokémon. Su peculiar aroma reduce la precisión del rival."
+      }
+    },
+    {
+      "line_number": 128,
+      "internal_name": "FULLINCENSE",
+      "fields": {
+        "name": "Incienso Lento",
+        "plural_name": "Inciensos Lentos",
+        "description": "Exótica sustancia aromática que hace que el Pokémon que la lleva se mueva más despacio."
+      }
+    },
+    {
+      "line_number": 129,
+      "internal_name": "LUCKINCENSE",
+      "fields": {
+        "name": "Incienso Duplo",
+        "plural_name": "Inciensos Duplo",
+        "description": "Incienso de aroma exótico. Si el Pokémon que lo lleva participa en un combate, duplica las ganancias."
+      }
+    },
+    {
+      "line_number": 130,
+      "internal_name": "PUREINCENSE",
+      "fields": {
+        "name": "Incienso Puro",
+        "plural_name": "Inciensos Puros",
+        "description": "Si lo lleva el primer Pokémon del equipo, los Pokémon salvajes se acercarán con menos frecuencia."
+      }
+    },
+    {
+      "line_number": 131,
+      "internal_name": "SEAINCENSE",
+      "fields": {
+        "name": "Incienso Marino",
+        "plural_name": "Inciensos Marinos",
+        "description": "Tiene un curioso aroma que potencia la energía de los ataques de tipo Agua. Debe llevarlo un Pokémon."
+      }
+    },
+    {
+      "line_number": 132,
+      "internal_name": "WAVEINCENSE",
+      "fields": {
+        "name": "Incienso Aqua",
+        "plural_name": "Inciensos Aqua",
+        "description": "Incienso exótico que fortalece los movimientos de tipo Agua. Debe llevarlo un Pokémon."
+      }
+    },
+    {
+      "line_number": 133,
+      "internal_name": "ROSEINCENSE",
+      "fields": {
+        "name": "Incienso Floral",
+        "plural_name": "Inciensos Florales",
+        "description": "Incienso de exótico aroma que fortalece los movimientos de tipo Planta. Debe llevarlo un Pokémon."
+      }
+    },
+    {
+      "line_number": 134,
+      "internal_name": "ODDINCENSE",
+      "fields": {
+        "name": "Incienso Raro",
+        "plural_name": "Inciensos Raros",
+        "description": "Incienso de exótico aroma que fortalece los movimientos de tipo Psíquico. Debe llevarlo un Pokémon."
+      }
+    },
+    {
+      "line_number": 135,
+      "internal_name": "ROCKINCENSE",
+      "fields": {
+        "name": "Incienso Roca",
+        "plural_name": "Inciensos Roca",
+        "description": "Incienso de exótico aroma que fortalece los movimientos de tipo Roca. Debe llevarlo un Pokémon."
+      }
+    },
+    {
+      "line_number": 136,
+      "internal_name": "CHARCOAL",
+      "fields": {
+        "name": "Carbón",
+        "plural_name": "Carbones",
+        "description": "Actúa como combustible y potencia la energía de los ataques de tipo Fuego. Debe llevarlo un Pokémon."
+      }
+    },
+    {
+      "line_number": 137,
+      "internal_name": "MYSTICWATER",
+      "fields": {
+        "name": "Agua Mística",
+        "plural_name": "Aguas Místicas",
+        "description": "Gema con forma de lágrima que fortalece los ataques de tipo Agua. Debe llevarla un Pokémon."
+      }
+    },
+    {
+      "line_number": 138,
+      "internal_name": "MAGNET",
+      "fields": {
+        "name": "Imán",
+        "plural_name": "Imanes",
+        "description": "Debe llevarlo un Pokémon. Su potente magnetismo fortalece los ataques de tipo Eléctrico."
+      }
+    },
+    {
+      "line_number": 139,
+      "internal_name": "MIRACLESEED",
+      "fields": {
+        "name": "Semilla Milagro",
+        "plural_name": "Semillas Milagros",
+        "description": "Debe llevarla un Pokémon. La vitalidad de la semilla fortalece los ataques de tipo Planta."
+      }
+    },
+    {
+      "line_number": 140,
+      "internal_name": "NEVERMELTICE",
+      "fields": {
+        "name": "Antiderretir",
+        "plural_name": "Antiderretires",
+        "description": "Fragmento de hielo que repele el calor y fortalece los ataques de tipo Hielo. Debe llevarlo un Pokémon."
+      }
+    },
+    {
+      "line_number": 141,
+      "internal_name": "BLACKBELT",
+      "fields": {
+        "name": "Cinturón Negro",
+        "plural_name": "Cinturones Negros",
+        "description": "Debe llevarlo un Pokémon. Aumenta la decisión y fortalece los ataques de tipo Lucha."
+      }
+    },
+    {
+      "line_number": 142,
+      "internal_name": "POISONBARB",
+      "fields": {
+        "name": "Flecha Venenosa",
+        "plural_name": "Flechas Venenosas",
+        "description": "Flecha venenosa que refuerza los movimientos de tipo Veneno. Debe llevarla un Pokémon."
+      }
+    },
+    {
+      "line_number": 143,
+      "internal_name": "SOFTSAND",
+      "fields": {
+        "name": "Arena Fina",
+        "plural_name": "Arenas Finas",
+        "description": "Debe llevarla un Pokémon. La suavidad de la arena fortalece los ataques de tipo Tierra."
+      }
+    },
+    {
+      "line_number": 144,
+      "internal_name": "SHARPBEAK",
+      "fields": {
+        "name": "Pico Afilado",
+        "plural_name": "Picos Afilados",
+        "description": "Pico largo y afilado que aumenta la potencia de los movimientos de tipo Volador. Debe llevarlo un Pokémon."
+      }
+    },
+    {
+      "line_number": 145,
+      "internal_name": "TWISTEDSPOON",
+      "fields": {
+        "name": "Cuchara Torcida",
+        "plural_name": "Cucharas Torcidas",
+        "description": "Cuchara llena de energía telequinética que potencia los movimientos de tipo Psíquico. Debe llevarla un Pokémon."
+      }
+    },
+    {
+      "line_number": 146,
+      "internal_name": "SILVERPOWDER",
+      "fields": {
+        "name": "Polvo Plata",
+        "plural_name": "Polvos Plata",
+        "description": "Polvo de brillo argénteo que fortalece los ataques de tipo Bicho. Debe llevarlo un Pokémon."
+      }
+    },
+    {
+      "line_number": 147,
+      "internal_name": "HARDSTONE",
+      "fields": {
+        "name": "Piedra Dura",
+        "plural_name": "Piedras Duras",
+        "description": "Debe llevarla un Pokémon. La robustez de la piedra fortalece los ataques de tipo Roca."
+      }
+    },
+    {
+      "line_number": 148,
+      "internal_name": "SPELLTAG",
+      "fields": {
+        "name": "Hechizo",
+        "plural_name": "Hechizos",
+        "description": "Misterioso y oscuro objeto que refuerza los ataques de tipo Fantasma. Debe llevarlo un Pokémon."
+      }
+    },
+    {
+      "line_number": 149,
+      "internal_name": "DRAGONFANG",
+      "fields": {
+        "name": "Colmillo Dragón",
+        "plural_name": "Colmillos Dragón",
+        "description": "Colmillo de gran dureza que refuerza los ataques de tipo Dragón. Debe llevarlo un Pokémon."
+      }
+    },
+    {
+      "line_number": 150,
+      "internal_name": "BLACKGLASSES",
+      "fields": {
+        "name": "Gafas de Sol",
+        "plural_name": "Gafas de Sol",
+        "description": "Debe llevarlas un Pokémon. Fortalecen los ataques de tipo Siniestro."
+      }
+    },
+    {
+      "line_number": 151,
+      "internal_name": "METALCOAT",
+      "fields": {
+        "name": "Revestim. Metálico",
+        "plural_name": "Revestim. Metálico",
+        "description": "Película metálica que fortalece los ataques de tipo Acero. Debe llevarlo un Pokémon."
+      }
+    },
+    {
+      "line_number": 152,
+      "internal_name": "SILKSCARF",
+      "fields": {
+        "name": "Pañuelo Seda",
+        "plural_name": "Pañuelos Seda",
+        "description": "La delicadeza del pañuelo fortalece los ataques de tipo Normal. Debe llevarlo un Pokémon."
+      }
+    },
+    {
+      "line_number": 153,
+      "internal_name": "FLAMEPLATE",
+      "fields": {
+        "name": "Tabla Llama",
+        "plural_name": "Tablas Llama",
+        "description": "Tabla de piedra que potencia los movimientos de tipo Fuego. Debe llevarla un Pokémon."
+      }
+    },
+    {
+      "line_number": 154,
+      "internal_name": "SPLASHPLATE",
+      "fields": {
+        "name": "Tabla Linfa",
+        "plural_name": "Tablas Linfa",
+        "description": "Tabla de piedra que potencia los movimientos de tipo Agua. Debe llevarla un Pokémon."
+      }
+    },
+    {
+      "line_number": 155,
+      "internal_name": "ZAPPLATE",
+      "fields": {
+        "name": "Tabla Trueno",
+        "plural_name": "Tablas Trueno",
+        "description": "Tabla de piedra que potencia los movimientos de tipo Eléctrico. Debe llevarla un Pokémon."
+      }
+    },
+    {
+      "line_number": 156,
+      "internal_name": "MEADOWPLATE",
+      "fields": {
+        "name": "Tabla Pradal",
+        "plural_name": "Tablas Pradal",
+        "description": "Tabla de piedra que potencia los movimientos de tipo Planta. Debe llevarla un Pokémon."
+      }
+    },
+    {
+      "line_number": 157,
+      "internal_name": "ICICLEPLATE",
+      "fields": {
+        "name": "Tabla Helada",
+        "plural_name": "Tablas Helada",
+        "description": "Tabla de piedra que potencia los movimientos de tipo Hielo. Debe llevarla un Pokémon."
+      }
+    },
+    {
+      "line_number": 158,
+      "internal_name": "FISTPLATE",
+      "fields": {
+        "name": "Tabla Fuerte",
+        "plural_name": "Tablas Fuerte",
+        "description": "Tabla de piedra que potencia los movimientos de tipo Lucha. Debe llevarla un Pokémon."
+      }
+    },
+    {
+      "line_number": 159,
+      "internal_name": "TOXICPLATE",
+      "fields": {
+        "name": "Tabla Tóxica",
+        "plural_name": "Tablas Tóxica",
+        "description": "Tabla de piedra que potencia los movimientos de tipo Veneno. Debe llevarla un Pokémon."
+      }
+    },
+    {
+      "line_number": 160,
+      "internal_name": "EARTHPLATE",
+      "fields": {
+        "name": "Tabla Terrax",
+        "plural_name": "Tablas Terrax",
+        "description": "Tabla de piedra que potencia los movimientos de tipo Tierra. Debe llevarla un Pokémon."
+      }
+    },
+    {
+      "line_number": 161,
+      "internal_name": "SKYPLATE",
+      "fields": {
+        "name": "Tabla Cielo",
+        "plural_name": "Tablas Cielo",
+        "description": "Tabla de piedra que potencia los movimientos de tipo Volador. Debe llevarla un Pokémon."
+      }
+    },
+    {
+      "line_number": 162,
+      "internal_name": "MINDPLATE",
+      "fields": {
+        "name": "Tabla Mental",
+        "plural_name": "Tablas Mental",
+        "description": "Tabla de piedra que potencia los movimientos de tipo Psíquico. Debe llevarla un Pokémon."
+      }
+    },
+    {
+      "line_number": 163,
+      "internal_name": "INSECTPLATE",
+      "fields": {
+        "name": "Tabla Bicho",
+        "plural_name": "Tablas Bicho",
+        "description": "Tabla de piedra que potencia los movimientos de tipo Bicho. Debe llevarla un Pokémon."
+      }
+    },
+    {
+      "line_number": 164,
+      "internal_name": "STONEPLATE",
+      "fields": {
+        "name": "Tabla Pétrea",
+        "plural_name": "Tablas Pétrea",
+        "description": "Tabla de piedra que potencia los movimientos de tipo Roca. Debe llevarla un Pokémon."
+      }
+    },
+    {
+      "line_number": 165,
+      "internal_name": "SPOOKYPLATE",
+      "fields": {
+        "name": "Tabla Terror",
+        "plural_name": "Tablas Terror",
+        "description": "Tabla de piedra que potencia los movimientos de tipo Fantasma. Debe llevarla un Pokémon."
+      }
+    },
+    {
+      "line_number": 166,
+      "internal_name": "DRACOPLATE",
+      "fields": {
+        "name": "Tabla Draco",
+        "plural_name": "Tablas Draco",
+        "description": "Tabla de piedra que potencia los movimientos de tipo Dragón. Debe llevarla un Pokémon."
+      }
+    },
+    {
+      "line_number": 167,
+      "internal_name": "DREADPLATE",
+      "fields": {
+        "name": "Tabla Oscura",
+        "plural_name": "Tablas Oscura",
+        "description": "Tabla de piedra que potencia los movimientos de tipo Siniestro. Debe llevarla un Pokémon."
+      }
+    },
+    {
+      "line_number": 168,
+      "internal_name": "IRONPLATE",
+      "fields": {
+        "name": "Tabla Acero",
+        "plural_name": "Tablas Acero",
+        "description": "Tabla de piedra que potencia los movimientos de tipo Acero. Debe llevarla un Pokémon."
+      }
+    },
+    {
+      "line_number": 169,
+      "internal_name": "FIREGEM",
+      "fields": {
+        "name": "Gema Fuego",
+        "plural_name": "Gemas Fuego",
+        "description": "Joya de un solo uso que potencia los movimientos de tipo Fuego. Debe llevarla un Pokémon."
+      }
+    },
+    {
+      "line_number": 170,
+      "internal_name": "WATERGEM",
+      "fields": {
+        "name": "Gema Agua",
+        "plural_name": "Gemas Agua",
+        "description": "Joya de un solo uso que potencia los movimientos de tipo Agua. Debe llevarla un Pokémon."
+      }
+    },
+    {
+      "line_number": 171,
+      "internal_name": "ELECTRICGEM",
+      "fields": {
+        "name": "Gema Eléctrica",
+        "plural_name": "Gemas Eléctrica",
+        "description": "Joya de un solo uso que potencia los movimientos de tipo Eléctrico. Debe llevarla un Pokémon."
+      }
+    },
+    {
+      "line_number": 172,
+      "internal_name": "GRASSGEM",
+      "fields": {
+        "name": "Gema Planta",
+        "plural_name": "Gemas Planta",
+        "description": "Joya de un solo uso que potencia los movimientos de tipo Planta. Debe llevarla un Pokémon."
+      }
+    },
+    {
+      "line_number": 173,
+      "internal_name": "ICEGEM",
+      "fields": {
+        "name": "Gema Hielo",
+        "plural_name": "Gemas Hielo",
+        "description": "Joya de un solo uso que potencia los movimientos de tipo Hielo. Debe llevarla un Pokémon."
+      }
+    },
+    {
+      "line_number": 174,
+      "internal_name": "FIGHTINGGEM",
+      "fields": {
+        "name": "Gema Lucha",
+        "plural_name": "Gemas Lucha",
+        "description": "Joya de un solo uso que potencia los movimientos de tipo Lucha. Debe llevarla un Pokémon."
+      }
+    },
+    {
+      "line_number": 175,
+      "internal_name": "POISONGEM",
+      "fields": {
+        "name": "Gema Veneno",
+        "plural_name": "Gemas Veneno",
+        "description": "Joya de un solo uso que potencia los movimientos de tipo Veneno. Debe llevarla un Pokémon."
+      }
+    },
+    {
+      "line_number": 176,
+      "internal_name": "GROUNDGEM",
+      "fields": {
+        "name": "Gema Tierra",
+        "plural_name": "Gemas Tierra",
+        "description": "Joya de un solo uso que potencia los movimientos de tipo Tierra. Debe llevarla un Pokémon."
+      }
+    },
+    {
+      "line_number": 177,
+      "internal_name": "FLYINGGEM",
+      "fields": {
+        "name": "Gema Voladora",
+        "plural_name": "Gemas Voladora",
+        "description": "Joya de un solo uso que potencia los movimientos de tipo Volador. Debe llevarla un Pokémon."
+      }
+    },
+    {
+      "line_number": 178,
+      "internal_name": "PSYCHICGEM",
+      "fields": {
+        "name": "Gema Psíquica",
+        "plural_name": "Gemas Psíquica",
+        "description": "Joya de un solo uso que potencia los movimientos de tipo Psíquico. Debe llevarla un Pokémon."
+      }
+    },
+    {
+      "line_number": 179,
+      "internal_name": "BUGGEM",
+      "fields": {
+        "name": "Gema Bicho",
+        "plural_name": "Gemas Bicho",
+        "description": "Joya de un solo uso que potencia los movimientos de tipo Bicho. Debe llevarla un Pokémon."
+      }
+    },
+    {
+      "line_number": 180,
+      "internal_name": "ROCKGEM",
+      "fields": {
+        "name": "Gema Roca",
+        "plural_name": "Gemas Roca",
+        "description": "Joya de un solo uso que potencia los movimientos de tipo Roca. Debe llevarla un Pokémon."
+      }
+    },
+    {
+      "line_number": 181,
+      "internal_name": "GHOSTGEM",
+      "fields": {
+        "name": "Gema Fantasma",
+        "plural_name": "Gemas Fantasma",
+        "description": "Joya de un solo uso que potencia los movimientos de tipo Fantasma. Debe llevarla un Pokémon."
+      }
+    },
+    {
+      "line_number": 182,
+      "internal_name": "DRAGONGEM",
+      "fields": {
+        "name": "Gema Dragón",
+        "plural_name": "Gemas Dragón",
+        "description": "Joya de un solo uso que potencia los movimientos de tipo Dragón. Debe llevarla un Pokémon."
+      }
+    },
+    {
+      "line_number": 183,
+      "internal_name": "DARKGEM",
+      "fields": {
+        "name": "Gema Siniestra",
+        "plural_name": "Gemas Siniestra",
+        "description": "Joya de un solo uso que potencia los movimientos de tipo Siniestro. Debe llevarla un Pokémon."
+      }
+    },
+    {
+      "line_number": 184,
+      "internal_name": "STEELGEM",
+      "fields": {
+        "name": "Gema Acero",
+        "plural_name": "Gemas Acero",
+        "description": "Joya de un solo uso que potencia los movimientos de tipo Acero. Debe llevarla un Pokémon."
+      }
+    },
+    {
+      "line_number": 185,
+      "internal_name": "NORMALGEM",
+      "fields": {
+        "name": "Gema Normal",
+        "plural_name": "Gemas Normal",
+        "description": "Joya de un solo uso que potencia los movimientos de tipo Normal. Debe llevarla un Pokémon."
+      }
+    },
+    {
+      "line_number": 186,
+      "internal_name": "LIGHTBALL",
+      "fields": {
+        "name": "Bolaluminosa",
+        "plural_name": "Bolaluminosas",
+        "description": "Asombrosa esfera que debe llevar Pikachu y que aumenta el Ataque y el Ataque Especial."
+      }
+    },
+    {
+      "line_number": 187,
+      "internal_name": "LUCKYPUNCH",
+      "fields": {
+        "name": "Puño Suerte",
+        "plural_name": "Puños Suerte",
+        "description": "Debe llevarlo Chansey. Potencia su índice de golpe crítico."
+      }
+    },
+    {
+      "line_number": 188,
+      "internal_name": "METALPOWDER",
+      "fields": {
+        "name": "Polvo Metálico",
+        "plural_name": "Polvos Metálicos",
+        "description": "Debe llevarlo Ditto. Es un polvo muy fino, pero a la vez resistente, que aumentará su Defensa."
+      }
+    },
+    {
+      "line_number": 189,
+      "internal_name": "QUICKPOWDER",
+      "fields": {
+        "name": "Polvo Veloz",
+        "plural_name": "Polvos Veloces",
+        "description": "Este objeto incrementa en un 100% la Velocidad de Ditto en batalla. Este objeto deja de ser efectivo una vez Ditto ha usado Transform. o Impostor."
+      }
+    },
+    {
+      "line_number": 190,
+      "internal_name": "THICKCLUB",
+      "fields": {
+        "name": "Hueso Grueso",
+        "plural_name": "Huesos Gruesos",
+        "description": "Un extraño tipo de hueso que potencia el Ataque. Suelen llevarlo Cubone o Marowak."
+      }
+    },
+    {
+      "line_number": 191,
+      "internal_name": "STICK",
+      "fields": {
+        "name": "Palo",
+        "plural_name": "Palos",
+        "description": "Es un puerro muy largo que suele llevar Farfetch′d. Aumenta la probabilidad de que logre un golpe crítico."
+      }
+    },
+    {
+      "line_number": 192,
+      "internal_name": "SOULDEW",
+      "fields": {
+        "name": "Rocío Bondad",
+        "plural_name": "Rocíos Bondad",
+        "description": "Un orbe fantástico que deben llevar Latios o Latias. Sube el At. Esp. y la Def. Esp."
+      }
+    },
+    {
+      "line_number": 193,
+      "internal_name": "DEEPSEATOOTH",
+      "fields": {
+        "name": "Diente Marino",
+        "plural_name": "Dientes Marinos",
+        "description": "Tiene el brillo afilado de la plata y debe llevarlo Clamperl. Sube el At. Esp."
+      }
+    },
+    {
+      "line_number": 194,
+      "internal_name": "DEEPSEASCALE",
+      "fields": {
+        "name": "Escama Marina",
+        "plural_name": "Escamas Marinas",
+        "description": "Tiene un débil brillo rosado y debe llevarla Clamperl. Sube la Def. Esp."
+      }
+    },
+    {
+      "line_number": 195,
+      "internal_name": "ADAMANTORB",
+      "fields": {
+        "name": "Diamansfera",
+        "plural_name": "Diamansferas",
+        "description": "Una esfera brillante que potencia los ataques de tipo Acero y Dragón. Debe llevarla Dialga."
+      }
+    },
+    {
+      "line_number": 196,
+      "internal_name": "LUSTROUSORB",
+      "fields": {
+        "name": "Lustresfera",
+        "plural_name": "Lustresferas",
+        "description": "Una bonita esfera que potencia los ataques de tipo Dragón y Agua. Debe llevarla Palkia."
+      }
+    },
+    {
+      "line_number": 197,
+      "internal_name": "GRISEOUSORB",
+      "fields": {
+        "name": "Griseosfera",
+        "plural_name": "Griseosferas",
+        "description": "Una esfera brillante que potencia los ataques de tipo Dragón y Fantasma. Debe llevarla Giratina."
+      }
+    },
+    {
+      "line_number": 198,
+      "internal_name": "DOUSEDRIVE",
+      "fields": {
+        "name": "HidroROM",
+        "plural_name": "HidroROMs",
+        "description": "Cartucho que convierte Tecno Shock de Genesect en un movimiento de tipo Agua."
+      }
+    },
+    {
+      "line_number": 199,
+      "internal_name": "SHOCKDRIVE",
+      "fields": {
+        "name": "FulgoROM",
+        "plural_name": "FulgoROMs",
+        "description": "Cartucho que convierte Tecno Shock de Genesect en un movimiento de tipo Eléctrico."
+      }
+    },
+    {
+      "line_number": 200,
+      "internal_name": "BURNDRIVE",
+      "fields": {
+        "name": "PiroROM",
+        "plural_name": "PiroROMs",
+        "description": "Cartucho que convierte Tecno Shock de Genesect en un movimiento de tipo Fuego."
+      }
+    },
+    {
+      "line_number": 201,
+      "internal_name": "CHILLDRIVE",
+      "fields": {
+        "name": "CrioROM",
+        "plural_name": "CrioROMs",
+        "description": "Cartucho que convierte Tecno Shock de Genesect en un movimiento de tipo Hielo."
+      }
+    },
+    {
+      "line_number": 202,
+      "internal_name": "EVERSTONE",
+      "fields": {
+        "name": "Piedra Eterna",
+        "plural_name": "Piedras Eternas",
+        "description": "El Pokémon que lleve esta piedra mágica no evolucionará."
+      }
+    },
+    {
+      "line_number": 203,
+      "internal_name": "DRAGONSCALE",
+      "fields": {
+        "name": "Escamadragón",
+        "plural_name": "Escamadragones",
+        "description": "Una gruesa y resistente escama que pueden llevar los Pokémon de tipo Dragón cuando son capturados."
+      }
+    },
+    {
+      "line_number": 204,
+      "internal_name": "UPGRADE",
+      "fields": {
+        "name": "Mejora",
+        "plural_name": "Mejoras",
+        "description": "Peculiar dispositivo fabricado en Silph S.A. que contiene todo tipo de datos."
+      }
+    },
+    {
+      "line_number": 205,
+      "internal_name": "DUBIOUSDISC",
+      "fields": {
+        "name": "Disco Extraño",
+        "plural_name": "Discos Extraños",
+        "description": "Dispositivo transparente que contiene datos misteriosos. Es de fabricante desconocido."
+      }
+    },
+    {
+      "line_number": 206,
+      "internal_name": "PROTECTOR",
+      "fields": {
+        "name": "Protector",
+        "plural_name": "Protectores",
+        "description": "Dispositivo de protección muy pesado. Algunos Pokémon lo adoran."
+      }
+    },
+    {
+      "line_number": 207,
+      "internal_name": "ELECTIRIZER",
+      "fields": {
+        "name": "Electrizador",
+        "plural_name": "Electrizadores",
+        "description": "Este dispositivo contiene una gran cantidad de energía eléctrica. Algunos Pokémon lo adoran."
+      }
+    },
+    {
+      "line_number": 208,
+      "internal_name": "MAGMARIZER",
+      "fields": {
+        "name": "Magmatizador",
+        "plural_name": "Magmatizadores",
+        "description": "Esta caja contiene una enorme cantidad de energía magmática. Algunos Pokémon lo adoran."
+      }
+    },
+    {
+      "line_number": 209,
+      "internal_name": "REAPERCLOTH",
+      "fields": {
+        "name": "Tela Terrible",
+        "plural_name": "Telas Terribles",
+        "description": "Tela imbuida de una energía espiritual muy potente. Algunos Pokémon la adoran."
+      }
+    },
+    {
+      "line_number": 210,
+      "internal_name": "PRISMSCALE",
+      "fields": {
+        "name": "Escama Bella",
+        "plural_name": "Escamas Bellas",
+        "description": "Curiosa piedra que hace evolucionar a determinadas especies de Pokémon. Brilla con los colores del arcoíris."
+      }
+    },
+    {
+      "line_number": 211,
+      "internal_name": "OVALSTONE",
+      "fields": {
+        "name": "Piedra Oval",
+        "plural_name": "Piedras Ovales",
+        "description": "Una piedra peculiar que hace evolucionar a algunos Pokémon. Tiene forma de huevo."
+      }
+    },
+    {
+      "line_number": 212,
+      "internal_name": "REDSCARF",
+      "fields": {
+        "name": "Pañuelo Rojo",
+        "plural_name": "Pañuelos Rojo",
+        "description": "Debe llevarlo un Pokémon. Aumenta el carisma en los concursos."
+      }
+    },
+    {
+      "line_number": 213,
+      "internal_name": "BLUESCARF",
+      "fields": {
+        "name": "Pañuelo Azul",
+        "plural_name": "Pañuelos Azul",
+        "description": "Debe llevarlo un Pokémon. Aumenta la belleza en los concursos."
+      }
+    },
+    {
+      "line_number": 214,
+      "internal_name": "PINKSCARF",
+      "fields": {
+        "name": "Pañuelo Rosa",
+        "plural_name": "Pañuelos Rosa",
+        "description": "Debe llevarlo un Pokémon. Aumenta la dulzura en los concursos."
+      }
+    },
+    {
+      "line_number": 215,
+      "internal_name": "GREENSCARF",
+      "fields": {
+        "name": "Pañuelo Verde",
+        "plural_name": "Pañuelos Verde",
+        "description": "Debe llevarlo un Pokémon. Aumenta el ingenio en los concursos."
+      }
+    },
+    {
+      "line_number": 216,
+      "internal_name": "YELLOWSCARF",
+      "fields": {
+        "name": "Pañuelo Amarillo",
+        "plural_name": "Pañuelos Amarillo",
+        "description": "Debe llevarlo un Pokémon. Aumenta la dureza en los concursos."
+      }
+    },
+    {
+      "line_number": 217,
+      "internal_name": "POTION",
+      "fields": {
+        "name": "Poción",
+        "plural_name": "Pociones",
+        "description": "Medicina en spray que cura heridas y restaura 20 PS de un Pokémon."
+      }
+    },
+    {
+      "line_number": 218,
+      "internal_name": "SUPERPOTION",
+      "fields": {
+        "name": "Superpoción",
+        "plural_name": "Superpociones",
+        "description": "Medicina en spray que cura heridas y restaura 50 PS de un Pokémon."
+      }
+    },
+    {
+      "line_number": 219,
+      "internal_name": "HYPERPOTION",
+      "fields": {
+        "name": "Hiperpoción",
+        "plural_name": "Hiperpociones",
+        "description": "Medicina en spray que cura heridas y restaura 200 PS de un Pokémon."
+      }
+    },
+    {
+      "line_number": 220,
+      "internal_name": "MAXPOTION",
+      "fields": {
+        "name": "Poción Máxima",
+        "plural_name": "Pociones Máximas",
+        "description": "Medicina en spray que cura heridas y restaura todos los PS de un Pokémon."
+      }
+    },
+    {
+      "line_number": 221,
+      "internal_name": "FULLRESTORE",
+      "fields": {
+        "name": "Restaura Todo",
+        "plural_name": "Restaura Todo",
+        "description": "Medicina que restaura todos los PS y cura todos los problemas de estado de un Pokémon."
+      }
+    },
+    {
+      "line_number": 222,
+      "internal_name": "SACREDASH",
+      "fields": {
+        "name": "Ceniza Sagrada",
+        "plural_name": "Cenizas Sagradas",
+        "description": "Reanima completamente a los Pokémon debilitados y restaura todos sus PS."
+      }
+    },
+    {
+      "line_number": 223,
+      "internal_name": "AWAKENING",
+      "fields": {
+        "name": "Despertar",
+        "plural_name": "Despertar",
+        "description": "Medicina en spray que libera a un Pokémon de las garras del sueño."
+      }
+    },
+    {
+      "line_number": 224,
+      "internal_name": "ANTIDOTE",
+      "fields": {
+        "name": "Antídoto",
+        "plural_name": "Antídotos",
+        "description": "Medicina en spray que contrarresta los efectos del veneno en un Pokémon."
+      }
+    },
+    {
+      "line_number": 225,
+      "internal_name": "BURNHEAL",
+      "fields": {
+        "name": "Antiquemadura",
+        "plural_name": "Antiquemaduras",
+        "description": "Medicina en spray que cura las quemaduras a un Pokémon."
+      }
+    },
+    {
+      "line_number": 226,
+      "internal_name": "PARLYZHEAL",
+      "fields": {
+        "name": "Antiparalizante",
+        "plural_name": "Antiparalizantes",
+        "description": "Medicina en spray que cura a un Pokémon paralizado."
+      }
+    },
+    {
+      "line_number": 227,
+      "internal_name": "ICEHEAL",
+      "fields": {
+        "name": "Antihielo",
+        "plural_name": "Antihielos",
+        "description": "Medicina en spray que descongela a un Pokémon."
+      }
+    },
+    {
+      "line_number": 228,
+      "internal_name": "FULLHEAL",
+      "fields": {
+        "name": "Cura Total",
+        "plural_name": "Curas Totales",
+        "description": "Medicina en spray que cura todos los problemas de estado de un Pokémon."
+      }
+    },
+    {
+      "line_number": 229,
+      "internal_name": "LAVACOOKIE",
+      "fields": {
+        "name": "Galleta Lava",
+        "plural_name": "Galletas Lava",
+        "description": "Dulce típico de Pueblo Lavacalda que cura todos los problemas de estado de un Pokémon."
+      }
+    },
+    {
+      "line_number": 230,
+      "internal_name": "OLDGATEAU",
+      "fields": {
+        "name": "Barrita Plus",
+        "plural_name": "Barritas Plus",
+        "description": "Especialidad de la Vieja Mansión. Cura los problemas de estado de un Pokémon."
+      }
+    },
+    {
+      "line_number": 231,
+      "internal_name": "CASTELIACONE",
+      "fields": {
+        "name": "Porcehelado",
+        "plural_name": "Porcehelados",
+        "description": "Especialidad de Ciudad Porcelana. Cura los problemas de estado de un Pokémon."
+      }
+    },
+    {
+      "line_number": 232,
+      "internal_name": "REVIVE",
+      "fields": {
+        "name": "Revivir",
+        "plural_name": "Revivir",
+        "description": "Medicina que reanima a un Pokémon debilitado y restaura la mitad de sus PS."
+      }
+    },
+    {
+      "line_number": 233,
+      "internal_name": "MAXREVIVE",
+      "fields": {
+        "name": "Revivir Máximo",
+        "plural_name": "Revivir Máximos",
+        "description": "Medicina que reanima a un Pokémon debilitado y restaura todos sus PS."
+      }
+    },
+    {
+      "line_number": 234,
+      "internal_name": "BERRYJUICE",
+      "fields": {
+        "name": "Zumo de Baya",
+        "plural_name": "Zumos de Baya",
+        "description": "Zumo de bayas 100% natural que restaura 20 PS de un Pokémon."
+      }
+    },
+    {
+      "line_number": 235,
+      "internal_name": "RAGECANDYBAR",
+      "fields": {
+        "name": "Caramelo Furia",
+        "plural_name": "Caramelos Furia",
+        "description": "Caramelo típico de Pueblo Caoba, muy popular como souvenir."
+      }
+    },
+    {
+      "line_number": 236,
+      "internal_name": "SWEETHEART",
+      "fields": {
+        "name": "Corazón Dulce",
+        "plural_name": "Corazones Dulces",
+        "description": "Chocolatina de sabor dulce. Restaura 150 PS de un Pokémon."
+      }
+    },
+    {
+      "line_number": 237,
+      "internal_name": "FRESHWATER",
+      "fields": {
+        "name": "Agua Fresca",
+        "plural_name": "Aguas Frescas",
+        "description": "Agua de alto contenido mineral que restaura 50 PS de un Pokémon."
+      }
+    },
+    {
+      "line_number": 238,
+      "internal_name": "SODAPOP",
+      "fields": {
+        "name": "Refresco",
+        "plural_name": "Refrescos",
+        "description": "Chispeante bebida gaseosa que restaura 100 PS de un Pokémon."
+      }
+    },
+    {
+      "line_number": 239,
+      "internal_name": "LEMONADE",
+      "fields": {
+        "name": "Limonada",
+        "plural_name": "Limonadas",
+        "description": "Bebida dulce que restaura 150 PS de un Pokémon."
+      }
+    },
+    {
+      "line_number": 240,
+      "internal_name": "MOOMOOMILK",
+      "fields": {
+        "name": "Leche Pokémon",
+        "plural_name": "Leches Pokémon",
+        "description": "Leche de alto valor nutritivo que restaura 100 PS de un Pokémon."
+      }
+    },
+    {
+      "line_number": 241,
+      "internal_name": "ENERGYPOWDER",
+      "fields": {
+        "name": "Polvoenergía",
+        "plural_name": "Polvoenergías",
+        "description": "Polvo medicinal muy amargo que restaura 50 PS de un Pokémon."
+      }
+    },
+    {
+      "line_number": 242,
+      "internal_name": "ENERGYROOT",
+      "fields": {
+        "name": "Raíz Energía",
+        "plural_name": "Raíces Energías",
+        "description": "Raíz muy amarga que restaura 200 PS de un Pokémon."
+      }
+    },
+    {
+      "line_number": 243,
+      "internal_name": "HEALPOWDER",
+      "fields": {
+        "name": "Polvo Curación",
+        "plural_name": "Polvos Curación",
+        "description": "Polvos muy amargos que curan todos los problemas de estado de un Pokémon."
+      }
+    },
+    {
+      "line_number": 244,
+      "internal_name": "REVIVALHERB",
+      "fields": {
+        "name": "Hierba Revivir",
+        "plural_name": "Hierbas Revivir",
+        "description": "Hierba muy amarga que reanima a un Pokémon debilitado y restaura todos sus PS."
+      }
+    },
+    {
+      "line_number": 245,
+      "internal_name": "ETHER",
+      "fields": {
+        "name": "Éter",
+        "plural_name": "Éteres",
+        "description": "Restaura un máximo de 10 PP del ataque que elijas de un Pokémon."
+      }
+    },
+    {
+      "line_number": 246,
+      "internal_name": "MAXETHER",
+      "fields": {
+        "name": "Éter Máximo",
+        "plural_name": "Éteres Máximos",
+        "description": "Restaura completamente los PP del movimiento que elijas de un Pokémon."
+      }
+    },
+    {
+      "line_number": 247,
+      "internal_name": "ELIXIR",
+      "fields": {
+        "name": "Elixir",
+        "plural_name": "Elíxires",
+        "description": "Restaura 10 PP de todos los movimientos aprendidos por un Pokémon."
+      }
+    },
+    {
+      "line_number": 248,
+      "internal_name": "MAXELIXIR",
+      "fields": {
+        "name": "Elixir Máximo",
+        "plural_name": "Elíxires Máximos",
+        "description": "Restaura completamente los PP de todos los movimientos aprendidos por el Pokémon elegido."
+      }
+    },
+    {
+      "line_number": 249,
+      "internal_name": "PPUP",
+      "fields": {
+        "name": "Más PP",
+        "plural_name": "Más PP",
+        "description": "Aumenta ligeramente los PP máximos del ataque que elijas de un Pokémon."
+      }
+    },
+    {
+      "line_number": 250,
+      "internal_name": "PPMAX",
+      "fields": {
+        "name": "PP Máximos",
+        "plural_name": "PP Máximos",
+        "description": "Aumenta al máximo los PP del ataque que elijas de un Pokémon."
+      }
+    },
+    {
+      "line_number": 251,
+      "internal_name": "HPUP",
+      "fields": {
+        "name": "Más PS",
+        "plural_name": "Más PS",
+        "description": "Nutritiva bebida que aumenta los PS de un Pokémon."
+      }
+    },
+    {
+      "line_number": 252,
+      "internal_name": "PROTEIN",
+      "fields": {
+        "name": "Proteína",
+        "plural_name": "Proteínas",
+        "description": "Nutritiva bebida que aumenta el Ataque de un Pokémon."
+      }
+    },
+    {
+      "line_number": 253,
+      "internal_name": "IRON",
+      "fields": {
+        "name": "Hierro",
+        "plural_name": "Hierros",
+        "description": "Nutritiva bebida que aumenta la Defensa de un Pokémon."
+      }
+    },
+    {
+      "line_number": 254,
+      "internal_name": "CALCIUM",
+      "fields": {
+        "name": "Calcio",
+        "plural_name": "Calcios",
+        "description": "Nutritiva bebida que sube el At. Esp. de un Pokémon."
+      }
+    },
+    {
+      "line_number": 255,
+      "internal_name": "ZINC",
+      "fields": {
+        "name": "Zinc",
+        "plural_name": "Zincs",
+        "description": "Nutritiva bebida que aumenta la Defensa Especial de un Pokémon."
+      }
+    },
+    {
+      "line_number": 256,
+      "internal_name": "CARBOS",
+      "fields": {
+        "name": "Carburante",
+        "plural_name": "Carburantes",
+        "description": "Nutritiva bebida que sube la Velocidad de un Pokémon."
+      }
+    },
+    {
+      "line_number": 257,
+      "internal_name": "HEALTHWING",
+      "fields": {
+        "name": "Pluma Vigor",
+        "plural_name": "Plumas Vigor",
+        "description": "Pluma que aumenta un poco los PS de un Pokémon al subir de nivel."
+      }
+    },
+    {
+      "line_number": 258,
+      "internal_name": "MUSCLEWING",
+      "fields": {
+        "name": "Pluma Músculo",
+        "plural_name": "Plumas Músculo",
+        "description": "Pluma que aumenta un poco el Ataque de un Pokémon al subir de nivel."
+      }
+    },
+    {
+      "line_number": 259,
+      "internal_name": "RESISTWING",
+      "fields": {
+        "name": "Pluma Aguante",
+        "plural_name": "Plumas Aguante",
+        "description": "Pluma que aumenta un poco la Defensa de un Pokémon al subir de nivel."
+      }
+    },
+    {
+      "line_number": 260,
+      "internal_name": "GENIUSWING",
+      "fields": {
+        "name": "Pluma Intelecto",
+        "plural_name": "Plumas Intelecto",
+        "description": "Pluma que aumenta un poco el Ataque Especial de un Pokémon al subir de nivel."
+      }
+    },
+    {
+      "line_number": 261,
+      "internal_name": "CLEVERWING",
+      "fields": {
+        "name": "Pluma Mente",
+        "plural_name": "Plumas Mente",
+        "description": "Pluma que aumenta un poco la Defensa Especial de un Pokémon al subir de nivel."
+      }
+    },
+    {
+      "line_number": 262,
+      "internal_name": "SWIFTWING",
+      "fields": {
+        "name": "Pluma Ímpetu",
+        "plural_name": "Plumas Ímpetu",
+        "description": "Pluma que aumenta un poco la Velocidad de un Pokémon al subir de nivel."
+      }
+    },
+    {
+      "line_number": 263,
+      "internal_name": "RARECANDY",
+      "fields": {
+        "name": "Caramelo Raro",
+        "plural_name": "Caramelos Raros",
+        "description": "Caramelo energético que sube a un Pokémon de nivel."
+      }
+    },
+    {
+      "line_number": 264,
+      "internal_name": "MASTERBALL",
+      "fields": {
+        "name": "Master Ball",
+        "plural_name": "Master Balls",
+        "description": "La Poké Ball definitiva. Atrapa a cualquier Pokémon salvaje y no falla nunca."
+      }
+    },
+    {
+      "line_number": 265,
+      "internal_name": "ULTRABALL",
+      "fields": {
+        "name": "Ultra Ball",
+        "plural_name": "Ultra Balls",
+        "description": "Poké Ball de rendimiento superior. Tiene más índice de éxito que la Superball."
+      }
+    },
+    {
+      "line_number": 266,
+      "internal_name": "GREATBALL",
+      "fields": {
+        "name": "Super Ball",
+        "plural_name": "Super Balls",
+        "description": "Poké Ball de alto rendimiento. Tiene un índice de éxito superior al de la Poké Ball."
+      }
+    },
+    {
+      "line_number": 267,
+      "internal_name": "POKEBALL",
+      "fields": {
+        "name": "Poké Ball",
+        "plural_name": "Poké Balls",
+        "description": "Dispositivo con diseño capsular que atrapa Pokémon salvajes. Se lanza como una bola contra el blanco."
+      }
+    },
+    {
+      "line_number": 268,
+      "internal_name": "SAFARIBALL",
+      "fields": {
+        "name": "Safari Ball",
+        "plural_name": "Safari Balls",
+        "description": "Poké Ball con un diseño de camuflaje que se utiliza únicamente en el Gran Pantano."
+      }
+    },
+    {
+      "line_number": 269,
+      "internal_name": "SPORTBALL",
+      "fields": {
+        "name": "Compet Ball",
+        "plural_name": "Compet Balls",
+        "description": "Poké Ball especial para el Concurso de Captura de Bichos."
+      }
+    },
+    {
+      "line_number": 270,
+      "internal_name": "NETBALL",
+      "fields": {
+        "name": "Malla Ball",
+        "plural_name": "Malla Balls",
+        "description": "Es algo distinta a las demás. Funciona especialmente bien con los Pokémon de tipo Agua y Bicho."
+      }
+    },
+    {
+      "line_number": 271,
+      "internal_name": "DIVEBALL",
+      "fields": {
+        "name": "Buceo Ball",
+        "plural_name": "Buceo Balls",
+        "description": "Es algo distinta a las demás. Funciona especialmente bien con los Pokémon que viven en el mar."
+      }
+    },
+    {
+      "line_number": 272,
+      "internal_name": "NESTBALL",
+      "fields": {
+        "name": "Nido Ball",
+        "plural_name": "Nido Balls",
+        "description": "Es algo distinta a las demás. Funciona especialmente bien con los Pokémon salvajes de menor nivel."
+      }
+    },
+    {
+      "line_number": 273,
+      "internal_name": "REPEATBALL",
+      "fields": {
+        "name": "Acopio Ball",
+        "plural_name": "Acopio Balls",
+        "description": "Es algo distinta a las demás. Funciona especialmente bien con los Pokémon iguales a los que ya has capturado."
+      }
+    },
+    {
+      "line_number": 274,
+      "internal_name": "TIMERBALL",
+      "fields": {
+        "name": "Turno Ball",
+        "plural_name": "Turno Balls",
+        "description": "Una Poké Ball algo distinta que va mejorando su rendimiento con cada turno de combate."
+      }
+    },
+    {
+      "line_number": 275,
+      "internal_name": "LUXURYBALL",
+      "fields": {
+        "name": "Lujo Ball",
+        "plural_name": "Lujo Balls",
+        "description": "Acogedora Poké Ball que hace más amistosos a los Pokémon salvajes capturados."
+      }
+    },
+    {
+      "line_number": 276,
+      "internal_name": "PREMIERBALL",
+      "fields": {
+        "name": "Honor Ball",
+        "plural_name": "Honor Balls",
+        "description": "Es una Poké Ball muy particular que se creó para conmemorar algún acontecimiento."
+      }
+    },
+    {
+      "line_number": 277,
+      "internal_name": "DUSKBALL",
+      "fields": {
+        "name": "Ocaso Ball",
+        "plural_name": "Ocaso Balls",
+        "description": "Es algo distinta. Hace que sea más fácil capturar a Pokémon salvajes en la oscuridad."
+      }
+    },
+    {
+      "line_number": 278,
+      "internal_name": "HEALBALL",
+      "fields": {
+        "name": "Sana Ball",
+        "plural_name": "Sana Balls",
+        "description": "Poké Ball curativa que restaura los PS de un Pokémon capturado y cura sus problemas de estado."
+      }
+    },
+    {
+      "line_number": 279,
+      "internal_name": "QUICKBALL",
+      "fields": {
+        "name": "Veloz Ball",
+        "plural_name": "Veloz Balls",
+        "description": "Una Poké Ball algo distinta que potencia el índice de captura si se usa al inicio de un encuentro con Pokémon salvajes."
+      }
+    },
+    {
+      "line_number": 280,
+      "internal_name": "CHERISHBALL",
+      "fields": {
+        "name": "Gloria Ball",
+        "plural_name": "Gloria Balls",
+        "description": "Es una Poké Ball muy particular que se creó para conmemorar algún acontecimiento."
+      }
+    },
+    {
+      "line_number": 281,
+      "internal_name": "FASTBALL",
+      "fields": {
+        "name": "Rapid Ball",
+        "plural_name": "Rapid Balls",
+        "description": "Poké Ball algo distinta, especialmente indicada para capturar Pokémon con Velocidad muy alta."
+      }
+    },
+    {
+      "line_number": 282,
+      "internal_name": "LEVELBALL",
+      "fields": {
+        "name": "Nivel Ball",
+        "plural_name": "Nivel Balls",
+        "description": "Una Poké Ball diseñada para capturar Pokémon de nivel inferior al de tu Pokémon."
+      }
+    },
+    {
+      "line_number": 283,
+      "internal_name": "LUREBALL",
+      "fields": {
+        "name": "Cebo Ball",
+        "plural_name": "Cebo Balls",
+        "description": "Poké Ball algo distinta, especialmente indicada para capturar los Pokémon que se han pescado con una Caña."
+      }
+    },
+    {
+      "line_number": 284,
+      "internal_name": "HEAVYBALL",
+      "fields": {
+        "name": "Peso Ball",
+        "plural_name": "Peso Balls",
+        "description": "Una Poké Ball diseñada para capturar Pokémon muy pesados."
+      }
+    },
+    {
+      "line_number": 285,
+      "internal_name": "LOVEBALL",
+      "fields": {
+        "name": "Amor Ball",
+        "plural_name": "Amor Balls",
+        "description": "Una Poké Ball diseñada para capturar Pokémon del género opuesto al de tu Pokémon."
+      }
+    },
+    {
+      "line_number": 286,
+      "internal_name": "FRIENDBALL",
+      "fields": {
+        "name": "Amigo Ball",
+        "plural_name": "Amigo Balls",
+        "description": "Una Poké Ball que hace más amistosos a los Pokémon capturados."
+      }
+    },
+    {
+      "line_number": 287,
+      "internal_name": "MOONBALL",
+      "fields": {
+        "name": "Luna Ball",
+        "plural_name": "Luna Balls",
+        "description": "Una Poké Ball diseñada para capturar Pokémon que evolucionan con Piedra Lunar."
+      }
+    },
+    {
+      "line_number": 288,
+      "internal_name": "TM01",
+      "fields": {
+        "name": "MT01",
+        "plural_name": "MT01s",
+        "description": "El usuario se afila las garras para aumentar su Ataque y Precisión."
+      }
+    },
+    {
+      "line_number": 289,
+      "internal_name": "TM02",
+      "fields": {
+        "name": "MT02",
+        "plural_name": "MT02s",
+        "description": "Araña al objetivo con garras afiladas."
+      }
+    },
+    {
+      "line_number": 290,
+      "internal_name": "TM03",
+      "fields": {
+        "name": "MT03",
+        "plural_name": "MT03s",
+        "description": "Crea una onda psíquica que golpea al objetivo y provoca un gran daño."
+      }
+    },
+    {
+      "line_number": 291,
+      "internal_name": "TM04",
+      "fields": {
+        "name": "MT04",
+        "plural_name": "MT04s",
+        "description": "Aumenta la concentración y calma el espíritu para subir el Ataque Especial y la Defensa Especial."
+      }
+    },
+    {
+      "line_number": 292,
+      "internal_name": "TM05",
+      "fields": {
+        "name": "MT05",
+        "plural_name": "MT05s",
+        "description": "Hace un movimiento aleatorio."
+      }
+    },
+    {
+      "line_number": 293,
+      "internal_name": "TM06",
+      "fields": {
+        "name": "MT06",
+        "plural_name": "MT06s",
+        "description": "Golpea con un cabezado como el hierro, puede hacer retroceder."
+      }
+    },
+    {
+      "line_number": 294,
+      "internal_name": "TM07",
+      "fields": {
+        "name": "MT07",
+        "plural_name": "MT07s",
+        "description": "Tormenta de granizo que dura cinco turnos. Hiere a todos, excepto a los de tipo Hielo."
+      }
+    },
+    {
+      "line_number": 295,
+      "internal_name": "TM08",
+      "fields": {
+        "name": "MT08",
+        "plural_name": "MT08s",
+        "description": "Robustece el cuerpo para subir el Ataque y la Defensa."
+      }
+    },
+    {
+      "line_number": 296,
+      "internal_name": "TM09",
+      "fields": {
+        "name": "MT09",
+        "plural_name": "MT09s",
+        "description": "Ataca con una potente coz."
+      }
+    },
+    {
+      "line_number": 297,
+      "internal_name": "TM10",
+      "fields": {
+        "name": "MT10",
+        "plural_name": "MT10s",
+        "description": "Ataque único cuyo tipo y potencia varían según el agresor."
+      }
+    },
+    {
+      "line_number": 298,
+      "internal_name": "TM11",
+      "fields": {
+        "name": "MT11",
+        "plural_name": "MT11s",
+        "description": "Quien lo usa intensifica el sol durante cinco turnos, lo que potencia los movimientos de tipo Fuego."
+      }
+    },
+    {
+      "line_number": 299,
+      "internal_name": "TM12",
+      "fields": {
+        "name": "MT12",
+        "plural_name": "MT12s",
+        "description": "Enfurece al objetivo para que solo use movimientos de ataque durante tres turnos."
+      }
+    },
+    {
+      "line_number": 300,
+      "internal_name": "TM13",
+      "fields": {
+        "name": "MT13",
+        "plural_name": "MT13s",
+        "description": "Rayo de hielo que puede llegar a congelar."
+      }
+    },
+    {
+      "line_number": 301,
+      "internal_name": "TM14",
+      "fields": {
+        "name": "MT14",
+        "plural_name": "MT14s",
+        "description": "Se posa en el suelo para recuperar salud."
+      }
+    },
+    {
+      "line_number": 302,
+      "internal_name": "TM15",
+      "fields": {
+        "name": "MT15",
+        "plural_name": "MT15s",
+        "description": "Dispara una ráfaga de semillas de 2 a 5 veces."
+      }
+    },
+    {
+      "line_number": 303,
+      "internal_name": "TM16",
+      "fields": {
+        "name": "MT16",
+        "plural_name": "MT16s",
+        "description": "Pared de luz que reduce durante cinco turnos el daño producido por los ataques especiales."
+      }
+    },
+    {
+      "line_number": 304,
+      "internal_name": "TM17",
+      "fields": {
+        "name": "MT17",
+        "plural_name": "MT17s",
+        "description": "Frena todos los ataques, pero puede fallar si se usa repetidamente."
+      }
+    },
+    {
+      "line_number": 305,
+      "internal_name": "TM18",
+      "fields": {
+        "name": "MT18",
+        "plural_name": "MT18s",
+        "description": "Genera una fuerte lluvia que refuerza los movimientos de tipo Agua durante cinco turnos."
+      }
+    },
+    {
+      "line_number": 306,
+      "internal_name": "TM19",
+      "fields": {
+        "name": "MT19",
+        "plural_name": "MT19s",
+        "description": "Libera toda la fuerza causando un gran daño pero reduciendo el Ataque y Defensa del usuario."
+      }
+    },
+    {
+      "line_number": 307,
+      "internal_name": "TM20",
+      "fields": {
+        "name": "MT20",
+        "plural_name": "MT20s",
+        "description": "Potente puñetazo que también sirve para mover grandes rocas."
+      }
+    },
+    {
+      "line_number": 308,
+      "internal_name": "TM21",
+      "fields": {
+        "name": "MT21",
+        "plural_name": "MT21s",
+        "description": "Un haz de luz extraño que puede llegar a confundir al oponente."
+      }
+    },
+    {
+      "line_number": 309,
+      "internal_name": "TM22",
+      "fields": {
+        "name": "MT22",
+        "plural_name": "MT22s",
+        "description": "Primer turno: absorbe luz.            Segundo turno: ataca."
+      }
+    },
+    {
+      "line_number": 310,
+      "internal_name": "TM23",
+      "fields": {
+        "name": "MT23",
+        "plural_name": "MT23s",
+        "description": "Aire muy cortante que suele ser crítico."
+      }
+    },
+    {
+      "line_number": 311,
+      "internal_name": "TM24",
+      "fields": {
+        "name": "MT24",
+        "plural_name": "MT24s",
+        "description": "Potente ataque eléctrico que puede paralizar al objetivo."
+      }
+    },
+    {
+      "line_number": 312,
+      "internal_name": "TM25",
+      "fields": {
+        "name": "MT25",
+        "plural_name": "MT25s",
+        "description": "Arroja una potente semilla explosiva."
+      }
+    },
+    {
+      "line_number": 313,
+      "internal_name": "TM26",
+      "fields": {
+        "name": "MT26",
+        "plural_name": "MT26s",
+        "description": "Un terremoto que afecta a los Pokémon de alrededor en combate."
+      }
+    },
+    {
+      "line_number": 314,
+      "internal_name": "TM27",
+      "fields": {
+        "name": "MT27",
+        "plural_name": "MT27s",
+        "description": "Cuanto mayor sea la amistad con el Entrenador, más poderoso será este ataque."
+      }
+    },
+    {
+      "line_number": 315,
+      "internal_name": "TM28",
+      "fields": {
+        "name": "MT28",
+        "plural_name": "MT28s",
+        "description": "Viento malévolo que puede aumentar las características del usuario."
+      }
+    },
+    {
+      "line_number": 316,
+      "internal_name": "TM29",
+      "fields": {
+        "name": "MT29",
+        "plural_name": "MT29s",
+        "description": "Fuerte ataque telequinético que puede bajar la Defensa Especial del objetivo."
+      }
+    },
+    {
+      "line_number": 317,
+      "internal_name": "TM30",
+      "fields": {
+        "name": "MT30",
+        "plural_name": "MT30s",
+        "description": "Lanza una bola oscura que puede bajar la Defensa Especial del objetivo."
+      }
+    },
+    {
+      "line_number": 318,
+      "internal_name": "TM31",
+      "fields": {
+        "name": "MT31",
+        "plural_name": "MT31s",
+        "description": "Potente ataque que también es capaz de destruir barreras como Pantalla de Luz y Reflejo."
+      }
+    },
+    {
+      "line_number": 319,
+      "internal_name": "TM32",
+      "fields": {
+        "name": "MT32",
+        "plural_name": "MT32s",
+        "description": "Crea una ola gigante con la fuerza de su cola."
+      }
+    },
+    {
+      "line_number": 320,
+      "internal_name": "TM33",
+      "fields": {
+        "name": "MT33",
+        "plural_name": "MT33s",
+        "description": "Pared de luz que reduce durante cinco turnos el daño producido por los ataques físicos."
+      }
+    },
+    {
+      "line_number": 321,
+      "internal_name": "TM34",
+      "fields": {
+        "name": "MT34",
+        "plural_name": "MT34s",
+        "description": "Arroja una joya de energía al oponente."
+      }
+    },
+    {
+      "line_number": 322,
+      "internal_name": "TM35",
+      "fields": {
+        "name": "MT35",
+        "plural_name": "MT35s",
+        "description": "Una patada que causa más daño cuanto más pese el oponente."
+      }
+    },
+    {
+      "line_number": 323,
+      "internal_name": "TM36",
+      "fields": {
+        "name": "MT36",
+        "plural_name": "MT36s",
+        "description": "Arroja residuos al objetivo. Puede llegar a envenenar."
+      }
+    },
+    {
+      "line_number": 324,
+      "internal_name": "TM37",
+      "fields": {
+        "name": "MT37",
+        "plural_name": "MT37s",
+        "description": "Tormenta de arena que dura cinco turnos y hiere a todos, excepto a los de tipo Roca, Tierra y Acero."
+      }
+    },
+    {
+      "line_number": 325,
+      "internal_name": "TM38",
+      "fields": {
+        "name": "MT38",
+        "plural_name": "MT38s",
+        "description": "Llama intensa que chamusca y puede causar quemaduras."
+      }
+    },
+    {
+      "line_number": 326,
+      "internal_name": "TM39",
+      "fields": {
+        "name": "MT39",
+        "plural_name": "MT39s",
+        "description": "Tira rocas que detienen al objetivo y bajan su Velocidad."
+      }
+    },
+    {
+      "line_number": 327,
+      "internal_name": "TM40",
+      "fields": {
+        "name": "MT40",
+        "plural_name": "MT40s",
+        "description": "El usuario lanza un ataque muy rápido e ineludible."
+      }
+    },
+    {
+      "line_number": 328,
+      "internal_name": "TM41",
+      "fields": {
+        "name": "MT41",
+        "plural_name": "MT41s",
+        "description": "Puñetazo ardiente que puede causar quemaduras."
+      }
+    },
+    {
+      "line_number": 329,
+      "internal_name": "TM42",
+      "fields": {
+        "name": "MT42",
+        "plural_name": "MT42s",
+        "description": "Ataca con el doble de potencia si el usuario está quemado, paralizado o envenenado."
+      }
+    },
+    {
+      "line_number": 330,
+      "internal_name": "TM43",
+      "fields": {
+        "name": "MT43",
+        "plural_name": "MT43s",
+        "description": "Llamas que golpean al objetivo y aumentan la Velocidad del atacante."
+      }
+    },
+    {
+      "line_number": 331,
+      "internal_name": "TM44",
+      "fields": {
+        "name": "MT44",
+        "plural_name": "MT44s",
+        "description": "Restaura todos los PS y cura todos los problemas de estado del usuario. Duerme los dos próximos turnos."
+      }
+    },
+    {
+      "line_number": 332,
+      "internal_name": "TM45",
+      "fields": {
+        "name": "MT45",
+        "plural_name": "MT45s",
+        "description": "Si el objetivo es del sexo opuesto, se enamorará y bajará la posibilidad de que ataque."
+      }
+    },
+    {
+      "line_number": 333,
+      "internal_name": "TM46",
+      "fields": {
+        "name": "MT46",
+        "plural_name": "MT46s",
+        "description": "Ataca y le quita al objetivo el objeto que lleve. Si el agresor lleva un objeto, no robará el del objetivo."
+      }
+    },
+    {
+      "line_number": 334,
+      "internal_name": "TM47",
+      "fields": {
+        "name": "MT47",
+        "plural_name": "MT47s",
+        "description": "Un corte que se va haciendo más fuerte si se usa de forma consecutiva."
+      }
+    },
+    {
+      "line_number": 335,
+      "internal_name": "TM48",
+      "fields": {
+        "name": "MT48",
+        "plural_name": "MT48s",
+        "description": "Puñetazo eléctrico que puede causar parálisis."
+      }
+    },
+    {
+      "line_number": 336,
+      "internal_name": "TM49",
+      "fields": {
+        "name": "MT49",
+        "plural_name": "MT49s",
+        "description": "Puñetazo gélido que puede llegar a congelar."
+      }
+    },
+    {
+      "line_number": 337,
+      "internal_name": "TM50",
+      "fields": {
+        "name": "MT50",
+        "plural_name": "MT50s",
+        "description": "Un cabezazo místico que puede hacer retroceder."
+      }
+    },
+    {
+      "line_number": 338,
+      "internal_name": "TM51",
+      "fields": {
+        "name": "MT51",
+        "plural_name": "MT51s",
+        "description": "Dispara un pulso de agua que puede confundir al objetivo."
+      }
+    },
+    {
+      "line_number": 339,
+      "internal_name": "TM52",
+      "fields": {
+        "name": "MT52",
+        "plural_name": "MT52s",
+        "description": "Agudiza la concentración mental y libera su poder. Puede disminuir la Defensa Especial del objetivo."
+      }
+    },
+    {
+      "line_number": 340,
+      "internal_name": "TM53",
+      "fields": {
+        "name": "MT53",
+        "plural_name": "MT53s",
+        "description": "Aúna fuerzas de la naturaleza y libera su ataque. Puede disminuir la Defensa Especial del objetivo."
+      }
+    },
+    {
+      "line_number": 341,
+      "internal_name": "TM54",
+      "fields": {
+        "name": "MT54",
+        "plural_name": "MT54s",
+        "description": "Ataque moderado que no debilita al objetivo y le deja al menos un PS."
+      }
+    },
+    {
+      "line_number": 342,
+      "internal_name": "TM55",
+      "fields": {
+        "name": "MT55",
+        "plural_name": "MT55s",
+        "description": "Ataca arrojando agua hirviendo al objetivo. Puede causar quemaduras."
+      }
+    },
+    {
+      "line_number": 343,
+      "internal_name": "TM56",
+      "fields": {
+        "name": "MT56",
+        "plural_name": "MT56s",
+        "description": "Ataca con una potente cola de acero."
+      }
+    },
+    {
+      "line_number": 344,
+      "internal_name": "TM57",
+      "fields": {
+        "name": "MT57",
+        "plural_name": "MT57s",
+        "description": "Lanza un rayo eléctrico contra el objetivo. Puede subir el Ataque Especial de quien lo usa."
+      }
+    },
+    {
+      "line_number": 345,
+      "internal_name": "TM58",
+      "fields": {
+        "name": "MT58",
+        "plural_name": "MT58s",
+        "description": "Una intensa descarga de llamas que puede quemar al oponente."
+      }
+    },
+    {
+      "line_number": 346,
+      "internal_name": "TM59",
+      "fields": {
+        "name": "MT59",
+        "plural_name": "MT59s",
+        "description": "Llamas que golpean a los objetivos adyacentes. Si estos llevan Bayas, estas se quemarán y ya no se podrán usar."
+      }
+    },
+    {
+      "line_number": 347,
+      "internal_name": "TM60",
+      "fields": {
+        "name": "MT60",
+        "plural_name": "MT60s",
+        "description": "Ataca con un ala dura como el acero."
+      }
+    },
+    {
+      "line_number": 348,
+      "internal_name": "TM61",
+      "fields": {
+        "name": "MT61",
+        "plural_name": "MT61s",
+        "description": "Siniestra llama morada que produce quemaduras."
+      }
+    },
+    {
+      "line_number": 349,
+      "internal_name": "TM62",
+      "fields": {
+        "name": "MT62",
+        "plural_name": "MT62s",
+        "description": "Golpea ágilmente. Si el usuario no porta ningún objeto, el objetivo resulta seriamente dañado."
+      }
+    },
+    {
+      "line_number": 350,
+      "internal_name": "TM63",
+      "fields": {
+        "name": "MT63",
+        "plural_name": "MT63s",
+        "description": "Drena la energía del objetivo y restaura la mitad del daño producido."
+      }
+    },
+    {
+      "line_number": 351,
+      "internal_name": "TM64",
+      "fields": {
+        "name": "MT64",
+        "plural_name": "MT64s",
+        "description": "Ataca con una ráfaga de energía devastadora."
+      }
+    },
+    {
+      "line_number": 352,
+      "internal_name": "TM65",
+      "fields": {
+        "name": "MT65",
+        "plural_name": "MT65s",
+        "description": "Ataca con una garra afilada hecha de sombras. Suele ser crítico."
+      }
+    },
+    {
+      "line_number": 353,
+      "internal_name": "TM66",
+      "fields": {
+        "name": "MT66",
+        "plural_name": "MT66s",
+        "description": "El usuario contraataca con el doble de fuerza si el objetivo usa un movimiento antes."
+      }
+    },
+    {
+      "line_number": 354,
+      "internal_name": "TM67",
+      "fields": {
+        "name": "MT67",
+        "plural_name": "MT67s",
+        "description": "Golpea 2 veces seguidas con las alas."
+      }
+    },
+    {
+      "line_number": 355,
+      "internal_name": "TM68",
+      "fields": {
+        "name": "MT68",
+        "plural_name": "MT68s",
+        "description": "Se lanza al oponente con un ataque de monería."
+      }
+    },
+    {
+      "line_number": 356,
+      "internal_name": "TM69",
+      "fields": {
+        "name": "MT69",
+        "plural_name": "MT69s",
+        "description": "Una onda eléctrica que nunca falla."
+      }
+    },
+    {
+      "line_number": 357,
+      "internal_name": "TM70",
+      "fields": {
+        "name": "MT70",
+        "plural_name": "MT70s",
+        "description": "Ataca con una voz muy potente."
+      }
+    },
+    {
+      "line_number": 358,
+      "internal_name": "TM71",
+      "fields": {
+        "name": "MT71",
+        "plural_name": "MT71s",
+        "description": "Clava piedras muy afiladas al objetivo. Suele ser crítico."
+      }
+    },
+    {
+      "line_number": 359,
+      "internal_name": "TM72",
+      "fields": {
+        "name": "MT72",
+        "plural_name": "MT72s",
+        "description": "Tras atacar, vuelve a toda prisa para dar paso a otro Pokémon del equipo."
+      }
+    },
+    {
+      "line_number": 360,
+      "internal_name": "TM73",
+      "fields": {
+        "name": "MT73",
+        "plural_name": "MT73s",
+        "description": "Una ligera descarga que paraliza al objetivo si lo alcanza."
+      }
+    },
+    {
+      "line_number": 361,
+      "internal_name": "TM74",
+      "fields": {
+        "name": "MT74",
+        "plural_name": "MT74s",
+        "description": "Embiste al objetivo con un potente ataque giratorio. Cuanto más lento es el usuario, más daño causa."
+      }
+    },
+    {
+      "line_number": 362,
+      "internal_name": "TM75",
+      "fields": {
+        "name": "MT75",
+        "plural_name": "MT75s",
+        "description": "Baile frenético que aumenta mucho el Ataque."
+      }
+    },
+    {
+      "line_number": 363,
+      "internal_name": "TM76",
+      "fields": {
+        "name": "MT76",
+        "plural_name": "MT76s",
+        "description": "Lanza un potente trueno que puede paralizar."
+      }
+    },
+    {
+      "line_number": 364,
+      "internal_name": "TM77",
+      "fields": {
+        "name": "MT77",
+        "plural_name": "MT77s",
+        "description": "Dispara un haz de luz cegador al oponente."
+      }
+    },
+    {
+      "line_number": 365,
+      "internal_name": "TM78",
+      "fields": {
+        "name": "MT78",
+        "plural_name": "MT78s",
+        "description": "Ataca con una sacudida sísmica que afecta a los Pokémon adyacentes en combate y baja su Velocidad."
+      }
+    },
+    {
+      "line_number": 366,
+      "internal_name": "TM79",
+      "fields": {
+        "name": "MT79",
+        "plural_name": "MT79s",
+        "description": "Una oleada de pensamientos oscuros que aumenta mucho el Ataque Especial."
+      }
+    },
+    {
+      "line_number": 367,
+      "internal_name": "TM80",
+      "fields": {
+        "name": "MT80",
+        "plural_name": "MT80s",
+        "description": "Lanza grandes pedruscos. Puede hacer retroceder al objetivo."
+      }
+    },
+    {
+      "line_number": 368,
+      "internal_name": "TM81",
+      "fields": {
+        "name": "MT81",
+        "plural_name": "MT81s",
+        "description": "Cruza las guadañas o las garras para atacar al objetivo como si fueran unas tijeras."
+      }
+    },
+    {
+      "line_number": 369,
+      "internal_name": "TM82",
+      "fields": {
+        "name": "MT82",
+        "plural_name": "MT82s",
+        "description": "Ataca al objetivo con un enorme cuerno."
+      }
+    },
+    {
+      "line_number": 370,
+      "internal_name": "TM83",
+      "fields": {
+        "name": "MT83",
+        "plural_name": "MT83s",
+        "description": "Movimiento que aumenta el Ataque y el Ataque Especial de quien lo usa."
+      }
+    },
+    {
+      "line_number": 371,
+      "internal_name": "TM84",
+      "fields": {
+        "name": "MT84",
+        "plural_name": "MT84s",
+        "description": "Pincha al objetivo con un tentáculo o brazo envenenado. Puede llegar a envenenar al objetivo."
+      }
+    },
+    {
+      "line_number": 372,
+      "internal_name": "TM85",
+      "fields": {
+        "name": "MT85",
+        "plural_name": "MT85s",
+        "description": "Ataca con un potente que suele ser crítico."
+      }
+    },
+    {
+      "line_number": 373,
+      "internal_name": "TM86",
+      "fields": {
+        "name": "MT86",
+        "plural_name": "MT86s",
+        "description": "Enreda al objetivo con hierba y lo derriba. Cuanto más pesado es el objetivo, más daño inflige."
+      }
+    },
+    {
+      "line_number": 374,
+      "internal_name": "TM87",
+      "fields": {
+        "name": "MT87",
+        "plural_name": "MT87s",
+        "description": "Un pulso de energía oscura que puede hacer retroceder."
+      }
+    },
+    {
+      "line_number": 375,
+      "internal_name": "TM88",
+      "fields": {
+        "name": "MT88",
+        "plural_name": "MT88s",
+        "description": "Arroja un residuo enorme que puede llegar a envenenar."
+      }
+    },
+    {
+      "line_number": 376,
+      "internal_name": "TM89",
+      "fields": {
+        "name": "MT89",
+        "plural_name": "MT89s",
+        "description": "Tras atacar, vuelve a toda prisa para dar paso a otro Pokémon del equipo."
+      }
+    },
+    {
+      "line_number": 377,
+      "internal_name": "TM90",
+      "fields": {
+        "name": "MT90",
+        "plural_name": "MT90s",
+        "description": "Utiliza parte de los PS propios para crear un sustituto que actúa como señuelo."
+      }
+    },
+    {
+      "line_number": 378,
+      "internal_name": "TM91",
+      "fields": {
+        "name": "MT91",
+        "plural_name": "MT91s",
+        "description": "El usuario concentra toda la luz del cuerpo y la libera. Puede bajar la Defensa Especial del objetivo."
+      }
+    },
+    {
+      "line_number": 379,
+      "internal_name": "TM92",
+      "fields": {
+        "name": "MT92",
+        "plural_name": "MT92s",
+        "description": "Provoca una intensa ola de calor que puede causar quemaduras."
+      }
+    },
+    {
+      "line_number": 380,
+      "internal_name": "TM93",
+      "fields": {
+        "name": "MT93",
+        "plural_name": "MT93s",
+        "description": "Carga eléctrica muy potente que también hiere ligeramente a quien la usa."
+      }
+    },
+    {
+      "line_number": 381,
+      "internal_name": "TM94",
+      "fields": {
+        "name": "MT94",
+        "plural_name": "MT94s",
+        "description": "Ataca con puñetazos que pueden romper rocas. Puede bajar la Defensa del objetivo."
+      }
+    },
+    {
+      "line_number": 382,
+      "internal_name": "TM95",
+      "fields": {
+        "name": "MT95",
+        "plural_name": "MT95s",
+        "description": "Ataca al objetivo con una acrobacia acuática y después da paso a otro Pokémon."
+      }
+    },
+    {
+      "line_number": 383,
+      "internal_name": "TM96",
+      "fields": {
+        "name": "MT96",
+        "plural_name": "MT96s",
+        "description": "Un puñetazo que restaura la mitad del daño producido."
+      }
+    },
+    {
+      "line_number": 384,
+      "internal_name": "TM97",
+      "fields": {
+        "name": "MT97",
+        "plural_name": "MT97s",
+        "description": "Lanza unas arenas ardientes al objetivo que pueden causarle quemaduras."
+      }
+    },
+    {
+      "line_number": 385,
+      "internal_name": "TM98",
+      "fields": {
+        "name": "MT98",
+        "plural_name": "MT98s",
+        "description": "Planta una hilera de púas que envenenan a los enemigos."
+      }
+    },
+    {
+      "line_number": 386,
+      "internal_name": "TM99",
+      "fields": {
+        "name": "MT99",
+        "plural_name": "MT99s",
+        "description": "Ataca con unos gélidos movimientos acrobáticos hasta 3 veces."
+      }
+    },
+    {
+      "line_number": 387,
+      "internal_name": "TM100",
+      "fields": {
+        "name": "MT100",
+        "plural_name": "MT100s",
+        "description": "Lanza un poderoso meteorito, bajando el Ataque Especial del usuario en el proceso."
+      }
+    },
+    {
+      "line_number": 388,
+      "internal_name": "HM01",
+      "fields": {
+        "name": "MO01",
+        "plural_name": "MO01s",
+        "description": "Corta con garras, guadañas, etc. También sirve para cortar árboles finos."
+      }
+    },
+    {
+      "line_number": 389,
+      "internal_name": "HM02",
+      "fields": {
+        "name": "MO02",
+        "plural_name": "MO02s",
+        "description": "1° turno: vuela.                                   2° turno: ataca. Fuera de combate, permite ir a sitios conocidos."
+      }
+    },
+    {
+      "line_number": 390,
+      "internal_name": "HM03",
+      "fields": {
+        "name": "MO03",
+        "plural_name": "MO03s",
+        "description": "Inunda el campo de batalla con una ola gigante. Fuera de batalla sirve para moverse sobre el agua."
+      }
+    },
+    {
+      "line_number": 391,
+      "internal_name": "HM04",
+      "fields": {
+        "name": "HM04",
+        "plural_name": "HM04s",
+        "description": "Potente puñetazo. Fuera de combate sirve para mover piedras."
+      }
+    },
+    {
+      "line_number": 392,
+      "internal_name": "HM05",
+      "fields": {
+        "name": "MO05",
+        "plural_name": "MO05s",
+        "description": "Embiste con un gran impulso que puede hacer retroceder. También sirve para remontar cascadas."
+      }
+    },
+    {
+      "line_number": 393,
+      "internal_name": "HM06",
+      "fields": {
+        "name": "MO06",
+        "plural_name": "MO06s",
+        "description": "Primer turno: se sumerge en el mar.  Segundo turno: emerge y ataca."
+      }
+    },
+    {
+      "line_number": 394,
+      "internal_name": "CHERIBERRY",
+      "fields": {
+        "name": "Baya Zreza",
+        "plural_name": "Bayas Zreza",
+        "description": "Ingrediente para Pokochos. Los Pokémon pueden llevarla o usarla para recuperarse de la parálisis."
+      }
+    },
+    {
+      "line_number": 395,
+      "internal_name": "CHESTOBERRY",
+      "fields": {
+        "name": "Baya Atania",
+        "plural_name": "Bayas Atania",
+        "description": "Ingrediente para Pokochos. Los Pokémon pueden llevarla o usarla para despertar del sueño."
+      }
+    },
+    {
+      "line_number": 396,
+      "internal_name": "PECHABERRY",
+      "fields": {
+        "name": "Baya Meloc",
+        "plural_name": "Bayas Meloc",
+        "description": "Ingrediente para Pokochos. Los Pokémon pueden llevarla o usarla para curarse del envenenamiento."
+      }
+    },
+    {
+      "line_number": 397,
+      "internal_name": "RAWSTBERRY",
+      "fields": {
+        "name": "Baya Safre",
+        "plural_name": "Bayas Safre",
+        "description": "Ingrediente para Pokochos. Los Pokémon pueden llevarla o usarla para curarse las quemaduras."
+      }
+    },
+    {
+      "line_number": 398,
+      "internal_name": "ASPEARBERRY",
+      "fields": {
+        "name": "Baya Perasi",
+        "plural_name": "Bayas Perasi",
+        "description": "Ingrediente para Pokochos. Los Pokémon pueden llevarla o usarla para descongelarse."
+      }
+    },
+    {
+      "line_number": 399,
+      "internal_name": "LEPPABERRY",
+      "fields": {
+        "name": "Baya Zanama",
+        "plural_name": "Bayas Zanama",
+        "description": "Ingrediente para Pokochos que los Pokémon pueden llevar o usar para restaurar 10 PP de un movimiento."
+      }
+    },
+    {
+      "line_number": 400,
+      "internal_name": "ORANBERRY",
+      "fields": {
+        "name": "Baya Aranja",
+        "plural_name": "Bayas Aranja",
+        "description": "Ingrediente para Pokochos que los Pokémon pueden usar o llevar para restaurar 10 PS."
+      }
+    },
+    {
+      "line_number": 401,
+      "internal_name": "PERSIMBERRY",
+      "fields": {
+        "name": "Baya Caquic",
+        "plural_name": "Bayas Caquic",
+        "description": "Ingrediente para Pokochos que los Pokémon pueden usar o llevar para salir del estado de confusión."
+      }
+    },
+    {
+      "line_number": 402,
+      "internal_name": "LUMBERRY",
+      "fields": {
+        "name": "Baya Ziuela",
+        "plural_name": "Bayas Ziuela",
+        "description": "Ingrediente para Pokochos que los Pokémon pueden llevar o usar para recuperarse de problemas de estado."
+      }
+    },
+    {
+      "line_number": 403,
+      "internal_name": "SITRUSBERRY",
+      "fields": {
+        "name": "Baya Zidra",
+        "plural_name": "Bayas Zidra",
+        "description": "Ingrediente para Pokochos que los Pokémon pueden usar o llevar para restaurar algunos PS."
+      }
+    },
+    {
+      "line_number": 404,
+      "internal_name": "FIGYBERRY",
+      "fields": {
+        "name": "Baya Higog",
+        "plural_name": "Bayas Higog",
+        "description": "Ingrediente para Pokochos. Restaura los PS del Pokémon que la usa en un apuro, pero puede causar confusión."
+      }
+    },
+    {
+      "line_number": 405,
+      "internal_name": "WIKIBERRY",
+      "fields": {
+        "name": "Baya Wiki",
+        "plural_name": "Bayas Wiki",
+        "description": "Ingrediente para Pokochos. Restaura los PS del Pokémon que la usa en un apuro, pero puede causar confusión."
+      }
+    },
+    {
+      "line_number": 406,
+      "internal_name": "MAGOBERRY",
+      "fields": {
+        "name": "Baya Ango",
+        "plural_name": "Bayas Ango",
+        "description": "Ingrediente para Pokochos. Restaura los PS del Pokémon que la usa en un apuro, pero puede causar confusión."
+      }
+    },
+    {
+      "line_number": 407,
+      "internal_name": "AGUAVBERRY",
+      "fields": {
+        "name": "Baya Guaya",
+        "plural_name": "Bayas Guaya",
+        "description": "Ingrediente para Pokochos. Restaura los PS del Pokémon que la usa en un apuro, pero puede causar confusión."
+      }
+    },
+    {
+      "line_number": 408,
+      "internal_name": "IAPAPABERRY",
+      "fields": {
+        "name": "Baya Pabaya",
+        "plural_name": "Bayas Pabaya",
+        "description": "Ingrediente para Pokochos. Restaura los PS del Pokémon que la usa en un apuro, pero puede causar confusión."
+      }
+    },
+    {
+      "line_number": 409,
+      "internal_name": "RAZZBERRY",
+      "fields": {
+        "name": "Baya Frambu",
+        "plural_name": "Bayas Frambu",
+        "description": "Ingrediente para Pokochos. Si la plantas en tierra suelta, saldrá una planta de Frambu."
+      }
+    },
+    {
+      "line_number": 410,
+      "internal_name": "BLUKBERRY",
+      "fields": {
+        "name": "Baya Oram",
+        "plural_name": "Bayas Oram",
+        "description": "Ingrediente para Pokochos. Si la plantas en tierra suelta, saldrá una planta de Oram."
+      }
+    },
+    {
+      "line_number": 411,
+      "internal_name": "NANABBERRY",
+      "fields": {
+        "name": "Baya Latano",
+        "plural_name": "Bayas Latano",
+        "description": "Ingrediente para Pokochos. Si la plantas en tierra suelta, saldrá una planta de Latano."
+      }
+    },
+    {
+      "line_number": 412,
+      "internal_name": "WEPEARBERRY",
+      "fields": {
+        "name": "Baya Peragu",
+        "plural_name": "Bayas Peragu",
+        "description": "Ingrediente para Pokochos. Si la plantas en tierra suelta, saldrá una planta de Peragu."
+      }
+    },
+    {
+      "line_number": 413,
+      "internal_name": "PINAPBERRY",
+      "fields": {
+        "name": "Baya Pinia",
+        "plural_name": "Bayas Pinia",
+        "description": "Ingrediente para Pokochos. Si la plantas en tierra suelta, saldrá una planta de Pinia."
+      }
+    },
+    {
+      "line_number": 414,
+      "internal_name": "POMEGBERRY",
+      "fields": {
+        "name": "Baya Grana",
+        "plural_name": "Bayas Grana",
+        "description": "Ingrediente para Pokochos. Si la usas en un Pokémon te ganas su amistad, pero también reduces sus PS."
+      }
+    },
+    {
+      "line_number": 415,
+      "internal_name": "KELPSYBERRY",
+      "fields": {
+        "name": "Baya Algama",
+        "plural_name": "Bayas Algama",
+        "description": "Ingrediente para Pokochos. Si la usas en un Pokémon te ganas su amistad, pero reduces su Ataque."
+      }
+    },
+    {
+      "line_number": 416,
+      "internal_name": "QUALOTBERRY",
+      "fields": {
+        "name": "Baya Ispero",
+        "plural_name": "Bayas Ispero",
+        "description": "Ingrediente para Pokochos. Si la usas en un Pokémon te ganas su amistad, pero reduces su Defensa."
+      }
+    },
+    {
+      "line_number": 417,
+      "internal_name": "HONDEWBERRY",
+      "fields": {
+        "name": "Baya Meluce",
+        "plural_name": "Bayas Meluce",
+        "description": "Ingrediente para Pokochos. Si la usas en un Pokémon te ganas su amistad, pero reduces su Ataque Especial."
+      }
+    },
+    {
+      "line_number": 418,
+      "internal_name": "GREPABERRY",
+      "fields": {
+        "name": "Baya Uvav",
+        "plural_name": "Bayas Uvav",
+        "description": "Ingrediente para Pokochos. Si la usas en un Pokémon te ganas su amistad, pero reduces su Defensa Especial."
+      }
+    },
+    {
+      "line_number": 419,
+      "internal_name": "TAMATOBERRY",
+      "fields": {
+        "name": "Baya Tamate",
+        "plural_name": "Bayas Tamate",
+        "description": "Ingrediente para Pokochos. Si la usas en un Pokémon te ganas su amistad, pero baja su Velocidad."
+      }
+    },
+    {
+      "line_number": 420,
+      "internal_name": "CORNNBERRY",
+      "fields": {
+        "name": "Baya Mais",
+        "plural_name": "Bayas Mais",
+        "description": "Ingrediente para Pokochos. Si la plantas en tierra suelta, saldrá una planta de Mais."
+      }
+    },
+    {
+      "line_number": 421,
+      "internal_name": "MAGOSTBERRY",
+      "fields": {
+        "name": "Baya Aostan",
+        "plural_name": "Bayas Aostan",
+        "description": "Ingrediente para Pokochos. Si la plantas en tierra suelta, saldrá una planta de Aostan."
+      }
+    },
+    {
+      "line_number": 422,
+      "internal_name": "RABUTABERRY",
+      "fields": {
+        "name": "Baya Rautan",
+        "plural_name": "Bayas Rautan",
+        "description": "Ingrediente para Pokochos. Si la plantas en tierra suelta, saldrá una planta de Rautan."
+      }
+    },
+    {
+      "line_number": 423,
+      "internal_name": "NOMELBERRY",
+      "fields": {
+        "name": "Baya Monli",
+        "plural_name": "Bayas Monli",
+        "description": "Ingrediente para Pokochos. Si la plantas en tierra suelta, saldrá una planta de Monli."
+      }
+    },
+    {
+      "line_number": 424,
+      "internal_name": "SPELONBERRY",
+      "fields": {
+        "name": "Baya Wikano",
+        "plural_name": "Bayas Wikano",
+        "description": "Ingrediente para Pokochos. Si la plantas en tierra suelta, saldrá una planta de Wikano."
+      }
+    },
+    {
+      "line_number": 425,
+      "internal_name": "PAMTREBERRY",
+      "fields": {
+        "name": "Baya Plama",
+        "plural_name": "Bayas Plama",
+        "description": "Ingrediente para Pokochos. Si la plantas en tierra suelta, saldrá una planta de Plama."
+      }
+    },
+    {
+      "line_number": 426,
+      "internal_name": "WATMELBERRY",
+      "fields": {
+        "name": "Baya Sambia",
+        "plural_name": "Bayas Sambia",
+        "description": "Ingrediente para Pokochos. Si la plantas en tierra suelta, saldrá una planta de Sambia."
+      }
+    },
+    {
+      "line_number": 427,
+      "internal_name": "DURINBERRY",
+      "fields": {
+        "name": "Baya Rudion",
+        "plural_name": "Bayas Rudion",
+        "description": "Ingrediente para Pokochos. Si la plantas en tierra suelta, saldrá una planta de Rudion."
+      }
+    },
+    {
+      "line_number": 428,
+      "internal_name": "BELUEBERRY",
+      "fields": {
+        "name": "Baya Andano",
+        "plural_name": "Bayas Andano",
+        "description": "Ingrediente para Pokochos. Si la plantas en tierra suelta, saldrá una planta de Andano."
+      }
+    },
+    {
+      "line_number": 429,
+      "internal_name": "OCCABERRY",
+      "fields": {
+        "name": "Baya Caoca",
+        "plural_name": "Bayas Caoca",
+        "description": "Ingrediente para Pokochos. Si la lleva un Pokémon, debilita ataques supereficaces de tipo Fuego."
+      }
+    },
+    {
+      "line_number": 430,
+      "internal_name": "PASSHOBERRY",
+      "fields": {
+        "name": "Baya Pasio",
+        "plural_name": "Bayas Pasio",
+        "description": "Ingrediente para Pokochos. Si la lleva un Pokémon, debilita ataques supereficaces de tipo Agua."
+      }
+    },
+    {
+      "line_number": 431,
+      "internal_name": "WACANBERRY",
+      "fields": {
+        "name": "Baya Gualot",
+        "plural_name": "Bayas Gualot",
+        "description": "Ingrediente para Pokochos. Si la lleva un Pokémon, debilita ataques supereficaces de tipo Eléctrico."
+      }
+    },
+    {
+      "line_number": 432,
+      "internal_name": "RINDOBERRY",
+      "fields": {
+        "name": "Baya Tamar",
+        "plural_name": "Bayas Tamar",
+        "description": "Ingrediente para Pokochos. Si la lleva un Pokémon, debilita ataques supereficaces de tipo Planta."
+      }
+    },
+    {
+      "line_number": 433,
+      "internal_name": "YACHEBERRY",
+      "fields": {
+        "name": "Baya Rimoya",
+        "plural_name": "Bayas Rimoya",
+        "description": "Ingrediente para Pokochos. Si la lleva un Pokémon, debilita ataques supereficaces de tipo Hielo."
+      }
+    },
+    {
+      "line_number": 434,
+      "internal_name": "CHOPLEBERRY",
+      "fields": {
+        "name": "Baya Pomaro",
+        "plural_name": "Bayas Pomaro",
+        "description": "Ingrediente para Pokochos. Si la lleva un Pokémon, debilita ataques supereficaces de tipo Lucha."
+      }
+    },
+    {
+      "line_number": 435,
+      "internal_name": "KEBIABERRY",
+      "fields": {
+        "name": "Baya Kebia",
+        "plural_name": "Bayas Kebia",
+        "description": "Ingrediente para Pokochos. Si la lleva un Pokémon, debilita ataques supereficaces de tipo Veneno."
+      }
+    },
+    {
+      "line_number": 436,
+      "internal_name": "SHUCABERRY",
+      "fields": {
+        "name": "Baya Acardo",
+        "plural_name": "Bayas Acardo",
+        "description": "Ingrediente para Pokochos. Si la lleva un Pokémon, debilita ataques supereficaces de tipo Tierra."
+      }
+    },
+    {
+      "line_number": 437,
+      "internal_name": "COBABERRY",
+      "fields": {
+        "name": "Baya Kouba",
+        "plural_name": "Bayas Kouba",
+        "description": "Ingrediente para Pokochos. Si la lleva un Pokémon, debilita ataques supereficaces de tipo Volador."
+      }
+    },
+    {
+      "line_number": 438,
+      "internal_name": "PAYAPABERRY",
+      "fields": {
+        "name": "Baya Payapa",
+        "plural_name": "Bayas Payapa",
+        "description": "Ingrediente para Pokochos. Si la lleva un Pokémon, debilita ataques supereficaces de tipo Psíquico."
+      }
+    },
+    {
+      "line_number": 439,
+      "internal_name": "TANGABERRY",
+      "fields": {
+        "name": "Baya Yecana",
+        "plural_name": "Bayas Yecana",
+        "description": "Ingrediente para Pokochos. Si la lleva un Pokémon, debilita ataques supereficaces de tipo Bicho."
+      }
+    },
+    {
+      "line_number": 440,
+      "internal_name": "CHARTIBERRY",
+      "fields": {
+        "name": "Baya Alcho",
+        "plural_name": "Bayas Alcho",
+        "description": "Ingrediente para Pokochos. Si la lleva un Pokémon, debilita ataques supereficaces de tipo Roca."
+      }
+    },
+    {
+      "line_number": 441,
+      "internal_name": "KASIBBERRY",
+      "fields": {
+        "name": "Baya Drasi",
+        "plural_name": "Bayas Drasi",
+        "description": "Ingrediente para Pokochos. Si la lleva un Pokémon, debilita ataques supereficaces de tipo Fantasma."
+      }
+    },
+    {
+      "line_number": 442,
+      "internal_name": "HABANBERRY",
+      "fields": {
+        "name": "Baya Anjiro",
+        "plural_name": "Bayas Anjiro",
+        "description": "Ingrediente para Pokochos. Si la lleva un Pokémon, debilita ataques supereficaces de tipo Dragón."
+      }
+    },
+    {
+      "line_number": 443,
+      "internal_name": "COLBURBERRY",
+      "fields": {
+        "name": "Baya Dillo",
+        "plural_name": "Bayas Dillo",
+        "description": "Ingrediente para Pokochos. Si la lleva un Pokémon, debilita ataques supereficaces de tipo Siniestro."
+      }
+    },
+    {
+      "line_number": 444,
+      "internal_name": "BABIRIBERRY",
+      "fields": {
+        "name": "Baya Baribá",
+        "plural_name": "Bayas Baribá",
+        "description": "Ingrediente para Pokochos. Si la lleva un Pokémon, debilita ataques supereficaces de tipo Acero."
+      }
+    },
+    {
+      "line_number": 445,
+      "internal_name": "CHILANBERRY",
+      "fields": {
+        "name": "Baya Chilan",
+        "plural_name": "Bayas Chilan",
+        "description": "Ingrediente para Pokochos. Si la lleva un Pokémon, debilita el ataque de tipo Normal de un enemigo."
+      }
+    },
+    {
+      "line_number": 446,
+      "internal_name": "LIECHIBERRY",
+      "fields": {
+        "name": "Baya Lichi",
+        "plural_name": "Bayas Lichi",
+        "description": "Ingrediente para Pokochos. Si la lleva un Pokémon, le subirá el Ataque en un momento de apuro."
+      }
+    },
+    {
+      "line_number": 447,
+      "internal_name": "GANLONBERRY",
+      "fields": {
+        "name": "Baya Gonlan",
+        "plural_name": "Bayas Gonlan",
+        "description": "Ingrediente para Pokochos. Si la lleva un Pokémon, le subirá la Defensa en un momento de apuro."
+      }
+    },
+    {
+      "line_number": 448,
+      "internal_name": "SALACBERRY",
+      "fields": {
+        "name": "Baya Aslac",
+        "plural_name": "Bayas Aslac",
+        "description": "Ingrediente para Pokochos. Si la lleva un Pokémon, le subirá la Velocidad en un momento de apuro."
+      }
+    },
+    {
+      "line_number": 449,
+      "internal_name": "PETAYABERRY",
+      "fields": {
+        "name": "Baya Yapati",
+        "plural_name": "Bayas Yapati",
+        "description": "Ingrediente para Pokochos. Si la lleva un Pokémon, le subirá el At. Esp. en un momento de apuro."
+      }
+    },
+    {
+      "line_number": 450,
+      "internal_name": "APICOTBERRY",
+      "fields": {
+        "name": "Baya Aricoc",
+        "plural_name": "Bayas Aricoc",
+        "description": "Ingrediente para Pokochos. Si la lleva un Pokémon, le subirá la Def. Esp. en un momento de apuro."
+      }
+    },
+    {
+      "line_number": 451,
+      "internal_name": "LANSATBERRY",
+      "fields": {
+        "name": "Baya Zonlan",
+        "plural_name": "Bayas Zonlan",
+        "description": "Ingrediente para Pokochos. Si la lleva un Pokémon, sube su capacidad de dar un golpe crítico en un apuro."
+      }
+    },
+    {
+      "line_number": 452,
+      "internal_name": "STARFBERRY",
+      "fields": {
+        "name": "Baya Arabol",
+        "plural_name": "Bayas Arabol",
+        "description": "Ingrediente para Pokochos. Si la lleva un Pokémon, aumenta drásticamente 1 característica en un momento de apuro."
+      }
+    },
+    {
+      "line_number": 453,
+      "internal_name": "ENIGMABERRY",
+      "fields": {
+        "name": "Baya Enigma",
+        "plural_name": "Bayas Enigma",
+        "description": "Ingrediente para Pokochos. Restaura los PS de un Pokémon si la lleva cuando le alcanza un ataque supereficaz."
+      }
+    },
+    {
+      "line_number": 454,
+      "internal_name": "MICLEBERRY",
+      "fields": {
+        "name": "Baya Lagro",
+        "plural_name": "Bayas Lagro",
+        "description": "Cuando la lleve un Pokémon, le subirá la precisión de un movimiento en un momento de apuro. Ing. para Pokochos."
+      }
+    },
+    {
+      "line_number": 455,
+      "internal_name": "CUSTAPBERRY",
+      "fields": {
+        "name": "Baya Chiri",
+        "plural_name": "Bayas Chiri",
+        "description": "El Pokémon que la lleve podrá actuar en primer lugar una vez cuando se encuentre en un momento de apuro."
+      }
+    },
+    {
+      "line_number": 456,
+      "internal_name": "JABOCABERRY",
+      "fields": {
+        "name": "Baya Jaboca",
+        "plural_name": "Bayas Jaboca",
+        "description": "Si la lleva un Pokémon cuando un enemigo lanza un ataque físico, este también recibirá daño."
+      }
+    },
+    {
+      "line_number": 457,
+      "internal_name": "ROWAPBERRY",
+      "fields": {
+        "name": "Baya Magua",
+        "plural_name": "Bayas Magua",
+        "description": "Si la lleva un Pokémon cuando un enemigo lanza un ataque especial, este también recibirá daño."
+      }
+    },
+    {
+      "line_number": 458,
+      "internal_name": "GRASSMAIL",
+      "fields": {
+        "name": "Carta Hierba",
+        "plural_name": "Cartas Hierba",
+        "description": "Carta con un estampado de hierba. Haz que la entregue un Pokémon."
+      }
+    },
+    {
+      "line_number": 459,
+      "internal_name": "FLAMEMAIL",
+      "fields": {
+        "name": "Carta Fuego",
+        "plural_name": "Cartas Fuego",
+        "description": "Carta con los colores del fuego. Haz que la entregue un Pokémon."
+      }
+    },
+    {
+      "line_number": 460,
+      "internal_name": "BUBBLEMAIL",
+      "fields": {
+        "name": "Carta Pompas",
+        "plural_name": "Cartas Pompas",
+        "description": "Carta con una imagen de burbujas. Haz que la entregue un Pokémon."
+      }
+    },
+    {
+      "line_number": 461,
+      "internal_name": "BLOOMMAIL",
+      "fields": {
+        "name": "Carta Flores",
+        "plural_name": "Cartas Flores",
+        "description": "Carta con un bonito estampado floral. Haz que la entregue un Pokémon."
+      }
+    },
+    {
+      "line_number": 462,
+      "internal_name": "TUNNELMAIL",
+      "fields": {
+        "name": "Carta Mina",
+        "plural_name": "Cartas Mina",
+        "description": "Carta con la imagen de una mina de carbón poco iluminada. Haz que la entregue un Pokémon."
+      }
+    },
+    {
+      "line_number": 463,
+      "internal_name": "STEELMAIL",
+      "fields": {
+        "name": "Carta Acero",
+        "plural_name": "Cartas Acero",
+        "description": "Carta con un estupendo diseño de estilo industrial. Haz que la entregue un Pokémon."
+      }
+    },
+    {
+      "line_number": 464,
+      "internal_name": "HEARTMAIL",
+      "fields": {
+        "name": "Carta Corazón",
+        "plural_name": "Cartas Corazón",
+        "description": "Carta con un estampado de corazones. Haz que la entregue un Pokémon."
+      }
+    },
+    {
+      "line_number": 465,
+      "internal_name": "SNOWMAIL",
+      "fields": {
+        "name": "Carta Nieve",
+        "plural_name": "Cartas Nieve",
+        "description": "Carta con la imagen de un bonito mundo cubierto de nieve. Haz que la entregue un Pokémon."
+      }
+    },
+    {
+      "line_number": 466,
+      "internal_name": "SPACEMAIL",
+      "fields": {
+        "name": "Carta Sideral",
+        "plural_name": "Cartas Sideral",
+        "description": "Carta con la imagen de una galaxia. Haz que la entregue un Pokémon."
+      }
+    },
+    {
+      "line_number": 467,
+      "internal_name": "AIRMAIL",
+      "fields": {
+        "name": "Carta Áerea",
+        "plural_name": "Cartas Áerea",
+        "description": "Carta con el diseño tradicional del correo aéreo. Haz que la entregue un Pokémon."
+      }
+    },
+    {
+      "line_number": 468,
+      "internal_name": "MOSAICMAIL",
+      "fields": {
+        "name": "Carta Mosaico",
+        "plural_name": "Cartas Mosaico",
+        "description": "Carta con un mosaico de arco iris. Haz que la entregue un Pokémon."
+      }
+    },
+    {
+      "line_number": 469,
+      "internal_name": "BRICKMAIL",
+      "fields": {
+        "name": "Carta Pared",
+        "plural_name": "Cartas Pared",
+        "description": "Carta con la imagen de una pared de ladrillos. Haz que la entregue un Pokémon."
+      }
+    },
+    {
+      "line_number": 470,
+      "internal_name": "XATTACK",
+      "fields": {
+        "name": "Ataque X",
+        "plural_name": "Ataque X",
+        "description": "Aumenta el Ataque en combate. Al cambiar de Pokémon, el efecto desaparece."
+      }
+    },
+    {
+      "line_number": 471,
+      "internal_name": "XATTACK2",
+      "fields": {
+        "name": "Ataque X 2",
+        "plural_name": "Ataque X 2",
+        "description": "Aumenta ligeramente el Ataque en combate. Al cambiar de Pokémon, el efecto desaparece."
+      }
+    },
+    {
+      "line_number": 472,
+      "internal_name": "XATTACK3",
+      "fields": {
+        "name": "Ataque X 3",
+        "plural_name": "Ataque X 3",
+        "description": "Aumenta bastante el Ataque en combate. Al cambiar de Pokémon, el efecto desaparece."
+      }
+    },
+    {
+      "line_number": 473,
+      "internal_name": "XATTACK6",
+      "fields": {
+        "name": "Ataque X 6",
+        "plural_name": "Ataque X 6",
+        "description": "Aumenta mucho el Ataque en combate. Al cambiar de Pokémon, el efecto desaparece."
+      }
+    },
+    {
+      "line_number": 474,
+      "internal_name": "XDEFEND",
+      "fields": {
+        "name": "Defensa X",
+        "plural_name": "Defensa X",
+        "description": "Aumenta la Defensa en combate. Al cambiar de Pokémon, el efecto desaparece."
+      }
+    },
+    {
+      "line_number": 475,
+      "internal_name": "XDEFEND2",
+      "fields": {
+        "name": "Defensa X 2",
+        "plural_name": "Defensa X 2",
+        "description": "Aumenta ligeramente la Defensa en combate. Al cambiar de Pokémon, el efecto desaparece."
+      }
+    },
+    {
+      "line_number": 476,
+      "internal_name": "XDEFEND3",
+      "fields": {
+        "name": "Defensa X 3",
+        "plural_name": "Defensa X 3",
+        "description": "Aumenta bastante la Defensa en combate. Al cambiar de Pokémon, el efecto desaparece."
+      }
+    },
+    {
+      "line_number": 477,
+      "internal_name": "XDEFEND6",
+      "fields": {
+        "name": "Defensa X 6",
+        "plural_name": "Defensa X 6",
+        "description": "Aumenta mucho la Defensa en combate. Al cambiar de Pokémon, el efecto desaparece."
+      }
+    },
+    {
+      "line_number": 478,
+      "internal_name": "XSPECIAL",
+      "fields": {
+        "name": "Especial X",
+        "plural_name": "Especial X",
+        "description": "Aumenta el Ataque Especial en combate. Al cambiar de Pokémon, el efecto desaparece."
+      }
+    },
+    {
+      "line_number": 479,
+      "internal_name": "XSPECIAL2",
+      "fields": {
+        "name": "Especial X 2",
+        "plural_name": "Especial X 2",
+        "description": "Aumenta ligeramente el Ataque Especial en combate. Al cambiar de Pokémon, el efecto desaparece."
+      }
+    },
+    {
+      "line_number": 480,
+      "internal_name": "XSPECIAL3",
+      "fields": {
+        "name": "Especial X 3",
+        "plural_name": "Especial X 3",
+        "description": "Aumenta bastante el Ataque Especial en combate. Al cambiar de Pokémon, el efecto desaparece."
+      }
+    },
+    {
+      "line_number": 481,
+      "internal_name": "XSPECIAL6",
+      "fields": {
+        "name": "Especial X 6",
+        "plural_name": "Especial X 6",
+        "description": "Aumenta mucho el Ataque Especial en combate. Al cambiar de Pokémon, el efecto desaparece."
+      }
+    },
+    {
+      "line_number": 482,
+      "internal_name": "XSPDEF",
+      "fields": {
+        "name": "Defensa Especial X",
+        "plural_name": "Defensa Especial X",
+        "description": "Aumenta la Defensa Especial en combate. Al cambiar de Pokémon, el efecto desaparece."
+      }
+    },
+    {
+      "line_number": 483,
+      "internal_name": "XSPDEF2",
+      "fields": {
+        "name": "Defensa Especial X 2",
+        "plural_name": "Defensa Especial X 2",
+        "description": "Aumenta ligeramente la Defensa Especial en combate. Al cambiar de Pokémon, el efecto desaparece."
+      }
+    },
+    {
+      "line_number": 484,
+      "internal_name": "XSPDEF3",
+      "fields": {
+        "name": "Defensa Especial X 3",
+        "plural_name": "Defensa Especial X 3",
+        "description": "Aumenta bastante la Defensa Especial en combate. Al cambiar de Pokémon, el efecto desaparece."
+      }
+    },
+    {
+      "line_number": 485,
+      "internal_name": "XSPDEF6",
+      "fields": {
+        "name": "Defensa Especial X 6",
+        "plural_name": "Defensa Especial X 6",
+        "description": "Aumenta mucho la Defensa Especial en combate. Al cambiar de Pokémon, el efecto desaparece."
+      }
+    },
+    {
+      "line_number": 486,
+      "internal_name": "XSPEED",
+      "fields": {
+        "name": "Velocidad X",
+        "plural_name": "Velocidad X",
+        "description": "Aumenta la Velocidad en combate. Al cambiar de Pokémon, el efecto desaparece."
+      }
+    },
+    {
+      "line_number": 487,
+      "internal_name": "XSPEED2",
+      "fields": {
+        "name": "Velocidad X 2",
+        "plural_name": "Velocidad X 2",
+        "description": "Aumenta ligeramente la Velocidad en combate. Al cambiar de Pokémon, el efecto desaparece."
+      }
+    },
+    {
+      "line_number": 488,
+      "internal_name": "XSPEED3",
+      "fields": {
+        "name": "Velocidad X 3",
+        "plural_name": "Velocidad X 3",
+        "description": "Aumenta bastante la Velocidad en combate. Al cambiar de Pokémon, el efecto desaparece."
+      }
+    },
+    {
+      "line_number": 489,
+      "internal_name": "XSPEED6",
+      "fields": {
+        "name": "Velocidad X 6",
+        "plural_name": "Velocidad X 6",
+        "description": "Aumenta mucho la Velocidad en combate. Al cambiar de Pokémon, el efecto desaparece."
+      }
+    },
+    {
+      "line_number": 490,
+      "internal_name": "XACCURACY",
+      "fields": {
+        "name": "Precisión X",
+        "plural_name": "Precisión X",
+        "description": "Aumenta la precisión de los ataques en combate. Al cambiar de Pokémon, el efecto desaparece."
+      }
+    },
+    {
+      "line_number": 491,
+      "internal_name": "XACCURACY2",
+      "fields": {
+        "name": "Precisión X 2",
+        "plural_name": "Precisión X 2",
+        "description": "Aumenta ligeramente la Precisión en combate. Al cambiar de Pokémon, el efecto desaparece."
+      }
+    },
+    {
+      "line_number": 492,
+      "internal_name": "XACCURACY3",
+      "fields": {
+        "name": "Precisión X 3",
+        "plural_name": "Precisión X 3",
+        "description": "Aumenta bastante la Precisión en combate. Al cambiar de Pokémon, el efecto desaparece."
+      }
+    },
+    {
+      "line_number": 493,
+      "internal_name": "XACCURACY6",
+      "fields": {
+        "name": "Precisión X 6",
+        "plural_name": "Precisión X 6",
+        "description": "Aumenta mucho la Precisión en combate. Al cambiar de Pokémon, el efecto desaparece."
+      }
+    },
+    {
+      "line_number": 494,
+      "internal_name": "DIREHIT",
+      "fields": {
+        "name": "Directo",
+        "plural_name": "Directo",
+        "description": "Aumenta el índice de golpe crítico en combate. Al cambiar de Pokémon, el efecto desaparece."
+      }
+    },
+    {
+      "line_number": 495,
+      "internal_name": "DIREHIT2",
+      "fields": {
+        "name": "Directo 2",
+        "plural_name": "Directo 2",
+        "description": "Aumenta la probabilidad de asestar un golpe crítico. Al cambiar de Pokémon, el efecto desaparece.."
+      }
+    },
+    {
+      "line_number": 496,
+      "internal_name": "DIREHIT3",
+      "fields": {
+        "name": "Directo 3",
+        "plural_name": "Directo 3",
+        "description": "Aumenta mucho la probabilidad de asestar un golpe crítico. Al cambiar de Pokémon, el efecto desaparece."
+      }
+    },
+    {
+      "line_number": 497,
+      "internal_name": "GUARDSPEC",
+      "fields": {
+        "name": "Protección Especial",
+        "plural_name": "Protección Especial",
+        "description": "Evita que bajen las características del equipo Pokémon durante cinco turnos."
+      }
+    },
+    {
+      "line_number": 498,
+      "internal_name": "RESETURGE",
+      "fields": {
+        "name": "Quitaestado",
+        "plural_name": "Quitaestados",
+        "description": "Cuando se usa, se anulan los cambios en las características de un Pokémon de tu equipo."
+      }
+    },
+    {
+      "line_number": 499,
+      "internal_name": "ABILITYURGE",
+      "fields": {
+        "name": "Habilitador",
+        "plural_name": "Habilitadores",
+        "description": "Al usarlo, activa la habilidad de un Pokémon de tu equipo."
+      }
+    },
+    {
+      "line_number": 500,
+      "internal_name": "ITEMURGE",
+      "fields": {
+        "name": "Activaobjeto",
+        "plural_name": "Activaobjetos",
+        "description": "Cuando se usa, un Pokémon de tu equipo utiliza su objeto inmediatamente."
+      }
+    },
+    {
+      "line_number": 501,
+      "internal_name": "ITEMDROP",
+      "fields": {
+        "name": "Tiraobjeto",
+        "plural_name": "Tiraobjetos",
+        "description": "Cuando se usa, un Pokémon de tu equipo pierde su objeto."
+      }
+    },
+    {
+      "line_number": 502,
+      "internal_name": "BLUEFLUTE",
+      "fields": {
+        "name": "Flauta Azul",
+        "plural_name": "Flautas Azules",
+        "description": "Flauta de cristal azul cuya melodía despierta a los Pokémon dormidos."
+      }
+    },
+    {
+      "line_number": 503,
+      "internal_name": "YELLOWFLUTE",
+      "fields": {
+        "name": "Flauta Amarilla",
+        "plural_name": "Flautas Amarillas",
+        "description": "Flauta de cristal amarillo que espabila a los Pokémon confusos."
+      }
+    },
+    {
+      "line_number": 504,
+      "internal_name": "REDFLUTE",
+      "fields": {
+        "name": "Flauta Roja",
+        "plural_name": "Flautas Rojas",
+        "description": "Flauta de cristal rojo que libera a un Pokémon del enamoramiento."
+      }
+    },
+    {
+      "line_number": 505,
+      "internal_name": "POKEDOLL",
+      "fields": {
+        "name": "Poké Muñeco",
+        "plural_name": "Poké Muñecos",
+        "description": "Un muñeco que atrae a los Pokémon. Puedes utilizarlo para huir de un combate con un Pokémon salvaje."
+      }
+    },
+    {
+      "line_number": 506,
+      "internal_name": "FLUFFYTAIL",
+      "fields": {
+        "name": "Cola Skitty",
+        "plural_name": "Colas Skitty",
+        "description": "Atrae a los Pokémon y sirve para huir de un combate con un Pokémon salvaje."
+      }
+    },
+    {
+      "line_number": 507,
+      "internal_name": "POKETOY",
+      "fields": {
+        "name": "Pokéseñuelo",
+        "plural_name": "Pokéseñuelos",
+        "description": "Un objeto que atrae a los Pokémon. Puedes utilizarlo para huir de un combate con un Pokémon salvaje."
+      }
+    },
+    {
+      "line_number": 508,
+      "internal_name": "BICYCLE",
+      "fields": {
+        "name": "Mudsdale",
+        "plural_name": "Mudsdale",
+        "description": "Un Pokémon que te llevará hasta el fin del mundo a gran velocidad."
+      }
+    },
+    {
+      "line_number": 509,
+      "internal_name": "OLDROD",
+      "fields": {
+        "name": "Caña de Pescar",
+        "plural_name": "Cañas Viejas",
+        "description": "Una caña bastante decente. Pesca Pokémon salvajes en todo tipo de aguas."
+      }
+    },
+    {
+      "line_number": 510,
+      "internal_name": "GOODROD",
+      "fields": {
+        "name": "Caña Buena",
+        "plural_name": "Cañas Buenas",
+        "description": "Una caña de pescar nuevecita y de gran calidad. Pesca Pokémon salvajes en todo tipo de aguas."
+      }
+    },
+    {
+      "line_number": 511,
+      "internal_name": "SUPERROD",
+      "fields": {
+        "name": "Supercaña",
+        "plural_name": "Supercañas",
+        "description": "Una increíble caña de pescar de alta tecnología. Pesca Pokémon salvajes en todo tipo de aguas."
+      }
+    },
+    {
+      "line_number": 512,
+      "internal_name": "ITEMFINDER",
+      "fields": {
+        "name": "Buscaobjetos",
+        "plural_name": "Buscaobjetos",
+        "description": "Detector de objetos invisibles por ondas sonoras. Emite una señal cuando encuentra un objeto."
+      }
+    },
+    {
+      "line_number": 513,
+      "internal_name": "DOWSINGMACHINE",
+      "fields": {
+        "name": "Zahorí",
+        "plural_name": "Zahoríes",
+        "description": "Aparato de precisión que reacciona con luz y sonido ante los objetos que no se ven e indica su posición."
+      }
+    },
+    {
+      "line_number": 514,
+      "internal_name": "POKERADAR",
+      "fields": {
+        "name": "Poké Radar",
+        "plural_name": "Poké Radares",
+        "description": "Busca Pokémon que se esconden en la hierba. La batería se recarga mientras caminas."
+      }
+    },
+    {
+      "line_number": 515,
+      "internal_name": "TOWNMAP",
+      "fields": {
+        "name": "Mapa",
+        "plural_name": "Mapas",
+        "description": "Un mapa muy útil que puede consultarse en cualquier momento y que, además, te indica dónde te encuentras."
+      }
+    },
+    {
+      "line_number": 516,
+      "internal_name": "POKEFLUTE",
+      "fields": {
+        "name": "Poké Flauta",
+        "plural_name": "Poké Flautas",
+        "description": "Consigue despertar al instante a cualquier Pokémon y suena de maravilla."
+      }
+    },
+    {
+      "line_number": 517,
+      "internal_name": "COINCASE",
+      "fields": {
+        "name": "Monedero",
+        "plural_name": "Monederos",
+        "description": "Puedes obtenerlo en el Casino. Sirve para guardar fichas."
+      }
+    },
+    {
+      "line_number": 518,
+      "internal_name": "SOOTSACK",
+      "fields": {
+        "name": "Saca Botín",
+        "plural_name": "Saca Botín",
+        "description": "Una saca grande y resistente utilizada para transportar el botín reunido en la mina de carbón."
+      }
+    },
+    {
+      "line_number": 519,
+      "internal_name": "SILPHSCOPE",
+      "fields": {
+        "name": "Detector Silph",
+        "plural_name": "Detectores Silph",
+        "description": "Dispositivo hecho en SILPH S.A para ver Pokémon invisibles."
+      }
+    },
+    {
+      "line_number": 520,
+      "internal_name": "DEVONSCOPE",
+      "fields": {
+        "name": "Detector Devon",
+        "plural_name": "Detectores Devon",
+        "description": "Dispositivo hecho en DEVON para ver Pokémon invisibles."
+      }
+    },
+    {
+      "line_number": 521,
+      "internal_name": "SQUIRTBOTTLE",
+      "fields": {
+        "name": "Regadera",
+        "plural_name": "Regaderas",
+        "description": "Objeto que contiene agua y se usa para regar las Bayas del Plantabayas."
+      }
+    },
+    {
+      "line_number": 522,
+      "internal_name": "SPRAYDUCK",
+      "fields": {
+        "name": "Psydugadera",
+        "plural_name": "Psydugaderas",
+        "description": "Una regadera con forma de PSYDUCK. Ayuda a que las bayas plantadas en tierra suelta crezcan mejor."
+      }
+    },
+    {
+      "line_number": 523,
+      "internal_name": "WAILMERPAIL",
+      "fields": {
+        "name": "Cubo Wailmer",
+        "plural_name": "Cubos Wailmer",
+        "description": "Objeto que contiene agua y se usa para regar las Bayas del Plantabayas."
+      }
+    },
+    {
+      "line_number": 524,
+      "internal_name": "GRACIDEA",
+      "fields": {
+        "name": "Gracídea",
+        "plural_name": "Gracídeas",
+        "description": "Una flor que se suele regalar en ramos para expresar agradecimiento en ocasiones especiales, como cumpleaños."
+      }
+    },
+    {
+      "line_number": 525,
+      "internal_name": "AURORATICKET",
+      "fields": {
+        "name": "Carné Espacial",
+        "plural_name": "Carnés Espaciales",
+        "description": "Una tarjeta de identificación necesaria para acceder a los Puertos Espaciales."
+      }
+    },
+    {
+      "line_number": 526,
+      "internal_name": "OLDSEAMAP",
+      "fields": {
+        "name": "Mapa Viejo",
+        "plural_name": "Mapas Viejos",
+        "description": "Un mapa viejo descolorido que muestra el camino a una determinada isla."
+      }
+    },
+    {
+      "line_number": 527,
+      "internal_name": "DNASPLICERS",
+      "fields": {
+        "name": "Punta ADN",
+        "plural_name": "Puntas ADN",
+        "description": "Punta que permite fusionar a Kyurem con cierto Pokémon con el que, originariamente, formaba un solo ser."
+      }
+    },
+    {
+      "line_number": 528,
+      "internal_name": "REVEALGLASS",
+      "fields": {
+        "name": "Espejo Reflector",
+        "plural_name": "Espejos Reflectores",
+        "description": "Espejo misterioso que refleja la verdad y devuelve los Pokémon a su forma original."
+      }
+    },
+    {
+      "line_number": 529,
+      "internal_name": "OVALCHARM",
+      "fields": {
+        "name": "Amuleto Oval",
+        "plural_name": "Amuletos Ovales",
+        "description": "Misterioso amuleto redondo que aumenta la posibilidad de encontrar Huevos en la Guardería Pokémon"
+      }
+    },
+    {
+      "line_number": 530,
+      "internal_name": "SHINYCHARM",
+      "fields": {
+        "name": "Amuleto Iris",
+        "plural_name": "Amuletos Iris",
+        "description": "Misterioso amuleto brillante que aumenta la probabilidad de encontrar Pokémon variocolores."
+      }
+    },
+    {
+      "line_number": 531,
+      "internal_name": "SAWSBUCKS",
+      "fields": {
+        "name": "Café Sawsbucks",
+        "plural_name": "Café Sawsbucks",
+        "description": "Un café bastante caro y sobrevalorado."
+      }
+    },
+    {
+      "line_number": 532,
+      "internal_name": "PIKAPUCCINO",
+      "fields": {
+        "name": "Café Pikapuccino",
+        "plural_name": "Café Pikapuccino",
+        "description": "Un café electrizante y enérgico"
+      }
+    },
+    {
+      "line_number": 533,
+      "internal_name": "MEWSPRESSO",
+      "fields": {
+        "name": "Café Mewspresso",
+        "plural_name": "Café Mewspresso",
+        "description": "Un café con un sabor ancestral."
+      }
+    },
+    {
+      "line_number": 534,
+      "internal_name": "ANZUELO",
+      "fields": {
+        "name": "Anzuelo",
+        "plural_name": "Anzuelo",
+        "description": "Tiene un adorno de un Pokemon pez."
+      }
+    },
+    {
+      "line_number": 535,
+      "internal_name": "Tela",
+      "fields": {
+        "name": "Tela Silvana",
+        "plural_name": "Telas Silvanas",
+        "description": "Tela mística que fortalece los ataques de tipo Hada. Debe llevarlo un POKéMON."
+      }
+    },
+    {
+      "line_number": 536,
+      "internal_name": "EXPALL",
+      "fields": {
+        "name": "Repartir Exp",
+        "plural_name": "Repartir Exp",
+        "description": "Artilugio de entrenador que permite compartir la experiencia con todos tus Pokémon."
+      }
+    },
+    {
+      "line_number": 537,
+      "internal_name": "BIDOOF",
+      "fields": {
+        "name": "Baya Regurgitada",
+        "plural_name": "Baya Regurgitada",
+        "description": "Está impregnada con baba de Bidoof, no tienes muy claro por qué conservas esto."
+      }
+    },
+    {
+      "line_number": 538,
+      "internal_name": "PLUMAEOLICA",
+      "fields": {
+        "name": "Pluma Eólica",
+        "plural_name": "Pluma Eólica",
+        "description": "La pluma parece moverse siempre como si hubiera una ligera brisa."
+      }
+    },
+    {
+      "line_number": 539,
+      "internal_name": "FLOR",
+      "fields": {
+        "name": "Flor Astral",
+        "plural_name": "Flor Astral",
+        "description": "Una flor que crecía bajo el altar de Astrem, emite una fragancia muy peculiar."
+      }
+    },
+    {
+      "line_number": 540,
+      "internal_name": "Cenizas",
+      "fields": {
+        "name": "Cenizas Sagradas",
+        "plural_name": "Cenizas Sagradas",
+        "description": "Reaniman a un Pokemon. Funcionan incluso en un Nuzlocke."
+      }
+    },
+    {
+      "line_number": 541,
+      "internal_name": "DINAMITA",
+      "fields": {
+        "name": "Dinamita",
+        "plural_name": "Dinamita",
+        "description": "Dinamita que el Team Gatling utiliza para volar escombros."
+      }
+    },
+    {
+      "line_number": 542,
+      "internal_name": "LLAVEG",
+      "fields": {
+        "name": "Llave Gatling",
+        "plural_name": "Llave Gatling",
+        "description": "Una llave maestra que lo abre todo en la Base Gatling."
+      }
+    },
+    {
+      "line_number": 543,
+      "internal_name": "Documento",
+      "fields": {
+        "name": "Documento Incriminatorio",
+        "plural_name": "Documento Incriminatorio",
+        "description": "Documento que prueba la relación entre el Team Gatling y el Gobierno."
+      }
+    },
+    {
+      "line_number": 544,
+      "internal_name": "Escalada",
+      "fields": {
+        "name": "Equipo de Escalada",
+        "plural_name": "Equipo de Escalada",
+        "description": "Herramientas para poder trepar por una pared rocosa."
+      }
+    },
+    {
+      "line_number": 545,
+      "internal_name": "Flauta",
+      "fields": {
+        "name": "Flauta Temporal",
+        "plural_name": "Flauta Temporal",
+        "description": "Flauta que es capaz de conectar con otras eras y traer a Pokémon ancestrales."
+      }
+    },
+    {
+      "line_number": 546,
+      "internal_name": "ASSAULTVEST",
+      "fields": {
+        "name": "Chaleco Asalto",
+        "plural_name": "Chaleco Asalto",
+        "description": "Aumenta la Defensa Especial si el Pokémon solo lleva movimientos ofensivos."
+      }
+    },
+    {
+      "line_number": 547,
+      "internal_name": "SCapsula",
+      "fields": {
+        "name": "S-Cápsula IV",
+        "plural_name": "S-Cápsula IV",
+        "description": "Una cápsula de alta tecnología que aumenta el potencial de Salud de un Pokemon."
+      }
+    },
+    {
+      "line_number": 548,
+      "internal_name": "ACapsula",
+      "fields": {
+        "name": "A-Cápsula IV",
+        "plural_name": "A-Cápsula IV",
+        "description": "Una cápsula de alta tecnología que aumenta el potencial de Ataque de un Pokemon."
+      }
+    },
+    {
+      "line_number": 549,
+      "internal_name": "DCapsula",
+      "fields": {
+        "name": "D-Cápsula IV",
+        "plural_name": "D-Cápsula IV",
+        "description": "Una cápsula de alta tecnología que aumenta el potencial de Defensa de un Pokemon."
+      }
+    },
+    {
+      "line_number": 550,
+      "internal_name": "AECapsula",
+      "fields": {
+        "name": "AE-Cápsula IV",
+        "plural_name": "AE-Cápsula IV",
+        "description": "Una cápsula de alta tecnología que aumenta el potencial de Ataque Especial de un Pokemon."
+      }
+    },
+    {
+      "line_number": 551,
+      "internal_name": "DECapsula",
+      "fields": {
+        "name": "DE-Cápsula IV",
+        "plural_name": "DE-Cápsula IV",
+        "description": "Una cápsula de alta tecnología que aumenta el potencial de Defensa Especial de un Pokemon."
+      }
+    },
+    {
+      "line_number": 552,
+      "internal_name": "VCapsula",
+      "fields": {
+        "name": "V-Cápsula IV",
+        "plural_name": "V-Cápsula IV",
+        "description": "Una cápsula de alta tecnología que aumenta el potencial de Velocidad de un Pokemon."
+      }
+    },
+    {
+      "line_number": 553,
+      "internal_name": "Anillo",
+      "fields": {
+        "name": "Anillo de Compromiso",
+        "plural_name": "Anillo de Compromiso",
+        "description": "Un anillo de compromiso que llevó una persona casada alguna vez, ¿pero quién?"
+      }
+    },
+    {
+      "line_number": 554,
+      "internal_name": "Ticket",
+      "fields": {
+        "name": "Ticket Barco",
+        "plural_name": "Ticket Barco",
+        "description": "Permite viajar a Isla Calima desde el puerto de Ciudad Austral."
+      }
+    },
+    {
+      "line_number": 555,
+      "internal_name": "LlaveCloacas",
+      "fields": {
+        "name": "Llave Alcantarilla",
+        "plural_name": "Llave Alcantarilla",
+        "description": "Permite acceder a las alcantarillas de Ciudad Boreal."
+      }
+    },
+    {
+      "line_number": 556,
+      "internal_name": "AmuletoSuerte",
+      "fields": {
+        "name": "Amuleto de la suerte",
+        "plural_name": "Amuleto de la suerte",
+        "description": "Pertenecía a alguien de Pueblo Orvallo."
+      }
+    },
+    {
+      "line_number": 557,
+      "internal_name": "LlaveCapilla",
+      "fields": {
+        "name": "Llave Capilla",
+        "plural_name": "Llave Capilla",
+        "description": "Permite acceder a la Capilla de la Luz."
+      }
+    },
+    {
+      "line_number": 558,
+      "internal_name": "Hierbas",
+      "fields": {
+        "name": "Hierbas Curativas",
+        "plural_name": "Hierbas Curativas",
+        "description": "Curan casi cualquier veneno. Elaborada para humanos."
+      }
+    },
+    {
+      "line_number": 559,
+      "internal_name": "Despetrificante",
+      "fields": {
+        "name": "Remedio Despetrificante",
+        "plural_name": "Remedio Despetrificante",
+        "description": "Cura la petrificación en personas, por tanto no funciona en otakus."
+      }
+    },
+    {
+      "line_number": 560,
+      "internal_name": "Rosa",
+      "fields": {
+        "name": "Rosa Aromática",
+        "plural_name": "Rosa Aromática",
+        "description": "Una rosa ornamental que huele muy bien."
+      }
+    },
+    {
+      "line_number": 561,
+      "internal_name": "PaseDorado",
+      "fields": {
+        "name": "Pase Dorado",
+        "plural_name": "Pase Dorado",
+        "description": "Un pase que te permite jugar en el Casino Golden Bug."
+      }
+    },
+    {
+      "line_number": 562,
+      "internal_name": "Ganzua",
+      "fields": {
+        "name": "Ganzúa Cerrajería",
+        "plural_name": "Ganzúa Cerrajería",
+        "description": "Una ganzúa para forzar cerrojos sencillos."
+      }
+    },
+    {
+      "line_number": 563,
+      "internal_name": "TarjetaMagnetica",
+      "fields": {
+        "name": "Tarjeta Magnética",
+        "plural_name": "Tarjeta Magnética",
+        "description": "Permite acceder a la zona restringida del Golden Bug."
+      }
+    },
+    {
+      "line_number": 564,
+      "internal_name": "EscamaDorada",
+      "fields": {
+        "name": "Escama Dorada",
+        "plural_name": "Escama Dorada",
+        "description": "Una valiosa escama que te permite acceder a la Recordadora de Movimientos."
+      }
+    },
+    {
+      "line_number": 565,
+      "internal_name": "Dinamita",
+      "fields": {
+        "name": "Dinamita",
+        "plural_name": "Dinamita",
+        "description": "Cartuchos de dinamita bastante potentes."
+      }
+    },
+    {
+      "line_number": 566,
+      "internal_name": "Gafas",
+      "fields": {
+        "name": "Gafas Aislantes",
+        "plural_name": "Gafas Aislantes",
+        "description": "Permite avanzar por el desierto de la Ruta 26."
+      }
+    },
+    {
+      "line_number": 567,
+      "internal_name": "ManzanaDorada",
+      "fields": {
+        "name": "Manzana Dorada",
+        "plural_name": "Manzana Dorada",
+        "description": "Es muy bonita y reluciente, aunque no parece tener buen sabor."
+      }
+    },
+    {
+      "line_number": 568,
+      "internal_name": "POKESENCIA",
+      "fields": {
+        "name": "Pokésencia Pura",
+        "plural_name": "Pokésencia Pura",
+        "description": "Aumenta los Puntos de Esfuerzo del Pokémon en todas las estadísticas."
+      }
+    },
+    {
+      "line_number": 569,
+      "internal_name": "PaseCine",
+      "fields": {
+        "name": "Pase Cine",
+        "plural_name": "Pase Cine",
+        "description": "Te permite entrar en los estudios de cine de Ciudad Mistral."
+      }
+    },
+    {
+      "line_number": 570,
+      "internal_name": "SHINYZADOR",
+      "fields": {
+        "name": "Poción Brillante",
+        "plural_name": "Poción Brillante",
+        "description": "Cuando la bebas, el siguiente Pokémon salvaje que te encuentres será shiny."
+      }
+    },
+    {
+      "line_number": 571,
+      "internal_name": "Fusible",
+      "fields": {
+        "name": "Fusible",
+        "plural_name": "Fusible",
+        "description": "Si alguna vez te encuentras con una vagoneta estropeada, te será útil."
+      }
+    },
+    {
+      "line_number": 572,
+      "internal_name": "BRAVIARITA",
+      "fields": {
+        "name": "Braviarita",
+        "plural_name": "Braviarita",
+        "description": "Piedra que hace megaevolucionar a Braviary."
+      }
+    },
+    {
+      "line_number": 573,
+      "internal_name": "Guardapelo",
+      "fields": {
+        "name": "Guardapelo",
+        "plural_name": "Guardapelo",
+        "description": "Seguramente contenga una fotografía dentro."
+      }
+    },
+    {
+      "line_number": 574,
+      "internal_name": "CartaJara",
+      "fields": {
+        "name": "Carta de Jara",
+        "plural_name": "Carta de Jara",
+        "description": "Debe ser entregada a Maple cuanto antes."
+      }
+    },
+    {
+      "line_number": 575,
+      "internal_name": "RAMENPICANTE",
+      "fields": {
+        "name": "Ramen Picante",
+        "plural_name": "Ramen Picante",
+        "description": "Ramen de Ciudad Azulona, pica mucho."
+      }
+    },
+    {
+      "line_number": 576,
+      "internal_name": "FOTOGATLING",
+      "fields": {
+        "name": "Foto rota",
+        "plural_name": "Trozo de una fotografía.",
+        "description": "Atrás dice: Fundadores del Team Gatling"
+      }
+    },
+    {
+      "line_number": 577,
+      "internal_name": "FOTOGATLING2",
+      "fields": {
+        "name": "Foto Gatling",
+        "plural_name": "Fotografía completa.",
+        "description": "Atrás dice: Fundadores del Team Gatling"
+      }
+    },
+    {
+      "line_number": 578,
+      "internal_name": "KINGLERITA",
+      "fields": {
+        "name": "Kinglerita",
+        "plural_name": "Kinglerita",
+        "description": "Piedra para megaevolucionar a Kingler."
+      }
+    },
+    {
+      "line_number": 579,
+      "internal_name": "BUTTERFREEITA",
+      "fields": {
+        "name": "Butterfreeita",
+        "plural_name": "Butterfreeita",
+        "description": "Piedra para megaevolucionar a Butterfree."
+      }
+    },
+    {
+      "line_number": 580,
+      "internal_name": "MACHAMPITA",
+      "fields": {
+        "name": "Machampita",
+        "plural_name": "Machampita",
+        "description": "Piedra para megaevolucionar a Machamp."
+      }
+    },
+    {
+      "line_number": 581,
+      "internal_name": "LAPRASITA",
+      "fields": {
+        "name": "Laprasita",
+        "plural_name": "Laprasita",
+        "description": "Piedra para megaevolucionar a Lapras."
+      }
+    },
+    {
+      "line_number": 582,
+      "internal_name": "GARBODORITA",
+      "fields": {
+        "name": "Garbodorita",
+        "plural_name": "Garbodorita",
+        "description": "Piedra para megaevolucionar a Garbodor."
+      }
+    },
+    {
+      "line_number": 583,
+      "internal_name": "CORVIKNIGHTITA",
+      "fields": {
+        "name": "Corvinightita",
+        "plural_name": "Corvinightita",
+        "description": "Piedra para megaevolucionar a Corvinight."
+      }
+    },
+    {
+      "line_number": 584,
+      "internal_name": "ORBEETLEITA",
+      "fields": {
+        "name": "Orbeetleita",
+        "plural_name": "Orbeetleita",
+        "description": "Piedra para megaevolucionar a Orbeetle."
+      }
+    },
+    {
+      "line_number": 585,
+      "internal_name": "DREDNAWITA",
+      "fields": {
+        "name": "Drednawita",
+        "plural_name": "Drednawita",
+        "description": "Piedra para megaevolucionar a Drednaw."
+      }
+    },
+    {
+      "line_number": 586,
+      "internal_name": "COALOSSALITA",
+      "fields": {
+        "name": "Coalossalita",
+        "plural_name": "Coalossalita",
+        "description": "Piedra para megaevolucionar a Coalossal."
+      }
+    },
+    {
+      "line_number": 587,
+      "internal_name": "FLAPPLETUNITA",
+      "fields": {
+        "name": "Flappletunita",
+        "plural_name": "Flappletunita",
+        "description": "Piedra para megaevolucionar a Flapple y Appletun."
+      }
+    },
+    {
+      "line_number": 588,
+      "internal_name": "SANDACONDITA",
+      "fields": {
+        "name": "Sandacondita",
+        "plural_name": "Sandacondita",
+        "description": "Piedra para megaevolucionar a Sandaconda."
+      }
+    },
+    {
+      "line_number": 589,
+      "internal_name": "TOXTRICITITA",
+      "fields": {
+        "name": "Toxtricitita",
+        "plural_name": "Toxtricitita",
+        "description": "Piedra para megaevolucionar a Toxtricity."
+      }
+    },
+    {
+      "line_number": 590,
+      "internal_name": "CENTISKORCHITA",
+      "fields": {
+        "name": "Centiskorchita",
+        "plural_name": "Centiskorchita",
+        "description": "Piedra para megaevolucionar a Centiskorch."
+      }
+    },
+    {
+      "line_number": 591,
+      "internal_name": "HATTERENITA",
+      "fields": {
+        "name": "Hatterenita",
+        "plural_name": "Hatterenita",
+        "description": "Piedra para megaevolucionar a Hatterene."
+      }
+    },
+    {
+      "line_number": 592,
+      "internal_name": "GRIMMSNARLITA",
+      "fields": {
+        "name": "Grimmsnarlita",
+        "plural_name": "Grimmsnarlita",
+        "description": "Piedra para megaevolucionar a Grimmsnarl."
+      }
+    },
+    {
+      "line_number": 593,
+      "internal_name": "ALCREMITA",
+      "fields": {
+        "name": "Alcremita",
+        "plural_name": "Alcremita",
+        "description": "Piedra para megaevolucionar a Alcremie."
+      }
+    },
+    {
+      "line_number": 594,
+      "internal_name": "COPPERAJITA",
+      "fields": {
+        "name": "Copperajita",
+        "plural_name": "Copperajita",
+        "description": "Piedra para megaevolucionar a Copperajah."
+      }
+    },
+    {
+      "line_number": 595,
+      "internal_name": "DURALUDONITA",
+      "fields": {
+        "name": "Duraludonita",
+        "plural_name": "Duraludonita",
+        "description": "Piedra para megaevolucionar a Duraludon."
+      }
+    },
+    {
+      "line_number": 596,
+      "internal_name": "ALAKAZAMITA",
+      "fields": {
+        "name": "Alakazamita",
+        "plural_name": "Alakazamita",
+        "description": "Piedra para megaevolucionar a Alakazam."
+      }
+    },
+    {
+      "line_number": 597,
+      "internal_name": "GENGARITA",
+      "fields": {
+        "name": "Gengarita",
+        "plural_name": "Gengarita",
+        "description": "Piedra para megaevolucionar a Gengar."
+      }
+    },
+    {
+      "line_number": 598,
+      "internal_name": "KANGASKHANITA",
+      "fields": {
+        "name": "Kangaskhanita",
+        "plural_name": "Kangaskhanita",
+        "description": "Piedra para megaevolucionar a Kangaskhan."
+      }
+    },
+    {
+      "line_number": 599,
+      "internal_name": "PINSIRITA",
+      "fields": {
+        "name": "Pinsirita",
+        "plural_name": "Pinsirita",
+        "description": "Piedra para megaevolucionar a Pinsir."
+      }
+    },
+    {
+      "line_number": 600,
+      "internal_name": "GYARADOSITA",
+      "fields": {
+        "name": "Gyaradosita",
+        "plural_name": "Gyaradosita",
+        "description": "Piedra para megaevolucionar a Gyarados."
+      }
+    },
+    {
+      "line_number": 601,
+      "internal_name": "AERODACTYLITA",
+      "fields": {
+        "name": "Aerodactylita",
+        "plural_name": "Aerodactylita",
+        "description": "Piedra para megaevolucionar a Aerodactyl."
+      }
+    },
+    {
+      "line_number": 602,
+      "internal_name": "AMPHAROSITA",
+      "fields": {
+        "name": "Ampharosita",
+        "plural_name": "Ampharosita",
+        "description": "Piedra para megaevolucionar a Ampharos."
+      }
+    },
+    {
+      "line_number": 603,
+      "internal_name": "SCIZORITA",
+      "fields": {
+        "name": "Scizorita",
+        "plural_name": "Scizorita",
+        "description": "Piedra para megaevolucionar a Scizor."
+      }
+    },
+    {
+      "line_number": 604,
+      "internal_name": "HERACROSSITA",
+      "fields": {
+        "name": "Heracrossita",
+        "plural_name": "Heracrossita",
+        "description": "Piedra para megaevolucionar a Heracross."
+      }
+    },
+    {
+      "line_number": 605,
+      "internal_name": "HOUNDOOMITA",
+      "fields": {
+        "name": "Houndoomita",
+        "plural_name": "Houndoomita",
+        "description": "Piedra para megaevolucionar a Houndoom."
+      }
+    },
+    {
+      "line_number": 606,
+      "internal_name": "GARDEVOIRITA",
+      "fields": {
+        "name": "Gardevoirita",
+        "plural_name": "Gardevoirita",
+        "description": "Piedra para megaevolucionar a Gardevoir."
+      }
+    },
+    {
+      "line_number": 607,
+      "internal_name": "AGGRONITA",
+      "fields": {
+        "name": "Aggronita",
+        "plural_name": "Aggronita",
+        "description": "Piedra para megaevolucionar a Aggron."
+      }
+    },
+    {
+      "line_number": 608,
+      "internal_name": "MEDICHAMITA",
+      "fields": {
+        "name": "Medichamita",
+        "plural_name": "Medichamita",
+        "description": "Piedra para megaevolucionar a Medicham."
+      }
+    },
+    {
+      "line_number": 609,
+      "internal_name": "MANECTRITA",
+      "fields": {
+        "name": "Manectrita",
+        "plural_name": "Manectrita",
+        "description": "Piedra para megaevolucionar a Manectric."
+      }
+    },
+    {
+      "line_number": 610,
+      "internal_name": "ABSOLITA",
+      "fields": {
+        "name": "Absolita",
+        "plural_name": "Absolita",
+        "description": "Piedra para megaevolucionar a Absol."
+      }
+    },
+    {
+      "line_number": 611,
+      "internal_name": "LUCARITA",
+      "fields": {
+        "name": "Lucarita",
+        "plural_name": "Lucarita",
+        "description": "Piedra para megaevolucionar a Lucario."
+      }
+    },
+    {
+      "line_number": 612,
+      "internal_name": "BEEDRILLITA",
+      "fields": {
+        "name": "Beedrillita",
+        "plural_name": "Beedrillita",
+        "description": "Piedra para megaevolucionar a Beedrill."
+      }
+    },
+    {
+      "line_number": 613,
+      "internal_name": "PIDGEOTITA",
+      "fields": {
+        "name": "Pidgeotita",
+        "plural_name": "Pidgeotita",
+        "description": "Piedra para megaevolucionar a Pidgeot."
+      }
+    },
+    {
+      "line_number": 614,
+      "internal_name": "SLOWBRITA",
+      "fields": {
+        "name": "Slowbrita",
+        "plural_name": "Slowbrita",
+        "description": "Piedra para megaevolucionar a Slowbro."
+      }
+    },
+    {
+      "line_number": 615,
+      "internal_name": "STEELIXITA",
+      "fields": {
+        "name": "Steelixita",
+        "plural_name": "Steelixita",
+        "description": "Piedra para megaevolucionar a Steelix."
+      }
+    },
+    {
+      "line_number": 616,
+      "internal_name": "SABLEYITA",
+      "fields": {
+        "name": "Sableyita",
+        "plural_name": "Sableyita",
+        "description": "Piedra para megaevolucionar a Sableye."
+      }
+    },
+    {
+      "line_number": 617,
+      "internal_name": "SHARPEDITA",
+      "fields": {
+        "name": "Sharpedita",
+        "plural_name": "Sharpedita",
+        "description": "Piedra para megaevolucionar a Sharpedo."
+      }
+    },
+    {
+      "line_number": 618,
+      "internal_name": "CAMERUPTITA",
+      "fields": {
+        "name": "Cameruptita",
+        "plural_name": "Cameruptita",
+        "description": "Piedra para megaevolucionar a Camerupt."
+      }
+    },
+    {
+      "line_number": 619,
+      "internal_name": "ALTARITA",
+      "fields": {
+        "name": "Altarita",
+        "plural_name": "Altarita",
+        "description": "Piedra para megaevolucionar a Altaria."
+      }
+    },
+    {
+      "line_number": 620,
+      "internal_name": "GLALIEITA",
+      "fields": {
+        "name": "Glalieita",
+        "plural_name": "Glalieita",
+        "description": "Piedra para megaevolucionar a Glalie."
+      }
+    },
+    {
+      "line_number": 621,
+      "internal_name": "GALLADITA",
+      "fields": {
+        "name": "Galladita",
+        "plural_name": "Galladita",
+        "description": "Piedra para megaevolucionar a Gallade."
+      }
+    },
+    {
+      "line_number": 622,
+      "internal_name": "BRAZALESPIRITUAL",
+      "fields": {
+        "name": "Brazal Astral",
+        "plural_name": "Brazal Astral",
+        "description": "Brazal con el que puedes canalizar la pokésencia de tus Pokémon para megaevolucionarlos."
+      }
+    },
+    {
+      "line_number": 623,
+      "internal_name": "POKERIDER",
+      "fields": {
+        "name": "Pokérider",
+        "plural_name": "Pokérider",
+        "description": "Un servicio de taxis voladores que te hará volar por Céfira."
+      }
+    },
+    {
+      "line_number": 624,
+      "internal_name": "SEVIPERITA",
+      "fields": {
+        "name": "Seviperita",
+        "plural_name": "Seviperita",
+        "description": "Piedra para megaevolucionar a Seviper."
+      }
+    },
+    {
+      "line_number": 625,
+      "internal_name": "GASTESLITA",
+      "fields": {
+        "name": "Gasteslita",
+        "plural_name": "Gasteslita",
+        "description": "Piedra para megaevolucionar a Gastesla."
+      }
+    },
+    {
+      "line_number": 626,
+      "internal_name": "LUNAYITA",
+      "fields": {
+        "name": "Lunayita",
+        "plural_name": "Lunayita",
+        "description": "Piedra para megaevolucionar a Lunaye."
+      }
+    },
+    {
+      "line_number": 627,
+      "internal_name": "NARVALORITA",
+      "fields": {
+        "name": "Narvalorita",
+        "plural_name": "Narvalorita",
+        "description": "Piedra para megaevolucionar a Narvalor."
+      }
+    },
+    {
+      "line_number": 628,
+      "internal_name": "GRENINJITA",
+      "fields": {
+        "name": "Greninjita",
+        "plural_name": "Greninjita",
+        "description": "Piedra para megaevolucionar a Greninja."
+      }
+    },
+    {
+      "line_number": 629,
+      "internal_name": "LENSOFTRUTH",
+      "fields": {
+        "name": "Lente de la Verdad",
+        "plural_name": "Lente de la Verdad",
+        "description": "Permite revelar verdades ocultas en el mundo..."
+      }
+    },
+    {
+      "line_number": 630,
+      "internal_name": "BLAZIKENITE",
+      "fields": {
+        "name": "Blazikenita",
+        "plural_name": "Blazikenita",
+        "description": "Piedra para megaevolucionar a Blaziken."
+      }
+    },
+    {
+      "line_number": 631,
+      "internal_name": "HACHAPERDIDA",
+      "fields": {
+        "name": "Hacha Perdida",
+        "plural_name": "Hacha Perdida",
+        "description": "Debe de pertenecer a algún leñador."
+      }
+    },
+    {
+      "line_number": 632,
+      "internal_name": "SUPERCOMIDA",
+      "fields": {
+        "name": "Supercomida Pokémon",
+        "plural_name": "Supercomida Pokémon",
+        "description": "Es capaz de devolverle las fuerzas a un Pokémon enfermo."
+      }
+    },
+    {
+      "line_number": 633,
+      "internal_name": "POKESENCIAREFINADA",
+      "fields": {
+        "name": "Pokésencia Refinada",
+        "plural_name": "Pokésencia Refinada",
+        "description": "Aumenta los Puntos de Esfuerzo del Pokémon en todas las estadísticas y no se consume al usarla."
+      }
+    },
+    {
+      "line_number": 634,
+      "internal_name": "SUPERHPUP",
+      "fields": {
+        "name": "Supermás PS",
+        "plural_name": "Supermás PS",
+        "description": "Nutritiva bebida que aumenta mucho los PS de un Pokémon."
+      }
+    },
+    {
+      "line_number": 635,
+      "internal_name": "SUPERPROTEIN",
+      "fields": {
+        "name": "Superproteína",
+        "plural_name": "Superproteínas",
+        "description": "Nutritiva bebida que aumenta mucho el Ataque de un Pokémon."
+      }
+    },
+    {
+      "line_number": 636,
+      "internal_name": "SUPERIRON",
+      "fields": {
+        "name": "Superhierro",
+        "plural_name": "Superhierros",
+        "description": "Nutritiva bebida que aumenta mucho la Defensa de un Pokémon."
+      }
+    },
+    {
+      "line_number": 637,
+      "internal_name": "SUPERCALCIUM",
+      "fields": {
+        "name": "Supercalcio",
+        "plural_name": "Supercalcios",
+        "description": "Nutritiva bebida que sube mucho el At. Esp. de un Pokémon."
+      }
+    },
+    {
+      "line_number": 638,
+      "internal_name": "SUPERZINC",
+      "fields": {
+        "name": "Superzinc",
+        "plural_name": "Superzincs",
+        "description": "Nutritiva bebida que aumenta mucho la Defensa Especial de un Pokémon."
+      }
+    },
+    {
+      "line_number": 639,
+      "internal_name": "SUPERCARBOS",
+      "fields": {
+        "name": "Supercarburante",
+        "plural_name": "Supercarburantes",
+        "description": "Nutritiva bebida que sube mucho la Velocidad de un Pokémon."
+      }
+    },
+    {
+      "line_number": 640,
+      "internal_name": "TARROJA",
+      "fields": {
+        "name": "Tar.Magnética Roja",
+        "plural_name": "Tar.Magnética Roja",
+        "description": "Tarjeta que abre las puertas magnéticas rojas en el Área 151."
+      }
+    },
+    {
+      "line_number": 641,
+      "internal_name": "TARAZUL",
+      "fields": {
+        "name": "Tar.Magnética Azul",
+        "plural_name": "Tar.Magnética Azul",
+        "description": "Tarjeta que abre las puertas magnéticas azules en el Área 151."
+      }
+    },
+    {
+      "line_number": 642,
+      "internal_name": "CENIZAASTRAL",
+      "fields": {
+        "name": "Ceniza Astral",
+        "plural_name": "Ceniza Astral",
+        "description": "Desprenden un poder místico inconmensurable..."
+      }
+    },
+    {
+      "line_number": 643,
+      "internal_name": "TYRANITARITE",
+      "fields": {
+        "name": "Tyranita",
+        "plural_name": "Tyranita",
+        "description": "Piedra para megaevolucionar a Tyranitar."
+      }
+    },
+    {
+      "line_number": 644,
+      "internal_name": "MAPAOLVIDADO",
+      "fields": {
+        "name": "Mapa Olvidado",
+        "plural_name": "Mapa Olvidado",
+        "description": "Marca el camino hacia unas misteriosas islas. Tal vez alguien podría llevarte."
+      }
+    },
+    {
+      "line_number": 645,
+      "internal_name": "INCUBADORA",
+      "fields": {
+        "name": "Incubadora",
+        "plural_name": "Incubadoras",
+        "description": "Incubadora para criar huevos."
+      }
+    },
+    {
+      "line_number": 646,
+      "internal_name": "VENUSAURITE",
+      "fields": {
+        "name": "Venusaurita",
+        "plural_name": "Venusaurita",
+        "description": "Piedra para megaevolucionar a Venusaur."
+      }
+    },
+    {
+      "line_number": 647,
+      "internal_name": "CHARIZARDITEY",
+      "fields": {
+        "name": "Charizardita Y",
+        "plural_name": "Charizardita Y",
+        "description": "Piedra para megaevolucionar a Charizard."
+      }
+    },
+    {
+      "line_number": 648,
+      "internal_name": "BLASTOISINITE",
+      "fields": {
+        "name": "Blastoisita",
+        "plural_name": "Blastoisita",
+        "description": "Piedra para megaevolucionar a Blastoise."
+      }
+    },
+    {
+      "line_number": 649,
+      "internal_name": "SCEPTILITE",
+      "fields": {
+        "name": "Sceptilita",
+        "plural_name": "Sceptilita",
+        "description": "Piedra para megaevolucionar a Sceptile."
+      }
+    },
+    {
+      "line_number": 650,
+      "internal_name": "SWAMPERTITE",
+      "fields": {
+        "name": "Swampertita",
+        "plural_name": "Swampertita",
+        "description": "Piedra para megaevolucionar a Swampert."
+      }
+    },
+    {
+      "line_number": 651,
+      "internal_name": "SALAMENCITE",
+      "fields": {
+        "name": "Salamencita",
+        "plural_name": "Salamencita",
+        "description": "Piedra para megaevolucionar a Salamence."
+      }
+    },
+    {
+      "line_number": 652,
+      "internal_name": "METAGROSSITE",
+      "fields": {
+        "name": "Metagrossita",
+        "plural_name": "Metagrossita",
+        "description": "Piedra para megaevolucionar a Metagross."
+      }
+    },
+    {
+      "line_number": 653,
+      "internal_name": "GARCHOMPITE",
+      "fields": {
+        "name": "Garchompita",
+        "plural_name": "Garchompita",
+        "description": "Piedra para megaevolucionar a Garchomp."
+      }
+    },
+    {
+      "line_number": 654,
+      "internal_name": "ASTREMITA",
+      "fields": {
+        "name": "Astremita",
+        "plural_name": "Astremita",
+        "description": "Tiene el poder de millones de Pokémon en su interior."
+      }
+    },
+    {
+      "line_number": 655,
+      "internal_name": "POKEVIAL",
+      "fields": {
+        "name": "Pokévial",
+        "plural_name": "Pokévial",
+        "description": "Restaura la salud de tu equipo Pokémon. Se recarga en los Centros Pokémon."
+      }
+    },
+    {
+      "line_number": 656,
+      "internal_name": "CHARIZARDITEX",
+      "fields": {
+        "name": "Charizardita X",
+        "plural_name": "Charizardita X",
+        "description": "Piedra para megaevolucionar a Charizard."
+      }
+    },
+    {
+      "line_number": 657,
+      "internal_name": "EMBLEMAMAESTRO",
+      "fields": {
+        "name": "Emblema de Maestro",
+        "plural_name": "Emblema de Maestro",
+        "description": "Un emblema que acredita que has logrado lo imposible."
+      }
+    },
+    {
+      "line_number": 658,
+      "internal_name": "DIPLOMA",
+      "fields": {
+        "name": "Diploma",
+        "plural_name": "Diploma",
+        "description": "Tenías mucho tiempo libre."
+      }
+    }
+  ]
+}
