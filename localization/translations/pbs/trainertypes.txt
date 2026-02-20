@@ -1,0 +1,189 @@
+﻿# Consulta la documentación de la wiki para aprender a modificar este archivo.
+0,POKEMONTRAINER_HombreMulato,訓練家,60,BatallaAstrem.ogg,,,Male,,
+1,POKEMONTRAINER_MujerMulata,訓練家,60,BatallaAstrem.ogg,,,Female,,
+2,POKEMONTRAINER_HombreArio,男主角,60,BatallaAstrem.ogg,,,Male,,
+3,POKEMONTRAINER_MujerAria,女主角,60,BatallaAstrem.ogg,,,Female,,
+4,POKEMONTRAINER_HombreNegro,男主角,60,BatallaAstrem.ogg,,,Male,,
+5,POKEMONTRAINER_MujerNegra,女主角,60,BatallaAstrem.ogg,,,Female,,
+6,Criadora,培育家,60,,,Encuentro Femenino,Female,80,
+7,Enfermero,護理員,70,,,Encuentro Normal,Male,80,
+8,Enfermera,護理員,70,,,Encuentro Normal,Female,80,
+9,ReclutaGatling,乾特林新兵,40,Team Gatling.ogg,Malvado.ogg,Encuentro Malvado,Male,
+10,ReclutaGatlinga,乾特林新兵,40,Team Gatling.ogg,Malvado.ogg,Encuentro Malvado,Female,
+11,Operario,工人,90,,,Encuentro tipo Duro,Male,70,
+12,Terrateniente,地主,90,,,Encuentro Tipo Duro,Male,100
+13,Forajido,亡命之徒,32,Entrenador.ogg,,Encuentro Tipo Duro.ogg,Male,60
+14,Colt1,乾特林指揮官,52,BatallaJefe.ogg,,,Male,150
+15,Lider1,道館館主,90,Lider Gimnasio.ogg,Victoria Importante.ogg,,Male,200
+16,Cazarrecompensas,賞金獵人,32,Entrenador.ogg,,Encuentro Tipo Duro.ogg,Male,80
+17,Mochilera,背包客,60,,,Encuentro Femenino,Female,90,
+18,Buscador,尋寶人,60,,,Encuentro Normal,Male,80
+19,Pescador,釣魚人,70,,,Encuentro Normal,Male,80,
+20,ParejaTerrateniente,地主夫婦,60,,,Encuentro Normal,Female,100,
+21,Damisela,千金小姐,70,,,Encuentro Femenino,Female,70,
+22,Pescadora,釣魚人,94,,,Encuentro Femenino.ogg,Female,80,
+23,Viajeros,旅行情侶,94,,,Encuentro Normal.ogg,Female,100,
+24,Lider2,道館館主,90,Lider Gimnasio.ogg,Victoria Importante.ogg,,Female,200
+25,Mochilero,背包客,60,,,Encuentro Normal,Male,90,
+26,Mundanez2,訓練家,62,Rival.ogg,,,Male,150
+27,Rangera,牛仔,70,,,Encuentro Normal,Female,100,
+28,Ingeniera,工程師,90,,,Encuentro Femenino,Female,120,
+29,Carabina,乾特林中尉,80,BatallaJefe.ogg,,Encuentro Femenino,Female,150,
+30,Lider3,道館館主,90,Lider Gimnasio.ogg,Victoria Importante.ogg,,Female,200
+31,Gala2,訓練家,80,Rival.ogg,,,Female,150
+32,Chaman,巫師,95,,,Encuentro Mistico,Female,120,
+33,Oficinista,上班族,60,,,Encuentro Normal,Male,100,
+34,Oficinistaa,上班族,60,,,Encuentro Femenino,Female,100,
+35,Lider4,道館館主,90,Lider Gimnasio.ogg,Victoria Importante.ogg,Encuentro Normal,Male,200,
+36,Fotografa,攝影師,60,,,Encuentro Femenino,Female,90,
+37,Mundanez3,訓練家,72,Rival.ogg,,,Male,150
+38,Bermellon,訓練家,72,Rival.ogg,,,Male,150
+39,Sheriff,警長,72,Entrenador.ogg,,Encuentro Tipo Duro.ogg,Male,120
+40,Lenador,樵夫,60,,,Encuentro Tipo Duro.ogg,Male,90,
+41,Ranger,牛仔,60,,,Encuentro Normal,Male,100,
+42,Ariados,野生寶可夢,90,Jefe Pokemon.ogg,Victoria Salvaje.ogg,Encuentro Normal,Female,,
+43,Lider5,道館館主,90,Lider Gimnasio.ogg,Victoria Importante.ogg,Encuentro Normal,Female,200,
+44,Preso,囚犯,60,,,Encuentro Tipo Duro.ogg,Male,90,
+45,Colt2,乾特林指揮官,72,BatallaJefe.ogg,,,Male,150
+46,Gala3,訓練家,80,Rival.ogg,,,Female,150
+47,Nativo,原住民,60,,,Encuentro Normal,Male,100,
+48,Nativa,原住民,60,,,Encuentro Femenino,Female,100,
+49,Gala1,訓練家,80,Rival.ogg,,,Female,150
+50,Criador,培育家,60,,,Encuentro Normal,Male,80,
+51,Conquistador,征服者,60,,,Encuentro Tipo Duro.ogg,Male,100,
+52,Wailord,Wailord,80,Jefe Pokemon.ogg,,Encuentro Tipo Duro.ogg,Male,,
+53,Ingeniero,工程師,90,,,Encuentro Normal,Male,120,
+54,Lider6,道館館主,90,Lider Gimnasio.ogg,Victoria Importante.ogg,Encuentro Normal,Male,200,
+55,DuoGatling,乾特林新兵組,60,Team Gatling.ogg,Malvado.ogg,Encuentro Malvado,Male,
+56,Apolo1,訓練家,95,BatallaApolo.ogg,,Encuentro Tipo Duro.ogg,Male,200,
+57,Payaso,小丑,60,,,Encuentro Tipo Duro.ogg,Male,90,
+58,Mundanez4,訓練家,72,Rival.ogg,,,Male,150
+59,Winchester,乾特林指揮官,72,BatallaJefe.ogg,,,Male,150
+60,Derringer1,乾特林首領,72,BatallaDerringer.ogg,Victoria Importante.ogg,,Male,250
+61,Lider7,道館館主,90,Lider Gimnasio.ogg,Victoria Importante.ogg,Encuentro Normal,Male,200,
+62,Cientifico,科學家,95,,,Encuentro Mistico,Female,120,
+63,Cientifica,科學家,95,,,Encuentro Mistico,Female,120,
+64,Artificiero,乾特林爆破手,40,Team Gatling.ogg,Malvado.ogg,Encuentro Malvado,Male,
+65,Alguacil,副警長,72,Entrenador.ogg,,Encuentro Tipo Duro.ogg,Female,120
+66,Capitan,隊長,72,Entrenador.ogg,,Encuentro Tipo Duro.ogg,Male,120
+67,Hombrenegro,黑衣人,72,Entrenador.ogg,,Encuentro Tipo Duro.ogg,Male,120
+68,Mustang,會長,52,BatallaPresidente.ogg,,,Male,150
+69,Explorador,探險家,72,Entrenador.ogg,,Encuentro Tipo Duro.ogg,Male,120
+70,ApoloAliado,訓練家,72,Entrenador.ogg,,Encuentro Tipo Duro.ogg,Male,200
+71,Tahur,賭徒,60,,,Encuentro Femenino,Female,150,
+72,Gala4,訓練家,80,Rival.ogg,,,Female,150
+73,Bebedor,酒客,72,Entrenador.ogg,,Encuentro Tipo Duro.ogg,Male,120
+74,Derringer2,訓練家,72,BatallaDerringer.ogg,Victoria Importante.ogg,,Male,250
+75,Astrem,寶可夢,72,BatallaAstrem.ogg,,,Male,250
+76,Lider8,道館館主,90,Lider Gimnasio.ogg,Victoria Importante.ogg,Encuentro Normal,Male,200,
+77,Remington1,神秘人,0,,,Encuentro Normal,Male,250,
+78,Remington2,神秘人,0,,,Encuentro Normal,Male,250,
+79,Remington3,乾特林共同創辦人,0,BatallaJefe.ogg,,Encuentro Delibird,Male,250,
+80,Veterano,資深訓練家,72,Entrenador.ogg,,Encuentro Tipo Duro.ogg,Male,220
+81,Veterana,資深訓練家,72,Entrenador.ogg,,Encuentro Tipo Duro.ogg,Male,220
+82,GalaLiga,挑戰者,80,CombateLiga.ogg,,,Female,250
+83,MundanezLiga,挑戰者,72,CombateLiga.ogg,,,Male,250
+84,BermellonLiga,挑戰者,72,CombateLiga.ogg,,,Male,250
+85,Lider1Liga,道館館主,72,CombateLiga.ogg,,,Male,250
+86,Lider2Liga,道館館主,72,CombateLiga.ogg,,,Female,250
+87,Lider3Liga,道館館主,72,CombateLiga.ogg,,,Female,250
+88,Lider4Liga,道館館主,72,CombateLiga.ogg,,,Male,250
+89,Lider5Liga,道館館主,72,CombateLiga.ogg,,,Female,250
+90,Lider6Liga,道館館主,72,CombateLiga.ogg,,,Male,250
+91,Lider7Liga,道館館主,72,CombateLiga.ogg,,,Female,250
+92,Lider8Liga,道館館主,72,CombateLiga.ogg,,,Male,250
+93,Siseante,嘶鳴教團,40,BatallaSiseante.ogg,Malvado.ogg,Encuentro Malvado.ogg,Male,
+94,Siseanta,嘶鳴教團,40,BatallaSiseante.ogg,Malvado.ogg,Encuentro Malvado.ogg,Female,
+95,Ebano,冠軍,72,CombateLiga.ogg,,,Male,250
+96,EbanoFinal,冠軍,72,CombateCampeon.ogg,VictoriaLiga.ogg,,Male,250
+97,Vera,記者,72,Rival.ogg,,Encuentro Tipo Duro.ogg,Female,220
+98,Alma,怨靈,72,Entrenador.ogg,,Encuentro Tipo Duro.ogg,Male,220
+99,Brujita,小魔女,95,,,Encuentro Mistico,Female,120,
+100,Amish,阿米許人,72,Entrenador.ogg,,Encuentro Tipo Duro.ogg,Male,220
+101,Adian1,訓練家,72,BatallaAdian.ogg,Victoria Importante.ogg,,Male,250
+102,ParejaAmish,阿米許夫婦,60,,,Encuentro Normal,Female,100,
+103,IxiaAliada,訓練家,60,,,Encuentro Normal,Female,250,
+104,Lider9,道館館主,90,Lider Gimnasio.ogg,Victoria Importante.ogg,Encuentro Normal,Female,200,
+105,Esclavo,心靈奴隸,72,Entrenador.ogg,,Encuentro Tipo Duro.ogg,Male,120
+106,Esclava,心靈奴隸,72,Entrenador.ogg,,Encuentro Tipo Duro.ogg,Female,120
+107,Lider10,道館館主,90,Lider Gimnasio.ogg,Victoria Importante.ogg,Encuentro Normal,Female,200,
+108,DuoEsclavo,心靈奴隸組,72,Entrenador.ogg,,Encuentro Tipo Duro.ogg,Female,120
+109,Loto,教皇,90,BatallaLoto.ogg,Victoria Importante.ogg,Encuentro Normal,Male,200,
+110,Minera,礦工,72,Entrenador.ogg,,Encuentro Tipo Duro.ogg,Female,120
+111,Minero,礦工,72,Entrenador.ogg,,Encuentro Tipo Duro.ogg,Male,120
+112,Adian2,訓練家,72,BatallaAdian.ogg,Victoria Importante.ogg,,Male,250
+113,Lider11,道館館主,90,Lider Gimnasio.ogg,Victoria Importante.ogg,Encuentro Normal,Female,200,
+114,NinoMalvado,恐怖小孩,72,Entrenador.ogg,,Encuentro Tipo Duro.ogg,Male,120
+115,NinaMalvada,恐怖小孩,72,Entrenador.ogg,,Encuentro Tipo Duro.ogg,Female,120
+116,BrujaSuprema,大魔女,72,Entrenador.ogg,,Encuentro Tipo Duro.ogg,Female,120
+117,DuoCazarrecompensas,賞金獵人組,32,Entrenador.ogg,,Encuentro Tipo Duro.ogg,Male,80
+118,DuoForajido,犯罪者組,94,,,Encuentro Normal.ogg,Female,100,
+119,GalaAliada,訓練家,80,Rival.ogg,,,Female,150
+120,Amaranta,族長,90,CombateLiga.ogg,,Encuentro Normal,Female,200,
+121,Lider12,道館館主,90,Lider Gimnasio.ogg,Victoria Importante.ogg,Encuentro Normal,Male,200,
+122,Motorista,機車騎士,32,Entrenador.ogg,,Encuentro Tipo Duro.ogg,Male,50
+123,Reptador,爬行者一族,32,Entrenador.ogg,,Encuentro Tipo Duro.ogg,Male,120
+124,Reptadora,爬行者一族,32,Entrenador.ogg,,Encuentro Tipo Duro.ogg,Female,120
+125,Lider13,道館館主,90,Lider Gimnasio.ogg,Victoria Importante.ogg,Encuentro Normal,Male,200,
+126,Militara,軍人,32,,,Encuentro Malvado.ogg,Female,100
+127,Militar,軍人,32,,,Encuentro Malvado.ogg,Male,100
+128,Actriz,女演員,60,,,Encuentro Femenino,Female,90,
+129,Pacificador,和平使者,32,BatallaPacificadores.ogg,,Encuentro Malvado.ogg,Male,250
+130,DuoMotorista,機車騎士組,32,Entrenador.ogg,,Encuentro Tipo Duro.ogg,Male,50
+131,GalaAliada2,訓練家,100,Rival.ogg,,,Female,150
+132,ApoloAliado2,訓練家,95,BatallaApolo2.ogg,,Encuentro Tipo Duro.ogg,Male,250,
+133,Sacerdote,嘶鳴教團祭司,95,BatallaSiseante.ogg,Malvado.ogg,Encuentro Malvado.ogg,Male,250,
+134,Sacerdota,嘶鳴教團女祭司,95,BatallaSiseante.ogg,Malvado.ogg,Encuentro Malvado.ogg,Male,250,
+135,Avatar,化身,95,BatallaGuardian.ogg,Malvado.ogg,Encuentro Malvado.ogg,Male,250
+136,Leopold,父親,32,Entrenador.ogg,,Encuentro Normal.ogg,Male,100
+137,Giovanni,犯罪首領,52,BatallaPresidente.ogg,,,Male,150
+138,Doppelganger,自我,52,,,,Male,150
+139,Trotador,奔馳者一族,32,Entrenador.ogg,,Encuentro Mistico.ogg,Male,100
+140,Trotadora,奔馳者一族,32,Entrenador.ogg,,Encuentro Mistico.ogg,Female,100
+141,Curcu,道場館主,72,CombateLiga.ogg,,,Male,250
+142,ReclutaVolcanic,火山新兵,40,Team Gatling.ogg,Malvado.ogg,Encuentro Malvado,Male,
+143,Cayena,火山首領,72,BatallaDerringer.ogg,Victoria Importante.ogg,,Male,250
+144,ApoloUnktena,幻影,95,BatallaApolo2.ogg,,Encuentro Tipo Duro.ogg,Male,250,
+145,Lider14,道館館主,90,Lider Gimnasio.ogg,Victoria Importante.ogg,Encuentro Normal,Male,200,
+146,DuoSacerdote,嘶鳴教團祭司組,95,BatallaSiseante.ogg,Malvado.ogg,Encuentro Malvado.ogg,Male,250,
+147,Lider15,嘶鳴教團長,95,BatallaZalea.ogg,Victoria Importante.ogg,Encuentro Malvado.ogg,Male,250,
+148,Lider16,訓練家,72,BatallaAdian2.ogg,Victoria Importante.ogg,,Male,250
+149,DuoPacificador,和平使者組,32,BatallaPacificadores.ogg,,Encuentro Pacificador.ogg,Male,250
+150,AdianAliado,訓練家,72,BatallaAdian.ogg,Victoria Importante.ogg,,Male,250
+151,Loto2,永恆守護者,95,CombateLiga2.ogg,,Encuentro Malvado.ogg,Male,250,
+152,Amaranta2,永恆守護者,95,CombateLiga2.ogg,,Encuentro Malvado.ogg,Male,250,
+153,Cayena2,永恆守護者,95,CombateLiga2.ogg,,Encuentro Malvado.ogg,Male,250,
+154,Platero,永恆守護者,95,CombateLiga2.ogg,,Encuentro Malvado.ogg,Male,250,
+155,GranEspiritu,偉大精靈,95,BatallaGuardian.ogg,Victoria Importante.ogg,Encuentro Malvado.ogg,Male,250,
+156,Militares,軍人組,32,,,Encuentro Normal.ogg,Male,100
+157,Genista,隊長,95,CombateLiga2.ogg,,Encuentro Malvado.ogg,Female,250,
+158,ApoloFinal,會長,95,BatallaApolo3.ogg,Victoria Apolo.ogg,Encuentro Malvado.ogg,Male,250,
+159,Unktena,噬界者,95,,Victoria Apolo.ogg,Encuentro Malvado.ogg,Female,250,
+160,Lider1Revancha,道館館主,95,CombateLiga.ogg,Victoria Importante.ogg,Encuentro Malvado.ogg,Male,250,
+161,Lider2Revancha,道館館主,95,CombateLiga.ogg,Victoria Importante.ogg,Encuentro Malvado.ogg,Female,250,
+162,Lider3Revancha,道館館主,95,CombateLiga.ogg,Victoria Importante.ogg,Encuentro Malvado.ogg,Female,250,
+163,Lider4Revancha,道館館主,95,CombateLiga.ogg,Victoria Importante.ogg,Encuentro Malvado.ogg,Male,250,
+164,Lider5Revancha,道館館主,95,CombateLiga.ogg,Victoria Importante.ogg,Encuentro Malvado.ogg,Female,250,
+165,Lider6Revancha,道館館主,95,CombateLiga.ogg,Victoria Importante.ogg,Encuentro Malvado.ogg,Male,250,
+166,Lider7Revancha,道館館主,95,CombateLiga.ogg,Victoria Importante.ogg,Encuentro Malvado.ogg,Female,250,
+167,Lider8Revancha,道館館主,95,CombateLiga.ogg,Victoria Importante.ogg,Encuentro Malvado.ogg,Male,250,
+168,Lider9Revancha,道館館主,95,CombateLiga.ogg,Victoria Importante.ogg,Encuentro Malvado.ogg,Female,250,
+169,Lider10Revancha,道館館主,95,CombateLiga.ogg,Victoria Importante.ogg,Encuentro Malvado.ogg,Female,250,
+170,Lider11Revancha,道館館主,95,CombateLiga.ogg,Victoria Importante.ogg,Encuentro Malvado.ogg,Female,250,
+171,Lider12Revancha,道館館主,95,CombateLiga.ogg,Victoria Importante.ogg,Encuentro Malvado.ogg,Male,250,
+172,Lider13Revancha,道館館主,95,CombateLiga.ogg,Victoria Importante.ogg,Encuentro Malvado.ogg,Male,250,
+173,Lider14Revancha,道館館主,95,CombateLiga.ogg,Victoria Importante.ogg,Encuentro Malvado.ogg,Male,250,
+174,Lider15Revancha,道館館主,95,BatallaZalea.ogg,Victoria Importante.ogg,Encuentro Malvado.ogg,Female,250,
+175,Lider16Revancha,道館館主,95,BatallaAdian2.ogg,Victoria Importante.ogg,Encuentro Malvado.ogg,Male,250,
+176,GalaRevancha,訓練家,95,CombateLiga.ogg,Victoria Importante.ogg,Encuentro Malvado.ogg,Female,250,
+177,MundanezRevancha,訓練家,95,CombateLiga.ogg,Victoria Importante.ogg,Encuentro Malvado.ogg,Male,250,
+178,BermellonRevancha,訓練家,95,CombateLiga.ogg,Victoria Importante.ogg,Encuentro Malvado.ogg,Male,250,
+179,EbanoRevancha,訓練家,95,CombateCampeon.ogg,Victoria Importante.ogg,Encuentro Malvado.ogg,Male,250,
+180,ColtMeson,旅館王牌,95,BatallaDerringer.ogg,Victoria Importante.ogg,Encuentro Malvado.ogg,Male,250,
+181,CarabinaMeson,旅館王牌,95,BatallaDerringer.ogg,Victoria Importante.ogg,Encuentro Malvado.ogg,Male,250,
+182,Rojo,老者,95,CombateRojo.ogg,Victoria Importante.ogg,Encuentro Malvado.ogg,Male,250,
+183,GalaAliada3,訓練家,100,Rival.ogg,,,Female,150
+184,GalaAliada4,訓練家,100,Rival.ogg,,,Female,150
+185,GalaAliada5,訓練家,100,Rival.ogg,,,Female,150
+186,Eric,創作者,72,BatallaDerringer.ogg,Victoria Importante.ogg,,Male,250
+187,Princesa,旅館女主人,70,,,Encuentro Normal,Female,100,

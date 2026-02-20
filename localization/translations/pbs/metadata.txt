@@ -1,0 +1,2995 @@
+﻿[000]
+PlayerA=POKEMONTRAINER_HombreMulato,trchar000,boy_bike,boy_surf_offset,boy_run,boy_dive_offset,boy_fish_offset,boy_fishsurf_offset
+PlayerB=POKEMONTRAINER_MujerMulata,trchar001,girl_bike,girl_surf_offset,girl_run,girl_dive_offset,girl_fish_offset,girl_fishsurf_offset
+PlayerC=POKEMONTRAINER_HombreArio,trchar002,boy_bike1,boy_surf_offset1,boy_run1,boy_dive_offset1,boy_fish_offset1,boy_fishsurf_offset1
+PlayerD=POKEMONTRAINER_MujerAria,trchar003,girl_bike1,girl_surf_offset1,girl_run1,girl_dive_offset1,girl_fish_offset1,girl_fishsurf_offset1
+PlayerE=POKEMONTRAINER_HombreNegro,trchar004,boy_bike2,boy_surf_offset2,boy_run2,boy_dive_offset2,boy_fish_offset2,boy_fishsurf_offset2
+PlayerF=POKEMONTRAINER_MujerNegra,trchar005,girl_bike2,girl_surf_offset2,girl_run2,girl_dive_offset2,girl_fish_offset2,girl_fishsurf_offset2
+TrainerBattleBGM=Entrenador.ogg
+Home=3,7,5,8
+WildBattleBGM=Salvaje.ogg
+[001]
+# Intro
+[002]
+# Pueblo Brisa
+SnapEdges=true
+BattleBack=Pradera
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=0,6,11
+Outdoor=true
+WildBattleBGM=Salvaje.ogg
+ShowArea=true
+[003]
+# Casa de \PN
+BattleBack=Interior
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=0,6,11
+WildBattleBGM=Salvaje.ogg
+[004]
+# Casa
+[005]
+# Refugio Pokemon
+MapPosition=0,6,11
+[006]
+# Ruta 1
+SnapEdges=true
+BattleBack=Pradera
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=0,7,11
+Outdoor=true
+WildBattleBGM=Salvaje.ogg
+ShowArea=true
+[007]
+# Ciudad Solana
+SnapEdges=true
+BattleBack=Pradera
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=0,9,11
+Outdoor=true
+WildBattleBGM=Salvaje.ogg
+ShowArea=true
+[008]
+# Escuela Pokemon
+MapPosition=0,9,11
+[009]
+# Casa
+[010]
+# Centro Pokemon
+MapPosition=0,9,11
+[011]
+# Cafetería Solana
+MapPosition=0,9,11
+[012]
+# Ruta 2
+SnapEdges=true
+BattleBack=Pradera
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=0,12,11
+Outdoor=true
+WildBattleBGM=Salvaje.ogg
+ShowArea=true
+[013]
+# Túnel Fulgor Sur
+SnapEdges=true
+BattleBack=Cueva
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=0,13,10
+WildBattleBGM=Salvaje.ogg
+ShowArea=true
+[014]
+# Ruta 3
+SnapEdges=true
+BattleBack=Monte
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=0,14,11
+Outdoor=true
+WildBattleBGM=Salvaje.ogg
+ShowArea=true
+[015]
+# Casa
+BattleBack=Ciudad
+TrainerVictoryME=VictoriaEntrenador.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=0,12,11
+[016]
+# Centro Pokemon
+MapPosition=0,14,13
+[017]
+# Casa
+[018]
+# Ciudad Jaloque
+SnapEdges=true
+BattleBack=Ciudad
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=0,14,12
+Outdoor=true
+WildBattleBGM=Salvaje.ogg
+ShowArea=true
+[019]
+# Estepa Polvorienta
+SnapEdges=true
+BattleBack=Desierto
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=0,16,14
+Outdoor=true
+WildBattleBGM=Salvaje.ogg
+ShowArea=true
+[020]
+# Depósito Minero
+BattleBack=Interior
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=0,14,13
+WildBattleBGM=Salvaje.ogg
+ShowArea=true
+[021]
+# Ruta 4
+SnapEdges=true
+BattleBack=Pradera
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=0,15,15
+Outdoor=true
+WildBattleBGM=Salvaje.ogg
+ShowArea=true
+[022]
+# Transición
+SnapEdges=true
+BattleBack=Cueva
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=0,11,8
+WildBattleBGM=Salvaje.ogg
+ShowArea=true
+[023]
+# Pueblo Siroco
+SnapEdges=true
+BattleBack=Desierto
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=0,18,14
+Outdoor=true
+WildBattleBGM=Salvaje.ogg
+ShowArea=true
+[024]
+# Casa
+BattleBack=Cueva
+WildVictoryME=VictoriaSalvaje.ogg
+MapPosition=0,11,8
+WildBattleBGM=Salvaje.ogg
+[025]
+# Caravana
+SnapEdges=true
+BattleBack=Ciudad
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=0,12,5
+WildBattleBGM=Salvaje.ogg
+[026]
+# Centro Pokemon
+MapPosition=0,18,15
+[027]
+# Cañón de Céfira
+SnapEdges=true
+BattleBack=Desierto
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=0,16,16
+Outdoor=true
+WildBattleBGM=Salvaje.ogg
+ShowArea=true
+[028]
+# Pueblo Poniente
+SnapEdges=true
+BattleBack=Playa
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=0,12,17
+Outdoor=true
+WildBattleBGM=Salvaje.ogg
+ShowArea=true
+[029]
+# Centro Pokemon
+SnapEdges=true
+BattleBack=Ciudad
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=0,12,17
+WildBattleBGM=Salvaje.ogg
+[030]
+# Caravana
+SnapEdges=true
+BattleBack=Pradera
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=0,10,4
+WildBattleBGM=Salvaje.ogg
+[031]
+# Casa
+[032]
+# Ruta 5
+SnapEdges=true
+BattleBack=Monte
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=0,20,14
+Outdoor=true
+WildBattleBGM=Salvaje.ogg
+ShowArea=true
+[033]
+# Casa
+BattleBack=Interior
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=0,10,5
+WildBattleBGM=Salvaje.ogg
+[034]
+# Estadio Pokemon
+SnapEdges=true
+BattleBack=Estadio
+WildVictoryME=VictoriaSalvaje.ogg
+MapPosition=0,12,15
+WildBattleBGM=Salvaje.ogg
+[035]
+# Escena Anuncio
+SnapEdges=true
+BattleBack=Sub
+WildVictoryME=VictoriaSalvaje.ogg
+MapPosition=0,12,15
+WildBattleBGM=Salvaje.ogg
+[036]
+# Gimnasio Pokémon
+SnapEdges=true
+BattleBack=Interior
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=0,26,5
+WildBattleBGM=Salvaje.ogg
+[037]
+# Ruta 14
+SnapEdges=true
+BattleBack=Snow
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=0,8,3
+Outdoor=true
+WildBattleBGM=Salvaje.ogg
+ShowArea=true
+[038]
+# Gimnasio Pokemon
+BattleBack=G3
+TrainerVictoryME=VictoriaEntrenador.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=0,18,14
+ShowArea=true
+[039]
+# Gimnasio Pokemon
+BattleBack=Interior
+TrainerVictoryME=VictoriaEntrenador.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=0,14,13
+ShowArea=true
+[040]
+# Centro Comercial
+BattleBack=Interior
+TrainerVictoryME=VictoriaEntrenador.ogg
+TrainerBattleBGM=Entrenador.ogg
+[041]
+# Ciudad Austral
+SnapEdges=true
+BattleBack=Ciudad
+TrainerVictoryME=VictoriaEntrenador.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=0,22,12
+Outdoor=true
+ShowArea=true
+[042]
+# Centro Pokemon
+[043]
+# Casa
+SnapEdges=true
+BattleBack=Ciudad
+TrainerVictoryME=VictoriaEntrenador.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=0,20,5
+[044]
+# Ciudad Austral
+SnapEdges=true
+BattleBack=Agua
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=0,22,12
+Outdoor=true
+WildBattleBGM=Salvaje.ogg
+[045]
+# Casa
+[046]
+# Gimnasio Pokemon
+BattleBack=G3
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=0,22,12
+WildBattleBGM=Salvaje.ogg
+[047]
+# Ruta 6
+SnapEdges=true
+BattleBack=Pradera
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=0,14,9
+Outdoor=true
+WildBattleBGM=Salvaje.ogg
+ShowArea=true
+[048]
+# Pueblo Orvallo
+SnapEdges=true
+BattleBack=Ciudad
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+MapPosition=0,14,7
+Outdoor=true
+WildBattleBGM=Salvaje.ogg
+ShowArea=true
+[049]
+# Casa
+BattleBack=G3
+TrainerVictoryME=VictoriaSalvaje.ogg
+MapPosition=0,19,9
+[050]
+# Ruta 9
+SnapEdges=true
+BattleBack=Pradera
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=0,16,7
+Outdoor=true
+WildBattleBGM=Salvaje.ogg
+ShowArea=true
+[051]
+# Casa de Ébano
+BattleBack=Interior
+MapPosition=0,14,13
+ShowArea=true
+[052]
+# Transición
+SnapEdges=true
+BattleBack=Pradera
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=0,20,3
+WildBattleBGM=Salvaje.ogg
+[053]
+# Guardería
+ShowArea=true
+[054]
+# Gimnasio Pokemon
+BattleBack=G4
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaEntrenador.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=0,19,3
+Outdoor=true
+WildBattleBGM=Salvaje.ogg
+ShowArea=true
+[055]
+# Ruta 7
+SnapEdges=true
+BattleBack=Pradera
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=0,14,5
+Outdoor=true
+WildBattleBGM=Salvaje.ogg
+ShowArea=true
+[056]
+# Pueblo Alisio
+SnapEdges=true
+BattleBack=Pueblo
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=0,14,3
+Outdoor=true
+WildBattleBGM=Salvaje.ogg
+ShowArea=true
+[057]
+# Centro Pokemon
+BattleBack=Mansion
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=0,19,3
+WildBattleBGM=Salvaje.ogg
+ShowArea=true
+[058]
+# Casa
+SnapEdges=true
+MapPosition=0,20,2
+[059]
+# Túnel Fulgor Norte
+SnapEdges=true
+BattleBack=Cueva
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=0,13,10
+WildBattleBGM=Salvaje.ogg
+ShowArea=true
+[060]
+# Estación Austral
+BattleBack=Interior
+TrainerVictoryME=VictoriaEntrenador.ogg
+ShowArea=true
+[061]
+# Estación Austral
+BattleBack=Interior
+TrainerVictoryME=VictoriaEntrenador.ogg
+[062]
+# Estación Austral
+SnapEdges=true
+BattleBack=Tren
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=0,17,2
+WildBattleBGM=Salvaje.ogg
+[063]
+# Ruta 8
+SnapEdges=true
+BattleBack=Pradera
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=0,16,3
+Outdoor=true
+WildBattleBGM=Salvaje.ogg
+ShowArea=true
+[064]
+# Escena Presi
+SnapEdges=true
+[065]
+# Isla Eo
+SnapEdges=true
+BattleBack=Pradera
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=1,2,12
+Outdoor=false
+WildBattleBGM=Salvaje.ogg
+ShowArea=false
+[067]
+# Gimnasio Pokemon
+BattleBack=G5
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+WildBattleBGM=Salvaje.ogg
+[068]
+# Ruta 28
+SnapEdges=true
+BattleBack=Pradera
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=1,9,2
+Outdoor=true
+WildBattleBGM=Salvaje.ogg
+ShowArea=true
+[069]
+# Casa
+[070]
+# Estación Jaloque
+[071]
+# Cueva Mística
+SnapEdges=true
+BattleBack=Sub
+TrainerVictoryME=BatallaAstrem.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=1,23,3
+Outdoor=false
+WildBattleBGM=Salvaje.ogg
+ShowArea=true
+[072]
+# Comisaría
+ShowArea=true
+[073]
+# Bosque Índigo
+SnapEdges=true
+BattleBack=Bosque
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=0,16,2
+Outdoor=true
+WildBattleBGM=Salvaje.ogg
+ShowArea=true
+[074]
+# Bosque Índigo
+SnapEdges=true
+BattleBack=Bosque
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=0,16,2
+Outdoor=true
+WildBattleBGM=Salvaje.ogg
+ShowArea=true
+[075]
+# Ciudad Calígine
+SnapEdges=true
+BattleBack=Ciudad
+TrainerVictoryME=VictoriaEntrenador.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=0,18,1
+Outdoor=true
+ShowArea=true
+[076]
+# Centro Pokemon
+[077]
+# Casa
+[078]
+# Ciudad Tempestad
+SnapEdges=true
+BattleBack=Agua
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=0,26,5
+Outdoor=true
+WildBattleBGM=Salvaje.ogg
+ShowArea=true
+[079]
+# Casa de Entrenamiento
+BattleBack=Interior
+TrainerVictoryME=VictoriaEntrenador.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=0,18,1
+[080]
+# Casa de Ébano
+[081]
+# Ruta 12
+SnapEdges=true
+BattleBack=Pradera
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=0,22,10
+Outdoor=true
+WildBattleBGM=Salvaje.ogg
+ShowArea=true
+[082]
+# Acuatúnel
+BattleBack=Tunel
+TrainerVictoryME=VictoriaEntrenador.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=0,21,5
+ShowArea=true
+[083]
+# Casa de la Pesca
+[084]
+# Depósito Minero
+BattleBack=Interior
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=0,14,13
+WildBattleBGM=Salvaje.ogg
+[085]
+# Casa
+SnapEdges=true
+[087]
+# Escena
+SnapEdges=true
+[088]
+# Estadio Pokemon
+BattleBack=Estadio
+[089]
+# Pantano Venenoso
+SnapEdges=true
+BattleBack=Bosque
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=0,17,8
+Outdoor=true
+WildBattleBGM=Salvaje.ogg
+ShowArea=true
+[090]
+# Mansión Quemada
+BattleBack=Mansion
+WildVictoryME=VictoriaSalvaje.ogg
+MapPosition=0,21,10
+WildBattleBGM=Salvaje.ogg
+ShowArea=true
+[091]
+# Casa
+SnapEdges=true
+[092]
+# Casa
+[093]
+# Estación Austral
+BattleBack=Interior
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+ShowArea=true
+[094]
+# Subterráneo
+BattleBack=Interior
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=0,13,10
+WildBattleBGM=Salvaje.ogg
+[095]
+# Centro de Salud
+[096]
+# Centro de Salud
+[097]
+# Centro de Salud
+[098]
+# Caravana
+[099]
+# Estadio Pokemon
+BattleBack=Estadio
+[100]
+# Hostal "El Fresquillo"
+[101]
+# Cementerio Nativo
+BattleBack=Templo
+WildVictoryME=VictoriaSalvaje.ogg
+MapPosition=0,14,3
+WildBattleBGM=Salvaje.ogg
+ShowArea=true
+[102]
+# Estadio Pokemon
+BattleBack=Estadio
+[103]
+# Estadio Pokemon
+BattleBack=Estadio
+[104]
+# Hotel Dalio
+SnapEdges=true
+BattleBack=Playa
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=0,17,4
+WildBattleBGM=Salvaje.ogg
+ShowArea=true
+[105]
+# Ruta 10
+SnapEdges=true
+BattleBack=Playa
+WildVictoryME=VictoriaSalvaje.ogg
+MapPosition=0,18,6
+Outdoor=true
+WildBattleBGM=Salvaje.ogg
+ShowArea=true
+[106]
+# Hotel Dalio
+SnapEdges=true
+BattleBack=Pradera
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=0,20,7
+WildBattleBGM=Salvaje.ogg
+ShowArea=true
+[107]
+# Hotel Dalio
+BattleBack=Interior
+TrainerVictoryME=VictoriaEntrenador.ogg
+TrainerBattleBGM=Entrenador.ogg
+[108]
+# Casa
+[109]
+# Escena Nativos
+SnapEdges=true
+BattleBack=Interior
+TrainerVictoryME=VictoriaEntrenador.ogg
+MapPosition=0,21,5
+[110]
+# Gimnasio Pokemon
+BattleBack=Interior
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=0,18,1
+WildBattleBGM=Salvaje.ogg
+ShowArea=true
+[111]
+# Estadio Pokemon
+BattleBack=Estadio
+[112]
+# Casa de Dalio
+[113]
+# Fondo Marino
+SnapEdges=true
+BattleBack=Sub
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=0,20,4
+WildBattleBGM=Salvaje.ogg
+ShowArea=true
+[114]
+# Prisión Calígine
+BattleBack=Interior
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=0,19,1
+WildBattleBGM=Salvaje.ogg
+ShowArea=true
+[115]
+# Prisión Calígine
+BattleBack=Interior
+TrainerVictoryME=VictoriaEntrenador.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=0,19,1
+[116]
+# Transición
+[117]
+# Estación Calígine
+[118]
+# Prisión Calígine
+BattleBack=Interior
+TrainerVictoryME=VictoriaEntrenador.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=0,19,1
+[119]
+# Ciudad Galerna
+SnapEdges=true
+DiveMap=113
+BattleBack=Playa
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=0,18,4
+Outdoor=true
+WildBattleBGM=Salvaje.ogg
+ShowArea=true
+[120]
+# Centro Pokemon
+[121]
+# Gimnasio Pokemon
+BattleBack=Interior
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=0,18,5
+WildBattleBGM=Salvaje.ogg
+ShowArea=true
+[122]
+# Ruta 11
+SnapEdges=true
+BattleBack=Pradera
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=0,20,7
+Outdoor=true
+WildBattleBGM=Salvaje.ogg
+ShowArea=true
+[123]
+# Pueblo Bora
+SnapEdges=true
+BattleBack=Pueblo
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=0,22,7
+Outdoor=true
+WildBattleBGM=Salvaje.ogg
+ShowArea=true
+[124]
+# Centro Pokemon
+[125]
+# Casa
+[126]
+# Fondo Marino
+SnapEdges=true
+BattleBack=Sub
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+MapPosition=0,21,4
+WildBattleBGM=Salvaje.ogg
+[127]
+# Santa Isabel
+BattleBack=Sub
+WildVictoryME=VictoriaSalvaje.ogg
+MapPosition=0,22,4
+WildBattleBGM=Salvaje.ogg
+[128]
+# Santa Isabel
+BattleBack=Interior
+TrainerVictoryME=VictoriaEntrenador.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=0,21,3
+[129]
+# Mansión Quemada
+BattleBack=Mansion
+WildVictoryME=VictoriaSalvaje.ogg
+MapPosition=0,21,10
+WildBattleBGM=Salvaje.ogg
+[130]
+# Escena Playa
+SnapEdges=true
+BattleBack=Playa2
+TrainerVictoryME=VictoriaEntrenador.ogg
+TrainerBattleBGM=Entrenador.ogg
+[131]
+# Rancho Holden
+BattleBack=Interior
+TrainerVictoryME=VictoriaEntrenador.ogg
+TrainerBattleBGM=Entrenador.ogg
+ShowArea=true
+[132]
+# Ciudad Cencellada
+SnapEdges=true
+BattleBack=Snow
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=0,11,2
+Outdoor=true
+WildBattleBGM=Salvaje.ogg
+ShowArea=true
+[133]
+# Ciudad Austral
+SnapEdges=true
+BattleBack=Ciudad
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=0,22,13
+Outdoor=true
+WildBattleBGM=Salvaje.ogg
+[134]
+# Centro Pokemon
+[135]
+# Centro Pokemon
+[136]
+# Casa
+[137]
+# Restaurante "El Truhán"
+BattleBack=Interior
+TrainerVictoryME=VictoriaEntrenador.ogg
+TrainerBattleBGM=Entrenador.ogg
+[138]
+# Museo Austral
+ShowArea=true
+[139]
+# Fábrica de Pokéball
+[140]
+# Torre Astral
+SnapEdges=true
+BattleBack=Monte
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=0,27,6
+Outdoor=true
+WildBattleBGM=Salvaje.ogg
+ShowArea=true
+[141]
+# Centro Pokemon
+[142]
+# Torre Astral
+BattleBack=Templo
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=0,27,6
+WildBattleBGM=Salvaje.ogg
+ShowArea=true
+[143]
+# Casa
+[144]
+# Torre Astral
+BattleBack=Templo
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=0,27,6
+WildBattleBGM=Salvaje.ogg
+[145]
+# Torre Astral
+BattleBack=Templo
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=0,27,6
+WildBattleBGM=Salvaje.ogg
+[146]
+# Torre Astral
+BattleBack=Templo
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=0,27,6
+WildBattleBGM=Salvaje.ogg
+[147]
+# Laboratorio Tempestad
+BattleBack=Interior
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=0,27,6
+WildBattleBGM=Salvaje.ogg
+[148]
+# Centro Pokemon
+[149]
+# Estadio Pokemon
+BattleBack=Estadio
+MapPosition=0,26,5
+[150]
+# Casa de Habilidades
+[151]
+# Escena Astrem 1
+SnapEdges=true
+[152]
+# Taller Antiguo
+SnapEdges=true
+BattleBack=Taller
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+WildBattleBGM=Salvaje.ogg
+[153]
+# Base Gatling
+MapPosition=0,22,13
+[154]
+# Laboratorio Tempestad
+[157]
+# Base Gatling
+BattleBack=Mina
+TrainerVictoryME=VictoriaEntrenador.ogg
+MapPosition=0,22,13
+[158]
+# Sede del Gobierno
+BattleBack=Mansion
+TrainerVictoryME=VictoriaEntrenador.ogg
+MapPosition=0,22,12
+[162]
+# Base Gatling
+BattleBack=Mina
+TrainerVictoryME=VictoriaEntrenador.ogg
+MapPosition=0,22,12
+[163]
+# Base Gatling
+BattleBack=Mina
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Salvaje.ogg
+MapPosition=0,22,13
+[164]
+# Base Gatling
+BattleBack=Mina
+TrainerVictoryME=VictoriaEntrenador.ogg
+MapPosition=0,22,12
+[165]
+# Sede del Gobierno
+[166]
+# Ruta 13
+SnapEdges=true
+BattleBack=Monte
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=0,12,3
+Outdoor=true
+WildBattleBGM=Salvaje.ogg
+ShowArea=true
+[167]
+# Casa
+[168]
+# Sede del Gobierno
+[169]
+# Escena 1
+SnapEdges=true
+[170]
+# Escena 2
+SnapEdges=true
+[171]
+# Sede del Gobierno
+BattleBack=Interior
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=0,12,3
+Outdoor=false
+WildBattleBGM=Salvaje.ogg
+ShowArea=false
+[172]
+# Cementerio Nativo
+BattleBack=Templo
+WildVictoryME=VictoriaSalvaje.ogg
+MapPosition=0,14,3
+WildBattleBGM=Salvaje.ogg
+[173]
+# Cementerio Nativo
+BattleBack=Templo
+WildVictoryME=VictoriaSalvaje.ogg
+MapPosition=0,14,3
+WildBattleBGM=Salvaje.ogg
+[175]
+# Cabaña
+[176]
+# Sierra Boreal
+SnapEdges=true
+BattleBack=Snow
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=0,9,1
+Outdoor=true
+WildBattleBGM=Salvaje.ogg
+ShowArea=true
+[177]
+# Sierra Boreal
+SnapEdges=true
+BattleBack=Snow
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=0,9,1
+Outdoor=true
+WildBattleBGM=Salvaje.ogg
+ShowArea=true
+[178]
+# Sierra Boreal
+SnapEdges=true
+BattleBack=Snow
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=0,9,1
+Outdoor=true
+WildBattleBGM=Salvaje.ogg
+ShowArea=true
+[179]
+# Sierra Boreal
+SnapEdges=true
+BattleBack=Snow
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=0,9,1
+Outdoor=true
+WildBattleBGM=Salvaje.ogg
+ShowArea=true
+[180]
+# Cima
+SnapEdges=true
+BattleBack=Snow
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+MapPosition=0,9,1
+Outdoor=true
+[181]
+# Sierra Boreal
+SnapEdges=true
+BattleBack=Sub
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=0,9,1
+WildBattleBGM=Salvaje.ogg
+[182]
+# Sierra Boreal
+SnapEdges=true
+MapPosition=0,9,1
+[183]
+# Sierra Boreal
+SnapEdges=true
+BattleBack=Sub
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=0,8,1
+WildBattleBGM=Salvaje.ogg
+[184]
+# Ciudad Tramontana
+SnapEdges=true
+BattleBack=Ciudad
+TrainerVictoryME=VictoriaEntrenador.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=0,8,5
+Outdoor=true
+ShowArea=true
+[185]
+# Centro Pokemon
+[186]
+# Ruta 15
+SnapEdges=true
+BattleBack=Pradera
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=0,11,7
+Outdoor=true
+WildBattleBGM=Salvaje.ogg
+ShowArea=true
+[187]
+# Escena
+SnapEdges=true
+[188]
+# Astral
+BattleBack=Astral
+WildVictoryME=VictoriaSalvaje.ogg
+WildBattleBGM=BatallaAstrem.ogg
+[189]
+# Gran Espíritu
+SnapEdges=true
+[190]
+# Gimnasio Pokémon
+BattleBack=G5
+TrainerVictoryME=Victoria Importante.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+MapPosition=0,11,2
+[192]
+# Casa de Álamo
+[193]
+# Ruta 16
+SnapEdges=true
+BattleBack=Pradera
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=0,6,7
+Outdoor=true
+WildBattleBGM=Salvaje.ogg
+ShowArea=true
+[194]
+# Senda Retorno
+SnapEdges=true
+BattleBack=Cueva
+WildVictoryME=VictoriaSalvaje.ogg
+MapPosition=0,6,7
+WildBattleBGM=Salvaje.ogg
+ShowArea=true
+[195]
+# Parque Bouffalant
+SnapEdges=true
+BattleBack=Pradera
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=0,9,8
+SafariMap=true
+WildBattleBGM=Salvaje.ogg
+ShowArea=true
+[196]
+# Cueva Sospechosa
+SnapEdges=true
+BattleBack=Cueva
+WildVictoryME=VictoriaSalvaje.ogg
+WildBattleBGM=Salvaje.ogg
+ShowArea=true
+[197]
+# Guarida Delibird
+SnapEdges=true
+BattleBack=Cueva
+WildVictoryME=VictoriaSalvaje.ogg
+WildBattleBGM=Salvaje.ogg
+[198]
+# Parque Bouffalant
+SnapEdges=true
+BattleBack=Pradera
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=0,9,8
+SafariMap=true
+WildBattleBGM=Salvaje.ogg
+ShowArea=true
+[200]
+# Casa
+SafariMap=true
+[201]
+# Calle Victoria
+SnapEdges=true
+BattleBack=Pradera2
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=0,6,4
+Outdoor=true
+WildBattleBGM=Salvaje.ogg
+ShowArea=true
+[202]
+# Calle Victoria
+SnapEdges=true
+BattleBack=Pradera2
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=0,6,4
+Outdoor=true
+WildBattleBGM=Salvaje.ogg
+ShowArea=true
+[203]
+# Ciudad Boreal
+SnapEdges=true
+BattleBack=Ciudad
+TrainerVictoryME=VictoriaEntrenador.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=0,6,3
+Outdoor=true
+ShowArea=true
+[204]
+# Ciudad Boreal
+SnapEdges=true
+BattleBack=Ciudad
+TrainerVictoryME=VictoriaEntrenador.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=0,6,2
+Outdoor=true
+ShowArea=true
+[205]
+# Ciudad Boreal
+SnapEdges=true
+BattleBack=Ciudad
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=0,6,2
+Outdoor=true
+WildBattleBGM=Salvaje.ogg
+ShowArea=true
+[206]
+# Parque Boreal
+SnapEdges=true
+BattleBack=Pradera2
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=0,6,2
+Outdoor=true
+WildBattleBGM=Salvaje.ogg
+ShowArea=true
+[207]
+# Ruta 28
+SnapEdges=true
+BattleBack=Pradera
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=1,13,2
+Outdoor=true
+WildBattleBGM=Salvaje.ogg
+ShowArea=true
+[208]
+# Transición
+BattleBack=Pradera
+WildVictoryME=VictoriaSalvaje.ogg
+MapPosition=0,3,15
+WildBattleBGM=Salvaje.ogg
+[211]
+# Casa
+[212]
+# Casa
+[213]
+# Casa
+[215]
+# Gran Estadio
+[216]
+# Cueva Orvallo
+SnapEdges=true
+BattleBack=Cueva
+WildVictoryME=VictoriaSalvaje.ogg
+MapPosition=0,14,7
+WildBattleBGM=Salvaje.ogg
+ShowArea=true
+[217]
+# Transición
+[218]
+# Casa
+BattleBack=Interior
+TrainerVictoryME=VictoriaEntrenador.ogg
+TrainerBattleBGM=Entrenador.ogg
+[219]
+# Parque Sulforroca
+SnapEdges=true
+BattleBack=Pradera
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=1,12,3
+Outdoor=true
+WildBattleBGM=Salvaje.ogg
+ShowArea=true
+[220]
+# Pueblo Aquilón
+SnapEdges=true
+BattleBack=Pradera2
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=1,16,2
+Outdoor=true
+WildBattleBGM=Salvaje.ogg
+ShowArea=true
+[221]
+# Casa
+SnapEdges=true
+BattleBack=Monte
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=1,16,2
+Outdoor=false
+WildBattleBGM=Salvaje.ogg
+ShowArea=true
+[222]
+# Ruta 29
+SnapEdges=true
+BattleBack=Pradera
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=1,16,4
+Outdoor=true
+WildBattleBGM=Salvaje.ogg
+ShowArea=true
+[224]
+# Estadio Pokemon
+BattleBack=Liga
+TrainerVictoryME=VictoriaEntrenador.ogg
+[225]
+# Estadio Pokemon
+BattleBack=Liga
+TrainerVictoryME=VictoriaEntrenador.ogg
+[226]
+# Alcantarillas
+BattleBack=InteriorOscuro
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=0,6,2
+WildBattleBGM=Salvaje.ogg
+ShowArea=true
+[229]
+# Frontera
+SnapEdges=true
+MapPosition=0,1,5
+[230]
+# Ruta 18
+SnapEdges=true
+[231]
+# Estadio Pokemon
+BattleBack=Liga
+TrainerVictoryME=VictoriaEntrenador.ogg
+[233]
+# Túnel Secreto
+SnapEdges=true
+[236]
+# Frontera Este-Oeste
+SnapEdges=true
+MapPosition=0,3,5
+Outdoor=true
+ShowArea=true
+[237]
+# Circuito Espejismo
+SnapEdges=true
+MapPosition=0,17,13
+Outdoor=true
+BicycleAlways=true
+ShowArea=true
+[238]
+# Frontera Este-Oeste
+SnapEdges=true
+MapPosition=0,3,5
+Outdoor=true
+ShowArea=true
+[243]
+# Pueblo Cierzo
+SnapEdges=true
+BattleBack=Otono
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=1,27,5
+Outdoor=true
+WildBattleBGM=Salvaje.ogg
+ShowArea=true
+[244]
+# Ruta 18
+SnapEdges=true
+BattleBack=Otono
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=1,26,6
+Outdoor=true
+WildBattleBGM=Salvaje.ogg
+ShowArea=true
+[245]
+# Bosque Ocre
+SnapEdges=true
+BattleBack=Otono
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=1,24,8
+Outdoor=true
+WildBattleBGM=Salvaje.ogg
+ShowArea=true
+[246]
+# Transición
+[247]
+# Bosque Ocre
+SnapEdges=true
+BattleBack=Otono
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=1,24,8
+Outdoor=true
+WildBattleBGM=Salvaje.ogg
+[248]
+# Taller Antiguo
+SnapEdges=true
+BattleBack=Sub
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+WildBattleBGM=Salvaje.ogg
+ShowArea=true
+[249]
+# Bosque Ocre
+SnapEdges=true
+BattleBack=Otono
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=1,24,8
+Outdoor=true
+WildBattleBGM=Salvaje.ogg
+ShowArea=true
+[250]
+# Ciudad Ghibli
+SnapEdges=true
+BattleBack=Otono
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=1,22,9
+Outdoor=true
+WildBattleBGM=Salvaje.ogg
+ShowArea=true
+[251]
+# Ruta 19
+SnapEdges=true
+BattleBack=Otono
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=1,25,13
+Outdoor=true
+WildBattleBGM=Salvaje.ogg
+ShowArea=false
+[252]
+# Ruta 19
+SnapEdges=true
+BattleBack=Otono
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=1,24,15
+Outdoor=true
+WildBattleBGM=Salvaje.ogg
+ShowArea=true
+[253]
+# Ciudad Ábrega
+SnapEdges=true
+BattleBack=Otono
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=1,22,15
+Outdoor=true
+WildBattleBGM=Salvaje.ogg
+ShowArea=true
+[254]
+# Ruta 20
+SnapEdges=true
+BattleBack=Bosque
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=1,19,15
+Outdoor=true
+WildBattleBGM=Salvaje.ogg
+ShowArea=true
+[255]
+# Bayou Ábrego
+SnapEdges=true
+BattleBack=Bosque
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=1,20,14
+Outdoor=true
+WildBattleBGM=Salvaje.ogg
+ShowArea=true
+[261]
+# Casa
+BattleBack=Interior
+TrainerVictoryME=VictoriaEntrenador.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=1,22,15
+[264]
+# Ruta 21
+SnapEdges=true
+BattleBack=Pradera3
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=1,18,15
+Outdoor=true
+WildBattleBGM=Salvaje.ogg
+ShowArea=true
+[266]
+# Pueblo Terral
+SnapEdges=true
+BattleBack=Monte
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=1,16,15
+Outdoor=true
+WildBattleBGM=Salvaje.ogg
+ShowArea=true
+[269]
+# Infierno
+SnapEdges=true
+[271]
+# Ruta 17
+SnapEdges=true
+BattleBack=Otono
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=1,29,5
+Outdoor=true
+WildBattleBGM=Salvaje.ogg
+ShowArea=true
+[272]
+# Bosque Ocre
+SnapEdges=true
+BattleBack=Otono
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=1,24,8
+Outdoor=true
+WildBattleBGM=Salvaje.ogg
+[275]
+# Flashback
+SnapEdges=true
+[277]
+# Capilla de la Luz
+SnapEdges=true
+BattleBack=Otono
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=1,23,10
+Outdoor=true
+WildBattleBGM=Salvaje.ogg
+ShowArea=true
+[278]
+# Capilla de la Luz
+BattleBack=Interior
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=1,23,11
+WildBattleBGM=Salvaje.ogg
+[280]
+# Casa de Entrenamiento
+SnapEdges=true
+BattleBack=Interior
+TrainerVictoryME=VictoriaEntrenador.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=1,22,10
+[282]
+# Granja
+BattleBack=Interior
+[283]
+# Ciudad Ábrega
+SnapEdges=true
+BattleBack=Ciudad
+TrainerVictoryME=VictoriaEntrenador.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=1,22,15
+Outdoor=true
+[284]
+# Salón Vudú
+BattleBack=Vudu
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=1,23,11
+WildBattleBGM=Salvaje.ogg
+[285]
+# Salón Vudú
+BattleBack=Vudu
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=1,23,11
+WildBattleBGM=Salvaje.ogg
+[286]
+# Ciudad Ábrega
+SnapEdges=true
+BattleBack=abrega
+TrainerVictoryME=VictoriaEntrenador.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=1,22,15
+Outdoor=true
+[287]
+# Salón Vudú
+BattleBack=Vudu
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=1,23,11
+WildBattleBGM=Salvaje.ogg
+[288]
+# Ciudad Ábrega
+SnapEdges=true
+BattleBack=abrega
+TrainerVictoryME=VictoriaEntrenador.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=1,22,15
+Outdoor=true
+[289]
+# Escena
+SnapEdges=true
+BattleBack=abrega
+TrainerVictoryME=VictoriaEntrenador.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=1,22,15
+Outdoor=true
+[290]
+# Mina Turmalina
+SnapEdges=true
+BattleBack=Turmalina
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=1,15,17
+WildBattleBGM=Salvaje.ogg
+[291]
+# Escena
+SnapEdges=true
+[293]
+# Mansión de Maple
+BattleBack=Mansion
+[295]
+# Mansión de Maple
+SnapEdges=true
+[296]
+# Mansión de Maple
+SnapEdges=true
+BattleBack=Interior
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=1,15,17
+WildBattleBGM=Salvaje.ogg
+[297]
+# Mina Turmalina
+SnapEdges=true
+BattleBack=Turmalina
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=1,15,17
+WildBattleBGM=Salvaje.ogg
+ShowArea=true
+[298]
+# Escena
+SnapEdges=true
+[299]
+# Escena
+SnapEdges=true
+BattleBack=Turmalina
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=1,15,17
+WildBattleBGM=Salvaje.ogg
+[300]
+# Mina Turmalina
+SnapEdges=true
+BattleBack=Turmalina
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=1,15,17
+WildBattleBGM=Salvaje.ogg
+[301]
+# Mina Turmalina
+SnapEdges=true
+BattleBack=Turmalina
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=1,15,17
+WildBattleBGM=Salvaje.ogg
+[302]
+# Árbol Secreto
+SnapEdges=true
+BattleBack=Turmalina
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=1,15,17
+WildBattleBGM=Salvaje.ogg
+[303]
+# Ruta 22
+SnapEdges=true
+BattleBack=Pradera3
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=1,18,15
+Outdoor=true
+WildBattleBGM=Salvaje.ogg
+ShowArea=true
+[304]
+# Costa Olvidada
+SnapEdges=true
+BattleBack=Agua
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=1,18,15
+Outdoor=true
+WildBattleBGM=Salvaje.ogg
+ShowArea=true
+[305]
+# Cloacas
+BattleBack=InteriorOscuro
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=0,6,2
+WildBattleBGM=Salvaje.ogg
+ShowArea=true
+[307]
+# Pueblo Brisa
+SnapEdges=true
+BattleBack=Pradera
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+WildBattleBGM=Salvaje.ogg
+[308]
+# Ruta 1
+SnapEdges=true
+BattleBack=Pradera
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+WildBattleBGM=Salvaje.ogg
+[310]
+# Pueblo Kona
+SnapEdges=true
+BattleBack=Pueblo
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=1,16,9
+Outdoor=true
+WildBattleBGM=Salvaje.ogg
+ShowArea=true
+[311]
+# Ruta 23
+SnapEdges=true
+BattleBack=Pradera3
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=1,16,7
+Outdoor=true
+WildBattleBGM=Salvaje.ogg
+ShowArea=true
+[312]
+# Colina del Chamán
+SnapEdges=true
+BattleBack=Bosque
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=1,17,6
+Outdoor=true
+WildBattleBGM=Salvaje.ogg
+ShowArea=true
+[314]
+# Ruta 24
+SnapEdges=true
+BattleBack=Desierto
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=1,14,9
+Outdoor=true
+WildBattleBGM=Salvaje.ogg
+ShowArea=true
+[319]
+# Pueblo Santana
+SnapEdges=true
+BattleBack=Desierto
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=1,11,9
+Outdoor=true
+WildBattleBGM=Salvaje.ogg
+ShowArea=true
+[320]
+# Ruta 25
+SnapEdges=true
+BattleBack=Desierto
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=1,9,9
+Outdoor=true
+WildBattleBGM=Salvaje.ogg
+ShowArea=true
+[321]
+# Colinas Azabache
+SnapEdges=true
+BattleBack=Azabache
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=1,19,4
+Outdoor=true
+WildBattleBGM=Salvaje.ogg
+ShowArea=true
+[322]
+# Saloon Batalla
+BattleBack=Interior
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+WildBattleBGM=BatallaDistorsion.ogg
+[324]
+# Valle Condenación
+SnapEdges=true
+BattleBack=Desierto
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=1,9,7
+Outdoor=true
+WildBattleBGM=Salvaje.ogg
+ShowArea=true
+[325]
+# Área 151
+SnapEdges=true
+BattleBack=Desierto2
+TrainerVictoryME=VictoriaZenit.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=EntrenadorArea.ogg
+MapPosition=1,10,7
+Outdoor=true
+WildBattleBGM=Salvaje.ogg
+ShowArea=false
+[328]
+# Ciudad Mistral
+SnapEdges=true
+BattleBack=Ciudad
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=1,9,5
+Outdoor=true
+WildBattleBGM=Salvaje.ogg
+ShowArea=true
+[331]
+# Recuerdo
+SnapEdges=true
+BattleBack=Ciudad
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=0,14,12
+Outdoor=true
+WildBattleBGM=Salvaje.ogg
+[332]
+# Escondite Sombrío
+BattleBack=Bosque
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=0,14,12
+WildBattleBGM=Salvaje.ogg
+[333]
+# Aeropuerto Mistral
+SnapEdges=true
+BattleBack=Playa
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=1,7,5
+Outdoor=true
+WildBattleBGM=Salvaje.ogg
+ShowArea=true
+[334]
+# Pueblo Kona
+SnapEdges=true
+BattleBack=Pueblo
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+Outdoor=true
+WildBattleBGM=Salvaje.ogg
+ShowArea=true
+[337]
+# Spa
+BattleBack=Interior
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+WildBattleBGM=Salvaje.ogg
+[339]
+# Isla Obsidiana
+SnapEdges=true
+BattleBack=Estelar
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=1,4,3
+Outdoor=true
+WildBattleBGM=Salvaje.ogg
+ShowArea=true
+[340]
+# Casino Golden Bug
+BattleBack=Interior
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+WildBattleBGM=Salvaje.ogg
+[341]
+# Casino Golden Bug
+BattleBack=Interior
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+WildBattleBGM=Salvaje.ogg
+[342]
+# Casino Golden Bug
+BattleBack=Interior
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+WildBattleBGM=Salvaje.ogg
+[343]
+# Escena 2
+SnapEdges=true
+BattleBack=Agua
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+Outdoor=true
+WildBattleBGM=Salvaje.ogg
+[344]
+# Túnel Arenisca
+SnapEdges=true
+BattleBack=CuevaRoja
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+Outdoor=true
+WildBattleBGM=Salvaje.ogg
+ShowArea=true
+[346]
+# Escena
+SnapEdges=true
+BattleBack=CuevaRoja
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+Outdoor=true
+WildBattleBGM=Salvaje.ogg
+[347]
+# Casa
+BattleBack=Interior
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+WildBattleBGM=Salvaje.ogg
+[348]
+# Hotel Esmeralda
+BattleBack=Interior
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+WildBattleBGM=Salvaje.ogg
+[349]
+# Hotel Aguamarina
+BattleBack=Interior
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+WildBattleBGM=Salvaje.ogg
+[350]
+# Hangar
+BattleBack=InteriorOscuro
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+WildBattleBGM=Salvaje.ogg
+[353]
+# Taller Antiguo
+BattleBack=Taller
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+WildBattleBGM=BatallaDistorsion.ogg
+[354]
+# Escena
+SnapEdges=true
+BattleBack=Interior
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+WildBattleBGM=Salvaje.ogg
+[355]
+# Aeropuerto
+SnapEdges=true
+BattleBack=Playa
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+Outdoor=true
+WildBattleBGM=Salvaje.ogg
+ShowArea=true
+[357]
+# Taller Antiguo
+BattleBack=Taller
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+WildBattleBGM=BatallaDistorsion.ogg
+[358]
+# Taller Antiguo
+BattleBack=Taller
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+WildBattleBGM=BatallaDistorsion.ogg
+[359]
+# Taller Antiguo
+BattleBack=Taller
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+WildBattleBGM=BatallaDistorsion.ogg
+[360]
+# Ruta 26
+SnapEdges=true
+BattleBack=Monte
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=1,13,15
+Outdoor=true
+WildBattleBGM=Salvaje.ogg
+ShowArea=true
+[361]
+# Paisaje
+SnapEdges=true
+BattleBack=Playa
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+Outdoor=true
+WildBattleBGM=Salvaje.ogg
+[362]
+# Vuelo
+SnapEdges=true
+BattleBack=Playa
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+Outdoor=true
+WildBattleBGM=Salvaje.ogg
+[363]
+# Vuelo
+SnapEdges=true
+BattleBack=Playa
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+Outdoor=true
+WildBattleBGM=Salvaje.ogg
+[365]
+# Ruta 25
+SnapEdges=true
+BattleBack=Desierto
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=1,9,7
+Outdoor=true
+WildBattleBGM=Salvaje.ogg
+ShowArea=true
+[366]
+# Ruinas Secretas
+SnapEdges=true
+BattleBack=Desierto
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=1,9,7
+Outdoor=true
+WildBattleBGM=Salvaje.ogg
+ShowArea=true
+[368]
+# Estudio de Cine
+BattleBack=Interior
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+WildBattleBGM=Salvaje.ogg
+[370]
+# Arboleda Negra
+SnapEdges=true
+BattleBack=Monte
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=0,19,1
+Outdoor=true
+WildBattleBGM=Salvaje.ogg
+[371]
+# Pueblo Lebeche
+SnapEdges=true
+BattleBack=Monte
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=1,12,15
+Outdoor=true
+WildBattleBGM=Salvaje.ogg
+ShowArea=true
+[373]
+# Ruta 27 Este
+SnapEdges=true
+BattleBack=Monte
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=1,10,15
+Outdoor=true
+WildBattleBGM=Salvaje.ogg
+ShowArea=true
+[374]
+# Cueva Espíritu
+SnapEdges=true
+BattleBack=CuevaRoja
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=1,10,14
+Outdoor=true
+WildBattleBGM=Salvaje.ogg
+ShowArea=true
+[376]
+# Casa
+BattleBack=Interior
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=1,12,15
+WildBattleBGM=Salvaje.ogg
+[377]
+# Dojo Lebeche
+BattleBack=Interior
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=1,9,16
+WildBattleBGM=Salvaje.ogg
+[378]
+# Villa Espectro
+SnapEdges=true
+BattleBack=Monte
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=1,10,16
+Outdoor=true
+WildBattleBGM=Salvaje.ogg
+ShowArea=true
+[379]
+# Ruta 27 Oeste
+SnapEdges=true
+BattleBack=Monte
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=1,8,15
+Outdoor=true
+WildBattleBGM=Salvaje.ogg
+ShowArea=true
+[380]
+# Ruta 27 Oeste
+SnapEdges=true
+BattleBack=Agua
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=1,8,15
+Outdoor=true
+WildBattleBGM=Salvaje.ogg
+ShowArea=true
+[381]
+# Pueblo Zonda
+SnapEdges=true
+BattleBack=Monte
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=1,7,14
+Outdoor=true
+WildBattleBGM=Salvaje.ogg
+ShowArea=false
+[382]
+# Caravana
+MapPosition=1,7,14
+[383]
+# Casa
+MapPosition=1,8,14
+[384]
+# Lago Aquilón
+SnapEdges=true
+BattleBack=Pradera
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=1,15,1
+Outdoor=true
+WildBattleBGM=Salvaje.ogg
+ShowArea=false
+[385]
+# Isla Eo
+SnapEdges=true
+BattleBack=Pradera
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=1,2,12
+Outdoor=true
+WildBattleBGM=Salvaje.ogg
+ShowArea=true
+[386]
+# Lago Aquilón
+SnapEdges=true
+BattleBack=Lagoenv
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=1,15,1
+Outdoor=true
+WildBattleBGM=Salvaje.ogg
+ShowArea=true
+[388]
+# Memorial Silencioso
+SnapEdges=true
+BattleBack=Bosque
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=1,17,4
+Outdoor=true
+WildBattleBGM=Salvaje.ogg
+ShowArea=true
+[389]
+# Ruta 30
+SnapEdges=true
+BattleBack=Pradera
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=1,19,5
+Outdoor=true
+WildBattleBGM=Salvaje.ogg
+ShowArea=true
+[390]
+# Pueblo Bayamo
+SnapEdges=true
+BattleBack=Pradera
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=1,22,5
+Outdoor=true
+WildBattleBGM=Salvaje.ogg
+ShowArea=true
+[393]
+# Comisaría
+BattleBack=Interior
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=1,9,16
+WildBattleBGM=Salvaje.ogg
+[394]
+# Casa
+MapPosition=1,22,5
+[396]
+# Ruta 30
+SnapEdges=true
+BattleBack=Pradera
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=1,19,4
+Outdoor=true
+WildBattleBGM=Salvaje.ogg
+ShowArea=true
+[399]
+# ???
+SnapEdges=true
+BattleBack=Apocalipsis
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=1,9,7
+Outdoor=false
+WildBattleBGM=Salvaje.ogg
+ShowArea=false
+[401]
+# ???
+SnapEdges=true
+BattleBack=Apocalipsis
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=1,9,7
+Outdoor=false
+WildBattleBGM=Salvaje.ogg
+ShowArea=false
+[402]
+# Atolón Olvidado
+SnapEdges=true
+BattleBack=Agua
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=0,5,17
+Outdoor=true
+WildBattleBGM=Salvaje.ogg
+ShowArea=true
+[403]
+# Casa
+BattleBack=Interior
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=1,9,16
+WildBattleBGM=Salvaje.ogg
+[404]
+# Saloon
+BattleBack=Zalea
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=1,9,16
+WildBattleBGM=Salvaje.ogg
+[405]
+# Casa
+SnapEdges=false
+BattleBack=Interior
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=0,24,17
+Outdoor=false
+WildBattleBGM=Salvaje.ogg
+ShowArea=false
+[406]
+# Tipi
+MapPosition=1,8,15
+[407]
+# Casa de Zalea
+BattleBack=Zalea
+MapPosition=1,8,14
+[408]
+# Ruinas Olvidadas
+SnapEdges=false
+BattleBack=Templo
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=0,3,15
+Outdoor=false
+WildBattleBGM=Salvaje.ogg
+ShowArea=true
+[409]
+# Ruinas Olvidadas
+SnapEdges=false
+BattleBack=Templo
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=0,5,17
+Outdoor=false
+WildBattleBGM=Salvaje.ogg
+ShowArea=false
+[410]
+# Laboratorio
+BattleBack=Area151
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=EntrenadorArea.ogg
+MapPosition=1,10,7
+Outdoor=false
+WildBattleBGM=Salvaje2.ogg
+ShowArea=false
+[411]
+# Coliseo Astral
+SnapEdges=false
+BattleBack=Astral3
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=1,16,4
+Outdoor=false
+WildBattleBGM=Salvaje2.ogg
+ShowArea=false
+[413]
+# Mesón Batalla
+SnapEdges=false
+BattleBack=Interior
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=1,10,7
+Outdoor=false
+WildBattleBGM=Salvaje.ogg
+ShowArea=false
+[416]
+# Estepa Polvorienta
+SnapEdges=true
+BattleBack=Desierto2
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=0,16,14
+Outdoor=true
+WildBattleBGM=Salvaje.ogg
+ShowArea=true
+[419]
+# Valle Condenación
+SnapEdges=true
+BattleBack=Desierto2
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=1,9,7
+Outdoor=true
+WildBattleBGM=Salvaje.ogg
+ShowArea=false
+[420]
+# Memorial Silencioso
+SnapEdges=true
+BattleBack=Pradera
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=1,19,4
+Outdoor=true
+WildBattleBGM=Salvaje.ogg
+ShowArea=false
+[421]
+# Escena 1
+SnapEdges=true
+BattleBack=Pradera
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=1,19,4
+Outdoor=true
+WildBattleBGM=Salvaje.ogg
+ShowArea=false
+[422]
+# Escena 2
+SnapEdges=true
+BattleBack=Pradera
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=1,19,4
+Outdoor=true
+WildBattleBGM=Salvaje.ogg
+ShowArea=false
+[423]
+# Mar
+SnapEdges=true
+BattleBack=Pradera
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=1,19,4
+Outdoor=true
+WildBattleBGM=Salvaje.ogg
+ShowArea=false
+[424]
+# Colinas Azabache
+SnapEdges=true
+BattleBack=Azabache
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=1,19,4
+Outdoor=true
+WildBattleBGM=Salvaje.ogg
+ShowArea=true
+[425]
+# Escena Astrem 1
+SnapEdges=true
+BattleBack=Pradera
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=1,19,4
+Outdoor=true
+WildBattleBGM=Salvaje.ogg
+ShowArea=false
+[426]
+# Escena Astrem 2
+SnapEdges=true
+BattleBack=Pradera
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=1,19,4
+Outdoor=true
+WildBattleBGM=Salvaje.ogg
+ShowArea=false
+[427]
+# Escena 1
+SnapEdges=true
+BattleBack=Espacio
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=1,16,4
+Outdoor=false
+WildBattleBGM=Salvaje2.ogg
+ShowArea=false
+[428]
+# Escena 2
+SnapEdges=true
+BattleBack=Espacio
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=1,16,4
+Outdoor=false
+WildBattleBGM=Salvaje2.ogg
+ShowArea=false
+[429]
+# Colinas Azabache
+SnapEdges=true
+BattleBack=Sub
+TrainerVictoryME=VictoriaEntrenador.ogg
+[430]
+# Colinas Azabache
+SnapEdges=true
+BattleBack=Azabache
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=1,19,4
+Outdoor=true
+WildBattleBGM=Salvaje.ogg
+ShowArea=true
+[431]
+# Colinas Azabache
+SnapEdges=true
+BattleBack=Azabache
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=1,19,4
+Outdoor=true
+WildBattleBGM=Salvaje.ogg
+ShowArea=true
+[432]
+# Colinas Azabache
+SnapEdges=true
+BattleBack=Sub
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=1,19,4
+Outdoor=false
+WildBattleBGM=Salvaje.ogg
+ShowArea=false
+[433]
+# Ruta 29
+SnapEdges=true
+BattleBack=Pradera
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=1,16,4
+Outdoor=true
+WildBattleBGM=Salvaje.ogg
+ShowArea=true
+[435]
+# Wakantanka, Morada del Gran Espíritu
+SnapEdges=true
+BattleBack=Wakantanka
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=1,16,4
+Outdoor=true
+WildBattleBGM=Salvaje2.ogg
+ShowArea=false
+[436]
+# Wakantanka, Morada del Gran Espíritu
+SnapEdges=true
+BattleBack=Astral2
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=1,16,4
+Outdoor=true
+WildBattleBGM=Salvaje.ogg
+ShowArea=true
+[437]
+# Wakantanka, Morada del Gran Espíritu
+SnapEdges=true
+BattleBack=Wakantanka
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=1,16,4
+Outdoor=false
+WildBattleBGM=Salvaje2.ogg
+ShowArea=true
+[438]
+# Casa
+SnapEdges=true
+[439]
+# Wakantanka, Morada del Gran Espíritu
+SnapEdges=false
+BattleBack=Astral2
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=1,16,4
+Outdoor=false
+WildBattleBGM=Salvaje2.ogg
+ShowArea=false
+[441]
+# Área 151
+BattleBack=Area151
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=EntrenadorArea.ogg
+MapPosition=1,10,7
+Outdoor=false
+WildBattleBGM=Salvaje2.ogg
+ShowArea=false
+[442]
+# Escena 3
+SnapEdges=true
+BattleBack=Espacio
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=1,16,4
+Outdoor=false
+WildBattleBGM=Salvaje2.ogg
+ShowArea=false
+[443]
+# Espacio
+SnapEdges=false
+BattleBack=Espacio
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=1,16,4
+Outdoor=false
+WildBattleBGM=Salvaje2.ogg
+ShowArea=false
+[444]
+# Valle Condenación
+SnapEdges=true
+BattleBack=Unktena
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaUnktena.ogg
+TrainerBattleBGM=jaja.ogg
+MapPosition=1,9,7
+Outdoor=false
+WildBattleBGM=jiji.ogg
+ShowArea=false
+[445]
+# Escena 4
+SnapEdges=true
+BattleBack=Espacio
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=1,16,4
+Outdoor=false
+WildBattleBGM=Salvaje2.ogg
+ShowArea=false
+[446]
+# Colinas Azabache
+SnapEdges=true
+BattleBack=Azabache
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=1,19,4
+Outdoor=false
+WildBattleBGM=Salvaje.ogg
+ShowArea=false
+[447]
+# Escena 1
+SnapEdges=true
+BattleBack=Espacio
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=1,16,4
+Outdoor=false
+WildBattleBGM=Salvaje2.ogg
+ShowArea=false
+[448]
+# Escena
+SnapEdges=true
+BattleBack=Espacio
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=1,10,7
+Outdoor=false
+WildBattleBGM=Salvaje2.ogg
+ShowArea=false
+[449]
+# Área 151
+BattleBack=Area151
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=EntrenadorArea.ogg
+MapPosition=1,10,7
+Outdoor=false
+WildBattleBGM=Salvaje2.ogg
+ShowArea=false
+[450]
+# Área 151
+BattleBack=Area151
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=EntrenadorArea.ogg
+MapPosition=1,10,7
+Outdoor=false
+WildBattleBGM=Salvaje2.ogg
+ShowArea=false
+[451]
+# Área 151
+SnapEdges=true
+BattleBack=Espacio
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=1,10,7
+Outdoor=false
+WildBattleBGM=Salvaje2.ogg
+ShowArea=false
+[452]
+# Área 151
+BattleBack=Interior
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=EntrenadorArea.ogg
+MapPosition=1,10,7
+Outdoor=false
+WildBattleBGM=Salvaje2.ogg
+ShowArea=false
+[453]
+# Área 151
+BattleBack=Interior
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=EntrenadorArea.ogg
+MapPosition=1,10,7
+Outdoor=false
+WildBattleBGM=Salvaje2.ogg
+ShowArea=false
+[454]
+# Área 151
+BattleBack=Interior
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=EntrenadorArea.ogg
+MapPosition=1,10,7
+Outdoor=false
+WildBattleBGM=Salvaje2.ogg
+ShowArea=false
+[455]
+# Área 151
+BattleBack=Interior
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=EntrenadorArea.ogg
+MapPosition=1,10,7
+Outdoor=false
+WildBattleBGM=Salvaje2.ogg
+ShowArea=false
+[456]
+# Área 151
+BattleBack=Final
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=EntrenadorArea.ogg
+MapPosition=1,10,7
+Outdoor=false
+WildBattleBGM=Salvaje2.ogg
+ShowArea=false
+[459]
+# Escenas Finales
+SnapEdges=true
+BattleBack=Unktena
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaUnktena.ogg
+TrainerBattleBGM=jaja.ogg
+MapPosition=1,9,7
+Outdoor=false
+WildBattleBGM=jiji.ogg
+ShowArea=false
+[461]
+# Escenas Finales
+SnapEdges=true
+BattleBack=Unktena
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaUnktena.ogg
+TrainerBattleBGM=jaja.ogg
+MapPosition=1,9,7
+Outdoor=false
+WildBattleBGM=jiji.ogg
+ShowArea=false
+[465]
+# Isla Calima
+SnapEdges=true
+BattleBack=Agua
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=0,25,17
+Outdoor=true
+WildBattleBGM=Salvaje.ogg
+ShowArea=true
+[466]
+# Senda Cinérea
+SnapEdges=true
+BattleBack=Monte
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=0,26,17
+Outdoor=true
+WildBattleBGM=Salvaje.ogg
+ShowArea=true
+[467]
+# Mesón Batalla
+SnapEdges=false
+BattleBack=Interior
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=0,24,17
+Outdoor=false
+WildBattleBGM=Salvaje.ogg
+ShowArea=true
+[468]
+# Monte Cinéreo
+SnapEdges=true
+BattleBack=Volcan
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=0,26,14
+Outdoor=true
+WildBattleBGM=Salvaje.ogg
+ShowArea=true
+[469]
+# Monte Cinéreo
+SnapEdges=true
+BattleBack=Volcan
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=0,27,15
+Outdoor=true
+WildBattleBGM=Salvaje.ogg
+ShowArea=false
+[470]
+# Escenas Finales
+SnapEdges=true
+BattleBack=Unktena
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaUnktena.ogg
+TrainerBattleBGM=jaja.ogg
+MapPosition=1,9,7
+Outdoor=false
+WildBattleBGM=jiji.ogg
+ShowArea=false
+[471]
+# Escenas Finales
+SnapEdges=true
+BattleBack=Unktena
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaUnktena.ogg
+TrainerBattleBGM=jaja.ogg
+MapPosition=1,9,7
+Outdoor=false
+WildBattleBGM=jiji.ogg
+ShowArea=false
+[473]
+# Lago Aquilón
+SnapEdges=true
+BattleBack=Pradera
+TrainerVictoryME=VictoriaEntrenador.ogg
+WildVictoryME=VictoriaSalvaje.ogg
+TrainerBattleBGM=Entrenador.ogg
+MapPosition=1,16,1
+Outdoor=true
+WildBattleBGM=Salvaje.ogg
+ShowArea=true

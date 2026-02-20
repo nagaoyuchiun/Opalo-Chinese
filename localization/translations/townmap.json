@@ -1,0 +1,2324 @@
+{
+  "metadata": {
+    "source_file": "..\\..\\Data\\townmap.dat",
+    "total_entries": 257,
+    "source_language": "es",
+    "target_language": "zh-TW",
+    "extraction_version": "1.0"
+  },
+  "entries": [
+    {
+      "id": "section_0[1]",
+      "original": "mapRegion0.png",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_0[2][0][2]",
+      "original": "Pueblo Brisa",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_0[2][0][3]",
+      "original": "Refugio Pokemon",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_0[2][1][2]",
+      "original": "Ruta 1",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_0[2][2][2]",
+      "original": "Ruta 1",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_0[2][3][2]",
+      "original": "Ciudad Solana",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_0[2][3][3]",
+      "original": "Escuela Pokemon",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_0[2][4][2]",
+      "original": "Ruta 2",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_0[2][5][2]",
+      "original": "Ruta 2",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_0[2][6][2]",
+      "original": "Ruta 2",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_0[2][7][2]",
+      "original": "Ruta 3",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_0[2][8][2]",
+      "original": "Tunel Fulgor",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_0[2][9][2]",
+      "original": "Tunel Fulgor",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_0[2][10][2]",
+      "original": "Ciudad Jaloque",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_0[2][10][3]",
+      "original": "Nave Industrial",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_0[2][11][2]",
+      "original": "Ruta 4",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_0[2][12][2]",
+      "original": "Ruta 4",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_0[2][13][2]",
+      "original": "Estepa Polvorienta",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_0[2][14][2]",
+      "original": "Estepa Polvorienta",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_0[2][15][2]",
+      "original": "Estepa Polvorienta",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_0[2][16][2]",
+      "original": "Canon de Cefira",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_0[2][17][2]",
+      "original": "Canon de Cefira",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_0[2][18][2]",
+      "original": "Canon de Cefira",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_0[2][19][2]",
+      "original": "Canon de Cefira",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_0[2][20][2]",
+      "original": "Canon de Cefira",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_0[2][21][2]",
+      "original": "Pueblo Poniente",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_0[2][21][3]",
+      "original": "Rancho",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_0[2][22][2]",
+      "original": "Pueblo Siroco",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_0[2][22][3]",
+      "original": "Feria de Siroco",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_0[2][23][2]",
+      "original": "Ruta 5",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_0[2][24][2]",
+      "original": "Ruta 5",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_0[2][25][2]",
+      "original": "Ruta 5",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_0[2][26][2]",
+      "original": "Ruta 5",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_0[2][27][2]",
+      "original": "Ciudad Austral",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_0[2][27][3]",
+      "original": "Centro Comercial",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_0[2][28][2]",
+      "original": "Ruta 6",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_0[2][29][2]",
+      "original": "Ruta 6",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_0[2][29][3]",
+      "original": "Ruinas Sumergidas",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_0[2][30][2]",
+      "original": "Pueblo Orvallo",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_0[2][30][3]",
+      "original": "Centro de Salud",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_0[2][31][2]",
+      "original": "Ruta 9",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_0[2][31][3]",
+      "original": "Guarderia Pokemon",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_0[2][32][2]",
+      "original": "Ruta 9",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_0[2][32][3]",
+      "original": "Guarderia Pokemon",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_0[2][33][2]",
+      "original": "Ruta 7",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_0[2][34][2]",
+      "original": "Ruta 7",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_0[2][35][2]",
+      "original": "Cementerio Nativo",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_0[2][36][2]",
+      "original": "Pueblo Alisio",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_0[2][36][3]",
+      "original": "Hostal El Fresquito",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_0[2][37][2]",
+      "original": "Ruta 8",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_0[2][38][2]",
+      "original": "Ruta 8",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_0[2][39][2]",
+      "original": "Bosque Indigo",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_0[2][40][2]",
+      "original": "Bosque Indigo",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_0[2][41][2]",
+      "original": "Ciudad Caligine",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_0[2][41][3]",
+      "original": "Prision Caligine",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_0[2][42][2]",
+      "original": "Pantano Venenoso",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_0[2][43][2]",
+      "original": "Pantano Venenoso",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_0[2][44][2]",
+      "original": "Pantano Venenoso",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_0[2][45][2]",
+      "original": "Ruta 11",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_0[2][46][2]",
+      "original": "Ruta 11",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_0[2][47][2]",
+      "original": "Pueblo Bora",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_0[2][47][3]",
+      "original": "Rancho Holden",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_0[2][48][2]",
+      "original": "Ruta 12",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_0[2][49][2]",
+      "original": "Ruta 12",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_0[2][50][2]",
+      "original": "Ruta 12",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_0[2][51][2]",
+      "original": "Ruta 12",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_0[2][52][2]",
+      "original": "Mansion Abandonada",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_0[2][53][2]",
+      "original": "Ciudad Galerna",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_0[2][53][3]",
+      "original": "Hotel Dalio",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_0[2][54][2]",
+      "original": "Arboleda Negra",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_0[2][55][2]",
+      "original": "Acuatúnel",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_0[2][56][2]",
+      "original": "Acuatúnel",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_0[2][57][2]",
+      "original": "Acuatúnel",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_0[2][58][2]",
+      "original": "Acuatúnel",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_0[2][59][2]",
+      "original": "Acuatúnel",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_0[2][60][2]",
+      "original": "Ciudad Tempestad",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_0[2][60][3]",
+      "original": "Laboratorio",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_0[2][61][2]",
+      "original": "Torre Astral",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_0[2][62][2]",
+      "original": "Ruta 13",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_0[2][63][2]",
+      "original": "Ruta 13",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_0[2][64][2]",
+      "original": "Ruta 13",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_0[2][65][2]",
+      "original": "Ciudad Cencellada",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_0[2][66][2]",
+      "original": "Ruta 14",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_0[2][67][2]",
+      "original": "Ruta 14",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_0[2][68][2]",
+      "original": "Ruta 14",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_0[2][69][2]",
+      "original": "Ruta 14",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_0[2][70][2]",
+      "original": "Ruta 14",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_0[2][71][2]",
+      "original": "Ruta 15",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_0[2][72][2]",
+      "original": "Ruta 15",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_0[2][73][2]",
+      "original": "Ruta 15",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_0[2][74][2]",
+      "original": "Parque Bouffalant",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_0[2][75][2]",
+      "original": "Ciudad Tramontana",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_0[2][75][3]",
+      "original": "Cantina",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_0[2][76][2]",
+      "original": "Ruta 15",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_0[2][77][2]",
+      "original": "Ruta 15",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_0[2][78][2]",
+      "original": "Ruta 15",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_0[2][79][2]",
+      "original": "Calle Victoria",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_0[2][80][2]",
+      "original": "Calle Victoria",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_0[2][81][2]",
+      "original": "Calle Victoria",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_0[2][82][2]",
+      "original": "Calle Victoria",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_0[2][83][2]",
+      "original": "Ruta 16",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_0[2][84][2]",
+      "original": "Ruta 16",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_0[2][85][2]",
+      "original": "Ruta 16",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_0[2][86][2]",
+      "original": "Ruta 16",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_0[2][87][2]",
+      "original": "Frontera Este-Oeste",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_0[2][88][2]",
+      "original": "Frontera Este-Oeste",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_0[2][89][2]",
+      "original": "Ciudad Boreal",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_0[2][89][3]",
+      "original": "Gran Estadio",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_0[2][90][2]",
+      "original": "Atolon Olvidado",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_0[2][91][2]",
+      "original": "Atolon Olvidado",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_0[2][92][2]",
+      "original": "Sierra Boreal",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_0[2][93][2]",
+      "original": "Acuatúnel",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_0[2][94][2]",
+      "original": "Mina Abandonada",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_0[2][95][2]",
+      "original": "Cueva Orvallo",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_0[2][96][2]",
+      "original": "Senda Retorno",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_0[2][97][2]",
+      "original": "Aeropuerto Austral",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_0[2][98][2]",
+      "original": "Isla Calima",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_0[2][98][3]",
+      "original": "Meson Batalla",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_0[2][99][2]",
+      "original": "Senda Cinerea",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_0[2][100][2]",
+      "original": "Senda Cinerea",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_0[2][101][2]",
+      "original": "Monte Cinereo",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_0[2][102][2]",
+      "original": "Atolon Olvidado",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_0[2][103][2]",
+      "original": "Atolon Olvidado",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_0[2][104][2]",
+      "original": "Ruta 2",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_0[2][105][2]",
+      "original": "Ruta 4",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_0[2][106][2]",
+      "original": "Canon de Cefira",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_0[2][107][2]",
+      "original": "Ruta 5",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_0[2][108][2]",
+      "original": "Ruta 9",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_0[2][108][3]",
+      "original": "Guarderia Pokemon",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_0[2][109][2]",
+      "original": "Ruta 7",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_0[2][110][2]",
+      "original": "Ruta 8",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_0[2][111][2]",
+      "original": "Acuatúnel",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_0[2][112][2]",
+      "original": "Senda Cinerea",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_0[2][113][2]",
+      "original": "Senda Cinerea",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_1[1]",
+      "original": "mapRegion1.png",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_1[2][0][2]",
+      "original": "Ruta 17",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_1[2][1][2]",
+      "original": "Ruta 17",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_1[2][2][2]",
+      "original": "Pueblo Cierzo",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_1[2][3][2]",
+      "original": "Ruta 18",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_1[2][4][2]",
+      "original": "Ruta 18",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_1[2][5][2]",
+      "original": "Ruta 18",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_1[2][6][2]",
+      "original": "Ruta 18",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_1[2][7][2]",
+      "original": "Ruta 18",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_1[2][8][2]",
+      "original": "Bosque Ocre",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_1[2][9][2]",
+      "original": "Ruta 18",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_1[2][10][2]",
+      "original": "Ruta 19",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_1[2][11][2]",
+      "original": "Capilla de la Luz",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_1[2][12][2]",
+      "original": "Ciudad Ghibli",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_1[2][12][3]",
+      "original": "Casa de Entrenamiento",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_1[2][13][2]",
+      "original": "Ruta 19",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_1[2][14][2]",
+      "original": "Ruta 19",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_1[2][15][2]",
+      "original": "Ruta 19",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_1[2][16][2]",
+      "original": "Ruta 19",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_1[2][17][2]",
+      "original": "Ruta 19",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_1[2][18][2]",
+      "original": "Ruta 19",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_1[2][19][2]",
+      "original": "Costa Olvidada",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_1[2][20][2]",
+      "original": "Ciudad Abrega",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_1[2][20][3]",
+      "original": "Salon Vudu",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_1[2][21][2]",
+      "original": "Ruta 20",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_1[2][22][2]",
+      "original": "Ruta 20",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_1[2][23][2]",
+      "original": "Ruta 20",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_1[2][24][2]",
+      "original": "Ruta 21",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_1[2][25][2]",
+      "original": "Ruta 21",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_1[2][26][2]",
+      "original": "Pueblo Terral",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_1[2][26][3]",
+      "original": "Mansion de Maple",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_1[2][27][2]",
+      "original": "Bayou Abrego",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_1[2][28][2]",
+      "original": "Mina Turmalina",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_1[2][29][2]",
+      "original": "Ruta 22",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_1[2][30][2]",
+      "original": "Ruta 22",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_1[2][31][2]",
+      "original": "Ruta 22",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_1[2][32][2]",
+      "original": "Ruta 19",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_1[2][33][2]",
+      "original": "Ruta 19",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_1[2][34][2]",
+      "original": "Ruta 19",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_1[2][35][2]",
+      "original": "Ruta 19",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_1[2][36][2]",
+      "original": "Ruta 19",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_1[2][37][2]",
+      "original": "Ruta 19",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_1[2][38][2]",
+      "original": "Ruta 19",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_1[2][39][2]",
+      "original": "Costa Olvidada",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_1[2][40][2]",
+      "original": "Ciudad Abrega",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_1[2][40][3]",
+      "original": "Salon Vudu",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_1[2][41][2]",
+      "original": "Ruta 20",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_1[2][42][2]",
+      "original": "Ruta 20",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_1[2][43][2]",
+      "original": "Ruta 21",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_1[2][44][2]",
+      "original": "Pueblo Terral",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_1[2][44][3]",
+      "original": "Mansion de Maple",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_1[2][45][2]",
+      "original": "Bayou Abrego",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_1[2][46][2]",
+      "original": "Bayou Abrego",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_1[2][47][2]",
+      "original": "Mina Turmalina",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_1[2][48][2]",
+      "original": "Ruta 22",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_1[2][49][2]",
+      "original": "Ruta 22",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_1[2][50][2]",
+      "original": "Ruta 22",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_1[2][51][2]",
+      "original": "Pueblo Kona",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_1[2][51][3]",
+      "original": "Saloon Batalla",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_1[2][52][2]",
+      "original": "Ruta 23",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_1[2][53][2]",
+      "original": "Ruta 23",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_1[2][54][2]",
+      "original": "Colina del Chaman",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_1[2][55][2]",
+      "original": "Ruta 24",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_1[2][56][2]",
+      "original": "Ruta 24",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_1[2][57][2]",
+      "original": "Ruta 24",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_1[2][58][2]",
+      "original": "Don Solomillon",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_1[2][59][2]",
+      "original": "Pueblo Santana",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_1[2][59][3]",
+      "original": "Golden Bug",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_1[2][60][2]",
+      "original": "Ruta 25",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_1[2][61][2]",
+      "original": "Ruta 25",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_1[2][62][2]",
+      "original": "Valle Condenacion",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_1[2][63][2]",
+      "original": "Valle Condenacion",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_1[2][64][2]",
+      "original": "Area 151",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_1[2][65][2]",
+      "original": "Ruinas Secretas",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_1[2][66][2]",
+      "original": "Ciudad Mistral",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_1[2][66][3]",
+      "original": "Estudio de Cine",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_1[2][67][2]",
+      "original": "Aeropuerto Mistral",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_1[2][68][2]",
+      "original": "Isla Obsidiana",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_1[2][68][3]",
+      "original": "Taller Antiguo",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_1[2][69][2]",
+      "original": "Ruta 22",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_1[2][70][2]",
+      "original": "Ruta 23",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_1[2][71][2]",
+      "original": "Ruta 26",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_1[2][72][2]",
+      "original": "Ruta 26",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_1[2][73][2]",
+      "original": "Ruta 26",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_1[2][74][2]",
+      "original": "Pueblo Lebeche",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_1[2][74][3]",
+      "original": "Dojo Lebeche",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_1[2][75][2]",
+      "original": "Ruta 27",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_1[2][76][2]",
+      "original": "Ruta 27",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_1[2][77][2]",
+      "original": "Ruta 27",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_1[2][78][2]",
+      "original": "Ruta 27",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_1[2][79][2]",
+      "original": "Villa Espectro",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_1[2][80][2]",
+      "original": "Pueblo Zonda",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_1[2][81][2]",
+      "original": "Isla Eo",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_1[2][82][2]",
+      "original": "Ruta 28",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_1[2][83][2]",
+      "original": "Ruta 28",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_1[2][84][2]",
+      "original": "Ruta 28",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_1[2][85][2]",
+      "original": "Ruta 28",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_1[2][86][2]",
+      "original": "Ruta 28",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_1[2][87][2]",
+      "original": "Ruta 28",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_1[2][88][2]",
+      "original": "Ruta 28",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_1[2][89][2]",
+      "original": "Ruta 28",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_1[2][90][2]",
+      "original": "Parque Sulforroca",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_1[2][91][2]",
+      "original": "Pueblo Aquilon",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_1[2][92][2]",
+      "original": "Lago Aquilon",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_1[2][93][2]",
+      "original": "Ruta 29",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_1[2][94][2]",
+      "original": "Ruta 29",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_1[2][95][2]",
+      "original": "Memorial Silencioso",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_1[2][96][2]",
+      "original": "Ruta 30",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_1[2][97][2]",
+      "original": "Ruta 30",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_1[2][98][2]",
+      "original": "Ruta 30",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_1[2][99][2]",
+      "original": "Ruta 30",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_1[2][100][2]",
+      "original": "Ruta 30",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_1[2][101][2]",
+      "original": "Pueblo Bayamo",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_1[2][101][3]",
+      "original": "Casa de las MTs",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_1[2][102][2]",
+      "original": "Cueva Mistica",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_1[2][103][2]",
+      "original": "Ruta 30",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_1[2][104][2]",
+      "original": "Colinas Azabache",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_1[2][105][2]",
+      "original": "Colinas Azabache",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_1[2][106][2]",
+      "original": "Wakantanka, Morada del Gran Espiritu",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_1[2][107][2]",
+      "original": "Cueva Espiritu",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_1[2][108][2]",
+      "original": "Ruta 18",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_1[2][109][2]",
+      "original": "Ruta 29",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    },
+    {
+      "id": "section_1[2][110][2]",
+      "original": "Ruta 18",
+      "translation": "",
+      "context": {
+        "parent": "root",
+        "type": "bytes_value"
+      }
+    }
+  ]
+}

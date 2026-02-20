@@ -1,0 +1,352 @@
+[
+  {
+    "ID": "1",
+    "Internal": "REPEL",
+    "Name_ES": "Repelente",
+    "Plural_ES": "Repelentes",
+    "Description_ES": "Repele Pokémon salvajes débiles en un recorrido de 150 pasos."
+  },
+  {
+    "ID": "2",
+    "Internal": "SUPERREPEL",
+    "Name_ES": "Superrepelente",
+    "Plural_ES": "Superrepelentes",
+    "Description_ES": "Repele Pokémon salvajes débiles en un recorrido de 250 pasos."
+  },
+  {
+    "ID": "3",
+    "Internal": "MAXREPEL",
+    "Name_ES": "Repelente Máximo",
+    "Plural_ES": "Repelentes Máximos",
+    "Description_ES": "Repele Pokémon salvajes débiles en un recorrido de 400 pasos."
+  },
+  {
+    "ID": "4",
+    "Internal": "BLACKFLUTE",
+    "Name_ES": "Flauta Negra",
+    "Plural_ES": "Flautas Negras",
+    "Description_ES": "Flauta de cristal negro cuya melodía ayuda a reducir las probabilidades de encontrarse con Pokémon salvajes."
+  },
+  {
+    "ID": "5",
+    "Internal": "WHITEFLUTE",
+    "Name_ES": "Flauta Blanca",
+    "Plural_ES": "Flautas Blancas",
+    "Description_ES": "Flauta de cristal blanco cuya melodía ayuda a aumentar las probabilidades de encontrarse con Pokémon salvajes."
+  },
+  {
+    "ID": "6",
+    "Internal": "HONEY",
+    "Name_ES": "Miel",
+    "Plural_ES": "Mieles",
+    "Description_ES": "Su delicioso aroma atrae a Pokémon salvajes si se usa en zonas de hierba alta, cuevas o árboles especiales."
+  },
+  {
+    "ID": "7",
+    "Internal": "ESCAPEROPE",
+    "Name_ES": "Cuerda Huida",
+    "Plural_ES": "Cuerdas Huida",
+    "Description_ES": "Cuerda larga y resistente que sirve para huir de cuevas y sitios cerrados en general."
+  },
+  {
+    "ID": "8",
+    "Internal": "REDSHARD",
+    "Name_ES": "Parte Roja",
+    "Plural_ES": "Partes Rojas",
+    "Description_ES": "Un pequeño fragmento rojo. Parece formar parte de algún tipo de herramienta antigua."
+  },
+  {
+    "ID": "9",
+    "Internal": "YELLOWSHARD",
+    "Name_ES": "Parte Amarilla",
+    "Plural_ES": "Partes Amarillas",
+    "Description_ES": "Un pequeño fragmento amarillo. Parece formar parte de algún tipo de herramienta antigua."
+  },
+  {
+    "ID": "10",
+    "Internal": "BLUESHARD",
+    "Name_ES": "Parte Azul",
+    "Plural_ES": "Partes Azules",
+    "Description_ES": "Un pequeño fragmento azul. Parece formar parte de algún tipo de herramienta antigua."
+  },
+  {
+    "ID": "11",
+    "Internal": "GREENSHARD",
+    "Name_ES": "Parte Verde",
+    "Plural_ES": "Partes Verdes",
+    "Description_ES": "Un pequeño fragmento verde. Parece formar parte de algún tipo de herramienta antigua."
+  },
+  {
+    "ID": "12",
+    "Internal": "FIRESTONE",
+    "Name_ES": "Piedra Fuego",
+    "Plural_ES": "Piedras Fuego",
+    "Description_ES": "Curiosa piedra que hace evolucionar a determinadas especies de Pokémon. Es amarilla con una marca naranja."
+  },
+  {
+    "ID": "13",
+    "Internal": "THUNDERSTONE",
+    "Name_ES": "Piedra Trueno",
+    "Plural_ES": "Piedras Trueno",
+    "Description_ES": "Curiosa piedra que hace evolucionar a determinadas especies de Pokémon. Tiene dibujado un rayo."
+  },
+  {
+    "ID": "14",
+    "Internal": "WATERSTONE",
+    "Name_ES": "Piedra Agua",
+    "Plural_ES": "Piedras Agua",
+    "Description_ES": "Curiosa piedra que hace evolucionar a determinadas especies de Pokémon. Es de color azul, como el agua."
+  },
+  {
+    "ID": "15",
+    "Internal": "LEAFSTONE",
+    "Name_ES": "Piedra Hoja",
+    "Plural_ES": "Piedras Hoja",
+    "Description_ES": "Curiosa piedra que hace evolucionar a determinadas especies de Pokémon. Tiene dibujada una hoja."
+  },
+  {
+    "ID": "16",
+    "Internal": "MOONSTONE",
+    "Name_ES": "Piedra Lunar",
+    "Plural_ES": "Piedras Lunar",
+    "Description_ES": "Curiosa piedra que hace evolucionar a determinadas especies de Pokémon. Es negra como el azabache."
+  },
+  {
+    "ID": "17",
+    "Internal": "SUNSTONE",
+    "Name_ES": "Piedra Solar",
+    "Plural_ES": "Piedras Solar",
+    "Description_ES": "Curiosa piedra que hace evolucionar a determinadas especies de Pokémon. Es roja como el núcleo del sol."
+  },
+  {
+    "ID": "18",
+    "Internal": "DUSKSTONE",
+    "Name_ES": "Piedra Noche",
+    "Plural_ES": "Piedras Noche",
+    "Description_ES": "Una piedra peculiar que hace evolucionar a algunos Pokémon. Es oscura como la noche."
+  },
+  {
+    "ID": "19",
+    "Internal": "DAWNSTONE",
+    "Name_ES": "Piedra Alba",
+    "Plural_ES": "Piedras Alba",
+    "Description_ES": "Una piedra peculiar que hace evolucionar a algunos Pokémon. Brilla como un lucero."
+  },
+  {
+    "ID": "20",
+    "Internal": "SHINYSTONE",
+    "Name_ES": "Piedra Día",
+    "Plural_ES": "Piedras Día",
+    "Description_ES": "Una piedra peculiar que hace evolucionar a algunos Pokémon. Tiene un brillo espectacular."
+  },
+  {
+    "ID": "21",
+    "Internal": "REDAPRICORN",
+    "Name_ES": "Bonguri Roja",
+    "Plural_ES": "Bonguris Roja",
+    "Description_ES": "Bonguri de color rojo y aroma muy penetrante."
+  },
+  {
+    "ID": "22",
+    "Internal": "YLWAPRICORN",
+    "Name_ES": "Bonguri Amarilla",
+    "Plural_ES": "Bonguris Amarilla",
+    "Description_ES": "Bonguri de color amarillo y aroma refrescante."
+  },
+  {
+    "ID": "23",
+    "Internal": "BLUAPRICORN",
+    "Name_ES": "Bonguri Azul",
+    "Plural_ES": "Bonguris Azul",
+    "Description_ES": "Bonguri de color azul y aroma tierno."
+  },
+  {
+    "ID": "24",
+    "Internal": "GRNAPRICORN",
+    "Name_ES": "Bonguri Verde",
+    "Plural_ES": "Bonguris Verde",
+    "Description_ES": "Bonguri de color verde y aroma peculiar que recuerda al café tostado."
+  },
+  {
+    "ID": "25",
+    "Internal": "PNKAPRICORN",
+    "Name_ES": "Bonguri Rosa",
+    "Plural_ES": "Bonguris Rosa",
+    "Description_ES": "Bonguri de color rosa y aroma dulce."
+  },
+  {
+    "ID": "26",
+    "Internal": "WHTAPRICORN",
+    "Name_ES": "Bonguri Blanca",
+    "Plural_ES": "Bonguris Blanca",
+    "Description_ES": "Bonguri de color blanco que no desprende aroma alguno."
+  },
+  {
+    "ID": "27",
+    "Internal": "BLKAPRICORN",
+    "Name_ES": "Bonguri Negra",
+    "Plural_ES": "Bonguris Negra",
+    "Description_ES": "Bonguri de color negro y aroma indescriptible."
+  },
+  {
+    "ID": "28",
+    "Internal": "HELIXFOSSIL",
+    "Name_ES": "Fósil Helix",
+    "Plural_ES": "Fósiles Helix",
+    "Description_ES": "Fósil de un Pokémon ancestral que vivió en el fondo del mar. Parece ser un fragmento de concha marina."
+  },
+  {
+    "ID": "29",
+    "Internal": "DOMEFOSSIL",
+    "Name_ES": "Fósil Domo",
+    "Plural_ES": "Fósiles Domo",
+    "Description_ES": "Fósil de un Pokémon ancestral que vivió en el fondo del mar. Parece ser un fragmento de concha."
+  },
+  {
+    "ID": "30",
+    "Internal": "OLDAMBER",
+    "Name_ES": "Ámbar Viejo",
+    "Plural_ES": "Ámbares Viejos",
+    "Description_ES": "Fragmento de ámbar que contiene información genética de un Pokémon ancestral. Es de color amarillo."
+  },
+  {
+    "ID": "31",
+    "Internal": "ROOTFOSSIL",
+    "Name_ES": "Fósil Raíz",
+    "Plural_ES": "Fósiles Raíz",
+    "Description_ES": "Fósil de un Pokémon ancestral que vivió en el fondo del mar. Parece ser parte de una raíz."
+  },
+  {
+    "ID": "32",
+    "Internal": "CLAWFOSSIL",
+    "Name_ES": "Fósil Garra",
+    "Plural_ES": "Fósiles Garra",
+    "Description_ES": "Fósil de un Pokémon ancestral que vivió en el fondo del mar. Parece ser parte de una garra."
+  },
+  {
+    "ID": "33",
+    "Internal": "SKULLFOSSIL",
+    "Name_ES": "Fósil Cráneo",
+    "Plural_ES": "Fósiles Cráneo",
+    "Description_ES": "Fósil de un Pokémon prehistórico terrestre. Parece ser parte de una cabeza."
+  },
+  {
+    "ID": "34",
+    "Internal": "ARMORFOSSIL",
+    "Name_ES": "Fósil Coraza",
+    "Plural_ES": "Fósiles Coraza",
+    "Description_ES": "Fósil de un Pokémon prehistórico terrestre. Parece ser un fragmento del cuello."
+  },
+  {
+    "ID": "35",
+    "Internal": "COVERFOSSIL",
+    "Name_ES": "Fósil Tapa",
+    "Plural_ES": "Fósiles Tapa",
+    "Description_ES": "Fósil de un Pokémon ancestral que vivió en el fondo del mar. Parece ser un fragmento de concha marina."
+  },
+  {
+    "ID": "36",
+    "Internal": "PLUMEFOSSIL",
+    "Name_ES": "Fósil Pluma",
+    "Plural_ES": "Fósiles Pluma",
+    "Description_ES": "Fósil de un Pokémon ancestral que surcó los cielos. Parece ser parte de un ala suya."
+  },
+  {
+    "ID": "37",
+    "Internal": "PRETTYWING",
+    "Name_ES": "Pluma Bella",
+    "Plural_ES": "Plumas Bellas",
+    "Description_ES": "Pluma normal y corriente. Muy bonita, pero no sirve para nada."
+  },
+  {
+    "ID": "38",
+    "Internal": "TINYMUSHROOM",
+    "Name_ES": "Mini Seta",
+    "Plural_ES": "Mini Setas",
+    "Description_ES": "Seta pequeña y poco común bastante popular entre determinados grupos de gourmets."
+  },
+  {
+    "ID": "39",
+    "Internal": "BIGMUSHROOM",
+    "Name_ES": "Seta Grande",
+    "Plural_ES": "Setas Grandes",
+    "Description_ES": "Seta grande y poco común muy popular entre determinados grupos de gourmets."
+  },
+  {
+    "ID": "40",
+    "Internal": "BALMMUSHROOM",
+    "Name_ES": "Seta Aroma",
+    "Plural_ES": "Setas Aroma",
+    "Description_ES": "Extraña seta que desprende un agradable aroma. Muy apreciada por los gourmets."
+  },
+  {
+    "ID": "41",
+    "Internal": "PEARL",
+    "Name_ES": "Perla",
+    "Plural_ES": "Perlas",
+    "Description_ES": "Brillante perla plateada de tamaño más bien pequeño que no alcanza mucho precio en las tiendas."
+  },
+  {
+    "ID": "42",
+    "Internal": "BIGPEARL",
+    "Name_ES": "Perla Grande",
+    "Plural_ES": "Perlas Grandes",
+    "Description_ES": "Brillante perla plateada de gran tamaño que puede venderse a buen precio en las tiendas."
+  },
+  {
+    "ID": "43",
+    "Internal": "PEARLSTRING",
+    "Name_ES": "Sarta Perlas",
+    "Plural_ES": "Sartas Perlas",
+    "Description_ES": "Brillantes perlas plateadas de gran tamaño. Muy valoradas por los coleccionistas."
+  },
+  {
+    "ID": "44",
+    "Internal": "STARDUST",
+    "Name_ES": "Polvoestelar",
+    "Plural_ES": "Polvoestelares",
+    "Description_ES": "Bonita arena roja de tacto sedoso que alcanza un alto precio en las tiendas."
+  },
+  {
+    "ID": "45",
+    "Internal": "STARPIECE",
+    "Name_ES": "Trozo Estrella",
+    "Plural_ES": "Trozos Estrella",
+    "Description_ES": "Fragmento de una bonita gema roja que puede venderse muy caro en las tiendas."
+  },
+  {
+    "ID": "46",
+    "Internal": "COMETSHARD",
+    "Name_ES": "Fragmento Cometa",
+    "Plural_ES": "Fragmentos Cometa",
+    "Description_ES": "Fragmento de un cometa caído al suelo al atravesar la atmósfera. Muy valorado por los coleccionistas."
+  },
+  {
+    "ID": "47",
+    "Internal": "NUGGET",
+    "Name_ES": "Pepita",
+    "Plural_ES": "Pepitas",
+    "Description_ES": "Pepita de oro puro que desprende un brillo espectacular. Puede venderse muy cara en las tiendas."
+  },
+  {
+    "ID": "48",
+    "Internal": "BIGNUGGET",
+    "Name_ES": "Maxipepita",
+    "Plural_ES": "Maxipepitas",
+    "Description_ES": "Pepita grande de oro puro que desprende un brillo espectacular. Muy valorada por los coleccionistas."
+  },
+  {
+    "ID": "49",
+    "Internal": "HEARTSCALE",
+    "Name_ES": "Escama Corazón",
+    "Plural_ES": "Escamas Corazón",
+    "Description_ES": "Bella escama con forma de corazón que brilla con los colores del arco iris. Es muy poco común."
+  },
+  {
+    "ID": "50",
+    "Internal": "SLOWPOKETAIL",
+    "Name_ES": "Cola Slowpoke",
+    "Plural_ES": "Colas Slowpoke",
+    "Description_ES": "Cola de origen desconocido y muy sabrosa. Se vende muy cara."
+  }
+]

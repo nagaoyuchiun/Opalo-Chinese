@@ -1,0 +1,3718 @@
+{
+ "BULBASAUR": {
+  "name": "妙蛙種子",
+  "dex": ""
+ },
+ "IVYSAUR": {
+  "name": "妙蛙草",
+  "dex": ""
+ },
+ "VENUSAUR": {
+  "name": "妙蛙花",
+  "dex": ""
+ },
+ "CHARMANDER": {
+  "name": "小火龍",
+  "dex": ""
+ },
+ "CHARMELEON": {
+  "name": "火恐龍",
+  "dex": ""
+ },
+ "CHARIZARD": {
+  "name": "噴火龍",
+  "dex": ""
+ },
+ "SQUIRTLE": {
+  "name": "傑尼龜",
+  "dex": ""
+ },
+ "WARTORTLE": {
+  "name": "卡咪龜",
+  "dex": ""
+ },
+ "BLASTOISE": {
+  "name": "水箭龜",
+  "dex": ""
+ },
+ "CATERPIE": {
+  "name": "綠毛蟲",
+  "dex": ""
+ },
+ "METAPOD": {
+  "name": "鐵甲蛹",
+  "dex": ""
+ },
+ "BUTTERFREE": {
+  "name": "巴大蝶",
+  "dex": ""
+ },
+ "WEEDLE": {
+  "name": "獨角蟲",
+  "dex": ""
+ },
+ "KAKUNA": {
+  "name": "鐵殼蛹",
+  "dex": ""
+ },
+ "BEEDRILL": {
+  "name": "大針蜂",
+  "dex": ""
+ },
+ "PIDGEY": {
+  "name": "波波",
+  "dex": ""
+ },
+ "PIDGEOTTO": {
+  "name": "比比鳥",
+  "dex": ""
+ },
+ "PIDGEOT": {
+  "name": "大比鳥",
+  "dex": ""
+ },
+ "RATTATA": {
+  "name": "小拉達",
+  "dex": ""
+ },
+ "RATICATE": {
+  "name": "拉達",
+  "dex": ""
+ },
+ "SPEAROW": {
+  "name": "烈雀",
+  "dex": ""
+ },
+ "FEAROW": {
+  "name": "大嘴雀",
+  "dex": ""
+ },
+ "EKANS": {
+  "name": "阿柏蛇",
+  "dex": ""
+ },
+ "ARBOK": {
+  "name": "阿柏怪",
+  "dex": ""
+ },
+ "PIKACHU": {
+  "name": "皮卡丘",
+  "dex": ""
+ },
+ "RAICHU": {
+  "name": "雷丘",
+  "dex": ""
+ },
+ "SANDSHREW": {
+  "name": "穿山鼠",
+  "dex": ""
+ },
+ "SANDSLASH": {
+  "name": "穿山王",
+  "dex": ""
+ },
+ "NIDORANfE": {
+  "name": "尼多蘭",
+  "dex": ""
+ },
+ "NIDORINA": {
+  "name": "尼多娜",
+  "dex": ""
+ },
+ "NIDOQUEEN": {
+  "name": "尼多后",
+  "dex": ""
+ },
+ "NIDORANmA": {
+  "name": "尼多朗",
+  "dex": ""
+ },
+ "NIDORINO": {
+  "name": "尼多力諾",
+  "dex": ""
+ },
+ "NIDOKING": {
+  "name": "尼多王",
+  "dex": ""
+ },
+ "CLEFAIRY": {
+  "name": "皮皮",
+  "dex": ""
+ },
+ "CLEFABLE": {
+  "name": "皮可西",
+  "dex": ""
+ },
+ "VULPIX": {
+  "name": "六尾",
+  "dex": ""
+ },
+ "NINETALES": {
+  "name": "九尾",
+  "dex": ""
+ },
+ "JIGGLYPUFF": {
+  "name": "胖丁",
+  "dex": ""
+ },
+ "WIGGLYTUFF": {
+  "name": "胖可丁",
+  "dex": ""
+ },
+ "ZUBAT": {
+  "name": "超音蝠",
+  "dex": ""
+ },
+ "GOLBAT": {
+  "name": "大嘴蝠",
+  "dex": ""
+ },
+ "ODDISH": {
+  "name": "走路草",
+  "dex": ""
+ },
+ "GLOOM": {
+  "name": "臭臭花",
+  "dex": ""
+ },
+ "VILEPLUME": {
+  "name": "霸王花",
+  "dex": ""
+ },
+ "PARAS": {
+  "name": "派拉斯",
+  "dex": ""
+ },
+ "PARASECT": {
+  "name": "派拉斯特",
+  "dex": ""
+ },
+ "VENONAT": {
+  "name": "毛球",
+  "dex": ""
+ },
+ "VENOMOTH": {
+  "name": "摩魯蛾",
+  "dex": ""
+ },
+ "DIGLETT": {
+  "name": "地鼠",
+  "dex": ""
+ },
+ "DUGTRIO": {
+  "name": "三地鼠",
+  "dex": ""
+ },
+ "MEOWTH": {
+  "name": "喵喵",
+  "dex": ""
+ },
+ "PERSIAN": {
+  "name": "貓老大",
+  "dex": ""
+ },
+ "PSYDUCK": {
+  "name": "可達鴨",
+  "dex": ""
+ },
+ "GOLDUCK": {
+  "name": "哥達鴨",
+  "dex": ""
+ },
+ "MANKEY": {
+  "name": "猴怪",
+  "dex": ""
+ },
+ "PRIMEAPE": {
+  "name": "火暴猴",
+  "dex": ""
+ },
+ "GROWLITHE": {
+  "name": "卡蒂狗",
+  "dex": ""
+ },
+ "ARCANINE": {
+  "name": "風速狗",
+  "dex": ""
+ },
+ "POLIWAG": {
+  "name": "蚊香蝌蚪",
+  "dex": ""
+ },
+ "POLIWHIRL": {
+  "name": "蚊香君",
+  "dex": ""
+ },
+ "POLIWRATH": {
+  "name": "蚊香泳士",
+  "dex": ""
+ },
+ "ABRA": {
+  "name": "凱西",
+  "dex": ""
+ },
+ "KADABRA": {
+  "name": "勇基拉",
+  "dex": ""
+ },
+ "ALAKAZAM": {
+  "name": "胡地",
+  "dex": ""
+ },
+ "MACHOP": {
+  "name": "腕力",
+  "dex": ""
+ },
+ "MACHOKE": {
+  "name": "豪力",
+  "dex": ""
+ },
+ "MACHAMP": {
+  "name": "怪力",
+  "dex": ""
+ },
+ "BELLSPROUT": {
+  "name": "喇叭芽",
+  "dex": ""
+ },
+ "WEEPINBELL": {
+  "name": "口呆花",
+  "dex": ""
+ },
+ "VICTREEBEL": {
+  "name": "大食花",
+  "dex": ""
+ },
+ "TENTACOOL": {
+  "name": "瑪瑙水母",
+  "dex": ""
+ },
+ "TENTACRUEL": {
+  "name": "毒刺水母",
+  "dex": ""
+ },
+ "GEODUDE": {
+  "name": "小拳石",
+  "dex": ""
+ },
+ "GRAVELER": {
+  "name": "隆隆石",
+  "dex": ""
+ },
+ "GOLEM": {
+  "name": "隆隆岩",
+  "dex": ""
+ },
+ "PONYTA": {
+  "name": "小火馬",
+  "dex": ""
+ },
+ "RAPIDASH": {
+  "name": "烈焰馬",
+  "dex": ""
+ },
+ "SLOWPOKE": {
+  "name": "呆呆獸",
+  "dex": ""
+ },
+ "SLOWBRO": {
+  "name": "呆殼獸",
+  "dex": ""
+ },
+ "MAGNEMITE": {
+  "name": "小磁怪",
+  "dex": ""
+ },
+ "MAGNETON": {
+  "name": "三合一磁怪",
+  "dex": ""
+ },
+ "FARFETCHD": {
+  "name": "大蔥鴨",
+  "dex": ""
+ },
+ "DODUO": {
+  "name": "嘟嘟",
+  "dex": ""
+ },
+ "DODRIO": {
+  "name": "嘟嘟利",
+  "dex": ""
+ },
+ "SEEL": {
+  "name": "小海獅",
+  "dex": ""
+ },
+ "DEWGONG": {
+  "name": "白海獅",
+  "dex": ""
+ },
+ "GRIMER": {
+  "name": "臭泥",
+  "dex": ""
+ },
+ "MUK": {
+  "name": "臭臭泥",
+  "dex": ""
+ },
+ "SHELLDER": {
+  "name": "大舌貝",
+  "dex": ""
+ },
+ "CLOYSTER": {
+  "name": "刺甲貝",
+  "dex": ""
+ },
+ "GASTLY": {
+  "name": "鬼斯",
+  "dex": ""
+ },
+ "HAUNTER": {
+  "name": "鬼斯通",
+  "dex": ""
+ },
+ "GENGAR": {
+  "name": "耿鬼",
+  "dex": ""
+ },
+ "ONIX": {
+  "name": "大岩蛇",
+  "dex": ""
+ },
+ "DROWZEE": {
+  "name": "催眠貘",
+  "dex": ""
+ },
+ "HYPNO": {
+  "name": "引夢貘",
+  "dex": ""
+ },
+ "KRABBY": {
+  "name": "大鉗蟹",
+  "dex": ""
+ },
+ "KINGLER": {
+  "name": "巨鉗蟹",
+  "dex": ""
+ },
+ "VOLTORB": {
+  "name": "霹靂電球",
+  "dex": ""
+ },
+ "ELECTRODE": {
+  "name": "頑皮雷彈",
+  "dex": ""
+ },
+ "EXEGGCUTE": {
+  "name": "蛋蛋",
+  "dex": ""
+ },
+ "EXEGGUTOR": {
+  "name": "椰蛋樹",
+  "dex": ""
+ },
+ "CUBONE": {
+  "name": "卡拉卡拉",
+  "dex": ""
+ },
+ "MAROWAK": {
+  "name": "嘎啦嘎啦",
+  "dex": ""
+ },
+ "HITMONLEE": {
+  "name": "飛腿郎",
+  "dex": ""
+ },
+ "HITMONCHAN": {
+  "name": "快拳郎",
+  "dex": ""
+ },
+ "LICKITUNG": {
+  "name": "大舌頭",
+  "dex": ""
+ },
+ "KOFFING": {
+  "name": "瓦斯彈",
+  "dex": ""
+ },
+ "WEEZING": {
+  "name": "雙彈瓦斯",
+  "dex": ""
+ },
+ "RHYHORN": {
+  "name": "獨角犀牛",
+  "dex": ""
+ },
+ "RHYDON": {
+  "name": "鑽角犀獸",
+  "dex": ""
+ },
+ "CHANSEY": {
+  "name": "吉利蛋",
+  "dex": ""
+ },
+ "TANGELA": {
+  "name": "蔓藤怪",
+  "dex": ""
+ },
+ "KANGASKHAN": {
+  "name": "袋獸",
+  "dex": ""
+ },
+ "HORSEA": {
+  "name": "墨海馬",
+  "dex": ""
+ },
+ "SEADRA": {
+  "name": "海刺龍",
+  "dex": ""
+ },
+ "GOLDEEN": {
+  "name": "角金魚",
+  "dex": ""
+ },
+ "SEAKING": {
+  "name": "金魚王",
+  "dex": ""
+ },
+ "STARYU": {
+  "name": "海星星",
+  "dex": ""
+ },
+ "STARMIE": {
+  "name": "寶石海星",
+  "dex": ""
+ },
+ "MRMIME": {
+  "name": "魔牆人偶",
+  "dex": ""
+ },
+ "SCYTHER": {
+  "name": "飛天螳螂",
+  "dex": ""
+ },
+ "JYNX": {
+  "name": "迷唇姐",
+  "dex": ""
+ },
+ "ELECTABUZZ": {
+  "name": "電擊獸",
+  "dex": ""
+ },
+ "MAGMAR": {
+  "name": "鴨嘴火獸",
+  "dex": ""
+ },
+ "PINSIR": {
+  "name": "凱羅斯",
+  "dex": ""
+ },
+ "TAUROS": {
+  "name": "肯泰羅",
+  "dex": ""
+ },
+ "MAGIKARP": {
+  "name": "鯉魚王",
+  "dex": ""
+ },
+ "GYARADOS": {
+  "name": "暴鯉龍",
+  "dex": ""
+ },
+ "LAPRAS": {
+  "name": "拉普拉斯",
+  "dex": ""
+ },
+ "DITTO": {
+  "name": "百變怪",
+  "dex": ""
+ },
+ "EEVEE": {
+  "name": "伊布",
+  "dex": ""
+ },
+ "VAPOREON": {
+  "name": "水伊布",
+  "dex": ""
+ },
+ "JOLTEON": {
+  "name": "雷伊布",
+  "dex": ""
+ },
+ "FLAREON": {
+  "name": "火伊布",
+  "dex": ""
+ },
+ "PORYGON": {
+  "name": "多邊獸",
+  "dex": ""
+ },
+ "OMANYTE": {
+  "name": "菊石獸",
+  "dex": ""
+ },
+ "OMASTAR": {
+  "name": "多刺菊石獸",
+  "dex": ""
+ },
+ "KABUTO": {
+  "name": "化石盔",
+  "dex": ""
+ },
+ "KABUTOPS": {
+  "name": "鐮刀盔",
+  "dex": ""
+ },
+ "AERODACTYL": {
+  "name": "化石翼龍",
+  "dex": ""
+ },
+ "SNORLAX": {
+  "name": "卡比獸",
+  "dex": ""
+ },
+ "ARTICUNO": {
+  "name": "急凍鳥",
+  "dex": ""
+ },
+ "ZAPDOS": {
+  "name": "閃電鳥",
+  "dex": ""
+ },
+ "MOLTRES": {
+  "name": "火焰鳥",
+  "dex": ""
+ },
+ "DRATINI": {
+  "name": "迷你龍",
+  "dex": ""
+ },
+ "DRAGONAIR": {
+  "name": "哈克龍",
+  "dex": ""
+ },
+ "DRAGONITE": {
+  "name": "快龍",
+  "dex": ""
+ },
+ "MEWTWO": {
+  "name": "超夢",
+  "dex": ""
+ },
+ "MEW": {
+  "name": "夢幻",
+  "dex": ""
+ },
+ "CHIKORITA": {
+  "name": "菊草葉",
+  "dex": ""
+ },
+ "BAYLEEF": {
+  "name": "月桂葉",
+  "dex": ""
+ },
+ "MEGANIUM": {
+  "name": "大竺葵",
+  "dex": ""
+ },
+ "CYNDAQUIL": {
+  "name": "火球鼠",
+  "dex": ""
+ },
+ "QUILAVA": {
+  "name": "火岩鼠",
+  "dex": ""
+ },
+ "TYPHLOSION": {
+  "name": "火暴獸",
+  "dex": ""
+ },
+ "TOTODILE": {
+  "name": "小鋸鱷",
+  "dex": ""
+ },
+ "CROCONAW": {
+  "name": "藍鱷",
+  "dex": ""
+ },
+ "FERALIGATR": {
+  "name": "大力鱷",
+  "dex": ""
+ },
+ "SENTRET": {
+  "name": "尾立",
+  "dex": ""
+ },
+ "FURRET": {
+  "name": "大尾立",
+  "dex": ""
+ },
+ "HOOTHOOT": {
+  "name": "咕咕",
+  "dex": ""
+ },
+ "NOCTOWL": {
+  "name": "貓頭夜鷹",
+  "dex": ""
+ },
+ "LEDYBA": {
+  "name": "芭瓢蟲",
+  "dex": ""
+ },
+ "LEDIAN": {
+  "name": "安瓢蟲",
+  "dex": ""
+ },
+ "SPINARAK": {
+  "name": "圓絲蛛",
+  "dex": ""
+ },
+ "ARIADOS": {
+  "name": "阿利多斯",
+  "dex": ""
+ },
+ "CROBAT": {
+  "name": "叉字蝠",
+  "dex": ""
+ },
+ "CHINCHOU": {
+  "name": "燈籠魚",
+  "dex": ""
+ },
+ "LANTURN": {
+  "name": "電燈怪",
+  "dex": ""
+ },
+ "PICHU": {
+  "name": "皮丘",
+  "dex": ""
+ },
+ "CLEFFA": {
+  "name": "皮寶寶",
+  "dex": ""
+ },
+ "IGGLYBUFF": {
+  "name": "寶寶丁",
+  "dex": ""
+ },
+ "TOGEPI": {
+  "name": "波克比",
+  "dex": ""
+ },
+ "TOGETIC": {
+  "name": "波克基古",
+  "dex": ""
+ },
+ "NATU": {
+  "name": "天然雀",
+  "dex": ""
+ },
+ "XATU": {
+  "name": "天然鳥",
+  "dex": ""
+ },
+ "MAREEP": {
+  "name": "咩利羊",
+  "dex": ""
+ },
+ "FLAAFFY": {
+  "name": "茸茸羊",
+  "dex": ""
+ },
+ "AMPHAROS": {
+  "name": "電龍",
+  "dex": ""
+ },
+ "BELLOSSOM": {
+  "name": "美麗花",
+  "dex": ""
+ },
+ "MARILL": {
+  "name": "瑪力露",
+  "dex": ""
+ },
+ "AZUMARILL": {
+  "name": "瑪力露麗",
+  "dex": ""
+ },
+ "SUDOWOODO": {
+  "name": "樹才怪",
+  "dex": ""
+ },
+ "POLITOED": {
+  "name": "蚊香蛙皇",
+  "dex": ""
+ },
+ "HOPPIP": {
+  "name": "毽子草",
+  "dex": ""
+ },
+ "SKIPLOOM": {
+  "name": "毽子花",
+  "dex": ""
+ },
+ "JUMPLUFF": {
+  "name": "毽子棉",
+  "dex": ""
+ },
+ "AIPOM": {
+  "name": "長尾怪手",
+  "dex": ""
+ },
+ "SUNKERN": {
+  "name": "向日種子",
+  "dex": ""
+ },
+ "SUNFLORA": {
+  "name": "向日花怪",
+  "dex": ""
+ },
+ "YANMA": {
+  "name": "蜻蜻蜓",
+  "dex": ""
+ },
+ "WOOPER": {
+  "name": "烏波",
+  "dex": ""
+ },
+ "QUAGSIRE": {
+  "name": "沼王",
+  "dex": ""
+ },
+ "ESPEON": {
+  "name": "太陽伊布",
+  "dex": ""
+ },
+ "UMBREON": {
+  "name": "月亮伊布",
+  "dex": ""
+ },
+ "MURKROW": {
+  "name": "黑暗鴉",
+  "dex": ""
+ },
+ "SLOWKING": {
+  "name": "呆呆王",
+  "dex": ""
+ },
+ "MISDREAVUS": {
+  "name": "夢妖",
+  "dex": ""
+ },
+ "UNOWN": {
+  "name": "未知圖騰",
+  "dex": ""
+ },
+ "WOBBUFFET": {
+  "name": "果然翁",
+  "dex": ""
+ },
+ "GIRAFARIG": {
+  "name": "麒麟奇",
+  "dex": ""
+ },
+ "PINECO": {
+  "name": "榛果球",
+  "dex": ""
+ },
+ "FORRETRESS": {
+  "name": "佛烈托斯",
+  "dex": ""
+ },
+ "DUNSPARCE": {
+  "name": "土龍弟弟",
+  "dex": ""
+ },
+ "GLIGAR": {
+  "name": "天蠍",
+  "dex": ""
+ },
+ "STEELIX": {
+  "name": "大鋼蛇",
+  "dex": ""
+ },
+ "SNUBBULL": {
+  "name": "布魯",
+  "dex": ""
+ },
+ "GRANBULL": {
+  "name": "布魯皇",
+  "dex": ""
+ },
+ "QWILFISH": {
+  "name": "千針魚",
+  "dex": ""
+ },
+ "SCIZOR": {
+  "name": "巨鉗螳螂",
+  "dex": ""
+ },
+ "SHUCKLE": {
+  "name": "壺壺",
+  "dex": ""
+ },
+ "HERACROSS": {
+  "name": "赫拉克羅斯",
+  "dex": ""
+ },
+ "SNEASEL": {
+  "name": "狃拉",
+  "dex": ""
+ },
+ "TEDDIURSA": {
+  "name": "熊寶寶",
+  "dex": ""
+ },
+ "URSARING": {
+  "name": "圈圈熊",
+  "dex": ""
+ },
+ "SLUGMA": {
+  "name": "熔岩蟲",
+  "dex": ""
+ },
+ "MAGCARGO": {
+  "name": "熔岩蝸牛",
+  "dex": ""
+ },
+ "SWINUB": {
+  "name": "小山豬",
+  "dex": ""
+ },
+ "PILOSWINE": {
+  "name": "長毛豬",
+  "dex": ""
+ },
+ "CORSOLA": {
+  "name": "太陽珊瑚",
+  "dex": ""
+ },
+ "REMORAID": {
+  "name": "鐵炮魚",
+  "dex": ""
+ },
+ "OCTILLERY": {
+  "name": "章魚桶",
+  "dex": ""
+ },
+ "DELIBIRD": {
+  "name": "信使鳥",
+  "dex": ""
+ },
+ "MANTINE": {
+  "name": "巨翅飛魚",
+  "dex": ""
+ },
+ "SKARMORY": {
+  "name": "盔甲鳥",
+  "dex": ""
+ },
+ "HOUNDOUR": {
+  "name": "戴魯比",
+  "dex": ""
+ },
+ "HOUNDOOM": {
+  "name": "黑魯加",
+  "dex": ""
+ },
+ "KINGDRA": {
+  "name": "刺龍王",
+  "dex": ""
+ },
+ "PHANPY": {
+  "name": "小小象",
+  "dex": ""
+ },
+ "DONPHAN": {
+  "name": "頓甲",
+  "dex": ""
+ },
+ "PORYGON2": {
+  "name": "多邊獸2",
+  "dex": ""
+ },
+ "STANTLER": {
+  "name": "驚角鹿",
+  "dex": ""
+ },
+ "SMEARGLE": {
+  "name": "圖圖犬",
+  "dex": ""
+ },
+ "TYROGUE": {
+  "name": "巴爾郎",
+  "dex": ""
+ },
+ "HITMONTOP": {
+  "name": "戰舞郎",
+  "dex": ""
+ },
+ "SMOOCHUM": {
+  "name": "迷唇娃",
+  "dex": ""
+ },
+ "ELEKID": {
+  "name": "電擊怪",
+  "dex": ""
+ },
+ "MAGBY": {
+  "name": "鴨嘴寶寶",
+  "dex": ""
+ },
+ "MILTANK": {
+  "name": "大奶罐",
+  "dex": ""
+ },
+ "BLISSEY": {
+  "name": "幸福蛋",
+  "dex": ""
+ },
+ "RAIKOU": {
+  "name": "雷公",
+  "dex": ""
+ },
+ "ENTEI": {
+  "name": "炎帝",
+  "dex": ""
+ },
+ "SUICUNE": {
+  "name": "水君",
+  "dex": ""
+ },
+ "LARVITAR": {
+  "name": "幼基拉斯",
+  "dex": ""
+ },
+ "PUPITAR": {
+  "name": "沙基拉斯",
+  "dex": ""
+ },
+ "TYRANITAR": {
+  "name": "班基拉斯",
+  "dex": ""
+ },
+ "LUGIA": {
+  "name": "洛奇亞",
+  "dex": ""
+ },
+ "HOOH": {
+  "name": "鳳王",
+  "dex": ""
+ },
+ "CELEBI": {
+  "name": "時拉比",
+  "dex": ""
+ },
+ "TREECKO": {
+  "name": "木守宮",
+  "dex": ""
+ },
+ "GROVYLE": {
+  "name": "森林蜥蜴",
+  "dex": ""
+ },
+ "SCEPTILE": {
+  "name": "蜥蜴王",
+  "dex": ""
+ },
+ "TORCHIC": {
+  "name": "火稚雞",
+  "dex": ""
+ },
+ "COMBUSKEN": {
+  "name": "力壯雞",
+  "dex": ""
+ },
+ "BLAZIKEN": {
+  "name": "火焰雞",
+  "dex": ""
+ },
+ "MUDKIP": {
+  "name": "水躍魚",
+  "dex": ""
+ },
+ "MARSHTOMP": {
+  "name": "沼躍魚",
+  "dex": ""
+ },
+ "SWAMPERT": {
+  "name": "巨沼怪",
+  "dex": ""
+ },
+ "POOCHYENA": {
+  "name": "土狼犬",
+  "dex": ""
+ },
+ "MIGHTYENA": {
+  "name": "大狼犬",
+  "dex": ""
+ },
+ "ZIGZAGOON": {
+  "name": "蛇紋熊",
+  "dex": ""
+ },
+ "LINOONE": {
+  "name": "直衝熊",
+  "dex": ""
+ },
+ "WURMPLE": {
+  "name": "刺尾蟲",
+  "dex": ""
+ },
+ "SILCOON": {
+  "name": "甲殼繭",
+  "dex": ""
+ },
+ "BEAUTIFLY": {
+  "name": "狩獵鳳蝶",
+  "dex": ""
+ },
+ "CASCOON": {
+  "name": "盾甲繭",
+  "dex": ""
+ },
+ "DUSTOX": {
+  "name": "毒粉蛾",
+  "dex": ""
+ },
+ "LOTAD": {
+  "name": "蓮葉童子",
+  "dex": ""
+ },
+ "LOMBRE": {
+  "name": "蓮帽小童",
+  "dex": ""
+ },
+ "LUDICOLO": {
+  "name": "樂天河童",
+  "dex": ""
+ },
+ "SEEDOT": {
+  "name": "橡實果",
+  "dex": ""
+ },
+ "NUZLEAF": {
+  "name": "長鼻葉",
+  "dex": ""
+ },
+ "SHIFTRY": {
+  "name": "狡猾天狗",
+  "dex": ""
+ },
+ "TAILLOW": {
+  "name": "傲骨燕",
+  "dex": ""
+ },
+ "SWELLOW": {
+  "name": "大王燕",
+  "dex": ""
+ },
+ "WINGULL": {
+  "name": "長翅鷗",
+  "dex": ""
+ },
+ "PELIPPER": {
+  "name": "大嘴鷗",
+  "dex": ""
+ },
+ "RALTS": {
+  "name": "拉魯拉絲",
+  "dex": ""
+ },
+ "KIRLIA": {
+  "name": "奇魯莉安",
+  "dex": ""
+ },
+ "GARDEVOIR": {
+  "name": "沙奈朵",
+  "dex": ""
+ },
+ "SURSKIT": {
+  "name": "溜溜糖球",
+  "dex": ""
+ },
+ "MASQUERAIN": {
+  "name": "雨翅蛾",
+  "dex": ""
+ },
+ "SHROOMISH": {
+  "name": "蘑蘑菇",
+  "dex": ""
+ },
+ "BRELOOM": {
+  "name": "斗笠菇",
+  "dex": ""
+ },
+ "SLAKOTH": {
+  "name": "懶人獺",
+  "dex": ""
+ },
+ "VIGOROTH": {
+  "name": "過動猿",
+  "dex": ""
+ },
+ "SLAKING": {
+  "name": "請假王",
+  "dex": ""
+ },
+ "NINCADA": {
+  "name": "土居忍士",
+  "dex": ""
+ },
+ "NINJASK": {
+  "name": "鐵面忍者",
+  "dex": ""
+ },
+ "SHEDINJA": {
+  "name": "脫殼忍者",
+  "dex": ""
+ },
+ "WHISMUR": {
+  "name": "咕妞妞",
+  "dex": ""
+ },
+ "LOUDRED": {
+  "name": "吼爆彈",
+  "dex": ""
+ },
+ "EXPLOUD": {
+  "name": "爆音怪",
+  "dex": ""
+ },
+ "MAKUHITA": {
+  "name": "幕下力士",
+  "dex": ""
+ },
+ "HARIYAMA": {
+  "name": "超力王",
+  "dex": ""
+ },
+ "AZURILL": {
+  "name": "露力麗",
+  "dex": ""
+ },
+ "NOSEPASS": {
+  "name": "朝北鼻",
+  "dex": ""
+ },
+ "SKITTY": {
+  "name": "向尾喵",
+  "dex": ""
+ },
+ "DELCATTY": {
+  "name": "優雅貓",
+  "dex": ""
+ },
+ "SABLEYE": {
+  "name": "勾魂眼",
+  "dex": ""
+ },
+ "MAWILE": {
+  "name": "大嘴娃",
+  "dex": ""
+ },
+ "ARON": {
+  "name": "可可多拉",
+  "dex": ""
+ },
+ "LAIRON": {
+  "name": "可多拉",
+  "dex": ""
+ },
+ "AGGRON": {
+  "name": "波士可多拉",
+  "dex": ""
+ },
+ "MEDITITE": {
+  "name": "瑪沙那",
+  "dex": ""
+ },
+ "MEDICHAM": {
+  "name": "恰雷姆",
+  "dex": ""
+ },
+ "ELECTRIKE": {
+  "name": "落雷獸",
+  "dex": ""
+ },
+ "MANECTRIC": {
+  "name": "雷電獸",
+  "dex": ""
+ },
+ "PLUSLE": {
+  "name": "正電拍拍",
+  "dex": ""
+ },
+ "MINUN": {
+  "name": "負電拍拍",
+  "dex": ""
+ },
+ "VOLBEAT": {
+  "name": "電螢",
+  "dex": ""
+ },
+ "ILLUMISE": {
+  "name": "甜竹竹",
+  "dex": ""
+ },
+ "ROSELIA": {
+  "name": "毒薔薇",
+  "dex": ""
+ },
+ "GULPIN": {
+  "name": "溶食獸",
+  "dex": ""
+ },
+ "SWALOT": {
+  "name": "吞食獸",
+  "dex": ""
+ },
+ "CARVANHA": {
+  "name": "利牙魚",
+  "dex": ""
+ },
+ "SHARPEDO": {
+  "name": "巨牙鯊",
+  "dex": ""
+ },
+ "WAILMER": {
+  "name": "吼吼鯨",
+  "dex": ""
+ },
+ "WAILORD": {
+  "name": "吼鯨王",
+  "dex": ""
+ },
+ "NUMEL": {
+  "name": "呆火駝",
+  "dex": ""
+ },
+ "CAMERUPT": {
+  "name": "噴火駝",
+  "dex": ""
+ },
+ "TORKOAL": {
+  "name": "煤炭龜",
+  "dex": ""
+ },
+ "SPOINK": {
+  "name": "跳跳豬",
+  "dex": ""
+ },
+ "GRUMPIG": {
+  "name": "噗噗豬",
+  "dex": ""
+ },
+ "SPINDA": {
+  "name": "晃晃斑",
+  "dex": ""
+ },
+ "TRAPINCH": {
+  "name": "大顎蟻",
+  "dex": ""
+ },
+ "VIBRAVA": {
+  "name": "超音波幼蟲",
+  "dex": ""
+ },
+ "FLYGON": {
+  "name": "沙漠蜻蜓",
+  "dex": ""
+ },
+ "CACNEA": {
+  "name": "刺球仙人掌",
+  "dex": ""
+ },
+ "CACTURNE": {
+  "name": "夢歌仙人掌",
+  "dex": ""
+ },
+ "SWABLU": {
+  "name": "青綿鳥",
+  "dex": ""
+ },
+ "ALTARIA": {
+  "name": "七夕青鳥",
+  "dex": ""
+ },
+ "ZANGOOSE": {
+  "name": "貓鼬斬",
+  "dex": ""
+ },
+ "SEVIPER": {
+  "name": "飯匙蛇",
+  "dex": ""
+ },
+ "LUNATONE": {
+  "name": "月石",
+  "dex": ""
+ },
+ "SOLROCK": {
+  "name": "太陽岩",
+  "dex": ""
+ },
+ "BARBOACH": {
+  "name": "泥泥鰍",
+  "dex": ""
+ },
+ "WHISCASH": {
+  "name": "鯰魚王",
+  "dex": ""
+ },
+ "CORPHISH": {
+  "name": "龍蝦小兵",
+  "dex": ""
+ },
+ "CRAWDAUNT": {
+  "name": "鐵螯龍蝦",
+  "dex": ""
+ },
+ "BALTOY": {
+  "name": "天秤偶",
+  "dex": ""
+ },
+ "CLAYDOL": {
+  "name": "念力土偶",
+  "dex": ""
+ },
+ "LILEEP": {
+  "name": "觸手百合",
+  "dex": ""
+ },
+ "CRADILY": {
+  "name": "搖籃百合",
+  "dex": ""
+ },
+ "ANORITH": {
+  "name": "太古羽蟲",
+  "dex": ""
+ },
+ "ARMALDO": {
+  "name": "太古盔甲",
+  "dex": ""
+ },
+ "FEEBAS": {
+  "name": "醜醜魚",
+  "dex": ""
+ },
+ "MILOTIC": {
+  "name": "美納斯",
+  "dex": ""
+ },
+ "CASTFORM": {
+  "name": "飄浮泡泡",
+  "dex": ""
+ },
+ "KECLEON": {
+  "name": "變隱龍",
+  "dex": ""
+ },
+ "SHUPPET": {
+  "name": "怨影娃娃",
+  "dex": ""
+ },
+ "BANETTE": {
+  "name": "詛咒娃娃",
+  "dex": ""
+ },
+ "DUSKULL": {
+  "name": "夜骷顱",
+  "dex": ""
+ },
+ "DUSCLOPS": {
+  "name": "彷徨夜靈",
+  "dex": ""
+ },
+ "TROPIUS": {
+  "name": "熱帶龍",
+  "dex": ""
+ },
+ "CHIMECHO": {
+  "name": "風鈴鈴",
+  "dex": ""
+ },
+ "ABSOL": {
+  "name": "阿勃梭魯",
+  "dex": ""
+ },
+ "WYNAUT": {
+  "name": "小果然",
+  "dex": ""
+ },
+ "SNORUNT": {
+  "name": "雪童子",
+  "dex": ""
+ },
+ "GLALIE": {
+  "name": "冰鬼護",
+  "dex": ""
+ },
+ "SPHEAL": {
+  "name": "海豹球",
+  "dex": ""
+ },
+ "SEALEO": {
+  "name": "海魔獅",
+  "dex": ""
+ },
+ "WALREIN": {
+  "name": "帝牙海獅",
+  "dex": ""
+ },
+ "CLAMPERL": {
+  "name": "珍珠貝",
+  "dex": ""
+ },
+ "HUNTAIL": {
+  "name": "獵斑魚",
+  "dex": ""
+ },
+ "GOREBYSS": {
+  "name": "櫻花魚",
+  "dex": ""
+ },
+ "RELICANTH": {
+  "name": "古空棘魚",
+  "dex": ""
+ },
+ "LUVDISC": {
+  "name": "愛心魚",
+  "dex": ""
+ },
+ "BAGON": {
+  "name": "寶貝龍",
+  "dex": ""
+ },
+ "SHELGON": {
+  "name": "甲殼龍",
+  "dex": ""
+ },
+ "SALAMENCE": {
+  "name": "暴飛龍",
+  "dex": ""
+ },
+ "BELDUM": {
+  "name": "鐵啞鈴",
+  "dex": ""
+ },
+ "METANG": {
+  "name": "金屬怪",
+  "dex": ""
+ },
+ "METAGROSS": {
+  "name": "巨金怪",
+  "dex": ""
+ },
+ "REGIROCK": {
+  "name": "雷吉洛克",
+  "dex": ""
+ },
+ "REGICE": {
+  "name": "雷吉艾斯",
+  "dex": ""
+ },
+ "REGISTEEL": {
+  "name": "雷吉斯奇魯",
+  "dex": ""
+ },
+ "LATIAS": {
+  "name": "拉帝亞斯",
+  "dex": ""
+ },
+ "LATIOS": {
+  "name": "拉帝歐斯",
+  "dex": ""
+ },
+ "KYOGRE": {
+  "name": "蓋歐卡",
+  "dex": ""
+ },
+ "GROUDON": {
+  "name": "固拉多",
+  "dex": ""
+ },
+ "RAYQUAZA": {
+  "name": "烈空坐",
+  "dex": ""
+ },
+ "JIRACHI": {
+  "name": "基拉祈",
+  "dex": ""
+ },
+ "DEOXYS": {
+  "name": "代歐奇希斯",
+  "dex": ""
+ },
+ "TURTWIG": {
+  "name": "草苗龜",
+  "dex": ""
+ },
+ "GROTLE": {
+  "name": "樹林龜",
+  "dex": ""
+ },
+ "TORTERRA": {
+  "name": "土台龜",
+  "dex": ""
+ },
+ "CHIMCHAR": {
+  "name": "小火焰猴",
+  "dex": ""
+ },
+ "MONFERNO": {
+  "name": "猛火猴",
+  "dex": ""
+ },
+ "INFERNAPE": {
+  "name": "烈焰猴",
+  "dex": ""
+ },
+ "PIPLUP": {
+  "name": "波加曼",
+  "dex": ""
+ },
+ "PRINPLUP": {
+  "name": "波皇子",
+  "dex": ""
+ },
+ "EMPOLEON": {
+  "name": "帝王拿波",
+  "dex": ""
+ },
+ "STARLY": {
+  "name": "姆克兒",
+  "dex": ""
+ },
+ "STARAVIA": {
+  "name": "姆克鳥",
+  "dex": ""
+ },
+ "STARAPTOR": {
+  "name": "姆克鷹",
+  "dex": ""
+ },
+ "BIDOOF": {
+  "name": "大牙狸",
+  "dex": ""
+ },
+ "BIBAREL": {
+  "name": "大尾狸",
+  "dex": ""
+ },
+ "KRICKETOT": {
+  "name": "圓法師",
+  "dex": ""
+ },
+ "KRICKETUNE": {
+  "name": "音箱蟀",
+  "dex": ""
+ },
+ "SHINX": {
+  "name": "小貓怪",
+  "dex": ""
+ },
+ "LUXIO": {
+  "name": "勒克貓",
+  "dex": ""
+ },
+ "LUXRAY": {
+  "name": "倫琴貓",
+  "dex": ""
+ },
+ "BUDEW": {
+  "name": "含羞苞",
+  "dex": ""
+ },
+ "ROSERADE": {
+  "name": "羅絲雷朵",
+  "dex": ""
+ },
+ "CRANIDOS": {
+  "name": "頭蓋龍",
+  "dex": ""
+ },
+ "RAMPARDOS": {
+  "name": "戰槌龍",
+  "dex": ""
+ },
+ "SHIELDON": {
+  "name": "盾甲龍",
+  "dex": ""
+ },
+ "BASTIODON": {
+  "name": "護城龍",
+  "dex": ""
+ },
+ "BURMY": {
+  "name": "結草兒",
+  "dex": ""
+ },
+ "WORMADAM": {
+  "name": "結草貴婦",
+  "dex": ""
+ },
+ "MOTHIM": {
+  "name": "紳士蛾",
+  "dex": ""
+ },
+ "COMBEE": {
+  "name": "三蜜蜂",
+  "dex": ""
+ },
+ "VESPIQUEN": {
+  "name": "蜂女王",
+  "dex": ""
+ },
+ "PACHIRISU": {
+  "name": "帕奇利茲",
+  "dex": ""
+ },
+ "BUIZEL": {
+  "name": "泳圈鼬",
+  "dex": ""
+ },
+ "FLOATZEL": {
+  "name": "浮潛鼬",
+  "dex": ""
+ },
+ "CHERUBI": {
+  "name": "櫻花寶",
+  "dex": ""
+ },
+ "CHERRIM": {
+  "name": "櫻花兒",
+  "dex": ""
+ },
+ "SHELLOS": {
+  "name": "無殼海兔",
+  "dex": ""
+ },
+ "GASTRODON": {
+  "name": "海兔獸",
+  "dex": ""
+ },
+ "AMBIPOM": {
+  "name": "雙尾怪手",
+  "dex": ""
+ },
+ "DRIFLOON": {
+  "name": "飄飄球",
+  "dex": ""
+ },
+ "DRIFBLIM": {
+  "name": "隨風球",
+  "dex": ""
+ },
+ "BUNEARY": {
+  "name": "捲捲耳",
+  "dex": ""
+ },
+ "LOPUNNY": {
+  "name": "長耳兔",
+  "dex": ""
+ },
+ "MISMAGIUS": {
+  "name": "夢妖魔",
+  "dex": ""
+ },
+ "HONCHKROW": {
+  "name": "烏鴉頭頭",
+  "dex": ""
+ },
+ "GLAMEOW": {
+  "name": "魅力喵",
+  "dex": ""
+ },
+ "PURUGLY": {
+  "name": "東施喵",
+  "dex": ""
+ },
+ "CHINGLING": {
+  "name": "鈴鐺響",
+  "dex": ""
+ },
+ "STUNKY": {
+  "name": "臭鼬噗",
+  "dex": ""
+ },
+ "SKUNTANK": {
+  "name": "坦克臭鼬",
+  "dex": ""
+ },
+ "BRONZOR": {
+  "name": "銅鏡怪",
+  "dex": ""
+ },
+ "BRONZONG": {
+  "name": "青銅鐘",
+  "dex": ""
+ },
+ "BONSLY": {
+  "name": "盆才怪",
+  "dex": ""
+ },
+ "MIMEJR": {
+  "name": "魔尼尼",
+  "dex": ""
+ },
+ "HAPPINY": {
+  "name": "小福蛋",
+  "dex": ""
+ },
+ "CHATOT": {
+  "name": "聒噪鳥",
+  "dex": ""
+ },
+ "SPIRITOMB": {
+  "name": "花岩怪",
+  "dex": ""
+ },
+ "GIBLE": {
+  "name": "圓陸鯊",
+  "dex": ""
+ },
+ "GABITE": {
+  "name": "尖牙陸鯊",
+  "dex": ""
+ },
+ "GARCHOMP": {
+  "name": "烈咬陸鯊",
+  "dex": ""
+ },
+ "MUNCHLAX": {
+  "name": "小卡比獸",
+  "dex": ""
+ },
+ "RIOLU": {
+  "name": "利歐路",
+  "dex": ""
+ },
+ "LUCARIO": {
+  "name": "路卡利歐",
+  "dex": ""
+ },
+ "HIPPOPOTAS": {
+  "name": "小河馬",
+  "dex": ""
+ },
+ "HIPPOWDON": {
+  "name": "河馬獸",
+  "dex": ""
+ },
+ "SKORUPI": {
+  "name": "鉗尾蠍",
+  "dex": ""
+ },
+ "DRAPION": {
+  "name": "龍王蠍",
+  "dex": ""
+ },
+ "CROAGUNK": {
+  "name": "不良蛙",
+  "dex": ""
+ },
+ "TOXICROAK": {
+  "name": "毒骷蛙",
+  "dex": ""
+ },
+ "CARNIVINE": {
+  "name": "尖牙籠",
+  "dex": ""
+ },
+ "FINNEON": {
+  "name": "螢光魚",
+  "dex": ""
+ },
+ "LUMINEON": {
+  "name": "霓虹魚",
+  "dex": ""
+ },
+ "MANTYKE": {
+  "name": "小球飛魚",
+  "dex": ""
+ },
+ "SNOVER": {
+  "name": "雪笠怪",
+  "dex": ""
+ },
+ "ABOMASNOW": {
+  "name": "暴雪王",
+  "dex": ""
+ },
+ "WEAVILE": {
+  "name": "瑪狃拉",
+  "dex": ""
+ },
+ "MAGNEZONE": {
+  "name": "自爆磁怪",
+  "dex": ""
+ },
+ "LICKILICKY": {
+  "name": "大舌舔",
+  "dex": ""
+ },
+ "RHYPERIOR": {
+  "name": "超甲狂犀",
+  "dex": ""
+ },
+ "TANGROWTH": {
+  "name": "巨蔓藤",
+  "dex": ""
+ },
+ "ELECTIVIRE": {
+  "name": "電擊魔獸",
+  "dex": ""
+ },
+ "MAGMORTAR": {
+  "name": "鴨嘴炎獸",
+  "dex": ""
+ },
+ "TOGEKISS": {
+  "name": "波克基斯",
+  "dex": ""
+ },
+ "YANMEGA": {
+  "name": "遠古巨蜓",
+  "dex": ""
+ },
+ "LEAFEON": {
+  "name": "葉伊布",
+  "dex": ""
+ },
+ "GLACEON": {
+  "name": "冰伊布",
+  "dex": ""
+ },
+ "GLISCOR": {
+  "name": "天蠍王",
+  "dex": ""
+ },
+ "MAMOSWINE": {
+  "name": "象牙豬",
+  "dex": ""
+ },
+ "PORYGONZ": {
+  "name": "多邊獸Z",
+  "dex": ""
+ },
+ "GALLADE": {
+  "name": "艾路雷朵",
+  "dex": ""
+ },
+ "PROBOPASS": {
+  "name": "大朝北鼻",
+  "dex": ""
+ },
+ "DUSKNOIR": {
+  "name": "黑夜魔靈",
+  "dex": ""
+ },
+ "FROSLASS": {
+  "name": "雪妖女",
+  "dex": ""
+ },
+ "ROTOM": {
+  "name": "洛托姆",
+  "dex": ""
+ },
+ "UXIE": {
+  "name": "由克希",
+  "dex": ""
+ },
+ "MESPRIT": {
+  "name": "艾姆利多",
+  "dex": ""
+ },
+ "AZELF": {
+  "name": "亞克諾姆",
+  "dex": ""
+ },
+ "DIALGA": {
+  "name": "帝牙盧卡",
+  "dex": ""
+ },
+ "PALKIA": {
+  "name": "帕路奇亞",
+  "dex": ""
+ },
+ "HEATRAN": {
+  "name": "席多藍恩",
+  "dex": ""
+ },
+ "REGIGIGAS": {
+  "name": "雷吉奇卡斯",
+  "dex": ""
+ },
+ "GIRATINA": {
+  "name": "騎拉帝納",
+  "dex": ""
+ },
+ "CRESSELIA": {
+  "name": "克雷色利亞",
+  "dex": ""
+ },
+ "PHIONE": {
+  "name": "霏歐納",
+  "dex": ""
+ },
+ "MANAPHY": {
+  "name": "瑪納霏",
+  "dex": ""
+ },
+ "DARKRAI": {
+  "name": "達克萊伊",
+  "dex": ""
+ },
+ "SHAYMIN": {
+  "name": "謝米",
+  "dex": ""
+ },
+ "ARCEUS": {
+  "name": "阿爾宙斯",
+  "dex": ""
+ },
+ "VICTINI": {
+  "name": "比克提尼",
+  "dex": ""
+ },
+ "SNIVY": {
+  "name": "藤藤蛇",
+  "dex": ""
+ },
+ "SERVINE": {
+  "name": "青藤蛇",
+  "dex": ""
+ },
+ "SERPERIOR": {
+  "name": "君主蛇",
+  "dex": ""
+ },
+ "TEPIG": {
+  "name": "暖暖豬",
+  "dex": ""
+ },
+ "PIGNITE": {
+  "name": "炒炒豬",
+  "dex": ""
+ },
+ "EMBOAR": {
+  "name": "炎武王",
+  "dex": ""
+ },
+ "OSHAWOTT": {
+  "name": "水水獺",
+  "dex": ""
+ },
+ "DEWOTT": {
+  "name": "雙刃丸",
+  "dex": ""
+ },
+ "SAMUROTT": {
+  "name": "大劍鬼",
+  "dex": ""
+ },
+ "PATRAT": {
+  "name": "探探鼠",
+  "dex": ""
+ },
+ "WATCHOG": {
+  "name": "步哨鼠",
+  "dex": ""
+ },
+ "LILLIPUP": {
+  "name": "小約克",
+  "dex": ""
+ },
+ "HERDIER": {
+  "name": "哈約克",
+  "dex": ""
+ },
+ "STOUTLAND": {
+  "name": "長毛狗",
+  "dex": ""
+ },
+ "PURRLOIN": {
+  "name": "扒手貓",
+  "dex": ""
+ },
+ "LIEPARD": {
+  "name": "酷豹",
+  "dex": ""
+ },
+ "PANSAGE": {
+  "name": "花椰猴",
+  "dex": ""
+ },
+ "SIMISAGE": {
+  "name": "花椰猿",
+  "dex": ""
+ },
+ "PANSEAR": {
+  "name": "爆香猴",
+  "dex": ""
+ },
+ "SIMISEAR": {
+  "name": "爆香猿",
+  "dex": ""
+ },
+ "PANPOUR": {
+  "name": "冷水猴",
+  "dex": ""
+ },
+ "SIMIPOUR": {
+  "name": "冷水猿",
+  "dex": ""
+ },
+ "MUNNA": {
+  "name": "食夢夢",
+  "dex": ""
+ },
+ "MUSHARNA": {
+  "name": "夢夢蝕",
+  "dex": ""
+ },
+ "PIDOVE": {
+  "name": "豆豆鴿",
+  "dex": ""
+ },
+ "TRANQUILL": {
+  "name": "咕咕鴿",
+  "dex": ""
+ },
+ "UNFEZANT": {
+  "name": "高傲雉雞",
+  "dex": ""
+ },
+ "BLITZLE": {
+  "name": "斑斑馬",
+  "dex": ""
+ },
+ "ZEBSTRIKA": {
+  "name": "雷電斑馬",
+  "dex": ""
+ },
+ "ROGGENROLA": {
+  "name": "石丸子",
+  "dex": ""
+ },
+ "BOLDORE": {
+  "name": "大石丸子",
+  "dex": ""
+ },
+ "GIGALITH": {
+  "name": "龐岩怪",
+  "dex": ""
+ },
+ "WOOBAT": {
+  "name": "滾滾蝙蝠",
+  "dex": ""
+ },
+ "SWOOBAT": {
+  "name": "心蝙蝠",
+  "dex": ""
+ },
+ "DRILBUR": {
+  "name": "螺釘地鼠",
+  "dex": ""
+ },
+ "EXCADRILL": {
+  "name": "龍頭地鼠",
+  "dex": ""
+ },
+ "AUDINO": {
+  "name": "差不多娃娃",
+  "dex": ""
+ },
+ "TIMBURR": {
+  "name": "搬運小匠",
+  "dex": ""
+ },
+ "GURDURR": {
+  "name": "鐵骨土人",
+  "dex": ""
+ },
+ "CONKELDURR": {
+  "name": "修建老匠",
+  "dex": ""
+ },
+ "TYMPOLE": {
+  "name": "圓蝌蚪",
+  "dex": ""
+ },
+ "PALPITOAD": {
+  "name": "藍蟾蜍",
+  "dex": ""
+ },
+ "SEISMITOAD": {
+  "name": "蟾蜍王",
+  "dex": ""
+ },
+ "THROH": {
+  "name": "投摔鬼",
+  "dex": ""
+ },
+ "SAWK": {
+  "name": "打擊鬼",
+  "dex": ""
+ },
+ "SEWADDLE": {
+  "name": "蟲寶包",
+  "dex": ""
+ },
+ "SWADLOON": {
+  "name": "寶包繭",
+  "dex": ""
+ },
+ "LEAVANNY": {
+  "name": "保母蟲",
+  "dex": ""
+ },
+ "VENIPEDE": {
+  "name": "百足蜈蚣",
+  "dex": ""
+ },
+ "WHIRLIPEDE": {
+  "name": "車輪球",
+  "dex": ""
+ },
+ "SCOLIPEDE": {
+  "name": "蜈蚣王",
+  "dex": ""
+ },
+ "COTTONEE": {
+  "name": "木棉球",
+  "dex": ""
+ },
+ "WHIMSICOTT": {
+  "name": "風妖精",
+  "dex": ""
+ },
+ "PETILIL": {
+  "name": "百合根娃娃",
+  "dex": ""
+ },
+ "LILLIGANT": {
+  "name": "裙兒小姐",
+  "dex": ""
+ },
+ "BASCULIN": {
+  "name": "野蠻鱸魚",
+  "dex": ""
+ },
+ "SANDILE": {
+  "name": "黑眼鱷",
+  "dex": ""
+ },
+ "KROKOROK": {
+  "name": "混混鱷",
+  "dex": ""
+ },
+ "KROOKODILE": {
+  "name": "流氓鱷",
+  "dex": ""
+ },
+ "DARUMAKA": {
+  "name": "火紅不倒翁",
+  "dex": ""
+ },
+ "DARMANITAN": {
+  "name": "達摩狒狒",
+  "dex": ""
+ },
+ "MARACTUS": {
+  "name": "沙鈴仙人掌",
+  "dex": ""
+ },
+ "DWEBBLE": {
+  "name": "石居蟹",
+  "dex": ""
+ },
+ "CRUSTLE": {
+  "name": "岩殿居蟹",
+  "dex": ""
+ },
+ "SCRAGGY": {
+  "name": "滑滑小子",
+  "dex": ""
+ },
+ "SCRAFTY": {
+  "name": "頭巾混混",
+  "dex": ""
+ },
+ "SIGILYPH": {
+  "name": "象徵鳥",
+  "dex": ""
+ },
+ "YAMASK": {
+  "name": "哭哭面具",
+  "dex": ""
+ },
+ "COFAGRIGUS": {
+  "name": "死神棺",
+  "dex": ""
+ },
+ "TIRTOUGA": {
+  "name": "原蓋海龜",
+  "dex": ""
+ },
+ "CARRACOSTA": {
+  "name": "肋骨海龜",
+  "dex": ""
+ },
+ "ARCHEN": {
+  "name": "始祖小鳥",
+  "dex": ""
+ },
+ "ARCHEOPS": {
+  "name": "始祖大鳥",
+  "dex": ""
+ },
+ "TRUBBISH": {
+  "name": "破破袋",
+  "dex": ""
+ },
+ "GARBODOR": {
+  "name": "灰塵山",
+  "dex": ""
+ },
+ "ZORUA": {
+  "name": "索羅亞",
+  "dex": ""
+ },
+ "ZOROARK": {
+  "name": "索羅亞克",
+  "dex": ""
+ },
+ "MINCCINO": {
+  "name": "泡沫栗鼠",
+  "dex": ""
+ },
+ "CINCCINO": {
+  "name": "奇諾栗鼠",
+  "dex": ""
+ },
+ "GOTHITA": {
+  "name": "哥德寶寶",
+  "dex": ""
+ },
+ "GOTHORITA": {
+  "name": "哥德小童",
+  "dex": ""
+ },
+ "GOTHITELLE": {
+  "name": "哥德小姐",
+  "dex": ""
+ },
+ "SOLOSIS": {
+  "name": "單卵細胞球",
+  "dex": ""
+ },
+ "DUOSION": {
+  "name": "雙卵細胞球",
+  "dex": ""
+ },
+ "REUNICLUS": {
+  "name": "人造細胞卵",
+  "dex": ""
+ },
+ "DUCKLETT": {
+  "name": "鴨寶寶",
+  "dex": ""
+ },
+ "SWANNA": {
+  "name": "舞天鵝",
+  "dex": ""
+ },
+ "VANILLITE": {
+  "name": "迷你冰",
+  "dex": ""
+ },
+ "VANILLISH": {
+  "name": "多多冰",
+  "dex": ""
+ },
+ "VANILLUXE": {
+  "name": "雙倍多多冰",
+  "dex": ""
+ },
+ "DEERLING": {
+  "name": "四季鹿",
+  "dex": ""
+ },
+ "SAWSBUCK": {
+  "name": "萌芽鹿",
+  "dex": ""
+ },
+ "EMOLGA": {
+  "name": "電飛鼠",
+  "dex": ""
+ },
+ "KARRABLAST": {
+  "name": "蓋蓋蟲",
+  "dex": ""
+ },
+ "ESCAVALIER": {
+  "name": "騎士蝸牛",
+  "dex": ""
+ },
+ "FOONGUS": {
+  "name": "寶貝球菇",
+  "dex": ""
+ },
+ "AMOONGUSS": {
+  "name": "暴露菇",
+  "dex": ""
+ },
+ "FRILLISH": {
+  "name": "輕飄飄",
+  "dex": ""
+ },
+ "JELLICENT": {
+  "name": "胖嘟嘟",
+  "dex": ""
+ },
+ "ALOMOMOLA": {
+  "name": "保母曼波",
+  "dex": ""
+ },
+ "JOLTIK": {
+  "name": "電電蟲",
+  "dex": ""
+ },
+ "GALVANTULA": {
+  "name": "電蜘蛛",
+  "dex": ""
+ },
+ "FERROSEED": {
+  "name": "種子鐵球",
+  "dex": ""
+ },
+ "FERROTHORN": {
+  "name": "堅果啞鈴",
+  "dex": ""
+ },
+ "KLINK": {
+  "name": "齒輪兒",
+  "dex": ""
+ },
+ "KLANG": {
+  "name": "齒輪組",
+  "dex": ""
+ },
+ "KLINKLANG": {
+  "name": "齒輪怪",
+  "dex": ""
+ },
+ "TYNAMO": {
+  "name": "麻麻小魚",
+  "dex": ""
+ },
+ "EELEKTRIK": {
+  "name": "麻麻鰻",
+  "dex": ""
+ },
+ "EELEKTROSS": {
+  "name": "麻麻鰻魚王",
+  "dex": ""
+ },
+ "ELGYEM": {
+  "name": "小灰怪",
+  "dex": ""
+ },
+ "BEHEEYEM": {
+  "name": "大宇怪",
+  "dex": ""
+ },
+ "LITWICK": {
+  "name": "燭光靈",
+  "dex": ""
+ },
+ "LAMPENT": {
+  "name": "燈火幽靈",
+  "dex": ""
+ },
+ "CHANDELURE": {
+  "name": "水晶燈火靈",
+  "dex": ""
+ },
+ "AXEW": {
+  "name": "牙牙",
+  "dex": ""
+ },
+ "FRAXURE": {
+  "name": "斧牙龍",
+  "dex": ""
+ },
+ "HAXORUS": {
+  "name": "雙斧戰龍",
+  "dex": ""
+ },
+ "CUBCHOO": {
+  "name": "噴嚏熊",
+  "dex": ""
+ },
+ "BEARTIC": {
+  "name": "凍原熊",
+  "dex": ""
+ },
+ "CRYOGONAL": {
+  "name": "幾何雪花",
+  "dex": ""
+ },
+ "SHELMET": {
+  "name": "小嘴蝸",
+  "dex": ""
+ },
+ "ACCELGOR": {
+  "name": "敏捷蟲",
+  "dex": ""
+ },
+ "STUNFISK": {
+  "name": "泥巴魚",
+  "dex": ""
+ },
+ "MIENFOO": {
+  "name": "功夫鼬",
+  "dex": ""
+ },
+ "MIENSHAO": {
+  "name": "師父鼬",
+  "dex": ""
+ },
+ "DRUDDIGON": {
+  "name": "赤面龍",
+  "dex": ""
+ },
+ "GOLETT": {
+  "name": "泥偶小人",
+  "dex": ""
+ },
+ "GOLURK": {
+  "name": "泥偶巨人",
+  "dex": ""
+ },
+ "PAWNIARD": {
+  "name": "駒刀小兵",
+  "dex": ""
+ },
+ "BISHARP": {
+  "name": "劈斬司令",
+  "dex": ""
+ },
+ "BOUFFALANT": {
+  "name": "爆爆頭水牛",
+  "dex": ""
+ },
+ "RUFFLET": {
+  "name": "毛頭小鷹",
+  "dex": ""
+ },
+ "BRAVIARY": {
+  "name": "勇士鷹",
+  "dex": ""
+ },
+ "VULLABY": {
+  "name": "禿鷹丫頭",
+  "dex": ""
+ },
+ "MANDIBUZZ": {
+  "name": "禿鷹娜",
+  "dex": ""
+ },
+ "HEATMOR": {
+  "name": "熔蟻獸",
+  "dex": ""
+ },
+ "DURANT": {
+  "name": "鐵蟻",
+  "dex": ""
+ },
+ "DEINO": {
+  "name": "單首龍",
+  "dex": ""
+ },
+ "ZWEILOUS": {
+  "name": "雙首暴龍",
+  "dex": ""
+ },
+ "HYDREIGON": {
+  "name": "三首惡龍",
+  "dex": ""
+ },
+ "LARVESTA": {
+  "name": "燃燒蟲",
+  "dex": ""
+ },
+ "VOLCARONA": {
+  "name": "火神蛾",
+  "dex": ""
+ },
+ "COBALION": {
+  "name": "勾帕路翁",
+  "dex": ""
+ },
+ "TERRAKION": {
+  "name": "代拉基翁",
+  "dex": ""
+ },
+ "VIRIZION": {
+  "name": "畢力吉翁",
+  "dex": ""
+ },
+ "TORNADUS": {
+  "name": "龍捲雲",
+  "dex": ""
+ },
+ "THUNDURUS": {
+  "name": "雷電雲",
+  "dex": ""
+ },
+ "LANDORUS": {
+  "name": "土地雲",
+  "dex": ""
+ },
+ "RESHIRAM": {
+  "name": "萊希拉姆",
+  "dex": ""
+ },
+ "ZEKROM": {
+  "name": "捷克羅姆",
+  "dex": ""
+ },
+ "KYUREM": {
+  "name": "酋雷姆",
+  "dex": ""
+ },
+ "KELDEO": {
+  "name": "凱路迪歐",
+  "dex": ""
+ },
+ "MELOETTA": {
+  "name": "美洛耶塔",
+  "dex": ""
+ },
+ "GENESECT": {
+  "name": "蓋諾賽克特",
+  "dex": ""
+ },
+ "CHESPIN": {
+  "name": "哈力栗",
+  "dex": ""
+ },
+ "QUILLADIN": {
+  "name": "胖胖哈力",
+  "dex": ""
+ },
+ "CHESNAUGHT": {
+  "name": "布里卡隆",
+  "dex": ""
+ },
+ "FENNEKIN": {
+  "name": "火狐狸",
+  "dex": ""
+ },
+ "BRAIXEN": {
+  "name": "長尾火狐",
+  "dex": ""
+ },
+ "DELPHOX": {
+  "name": "妖火紅狐",
+  "dex": ""
+ },
+ "FROAKIE": {
+  "name": "呱呱泡蛙",
+  "dex": ""
+ },
+ "FROGADIER": {
+  "name": "呱頭蛙",
+  "dex": ""
+ },
+ "GRENINJA": {
+  "name": "甲賀忍蛙",
+  "dex": ""
+ },
+ "BUNNELBY": {
+  "name": "掘掘兔",
+  "dex": ""
+ },
+ "DIGGERSBY": {
+  "name": "掘地兔",
+  "dex": ""
+ },
+ "FLETCHLING": {
+  "name": "小箭雀",
+  "dex": ""
+ },
+ "FLETCHINDER": {
+  "name": "火箭雀",
+  "dex": ""
+ },
+ "TALONFLAME": {
+  "name": "烈箭鷹",
+  "dex": ""
+ },
+ "SCATTERBUG": {
+  "name": "粉蝶蟲",
+  "dex": ""
+ },
+ "SPEWPA": {
+  "name": "粉蝶蛹",
+  "dex": ""
+ },
+ "VIVILLON": {
+  "name": "彩粉蝶",
+  "dex": ""
+ },
+ "LITLEO": {
+  "name": "小獅獅",
+  "dex": ""
+ },
+ "PYROAR": {
+  "name": "火炎獅",
+  "dex": ""
+ },
+ "FLABEBE": {
+  "name": "花蓓蓓",
+  "dex": ""
+ },
+ "FLOETTE": {
+  "name": "花葉蒂",
+  "dex": ""
+ },
+ "FLORGES": {
+  "name": "花潔夫人",
+  "dex": ""
+ },
+ "SKIDDO": {
+  "name": "坐騎小羊",
+  "dex": ""
+ },
+ "GOGOAT": {
+  "name": "坐騎山羊",
+  "dex": ""
+ },
+ "PANCHAM": {
+  "name": "頑皮熊貓",
+  "dex": ""
+ },
+ "PANGORO": {
+  "name": "流氓熊貓",
+  "dex": ""
+ },
+ "FURFROU": {
+  "name": "多麗米亞",
+  "dex": ""
+ },
+ "ESPURR": {
+  "name": "妙喵",
+  "dex": ""
+ },
+ "MEOWSTIC": {
+  "name": "超能妙喵",
+  "dex": ""
+ },
+ "HONEDGE": {
+  "name": "獨劍鞘",
+  "dex": ""
+ },
+ "DOUBLADE": {
+  "name": "雙劍鞘",
+  "dex": ""
+ },
+ "AEGISLASH": {
+  "name": "堅盾劍怪",
+  "dex": ""
+ },
+ "SPRITZEE": {
+  "name": "粉香香",
+  "dex": ""
+ },
+ "AROMATISSE": {
+  "name": "芳香精",
+  "dex": ""
+ },
+ "SWIRLIX": {
+  "name": "綿綿泡芙",
+  "dex": ""
+ },
+ "SLURPUFF": {
+  "name": "胖甜妮",
+  "dex": ""
+ },
+ "INKAY": {
+  "name": "好啦魷",
+  "dex": ""
+ },
+ "MALAMAR": {
+  "name": "烏賊王",
+  "dex": ""
+ },
+ "BINACLE": {
+  "name": "龜腳腳",
+  "dex": ""
+ },
+ "BARBARACLE": {
+  "name": "龜足巨鎧",
+  "dex": ""
+ },
+ "SKRELP": {
+  "name": "垃垃藻",
+  "dex": ""
+ },
+ "DRAGALGE": {
+  "name": "毒藻龍",
+  "dex": ""
+ },
+ "CLAUNCHER": {
+  "name": "鐵臂槍蝦",
+  "dex": ""
+ },
+ "CLAWITZER": {
+  "name": "鋼炮臂蝦",
+  "dex": ""
+ },
+ "HELIOPTILE": {
+  "name": "傘電蜥",
+  "dex": ""
+ },
+ "HELIOLISK": {
+  "name": "光電傘蜥",
+  "dex": ""
+ },
+ "TYRUNT": {
+  "name": "寶寶暴龍",
+  "dex": ""
+ },
+ "TYRANTRUM": {
+  "name": "怪顎龍",
+  "dex": ""
+ },
+ "AMAURA": {
+  "name": "冰雪龍",
+  "dex": ""
+ },
+ "AURORUS": {
+  "name": "冰雪巨龍",
+  "dex": ""
+ },
+ "SYLVEON": {
+  "name": "仙子伊布",
+  "dex": ""
+ },
+ "HAWLUCHA": {
+  "name": "摔角鷹人",
+  "dex": ""
+ },
+ "DEDENNE": {
+  "name": "咚咚鼠",
+  "dex": ""
+ },
+ "CARBINK": {
+  "name": "小碎鑽",
+  "dex": ""
+ },
+ "GOOMY": {
+  "name": "黏黏寶",
+  "dex": ""
+ },
+ "SLIGGOO": {
+  "name": "黏美兒",
+  "dex": ""
+ },
+ "GOODRA": {
+  "name": "黏美龍",
+  "dex": ""
+ },
+ "KLEFKI": {
+  "name": "鑰圈兒",
+  "dex": ""
+ },
+ "PHANTUMP": {
+  "name": "小木靈",
+  "dex": ""
+ },
+ "TREVENANT": {
+  "name": "朽木妖",
+  "dex": ""
+ },
+ "PUMPKABOO": {
+  "name": "南瓜精",
+  "dex": ""
+ },
+ "GOURGEIST": {
+  "name": "南瓜怪人",
+  "dex": ""
+ },
+ "BERGMITE": {
+  "name": "冰寶",
+  "dex": ""
+ },
+ "AVALUGG": {
+  "name": "冰岩怪",
+  "dex": ""
+ },
+ "NOIBAT": {
+  "name": "嗡蝠",
+  "dex": ""
+ },
+ "NOIVERN": {
+  "name": "音波龍",
+  "dex": ""
+ },
+ "XERNEAS": {
+  "name": "哲爾尼亞斯",
+  "dex": ""
+ },
+ "YVELTAL": {
+  "name": "伊裴爾塔爾",
+  "dex": ""
+ },
+ "ZYGARDE": {
+  "name": "基格爾德",
+  "dex": ""
+ },
+ "DIANCIE": {
+  "name": "蒂安希",
+  "dex": ""
+ },
+ "HOOPA": {
+  "name": "胡帕",
+  "dex": ""
+ },
+ "VOLCANION": {
+  "name": "波爾凱尼恩",
+  "dex": ""
+ },
+ "ROWLET": {
+  "name": "木木梟",
+  "dex": ""
+ },
+ "DARTRIX": {
+  "name": "投羽梟",
+  "dex": ""
+ },
+ "DECIDUEYE": {
+  "name": "狙射樹梟",
+  "dex": ""
+ },
+ "LITTEN": {
+  "name": "火斑喵",
+  "dex": ""
+ },
+ "TORRACAT": {
+  "name": "炎熱喵",
+  "dex": ""
+ },
+ "INCINEROAR": {
+  "name": "熾焰咆哮虎",
+  "dex": ""
+ },
+ "POPPLIO": {
+  "name": "球球海獅",
+  "dex": ""
+ },
+ "BRIONNE": {
+  "name": "花漾海獅",
+  "dex": ""
+ },
+ "PRIMARINA": {
+  "name": "西獅海壬",
+  "dex": ""
+ },
+ "PIKIPEK": {
+  "name": "小篤兒",
+  "dex": ""
+ },
+ "TRUMBEAK": {
+  "name": "喇叭啄鳥",
+  "dex": ""
+ },
+ "TOUCANNON": {
+  "name": "銃嘴大鳥",
+  "dex": ""
+ },
+ "YUNGOOS": {
+  "name": "貓鼬少",
+  "dex": ""
+ },
+ "GUMSHOOS": {
+  "name": "貓鼬探長",
+  "dex": ""
+ },
+ "GRUBBIN": {
+  "name": "強顎雞母蟲",
+  "dex": ""
+ },
+ "CHARJABUG": {
+  "name": "蟲電寶",
+  "dex": ""
+ },
+ "VIKAVOLT": {
+  "name": "鍬農炮蟲",
+  "dex": ""
+ },
+ "CRABRAWLER": {
+  "name": "好勝蟹",
+  "dex": ""
+ },
+ "CRABOMINABLE": {
+  "name": "好勝毛蟹",
+  "dex": ""
+ },
+ "ORICORIO": {
+  "name": "花舞鳥",
+  "dex": ""
+ },
+ "CUTIEFLY": {
+  "name": "萌虻",
+  "dex": ""
+ },
+ "RIBOMBEE": {
+  "name": "蝶結萌虻",
+  "dex": ""
+ },
+ "ROCKRUFF": {
+  "name": "岩狗狗",
+  "dex": ""
+ },
+ "LYCANROC": {
+  "name": "鬃岩狼人",
+  "dex": ""
+ },
+ "WISHIWASHI": {
+  "name": "弱丁魚",
+  "dex": ""
+ },
+ "MAREANIE": {
+  "name": "好壞星",
+  "dex": ""
+ },
+ "TOXAPEX": {
+  "name": "超壞星",
+  "dex": ""
+ },
+ "MUDBRAY": {
+  "name": "泥驢仔",
+  "dex": ""
+ },
+ "MUDSDALE": {
+  "name": "重泥挽馬",
+  "dex": ""
+ },
+ "DEWPIDER": {
+  "name": "滴蛛霸",
+  "dex": ""
+ },
+ "ARAQUANID": {
+  "name": "滴蛛霸",
+  "dex": ""
+ },
+ "FOMANTIS": {
+  "name": "偽螳草",
+  "dex": ""
+ },
+ "LURANTIS": {
+  "name": "蘭螳花",
+  "dex": ""
+ },
+ "MORELULL": {
+  "name": "睡睡菇",
+  "dex": ""
+ },
+ "SHIINOTIC": {
+  "name": "燈罩夜菇",
+  "dex": ""
+ },
+ "SALANDIT": {
+  "name": "夜盜火蜥",
+  "dex": ""
+ },
+ "SALAZZLE": {
+  "name": "焰后蜥",
+  "dex": ""
+ },
+ "STUFFUL": {
+  "name": "童偶熊",
+  "dex": ""
+ },
+ "BEWEAR": {
+  "name": "穿著熊",
+  "dex": ""
+ },
+ "BOUNSWEET": {
+  "name": "甜竹竹",
+  "dex": ""
+ },
+ "STEENEE": {
+  "name": "甜舞妮",
+  "dex": ""
+ },
+ "TSAREENA": {
+  "name": "甜冷美后",
+  "dex": ""
+ },
+ "COMFEY": {
+  "name": "花療環環",
+  "dex": ""
+ },
+ "ORANGURU": {
+  "name": "智揮猩",
+  "dex": ""
+ },
+ "PASSIMIAN": {
+  "name": "投擲猴",
+  "dex": ""
+ },
+ "WIMPOD": {
+  "name": "膽小蟲",
+  "dex": ""
+ },
+ "GOLISOPOD": {
+  "name": "具甲武者",
+  "dex": ""
+ },
+ "SANDYGAST": {
+  "name": "沙丘娃",
+  "dex": ""
+ },
+ "PALOSSAND": {
+  "name": "噬沙堡爺",
+  "dex": ""
+ },
+ "PYUKUMUKU": {
+  "name": "拳海參",
+  "dex": ""
+ },
+ "TYPENULL": {
+  "name": "屬性：空",
+  "dex": ""
+ },
+ "SILVALLY": {
+  "name": "銀伴戰獸",
+  "dex": ""
+ },
+ "MINIOR": {
+  "name": "小隕星",
+  "dex": ""
+ },
+ "KOMALA": {
+  "name": "樹枕尾熊",
+  "dex": ""
+ },
+ "TURTONATOR": {
+  "name": "爆焰龜獸",
+  "dex": ""
+ },
+ "TOGEDEMARU": {
+  "name": "托戈德瑪爾",
+  "dex": ""
+ },
+ "MIMIKYU": {
+  "name": "謎擬Q",
+  "dex": ""
+ },
+ "BRUXISH": {
+  "name": "磨牙彩皮魚",
+  "dex": ""
+ },
+ "DRAMPA": {
+  "name": "老翁龍",
+  "dex": ""
+ },
+ "DHELMISE": {
+  "name": "破破舵輪",
+  "dex": ""
+ },
+ "JANGMOO": {
+  "name": "心鱗寶",
+  "dex": ""
+ },
+ "HAKAMOO": {
+  "name": "鱗甲龍",
+  "dex": ""
+ },
+ "KOMMOO": {
+  "name": "杖尾鱗甲龍",
+  "dex": ""
+ },
+ "TAPUKOKO": {
+  "name": "卡璞・鳴鳴",
+  "dex": ""
+ },
+ "TAPULELE": {
+  "name": "卡璞・蝶蝶",
+  "dex": ""
+ },
+ "TAPUBULU": {
+  "name": "卡璞・哞哞",
+  "dex": ""
+ },
+ "TAPUFINI": {
+  "name": "卡璞・鰭鰭",
+  "dex": ""
+ },
+ "COSMOG": {
+  "name": "科斯莫古",
+  "dex": ""
+ },
+ "COSMOEM": {
+  "name": "科斯莫姆",
+  "dex": ""
+ },
+ "SOLGALEO": {
+  "name": "索爾迦雷歐",
+  "dex": ""
+ },
+ "LUNALA": {
+  "name": "露奈雅拉",
+  "dex": ""
+ },
+ "NIHILEGO": {
+  "name": "虛吾伊德",
+  "dex": ""
+ },
+ "BUZZWOLE": {
+  "name": "爆肌蚊",
+  "dex": ""
+ },
+ "PHEROMOSA": {
+  "name": "費洛美螂",
+  "dex": ""
+ },
+ "XURKITREE": {
+  "name": "電束木",
+  "dex": ""
+ },
+ "CELESTEELA": {
+  "name": "鐵火輝夜",
+  "dex": ""
+ },
+ "KARTANA": {
+  "name": "紙御劍",
+  "dex": ""
+ },
+ "GUZZLORD": {
+  "name": "惡食大王",
+  "dex": ""
+ },
+ "NECROZMA": {
+  "name": "奈克洛茲瑪",
+  "dex": ""
+ },
+ "MAGEARNA": {
+  "name": "瑪機雅娜",
+  "dex": ""
+ },
+ "MARSHADOW": {
+  "name": "瑪夏多",
+  "dex": ""
+ },
+ "POIPOLE": {
+  "name": "毒貝比",
+  "dex": ""
+ },
+ "NAGANADEL": {
+  "name": "四顎針龍",
+  "dex": ""
+ },
+ "STAKATAKA": {
+  "name": "壘磊石",
+  "dex": ""
+ },
+ "BLACEPHALON": {
+  "name": "砰頭小丑",
+  "dex": ""
+ },
+ "ZERAORA": {
+  "name": "捷拉奧拉",
+  "dex": ""
+ },
+ "GROOKEY": {
+  "name": "敲音猴",
+  "dex": ""
+ },
+ "THWACKEY": {
+  "name": "啪咚猴",
+  "dex": ""
+ },
+ "RILLABOOM": {
+  "name": "轟擂金剛猩",
+  "dex": ""
+ },
+ "SCORBUNNY": {
+  "name": "炎兔兒",
+  "dex": ""
+ },
+ "RABOOT": {
+  "name": "騰蹴小將",
+  "dex": ""
+ },
+ "CINDERACE": {
+  "name": "閃焰王牌",
+  "dex": ""
+ },
+ "SOBBLE": {
+  "name": "淚眼蜥",
+  "dex": ""
+ },
+ "DRIZZILE": {
+  "name": "變澀蜥",
+  "dex": ""
+ },
+ "INTELEON": {
+  "name": "千面避役",
+  "dex": ""
+ },
+ "SKWOVET": {
+  "name": "貪心栗鼠",
+  "dex": ""
+ },
+ "GREEDENT": {
+  "name": "藏飽栗鼠",
+  "dex": ""
+ },
+ "ROOKIDEE": {
+  "name": "稚山雀",
+  "dex": ""
+ },
+ "CORVISQUIRE": {
+  "name": "藍鴉",
+  "dex": ""
+ },
+ "CORVIKNIGHT": {
+  "name": "鋼鎧鴉",
+  "dex": ""
+ },
+ "BLIPBUG": {
+  "name": "索偵蟲",
+  "dex": ""
+ },
+ "DOTTLER": {
+  "name": "天罩蟲",
+  "dex": ""
+ },
+ "ORBEETLE": {
+  "name": "以歐路普",
+  "dex": ""
+ },
+ "NICKIT": {
+  "name": "偷兒狐",
+  "dex": ""
+ },
+ "THIEVUL": {
+  "name": "狐大盜",
+  "dex": ""
+ },
+ "GOSSIFLEUR": {
+  "name": "幼棉棉",
+  "dex": ""
+ },
+ "ELDEGOSS": {
+  "name": "白蓬蓬",
+  "dex": ""
+ },
+ "WOOLOO": {
+  "name": "毛辮羊",
+  "dex": ""
+ },
+ "DUBWOOL": {
+  "name": "毛毛角羊",
+  "dex": ""
+ },
+ "CHEWTLE": {
+  "name": "咬咬龜",
+  "dex": ""
+ },
+ "DREDNAW": {
+  "name": "暴噬龜",
+  "dex": ""
+ },
+ "YAMPER": {
+  "name": "來電汪",
+  "dex": ""
+ },
+ "BOLTUND": {
+  "name": "逐電犬",
+  "dex": ""
+ },
+ "ROLYCOLY": {
+  "name": "小炭仔",
+  "dex": ""
+ },
+ "CARKOL": {
+  "name": "大炭車",
+  "dex": ""
+ },
+ "COALOSSAL": {
+  "name": "巨炭山",
+  "dex": ""
+ },
+ "APPLIN": {
+  "name": "啃果蟲",
+  "dex": ""
+ },
+ "FLAPPLE": {
+  "name": "蘋裹龍",
+  "dex": ""
+ },
+ "APPLETUN": {
+  "name": "豐蜜龍",
+  "dex": ""
+ },
+ "SILICOBRA": {
+  "name": "沙包蛇",
+  "dex": ""
+ },
+ "SANDACONDA": {
+  "name": "沙螺蟒",
+  "dex": ""
+ },
+ "CRAMORANT": {
+  "name": "古月鳥",
+  "dex": ""
+ },
+ "ARROKUDA": {
+  "name": "刺梭魚",
+  "dex": ""
+ },
+ "BARRASKEWDA": {
+  "name": "戽斗尖梭",
+  "dex": ""
+ },
+ "TOXEL": {
+  "name": "毒電嬰",
+  "dex": ""
+ },
+ "TOXTRICITY": {
+  "name": "顫弦蠑螈",
+  "dex": ""
+ },
+ "SIZZLIPEDE": {
+  "name": "燒火蚣",
+  "dex": ""
+ },
+ "CENTISKORCH": {
+  "name": "焚身蜈蚣",
+  "dex": ""
+ },
+ "CLOBBOPUS": {
+  "name": "拳拳蛸",
+  "dex": ""
+ },
+ "GRAPPLOCT": {
+  "name": "八爪武師",
+  "dex": ""
+ },
+ "SINISTEA": {
+  "name": "來悲茶",
+  "dex": ""
+ },
+ "POLTEAGEIST": {
+  "name": "怖思壺",
+  "dex": ""
+ },
+ "HATENNA": {
+  "name": "迷布莉姆",
+  "dex": ""
+ },
+ "HATTREM": {
+  "name": "提布莉姆",
+  "dex": ""
+ },
+ "HATTERENE": {
+  "name": "布莉姆溫",
+  "dex": ""
+ },
+ "IMPIDIMP": {
+  "name": "搗蛋小妖",
+  "dex": ""
+ },
+ "MORGREM": {
+  "name": "詐唬魔",
+  "dex": ""
+ },
+ "GRIMMSNARL": {
+  "name": "長毛巨魔",
+  "dex": ""
+ },
+ "OBSTAGOON": {
+  "name": "堵攔熊",
+  "dex": ""
+ },
+ "MILCERY": {
+  "name": "小仙奶",
+  "dex": ""
+ },
+ "ALCREMIE": {
+  "name": "霜奶仙",
+  "dex": ""
+ },
+ "FALINKS": {
+  "name": "列陣兵",
+  "dex": ""
+ },
+ "PINCURCHIN": {
+  "name": "啪嚓海膽",
+  "dex": ""
+ },
+ "SNOM": {
+  "name": "雪吞蟲",
+  "dex": ""
+ },
+ "FROSMOTH": {
+  "name": "雪絨蛾",
+  "dex": ""
+ },
+ "STONJOURNER": {
+  "name": "巨石丁",
+  "dex": ""
+ },
+ "EISCUE": {
+  "name": "冰砌鵝",
+  "dex": ""
+ },
+ "INDEEDEE": {
+  "name": "愛管侍",
+  "dex": ""
+ },
+ "MORPEKO": {
+  "name": "莫魯貝可",
+  "dex": ""
+ },
+ "CUFANT": {
+  "name": "銅象",
+  "dex": ""
+ },
+ "COPPERAJAH": {
+  "name": "大王銅象",
+  "dex": ""
+ },
+ "DRACOZOLT": {
+  "name": "雷鳥龍",
+  "dex": ""
+ },
+ "ARCTOZOLT": {
+  "name": "雷鳥海獸",
+  "dex": ""
+ },
+ "DRACOVISH": {
+  "name": "鰓魚龍",
+  "dex": ""
+ },
+ "ARCTOVISH": {
+  "name": "鰓魚海獸",
+  "dex": ""
+ },
+ "DURALUDON": {
+  "name": "鋁鋼龍",
+  "dex": ""
+ },
+ "DREEPY": {
+  "name": "多龍梅西亞",
+  "dex": ""
+ },
+ "DRAKLOAK": {
+  "name": "多龍奇",
+  "dex": ""
+ },
+ "DRAGAPULT": {
+  "name": "多龍巴魯托",
+  "dex": ""
+ },
+ "MRRIME": {
+  "name": "踏冰人偶",
+  "dex": ""
+ },
+ "SIRFETCHD": {
+  "name": "蔥遊兵",
+  "dex": ""
+ },
+ "CURSOLA": {
+  "name": "魔靈珊瑚",
+  "dex": ""
+ },
+ "ZACIAN": {
+  "name": "蒼響",
+  "dex": ""
+ },
+ "ZAMAZENTA": {
+  "name": "藏瑪然特",
+  "dex": ""
+ },
+ "ETERNATUS": {
+  "name": "無極汰那",
+  "dex": ""
+ },
+ "MELTAN": {
+  "name": "美錄坦",
+  "dex": ""
+ },
+ "MELMETAL": {
+  "name": "美錄梅塔",
+  "dex": ""
+ },
+ "KUBFU": {
+  "name": "熊徒弟",
+  "dex": ""
+ },
+ "URSHIFU": {
+  "name": "武道熊師",
+  "dex": ""
+ },
+ "ZARUDE": {
+  "name": "薩戮德",
+  "dex": ""
+ },
+ "REGIELEKI": {
+  "name": "雷吉艾勒奇",
+  "dex": ""
+ },
+ "REGIDRAGO": {
+  "name": "雷吉鐸拉戈",
+  "dex": ""
+ },
+ "GLASTRIER": {
+  "name": "雪暴馬",
+  "dex": ""
+ },
+ "SPECTRIER": {
+  "name": "靈幽馬",
+  "dex": ""
+ },
+ "CALYREX": {
+  "name": "蕾冠王",
+  "dex": ""
+ },
+ "KLEAVOR": {
+  "name": "劈斧螳螂",
+  "dex": ""
+ },
+ "WYRDEER": {
+  "name": "詭角鹿",
+  "dex": ""
+ },
+ "BASCULEGION": {
+  "name": "幽尾玄魚",
+  "dex": ""
+ },
+ "OVERQWIL": {
+  "name": "萬針魚",
+  "dex": ""
+ },
+ "SNEASLER": {
+  "name": "大狃拉",
+  "dex": ""
+ },
+ "RUNERIGUS": {
+  "name": "死神板",
+  "dex": ""
+ },
+ "PERRSERKER": {
+  "name": "喵頭目",
+  "dex": ""
+ },
+ "SNAMPERY": {
+  "name": "沙龜獸",
+  "dex": ""
+ },
+ "MUDILLO": {
+  "name": "泥犰狳",
+  "dex": ""
+ },
+ "MUDILLITIO": {
+  "name": "鐵犰狳",
+  "dex": ""
+ },
+ "LUNALURIO": {
+  "name": "月光蟲",
+  "dex": ""
+ },
+ "LUNAYE": {
+  "name": "月蛾",
+  "dex": ""
+ },
+ "GASTESLA": {
+  "name": "鬼電蛇",
+  "dex": ""
+ },
+ "SOUNDOW": {
+  "name": "音波梟",
+  "dex": ""
+ },
+ "ZIPPECTRE": {
+  "name": "閃電幽靈",
+  "dex": ""
+ },
+ "MAIDIBLE": {
+  "name": "鐵鉗蟲",
+  "dex": ""
+ },
+ "SWOLPHIN": {
+  "name": "壯海豚",
+  "dex": ""
+ },
+ "NORSPEAR": {
+  "name": "北矛海獸",
+  "dex": ""
+ },
+ "NARVALOR": {
+  "name": "獨角鯨勇",
+  "dex": ""
+ },
+ "CEFIREON": {
+  "name": "微風伊布",
+  "dex": ""
+ },
+ "MISSINGNO": {
+  "name": "缺失編號",
+  "dex": ""
+ },
+ "LUPICE": {
+  "name": "冰狼",
+  "dex": ""
+ },
+ "MOSSFOOT": {
+  "name": "苔蘚腳",
+  "dex": ""
+ },
+ "ASTREM": {
+  "name": "阿斯特雷姆",
+  "dex": ""
+ },
+ "POLEKIN": {
+  "name": "菇靈",
+  "dex": ""
+ },
+ "FUNGORSE": {
+  "name": "毒菇獸",
+  "dex": ""
+ },
+ "CERVANTRIER": {
+  "name": "鹿角獸",
+  "dex": ""
+ },
+ "LUGNIS": {
+  "name": "雷霆獸",
+  "dex": ""
+ },
+ "LURAVIT": {
+  "name": "誘蟲燈",
+  "dex": ""
+ },
+ "LUXPIRAVIT": {
+  "name": "光蛾",
+  "dex": ""
+ },
+ "QUISQUITE": {
+  "name": "貝殼蟹",
+  "dex": ""
+ },
+ "GAMBARREL": {
+  "name": "桶蝦",
+  "dex": ""
+ },
+ "BOGALEON": {
+  "name": "沼澤伊布",
+  "dex": ""
+ }
+}

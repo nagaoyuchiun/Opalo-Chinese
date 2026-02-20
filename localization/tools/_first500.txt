@@ -1,0 +1,500 @@
+0|¡Bienvenidos a <b>Mundo Indómito</b>, el programa en el que desentrañamos los salvajes misterios de los Pokémon!
+1|¿Estáis listos para acompañarme en una aventura indómita?
+2|Pero dejad que me presente, para los nuevos.\nSoy el <b>Profesor Ébano</b>.
+3|Hoy nos hemos desplazado hasta la <b>Estepa Polvorienta</b> para observar a los Pokémon salvajes más de cerca.
+4|<b>Profesor Ébano:</b> ¡Hace un sol radiante! Me voy a poner moreno.
+5|<b>Profesor Ébano:</b> Un clima así es perfecto para la salud de mi viejo Krookodile.
+6|Es importante vigilar el tema de la salud cuando se llega a cierta edad.
+7|<b>Profesor Ébano:</b> ¡Vaya, pero si ha venido a visitarnos el <b>Pequeño Timmy</b>!
+8|¿Qué te preocupa, <b>Pequeño Timmy</b>?
+9|<b>Pequeño Timmy:</b> Profesor, estoy interesado en convertirme en Entrenador Pokémon pero no sé cómo, ¿por dónde debería empezar?
+10|<b>Profesor Ébano:</b> ¡Qué bien que lo preguntes, <b>Timmy</b>!
+11|Como ya sabéis, últimamente se ha perdido mucho el interés por entrenar Pokémon, ¡pero que nadie os arrebate vuestro sueño!
+12|Lo primero que tienes que hacer es inscribirte en el desafío de los gimnasios de tu región, ¡así te convertirás oficialmente en Aspirante!
+13|Después busca un Gimnasio Pokémon cerca de tu zona para retar a tu primer líder.
+14|<b>Pequeño Timmy:</b> Pero señor profesor, mi padre dice que entrenar Pokémon no sirve para nada y que debo estudiar para ser alguien de provecho.
+15|<b>Profesor Ébano:</b> ¡Tu padre es un ignorante!
+16|Los psicólogos establecen una fuerte correlación entre alcanzar el éxito profesional y entrenar Pokémon.
+17|Aquellas personas que deciden convertirse en entrenadores suelen desarrollar disciplina, ambición y otras características de persona triunfadora.
+18|<b>Profesor Ébano:</b> ¡Y tú puedes ser el siguiente, querido espectador!
+19|O espectadora. ¿Quién hay detrás de esa pantalla?
+20|Dime, ¿eres chico o chica?
+21|¿Y cuál es tu aspecto?
+22|Muy bien, y ahora di tu nombre, ¡dilo muy alto! ¡Que se entere todo el mundo de quién eres!
+23|¿Ese es tu nombre?
+24|¡Di tu nombre bien alto!
+25|<b>Profesor Ébano:</b> ¡Quién sabe! Puede que estés destinado a convertirte en la próxima leyenda del Mundo Pokémon.
+26|<b>Profesor Ébano:</b> ¡Quién sabe! Puede que estés destinada a convertirte en la próxima leyenda del Mundo Pokémon.
+27|Recordad siempre que humanos y Pokémon se hacen más fuertes cuando luchan juntos, ¡se trata de un vínculo ancestral!
+28|<b>Pequeño Timmy:</b> ¿Significa eso que si entreno mucho podré ser como usted, profesor?
+29|<b>Profesor Ébano:</b> Puedes, <b>Pequeño Timmy</b>, ¡aunque espero que no te quedes igual de calvo!
+30|<b>Profesor Ébano:</b> ¡Pasamos a unos minutos de publicidad, a la vuelta veréis cómo mi Krookodile devora a una presa!
+31|Izquierda
+32|Medio
+33|Derecha
+34|Sí
+35|No
+36|<b>Pista para entrenadores:</b> Puedes acelerar el juego pulsando Alt.
+37|El modo rápido se desactivará durante las escenas importantes.
+38|Antes había muchos nativos por aquí... pero se han acabado yendo todos a <b>Céfira Oeste</b>.
+39|Ahí están mejor, supongo, con sus tribus y sus tradiciones.
+40|<b>Pescador:</b> ¿Podrías esperar un poco, por favor? Estoy seguro de haber visto un pez enorme en el río.
+41|Es peligroso salir del pueblo sin un Pokemon...
+42|<b>Pueblo Brisa</b>, lugar perdido en mitad de la montaña
+43|El número de Pokémon abandonados por sus entrenadores crece año tras año...
+44|Algunos los ven como cargas económicas que no se pueden permitir.
+45|Otros simplemente se han visto influenciados por esas nuevas ideas de que los Pokémon deben vivir en libertad lejos del ser humano.
+46|<b>Papá:</b> Una última cosa, \PN. Si vas a viajar por la región, visita a tu madre cuando puedas.
+47|Ya sabes dónde está.
+48|Ella te sigue queriendo muchísimo aunque no lo parezca, le alegrará el corazón verte.
+49|¡Hola, \PN! ¿Cómo te va la vida? ¿Al final te pusiste a estudiar? ¡Deberías buscar algo que te mantenga la mente activa!
+50|Alguien dijo una vez "el mundo es un lugar bonito el cual vale la pena explorar".
+51|Solo estoy de acuerdo con la segunda parte, pero es cierto que una gran aventura puede transformarte por completo.
+52|La ruta que conduce a <b>Ciudad Boreal</b> lleva tiempo intransitable debido a la presencia de Pokémon salvajes demasiado fuertes.
+53|Y claro, como aquí en el pueblo nadie sabe ni lanzar una triste Pokéball...
+54|<b>Pista para entrenadores:</b> Puedes cambiar el tamaño de la pantalla (y poner la pantalla completa) en el menú de opciones.
+55|Aunque es posible que te encuentres algún pequeño bug visual si aumentas el tamaño de la pantalla.
+56|¡Hola, \PN! ¿Cómo está tu padre de la espalda?
+57|Oye, ¿has oído las noticias? Parece que una banda de maleantes ha estado causando problemas por la zona, ¡ten cuidado si sales por ahí!
+58|Mi Sandshrew lleva conmigo toda mi vida, ¡y no ha evolucionado!
+59|Algunos dirán que como entrenador soy un incompetente, pero yo creo que he sabido darle una buena vida a mi Pokémon llena de comodidades, y por tanto no ha tenido la necesidad de hacerse más fuerte.
+60|¿Puedes esperar un poco, por favor? Estoy seguro de haber visto un pez enorme en este río.
+61|Casa de \PN
+62|<b>Walker, Pokeranger de Teselia</b>, la serie favorita de papá.
+63|<b>Papá:</b> A lo mejor quieres echarle un ojo a esa carta primero.
+64|Ha llegado hace un rato para ti, el remitente es un tal <b>Apolo</b>.
+65|El <b>Refugio Pokémon</b> se encuentra en la parte derecha del pueblo, es el único edificio con el tejado rojo.
+66|<b>Papá:</b> ¿Vas a ir a ver a tu amigo entonces? <b>Ciudad Solana</b> no está muy lejos, solo tienes que cruzar la <b>Ruta 1</b>.
+67|<b>Papá:</b> ¿Cómo te ha ido? ¿Qué quería decirte ese chico?
+68|...
+69|¿Una oferta de trabajo? ¿Convertirte en Aspirante?
+70|\sh¡POR FIN! ¡Por fin alguien va a triunfar en esta familia!
+71|Además lo de entrenar Pokémon lo llevas en la sangre, ¿sabes? A tu edad quedé tercero en un torneo amistoso del pueblo.
+72|<b>Papá:</b> Mira, he guardado una cosa todo este tiempo.
+73|<b>Papá:</b> Lo guardé por si algún día te daba por vivir tu propia aventura.
+74|No es gran cosa, pero te puede ser útil para empezar.
+75|(Recibes algunos objetos de entrenador)
+76|<b>Papá:</b> Échale un ojo al mapa para no perderte, que tu sentido de la orientación es nulo.
+77|En fin, ¡tira ya, no pierdas más el tiempo y ponte a conseguir medallas!
+78|<b>Papá:</b> También te daré tu antiguo <b>PokeGear</b> para que puedas mirar el mapa y llamarme.
+79|<b>Papá:</b> ¡Por fin alguien triunfará en esta familia!
+80|No pierdas más el tiempo y ponte a conseguir esas medallas de gimnasio.
+81|<b>Papá:</b> ¿Cómo estás, \PN? ¡Recuerda visitarme de vez en cuando!
+82|<b>Papá:</b> ¡A ver si nos cuentas algo de tu vida cuando tengas tiempo! La gente te habla como si hubieras salvado al mundo o algo por el estilo.
+83|No es el momento de perder el tiempo ahora, mejor luego.
+84|<b>Papá:</b> ¡Oye, pero abre la carta primero, pedazo de inútil!
+85|<b>Papá:</b> ¡Hombre, por fin te has levantado! Ayer también acabaste trasnochando más de la cuenta, ¿no?
+86|Esto de no tener trabajo te está sentando fatal, ¿quién me va a pagar la residencia a este paso?
+87|<b>Papá:</b> En la nevera tienes lo que sobró ayer de la cena.
+88|<b>Papá:</b> Pero a lo mejor quieres echarle un ojo a esa carta primero.
+89|<b>Papá:</b> ¡Buenos días, \PN! ¿Qué? ¿Con ganas de volver un poco a la normalidad y pasar un tiempo con nosotros?
+90|<b>Mamá:</b> ¡Qué bien que estemos juntos de nuevo! ¡Tenemos tantas cosas que hacer!
+91|<b>Papá:</b> ¡Eh! ¿Usted no es líder de gimnasio? ¿Cómo ha entrado en nuestra casa?
+92|<b>Dalio:</b> Soy uno de los hombres más ricos del mundo, tengo una llave maestra.
+93|<b>Mamá:</b> ¿Pero es que ya no se respeta la propiedad privada en esta región?
+94|<b>Dalio:</b> Eso dependerá de a quién vote usted en las siguientes elecciones. En fin, venía a entregarle algo a \PN.
+95|<b>Dalio:</b> ¡El desarrollo de nuestro nuevo <b>Mundo Pokémon</b> no frena, \PN!
+96|¿Conoces <b>Isla Calima</b>? ¡Pues acabo de inaugurar un complejo de instalaciones para poner a prueba a los más aguerridos entrenadores Pokémon!
+97|<b>Papá:</b> ¿Algo así como un <b>Frente Batalla</b>?
+98|<b>Dalio:</b> ¿<b>Frente Batalla</b>? ¡Ah, no, no! ¡Tampoco estoy hecho de oro! De momento hemos construido algo más sencillo.
+99|<b>Dalio:</b> Tú coge esto, \PN.
+100|<b>Dalio:</b> Enséñalo en el puerto de <b>Ciudad Austral</b>, ¿vale? ¡Ellos te llevarán a <b>Isla Calima</b> en un abrir y cerrar de ojos!
+101|<b>Papá:</b> Bueno, ¿salimos por ahí a dar un paseo los tres o...?
+102|\c[3]<b>Gala:</b>\c[0] ¡Hola! ¿Qué tal estáis?
+103|<b>Mamá:</b> ¡Ah, <b>Gala</b>! ¡Estamos genial! ¿Comes con nosotros hoy también?
+104|\c[3]<b>Gala:</b>\c[0] ¡No, muchas gracias! Solo venía a decirle una cosa a \PN.
+105|\c[3]<b>Gala:</b>\c[0] Mi padre ya ha vuelto a casa, en <b>Pueblo Aquilón</b>. ¡Estoy muy contenta!
+106|Si te pasas por ahí te lo presentaré, ¿vale? ¡Que tiene muchas ganas de conocerte!
+107|<b>Papá:</b> ¡Vaya, pues sí que te han surgido planes de repente!
+108|<b>Mamá:</b> O-oye, \PN, ¿vas a ponerte a estudiar algo algún día o...?
+109|<b>Papá:</b> Mira, ¿sabes qué? ¡Vete por ahí con tus aventuras!
+110|Así nos dejas a tu madre y a mí la casa libre.
+111|Has perdido el reto Nuzlocke, has fallado a todos los Pokémon que te han acompañado durante la aventura.
+112|Hasta <b>Ibai</b> te mira con desaprobación.
+113|Puedes seguir jugando de forma normal, pero recuerda que has fracasado.
+114|Aquí solo hay basura.
+115|Sobras de ayer... la vida es dura desde que mamá no está en casa.
+116|<b>Mamá:</b> El señor <b>Dalio</b> dijo que fueras al puerto de <b>Ciudad Austral</b>, ¿no?
+117|Y <b>Gala</b> dijo que fueras a su casa en <b>Pueblo Aquilón</b>.
+118|Dirígete cuanto antes al <b>Refugio Pokémon</b> de <b>Pueblo Brisa</b>, he dejado un regalo esperando para ti.
+119|Es posible que nos veamos pronto, si quieres un cambio de aires.\nFirmado: <b>Apolo</b>
+120|<b>Papá:</b> Hmm, <b>Apolo</b>...
+121|¡Espera! ¿No era aquel muchacho tan amigo tuyo cuando erais unos críos?
+122|¡Sí! El chaval era de muy buena familia, muy adinerada. Se mudaron a <b>Ciudad Austral</b> por motivos de trabajo.
+123|¿Cuántos años hace que no os veis? ¿Diez?
+124|<b>Papá:</b> ¡Date prisa! A ver qué te ha regalado, ¡tiene que ser algo de gran valor!
+125|¿Sorprendido, quizás?
+126|Es la consola que te prestó tu primo de <b>Kalos</b>... hace 5 años.
+127|Aquí solo hay basura.
+128|¿Has pasado por el <b>Refugio Pokémon</b> ultimamente?
+129|Creo que están reclutando a gente para buscar Pokémon abandonados por toda la región.
+130|Lo malo es que no pagan ni un duro, es un trabajo totalmente voluntario.
+131|¿Dices que <b>Apolo</b> se ha puesto en contacto contigo?
+132|Escuché que se había metido en política, parece que es el único joven del pueblo que ha logrado prosperar.
+133|Nosotros probablemente nos mudaremos a <b>Ciudad Solana</b> el año que viene, aquí nos queda poca cosa.
+134|Si te encuentras con alguien que cree en el <b>Gran Espíritu</b>, seguramente sea un nativo de <b>Céfira</b>.
+135|A veces se nos olvida que somos invitados relativamente recientes en esta tierra, y que ya existían otras culturas hace decenas de miles de años.
+136|Vi el otro día un documental muy interesante sobre un Pokémon que solo es capaz de manifestarse en los sueños de las personas, aunque se trata de una leyenda.
+137|Asombrosos lo distintos que son los Pokémon de nosotros, ¿no? Muchas veces me pregunto cuál fue su origen.
+138|Si tienes algún Pokémon, puedo sanarlo con la ayuda de mi Chansey.
+139|¿Necesitas que tus Pokémon se recuperen?
+140|Bien, déjamelo a mí.
+141|¡Listo! Vuelve siempre que lo necesites.
+142|<b>Ranger:</b> Tú debes de ser \PN, ¿no? <b>Apolo</b> nos ha hablado de ti.
+143|Se presentó esta mañana y traía con él a 3 Pokémon abandonados, nos dijo que conocía a la persona idónea para entrenar a uno de ellos.
+144|Puedes elegir al que quieras, pero si no estás seguro, este refugio ofrece un test de compatibilidad para averiguar qué Pokémon es adecuado para ti.
+145|Una vez lo completes te haremos una sugerencia, pero eres libre de seguirla o no.
+146|¿Quieres hacer el test de compatibilidad o vas a elegir al Pokémon directamente?
+147|<b>Científico:</b> Son 7 preguntas sencillas, ¿estás listo? Vamos allá.
+148|<b>Científico:</b> Son 7 preguntas sencillas, ¿estás lista? Vamos allá.
+149|<b>Pregunta 1:</b> Si alguien se está metiendo contigo, tu postura es...
+150|<b>Pregunta 2:</b> Para alcanzar tus metas, tu mayor aliado es...
+151|<b>Pregunta 3:</b> El lugar en el que más te gusta estar es...
+152|<b>Pregunta 4:</b> ¿Cuál de estos 3 deseos prefieres?
+153|<b>Pregunta 5:</b> Sientes predilección por...
+154|<b>Pregunta 6:</b> El principal problema de la sociedad actual es...
+155|<b>Pregunta 7:</b> ¿Qué es lo más importante para ti?
+156|<b>Científico:</b> Muy bien, hemos terminado.
+157|...
+158|Has sacado \v[52] puntos.
+159|Según nuestro algoritmo, nuestra sugerencia es que te decantes por \c[3]Snampery, el Pokémon de tipo Planta.
+160|Según nuestro algoritmo, nuestra sugerencia es que te decantes por \c[2]Flasinge, el Pokémon de tipo Fuego.
+161|Según nuestro algoritmo, nuestra sugerencia es que te decantes por \c[1]Swolphin, el Pokémon de tipo Agua.
+162|Pero solo es una sugerencia, la última decisión es tuya.
+163|<b>Ranger:</b> ¡Cúidalo bien, los Pokémon que tenemos aquí necesitan mucho afecto!
+164|¡Ah! <b>Apolo</b> nos dejó otro mensaje para ti.
+165|<b>Ranger:</b> Quiere que te reúnas con él en la Cafetería de <b>Ciudad Solana</b>.
+166|Dice que tiene una propuesta muy importante que hacerte, y que es necesario que os veáis en persona.
+167|Era tu mejor amigo cuando vivía por aquí, ¿verdad? Después de tantos años, ¡tiene que ser un reencuentro emotivo!
+168|<b>Ranger:</b> ¡Ay, no! ¡Parece que tu Pokémon se ha asustado!
+169|Todavía no acaba de confiar en los humanos, no se lo tengas demasiado en cuenta.
+170|Deberías ir tras él antes de que se pierda.
+171|<b>Ranger:</b> ¡Parece que tu Pokémon se ha asustado!
+172|No se lo tengas en cuenta, todavía no confía del todo en los humanos, pero estoy segura de que eso puede cambiar.
+173|<b>Ranger:</b> <b>Apolo</b> te espera en la cafetería de <b>Ciudad Solana</b>, ¿no?
+174|¡Deberías como mínimo hacerle saber que has recibido uno de los Pokémon!
+175|<b>Ranger:</b> ¿Qué tal va el Pokémon que adoptaste? ¿Es feliz contigo?
+176|Han venido otros 2 entrenadores a llevarse a los que no escogiste, ¡menuda suerte!
+177|¿Eliges a \c[3]Snampery\c[0], el Pokémon de tipo Planta?
+178|¿Eliges a \c[2]Flasinge\c[0], el Pokémon de tipo Fuego?
+179|¿Eliges a \c[1]Swolphin\c[0], el Pokémon de tipo Agua?
+180|Los Pokémon que han sido criados desde pequeños por humanos no logran adaptarse a la vida salvaje cuando los abandonan.
+181|Parece que el vínculo que se forma entre un humano y un Pokémon es más fuerte de lo que pensábamos.
+182|Una lista de la comida que Bidoof está dispuesto a aceptar...
+183|¡Parece que su dieta es muy simple! Le basta con Bayas Safre.
+184|Cualquier humano puede congeniar con cualquier Pokémon, ¡solo hay que tener la paciencia adecuada!
+185|¿Ese Bidoof? Nadie quiere quedarse con él.
+186|¡Pero no te preocupes! Se ha convertido en algo así como la mascota oficial del refugio.
+187|Según nuestras estadísticas, los Pokémon más propensos a ser abandonados son los de tipo Normal y los de tipo Bicho.
+188|Llevamos años peleando contra el gobierno por una ley que luche contra la discriminación que sufren estos 2 tipos elementales.
+189|No hemos encontrado a nadie que quiera adoptar a este pobre Sentret abandonado.
+190|¿Te gustaría tenerlo tú?
+191|¡Qué bien! Espero que sea muy feliz contigo.
+192|Pásate por aquí de vez en cuando, ¡hay muchos Pokémon abandonados necesitados de amor!
+193|No hemos encontrado a nadie que quiera adoptar a este pobre Patrat abandonado.
+194|¿Biiiid?
+195|(Parece hambriento)
+196|¿Quieres darle una Baya Safre?
+197|Le das la Baya Safre a Bidoof.
+198|<b>Bidoof:</b> ¿Biii?
+199|¡Bidoof pone una mueca extraña!
+200|¡El Bidoof te escupe la baya en la cara!
+201|Bidoof no volverá a confiar en ti nunca más.
+202|¿Qué te trae al Refugio Pokémon? Ultimamente estamos desbordados y necesitamos a más humanos que adopten compañeros Pokémon.
+203|"Por favor, dejad de abandonar a Pokémon con naturalezas desfavorables. Son igual de válidos que cualquier otro Pokémon. Gracias."
+204|Sí
+205|No
+206|Hacer el test
+207|Elegir Pokémon
+208|Enfrentarle directamente
+209|Ya se la devolveré otro día
+210|Ignorarlo
+211|Mi carisma
+212|Mi inteligencia
+213|Mi perseverancia
+214|Un viaje cultural
+215|Una expedición aventurera
+216|La comodidad de mi casa
+217|Paz en todo el mundo
+218|Ser millonario
+219|Tener super-fuerza
+220|El buen tiempo
+221|La noche
+222|Los días lluviosos
+223|El capitalismo
+224|Las religiones
+225|Las guerras
+226|Familia
+227|Pareja
+228|Amigos
+229|<b>Pista para entrenadores:</b> Tu partida se encuentra alojada en Mi equipo->Disco local- >Usuarios->Tu usuario->Juegos guardados
+230|<b>???:</b> Tranquilo...\nNadie te va a hacer daño, pequeño...
+231|No tengas miedo.
+232|<b>???:</b> ¿Eres tú el entrenador de este Pokemon?
+233|<b>???:</b> ¿Eres tú la entrenadora de este Pokemon?
+234|Se ha asustado con tantas caras nuevas, pero ya se ha calmado.
+235|¡Acércate, venga!
+236|¿Snaam...?
+237|¿Flaas...?
+238|¿Fiii...?
+239|<b>???:</b> ¡Eso es! ¡Que te coja confianza!
+240|<b>???:</b> ¿Ves? Solo necesitaba acostumbrarse un poco a tu presencia.
+241|Hacía tiempo que no veía a un Snampery, son muy raros.
+242|Hacía tiempo que no veía a un Flasinge, son muy raros.
+243|Hacía tiempo que no veía a un Swolphin, son muy raros.
+244|¡Pooch!
+245|<b>???:</b> Vaya, ¿te da miedo un inofensivo Poochyena?
+246|¡Pues ya sabes lo que toca, usa a tu nuevo Pokemon!
+247|<b>???:</b> Eso no ha estado nada mal.
+248|<b>???:</b> Ahora ya podemos presentarnos, soy el <b>Profesor Ébano</b>.
+249|No sé si me conoces... he trabajado en unos cuantos programas de televisión.
+250|¿"Mundo Indómito"? ¿"Cocina con Lickitung"? ¿"Mi primera pokecita"?
+251|¿No te suenan? ¡Bueno!
+252|Me gusta alentar a los jóvenes para que se conviertan en entrenadores Pokemon.
+253|\c[6]<b>Ébano:</b>\c[0] ¡Un noble arte que se está perdiendo! Desde aquel desafortunado atentado en la <b>Liga Pokémon</b>.
+254|En mis tiempos mozos nos tomábamos los combates Pokémon muy en serio, ¡vivíamos para ello!
+255|\c[6]<b>Ébano:</b>\c[0] Pero bueno, no quiero aburrirte con mis cuentos de abuelo.
+256|Mira, si de verdad te interesa entrenar Pokemon, te propongo algo.
+257|Me dirijo a <b>Ciudad Jaloque</b> para visitar a mi hija, que vive en las afueras.
+258|Está un poco lejos, más allá de <b>Ciudad Solana</b>.
+259|Pero si por algún casual te pasaras por ahí... no dudes en visitarme.
+260|Podría orientar tu futuro de muy buena manera.
+261|Los Pokémon oveja que criamos en este rancho, Wooloo, no destacan por ser capaces de causar un gran daño, ¡pero son bastante defensivos!
+262|Creo que es igual de importante atacar que saber protegerse, la clave es saber combinar ambos recursos.
+263|<b>Pista para entrenadores:</b> Los Pokémon que evolucionan por intercambio, aquí lo hacen por nivel o mediante piedras evolutivas.
+264|¿Sales del pueblo, \PN? Si vas a visitar <b>Ciudad Solana</b> deberías pasarte por la Escuela Pokémon.
+265|Aunque escuché que estaban a punto de cerrarla por falta de matriculaciones.
+266|Normal. Llámame loco, pero prefiero que mi hijo aprenda matemáticas básicas para que no le estafe Hacienda a que se aprenda la tabla de tipos.
+267|Los Pokémon salvajes te atacarán con más probabilidad si corres por la hierba alta.
+268|¡Si compraras Repelentes eso no sería un problema, claro!
+269|¿Estás entrenando Pokémon? ¡Guau! Eres muy valiente.
+270|Entonces esto te podría venir de fábula.
+271|Los objetos de combate te permiten aumentar la estadística de un Pokémon mientras está combatiendo.
+272|Si le das Velocidad X a un Pokémon, su velocidad aumentará notablemente.
+273|¡Espero que ganes muchos combates en el futuro!
+274|La gente suele intercambiar Pokémon en el interior de la cafetería, tal vez deberías pasarte de vez en cuando.
+275|\c[4]<b>Apolo:</b>\c[0] ¡\PN, has venido!
+276|¡Ostras, cómo has cambiado!
+277|¡Siéntate, te he guardado sitio!
+278|\c[4]<b>Apolo:</b>\c[0] Han pasado tantos años, \PN... ¡tenemos que ponernos al día!
+279|¡Seguro que tenemos muchas cosas que contarnos!
+280|<b>???:</b> He pedido tres batidos de fresa, los traen en seguida.
+281|¡Espero que tengáis hambre! Aquí los cargan mucho.
+282|\c[4]<b>Apolo:</b>\c[0] \PN, te presento a mi prometida, <b>Vera</b>.
+283|Tal vez te suene su cara, a veces sale en las noticias del Canal 3.
+284|\c[5]<b>Vera:</b>\c[0] ¡Bueno, estoy empezando! Me llaman para cubrir noticias locales de poca importancia.
+285|Aunque mi sueño es...
+286|Conseguir un reportaje impactante sobre las injusticias que viven día a día los nativos de <b>Céfira</b>, ¡el mundo entero debe conocer eso!
+287|\c[4]<b>Apolo:</b>\c[0] ¡En eso nunca nos pondremos de acuerdo! Yo creo que se les ha ayudado bastante.
+288|\c[5]<b>Vera:</b>\c[0] ¡<b>Apolo</b> me ha hablado mucho de ti, estaba deseando conocerte!
+289|\c[4]<b>Apolo:</b>\c[0] Hay que ponerse al día , \PN.
+290|Como ya sabes, me fui a <b>Ciudad Austral</b> para cursar mis estudios superiores.
+291|A mis padres les fue muy bien el negocio del ferrocarril y bueno, pude conocer a gente muy interesante.
+292|Terminé mis estudios con matrícula de honor y ahora mismo trabajo para el <b>Gobierno de Céfira</b>.
+293|¿Qué tal te ha ido a ti? ¡Seguro que has hecho cosas muy interesantes!
+294|\c[4]<b>Apolo:</b>\c[0] ¿Cómo? ¿No has salido del pueblo?
+295|¡Si siempre has soñado con entrenar Pokémon!
+296|\c[4]<b>Apolo:</b>\c[0] \PN y yo siempre soñábamos con convertirnos en Maestros Pokémon cuando éramos niños.
+297|¡Y creo que nunca es tarde para perseguir ese sueño!
+298|\c[4]<b>Apolo:</b>\c[0] En fin, vamos al lío. Me gustaría hacerte una propuesta, \PN.
+299|Ya sabes que la región de <b>Céfira</b> no atraviesa su mejor momento, llevamos un tiempo con escasez de ideas e innovación.
+300|¡Pues verás! Hemos decidido empezar un programa para reclutar a jóvenes talentos, ¡gente con ganas de aprender a desenvolverse con los Pokémon!
+301|\c[4]<b>Apolo:</b>\c[0] Aquí es donde entras tú, \PN. ¡Escucha atentamente!
+302|¿Qué opinas? ¿Intentarás conseguir las medallas de gimnasio para unirte a mi equipo de trabajo?
+303|¿Cómo? ¡Pero si en el pueblo no tienes nada que hacer! Piénsalo bien.
+304|¡Genial! Sabía que aceptarías.
+305|Pues te inscribiré en el desafío de los gimnasios de este año. Vas a convertirte oficialmente en Aspirante.
+306|¡Verás qué grandes aventuras te esperan!
+307|\c[5]<b>Vera:</b>\c[0] ¡Aún recuerdo cuando intenté hacer mi propio viaje como entrenadora Pokémon!
+308|No logré llegar hasta el final, pero los vínculos que formé con mis compañeros Pokémon me marcaron de por vida.
+309|\c[4]<b>Apolo:</b>\c[0] Al menos tú conseguiste vencer a unos cuantos líderes de gimnasio en tu región natal.
+310|¡Yo tengo la espinita clavada! Pero ahora tengo tanto trabajo que no puedo plantearme entrenar a mis Pokémon.
+311|\c[4]<b>Apolo:</b>\c[0] En fin, deberías avisar a tu padre si te vas, no seas cafre.
+312|¡Esto será el comienzo de algo grande! ¡Entre los tres cambiaremos el Mundo Pokémon a mejor, ya veréis!
+313|¿Entrenas Pokémon? ¡Qué emocionante!
+314|Yo vengo de <b>Céfira Oeste</b>, es un lugar lleno de entrenadores fuertes.
+315|Lo que pasa es que también abundan los entrenadores malvados, no es el lugar más seguro del mundo precisamente.
+316|<b>Apolo</b> te espera en la cafetería de la ciudad...
+317|Deberías volver con tu padre para avisarle de que te vas...
+318|\c[4]<b>Apolo:</b>\c[0] Deberías avisar a tu padre si te vas, no seas cafre.
+319|¡Entre los tres cambiaremos el Mundo Pokemon a mejor, ya veréis!
+320|Oye, ¿estás entrenando Pokémon? Entonces te vendrá bien saber algo.
+321|Esta región tiene 8 gimnasios con 8 líderes de gimnasio, que son entrenadores expertos especializados en un tipo de Pokémon.
+322|¡Si logras vencer a los 8 líderes de gimnasio serás una persona muy respetada! Aunque no tanto como antaño.
+323|<b>Ciudad Solana</b>, apacible y acogedora
+324|Escuela Pokemon
+325|No logré llegar hasta el final, pero los vínculos que formé con mis compañeros Pokémon me han marcado para el resto de mi vida.
+326|¿Sabes? El mundo está lleno de Pokémon de todo tipo, y no todos son tan bondadosos como estamos acostumbrados a ver.
+327|Puede que el ser humano sea cruel en ocasiones, pero estoy seguro de que las mayores catástrofes de la historia las han causado los Pokémon.
+328|¿La gran ciudad? Nunca la he querido, la tranquilidad y el contacto con la naturaleza son las claves para una vida plena y feliz.
+329|¿Que cuál es el secreto para no quemarse cuando montas en Ponyta? ¡La confianza, por supuesto!
+330|Si confías en tus Pokémon, ellos te devolverán toda esa confianza multiplicada por diez.
+331|Por lo general no tenemos demasiados problemas de criminalidad en esta ciudad, pero se ha producido un pequeño repunte en los últimos años.
+332|Está relacionado con la aparición de esos mamarrachos, el <b>Team Gatling</b>.
+333|En mis tiempos mozos, solo teníamos 150 Pokémon.
+334|Había algunos atrevidos que hablaban de 151 Pokémon, pero se los llevaban a la mina a picar piedra.
+335|...
+336|¿Estás buscando al señor Dutch? ¡Pues lo has encontrado!
+337|¡Aquí estoy!
+338|¡Ah! Fue un gran hombre, mi pésame a toda su familia.
+339|Fui su abogado, ¿sabes? Tuve que defenderle cuando intentaron robarle una patente de una máquina que permitía evolucionar a Eevee sin necesidad de piedras evolutivas.
+340|La máquina de todos modos fue prohibida por el Gobierno por considerarla maltrato Pokémon, ¡pero aún así no está bien que los demás se apropien de tus ideas!
+341|Hmm...
+342|Pronunció esa palabra una vez en mi presencia.
+343|El profesor se encontraba de los nervios tras el divorcio de su mujer. De repente miró unas flores y dijo eso, "Lilybud".
+344|Pareció tranquilizarse bastante después de eso.
+345|No quise preguntar mucho ni tampoco fue algo que se me quedara grabado en la memoria, el <b>Profesor Álamo</b> podía ser un poco extravagante en ocasiones.
+346|En fin, tengo que seguir echando miguitas de pan para los Pidove, ¡suerte con tu investigación!
+347|¡Tú también!
+348|No te centres en entrenar a un solo Pokémon, hazte con un equipo equilibrado que cubra todas tus debilidades.
+349|¡Escucha el consejo de esta anciana! Estos viejos ojos han visto a muchos entrenadores fracasar.
+350|Sí
+351|No
+352|Hábleme del Profesor Álamo
+353|Tenga un buen día
+354|¿Le suena "Lilybud"?
+355|Llevo un tiempo buscando un Mareep, pero con la suerte que tengo, siempre se me escapan.
+356|Si encuentras uno, ¿lo cambiarías por mi Machop?
+357|¡Bien, veo que tienes un Mareep! ¡Hagamos el intercambio!
+358|¡Has hecho un buen cambio, Machop es un gran Pokemon!
+359|Si tienes un Mareep, ponlo en el primer lugar de tu equipo para que pueda verlo bien.
+360|¡Vaya, menuda tacañería!
+361|Machop es un Pokémon muy fuerte, ¡espero que sea muy feliz a tu lado!
+362|Si un Pokémon utiliza un movimiento de su mismo tipo, recibe una bonificación de daño.
+363|Un Rayo Hielo de un Jynx es mucho más potente que un Rayo Hielo de un Vaporeon, aunque tengan similar Ataque Especial.
+364|No hay muchos alumnos ultimamente, cabemos todos en un aula.
+365|Yo quiero sacarme el curso porque mi familia es Cuidadora Pokémon y debo continuar con su legado.
+366|¿Te has fijado en que en la pantalla de estadísticas de tus Pokémon hay una que destaca en rojo y otra en azul?
+367|Son su estadística fuerte y su estadística débil, respectivamente.
+368|Estaba intentando arreglar la caldera de la escuela y me he encontrado con esa piedra, ¿qué clase de gamberro la habrá colocado ahí?
+369|Estudios diversos sobre el competitivo de Pokémon, pero los datos están desactualizados.
+370|Landorus y Talonflame lideran el metagame con un 90% de presencia en los equipos competitivos.
+371|Hay muchas maneras de aumentar la felicidad de un Pokémon: ganando combates con él, dándole vitaminas, caminando junto a él...
+372|La felicidad de tus Pokémon es fundamental, algunos incluso solo evolucionarán si son muy felices.
+373|Esta es la trigesimosexta vez que repito curso. Pero este año es mi año de suerte, lo presiento.
+374|Hay ciertos Pokémon que evolucionan dependiendo del momento del día.
+375|Por ejemplo, mi Pokémon favorito, Riolu, no puede evolucionar durante la noche.
+376|¿Qué tenemos aquí? ¡Alguien que quiere aprender!
+377|¿Te atreves con un pequeño examen para comprobar tus conocimientos básicos sobre los combates Pokémon?
+378|¡Bien! Primera pregunta: ¿contra qué es eficaz el tipo Bicho?
+379|¡Mal! ¡Hay que estudiar más, joven!
+380|¡Correctísimo!
+381|Segunda pregunta: ¿qué tres categorías de movimientos existen?
+382|Tercera pregunta: ¿qué efectos tienen las quemaduras en un Pokémon?
+383|¡Vaya! Veo que has estado estudiando mucho. Creo que mereces una pequeña recompensa por tu esfuerzo.
+384|Puedes quedarte con esto.
+385|¡Vaya! No pierdes nada por intentarlo.
+386|Los grandes entrenadores Pokémon se caracterizan por su disciplina y su ansia de conocimiento.
+387|Nunca dejes de aprender y de escuchar a los que ya han pasado por el lugar en el que te encuentras.
+388|Sí
+389|No
+390|¡Vamos allá!
+391|Mejor no
+392|Veneno, Siniestro, Agua
+393|Psíquico, Siniestro, Planta
+394|Veneno, Siniestro, Planta
+395|Físico, Especial y Estado
+396|Carisma, Belleza e Ingenio
+397|Alto, Medio y Bajo
+398|Producen daño y reducen la Defensa
+399|Producen daño y reducen el Ataque
+400|Solo producen daño
+401|Teníamos un gimnasio hace unos años, pero lo cerraron por falta de presupuesto.
+402|De hecho, yo llegué a trabajar en él durante un tiempo, ¡era el encargado de recibir a los Aspirantes!
+403|Aquí solo hay basura.
+404|¿Has visto las noticias? Por lo visto, han pillado a un líder de gimnasio potenciando a sus Pokémon con sustancias ilegales.
+405|¡Esto de las competiciones debería ser ilegal! Parece mentira a qué extremos forzamos a nuestros Pokémon por puro egoísmo.
+406|Ostras, tienes cara de buena gente, toma esto.
+407|En realidad sufro de cleptomanía y he robado esa Poción, tenía que deshacerme de ella como fuera.
+408|¡Trabaja duro y puede que algún día logres prosperar! Esa es la clave de una buena vida, al menos en mi opinión.
+409|Mira, con esta MT podrás probar mi teoría.
+410|¡Trabaja duro y puede que algún día logres prosperar! Esa es la clave de una buena vida.
+411|Aunque reconozco que hay personas que empiezan con más ventaja que otras.
+412|El día que capture a mi primer Pokémon, ¿crees que debería esperar a encontrar el adecuado? ¿O capturar al primero que me encuentre?
+413|Mis mejores amigos en el colegio son otros niños a los que conocí de repente, así que tal vez debería hacer lo mismo con los Pokémon.
+414|Parece que el gobierno va a volver a negociar con los nativos del oeste para apropiarse de unas tierras nuevas.
+415|¿Y no sería mejor dejarlos en paz? Ya les hemos quitado gran parte de sus hogares.
+416|<b>Céfira</b> se divide en dos regiones: <b>Céfira Este</b> y <b>Céfira Oeste</b>.
+417|En <b>Céfira Este</b> abundan las ciudades industriales y la vida es más próspera en general.
+418|En <b>Céfira Oeste</b> es donde viven la mayor parte de los clanes de los nativos, y es un lugar mucho más agreste y empobrecido.
+419|Me encantaría tener una de esas Pokédex, pero son trastos muy caros y difíciles de conseguir.
+420|Creo que ya no las fabrican salvo en algunas regiones como <b>Kanto</b>.
+421|A mi Pikachu le cayó un Wailord encima, espero que puedan hacer algo.
+422|Mucha gente pasa la noche aquí para permanecer al lado de sus Pokémon mientras se recuperan.
+423|Bienvenido al Centro Pokémon, hacemos milagros sanitarios. ¿Quieres curar a tu equipo?
+424|Esto llevará un rato.
+425|Misión cumplida, ¡vuelve cuando lo necesites!
+426|Estamos a tu servicio.
+427|¡Vaya! Todavía no tienen el último número de Pokeinteresante, mi revista favorita.
+428|Has perdido el reto Nuzlocke, has fallado a todos los Pokémon que te han acompañado durante la aventura.
+429|Hasta <b>Ibai</b> te mira con desaprobación.
+430|Puedes seguir jugando de forma normal, pero recuerda que has fracasado.
+431|¡Hola! ¿Qué necesitas?
+432|¿Quieres cambiar el mote de alguno de tus Pokémon?
+433|¿A qué Pokémon quieres cambiarle el mote?
+434|Vuelve a visitarme cuando quieras.
+435|¡Pero eso es solo un huevo!
+436|\bI wouldn't dare critique a Shadow Pokémon's name!
+437|\v[3]... es un mote bastante decente.
+438|Pero seguro que podemos encontrar uno mejor, ¿qué me dices?
+439|¿Qué nuevo mote le vas a poner?
+440|¡Hecho, el mote de tu Pokémon ahora es \v[3]!
+441|¡Hecho, el mote de este Pokémon ahora es \v[5]!
+442|¿Quieres que alguno de tus Pokémon recuerden un movimiento?
+443|En el <b>Modo Random</b> necesitas una <b>Escama Dorada</b> para poder recordar movimientos a tu Pokémon. La <b>Escama Dorada</b> se consumirá en el momento en el que accedas a este servicio.
+444|¿Quieres continuar de todos modos?
+445|No tienes una <b>Escama Dorada</b>. Derrota a líderes de gimnasio para conseguirlas.
+446|¿Qué Pokémon debería recordar un movimiento?
+447|Vale, ¡vuelve cuando lo necesites!
+448|Eso es un huevo, pedazo de inútil.
+449|\bNo way, I don't want to go near a Shadow Pokémon..
+450|Hmm... parece que no puedo enseñarle nada a tú \v[3].
+451|¿Qué debería recordar \v[3]?
+452|Bien, hecho está. Tu Pokémon ha recordado ese movimiento.
+453|Mi Larvitar se cayó de un andamio y no para de llorar.
+454|Se ha hecho pupitar.
+455|Sí
+456|No
+457|Cambiar mote
+458|Recordar movimiento
+459|Nada
+460|En la <b>Ruta 2</b> aparecen unos Meowth muy especiales que solo se ven en <b>Céfira</b>.
+461|¡Y lo más interesante es que ese Meowth tiene a su vez tres versiones dependiendo del clima en el que se ha criado!
+462|Estoy buscando un Cottonee. ¿lo cambiarías por mi Bulbasaur?
+463|¡Cúidalo muy bien!
+464|¡Vaya! Veo que no tienes uno.
+465|Si te haces con un Cottonee, ponlo en el primer lugar de tu equipo para que pueda verlo.
+466|Bueno, otra vez será.
+467|¡Me encanta intercambiar Pokémon en esta cafetería!
+468|Es agradable que se mantengan las viejas costumbres.
+469|¡Pilla asiento y relájate! Estamos a tu servicio.
+470|Estoy buscando un Elgyem, ¿lo cambiarías por mi Charmander?
+471|Si te haces con un Elgyem, ponlo en el primer lugar de tu equipo para que pueda verlo.
+472|Ya era hora de deshacerme de ese Charmander, es un Pokémon tremendamente sobrevalorado.
+473|Ahora mismo no hay mucho ambiente en la cafetería, pero normalmente hay entrenadores intercambiando Pokémon raros.
+474|¡Si hasta una vez vi un Charmander!
+475|Estoy buscando un Doublade, ¿lo cambiarías por mi Squirtle?
+476|Si te haces con un Doublade, ponlo en el primer lugar de tu equipo para que pueda verlo.
+477|¿Qué tal está Squirtle? ¡Espero que os hagáis grandes amigos!
+478|Los entrenadores que intercambian suelen ir a la planta de arriba.
+479|Si no hay nadie, prueba a volver en el futuro.
+480|Sí
+481|No
+482|¡Eh, tú! ¿Entrenas Pokémon?
+483|¡No te atrevas a mentirle a la autoridad!
+484|Quiero hacerte saber cómo funciona el Repartir Experiencia.
+485|Ahora podrás elegir desde el menú de tu equipo qué Pokémon reciben experiencia aunque no participen en combate.
+486|La experiencia recibida será proporcional al número de Pokémon que tengan Repartir Experiencia activado.
+487|¡Sé eficiente y utilízalo bien! ¡No desperdicies ni un gramo de experiencia!
+488|Este mensaje se autodestruirá en este mismo instante.
+489|<b>Sheriff:</b> ¡Maldita sea! ¡Se han metido dentro del túnel!
+490|<b>Sheriff:</b> Ten cuidado, joven. Esos dos forajidos acaban de asaltar una casa, ¡son muy peligrosos!
+491|Me parece haber visto algo valioso al otro lado del río, pero sin un Pokémon que use Surf no podré cruzarlo.
+492|También tiene narices lo poco extendida que está la natación en el Mundo Pokémon.
+493|<b>Pista para entrenadores:</b> Si tu Pokémon está 5 niveles por encima del nivel máximo del siguiente líder de gimnasio, dejará de ganar experiencia.
+494|Por tanto no es recomendable que te centres en entrenar solo a un Pokémon.
+495|<b>Pista para entrenadores:</b> En este juego, los Pokémon "inútiles" (Butterfree, Sunflora, Corsola, etc) han sido rebalanceados.
+496|¡Que nada te impida utilizar a tus Pokémon favoritos!
+497|¿Los Magikarps? No te preocupes por ellos, pueden aguantar fuera del agua durante horas sin sufrir daño.
+498|Los devolveremos al río cuando terminemos la sesión de pesca.
+499|He venido de excursión a esta zona para ver Pokémon nuevos, ¿quieres ver lo que he atrapado?
